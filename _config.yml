@@ -90,9 +90,12 @@ paginate: 10
 
 kramdown:
   syntax_highlighter: rouge
+  
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
+   # parse_block_html: true
     css_class: highlight
-    # default_lang: console
+   # remove_span_html_tags: true
+    #default_lang: html
     span:
       line_numbers: false
     block:

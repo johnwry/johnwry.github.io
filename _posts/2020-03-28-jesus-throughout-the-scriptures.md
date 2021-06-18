@@ -15,28 +15,20 @@ The Holy Scriptures, the Bible is a compilation of 66 books written over a perio
 
 Jesus says He was written about by Moses, in the Pentateuch. Galatians 3:24 states the Law was a tutor to lead us to Christ. 
 
-```    He is the image of the invisible God,
-the firstborn over all creation.
-For everything was created **by Him,**
-in heaven and on earth,
-the visible and the invisible,
-whether thrones or dominions
-or rulers or authorities—
-all things have been created `through` ==Him== and __for Him__.
-He is before all things,
-and by Him all things hold together. Colossians 1:15-17 HCSB```
+
+>He is the image of the invisible God,the firstborn over all creation. For everything was created **by Him,** in heaven and on earth, the visible and the invisible, whether thrones or dominions or rulers or authorities— all things have been created through Him and *for Him*. He is before all things, and by Him all things hold together. -- Colossians 1:15-17 HCSB
 
 What did Jesus say about Himself in the Scriptures? 
 
-​```    "Do not think that I came to abolish the Law or the Prophets; I did not come to abolish **but to fulfill.** For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished. Matthew 5:17-18```
+>Do not think that I came to abolish the Law or the Prophets; I did not come to abolish **but to fulfill.** For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished. Matthew 5:17-18
 
-​```    You search the Scriptures, because you think that in them you have eternal life; and it is **these that bear witness of me** . . . For if you believed Moses, you would believe me; **for he wrote of me**. John 5:39, 46```
+>You search the Scriptures, because you think that in them you have eternal life; and it is **these that bear witness of me** . . . For if you believed Moses, you would believe me; **for he wrote of me**. John 5:39, 46
 
-​```    And He answered and said to them, "Go and report to John what you have seen and heard: *the* BLIND RECEIVE SIGHT, *the* lame walk, *the* lepers are cleansed, and _the_ deaf hear, *the* dead are raised up, *the* POOR HAVE THE GOSPEL PREACHED TO THEM. Luke 7:22```
+>And He answered and said to them, "Go and report to John what you have seen and heard: *the* BLIND RECEIVE SIGHT, *the* lame walk, *the* lepers are cleansed, and _the_ deaf hear, *the* dead are raised up, *the* POOR HAVE THE GOSPEL PREACHED TO THEM. Luke 7:22
 
 This verse clearly shows that He is the One who came to fulfill  Scripture. There are hundreds of prophesies about Christ, most have been fulfilled. They have always been fulfilled literally. Therefore it is to presume that future prophesies will also be fulfilled literally to fulfill what the Scriptures say. 
 
-​```    Now He said to them, "These are My words which I spoke to you while I was still with you, **that all things which are written about Me in the Law of Moses and the Prophets and the Psalms must be fulfilled.**" Then He opened their minds to understand the Scriptures, Luke 24:44-45```
+>Now He said to them, "These are My words which I spoke to you while I was still with you, **that all things which are written about Me in the Law of Moses and the Prophets and the Psalms must be fulfilled.**" Then He opened their minds to understand the Scriptures, Luke 24:44-45
 
 ## The Prophets
 
@@ -78,71 +70,137 @@ Below I will post a list a guy by the name of Philip Nation shared (many thanks 
 
 ## Christ in the Bible
 **Genesis** – Creator & promised Redeemer
+
 **Exodus** – the Passover Lamb
+
 **Leviticus** – High Priest
+
 **Numbers** – water in the desert
+
 **Deuteronomy** – He becomes the curse for us
+
 **Joshua** – Commander of the army of the Lord
+
 **Judges** – delivers us from injustice
+
 **Ruth** – our Kinsman-Redeemer
+
 **1 Samuel** – all in one, He is the Prophet/Priest/King
+
 **2 Samuel** – King of grace & love
+
 **1 Kings** – a Ruler greater than Solomon
+
 **2 Kings** – the powerful prophet
+
 **1 Chronicles** – Son of David that is coming to rule
+
 **2 Chronicles** – the King who reigns eternally
+
 **Ezra** – Priest proclaiming freedom
+
 **Nehemiah** – the One who restores what is broken down
+
 **Esther** – Protector of his people
+
 **Job** – Mediator between God and man
+
 **Psalms** – our song in the morning and in the night
+
 **Proverbs** – our wisdom
+
 **Ecclesiastes** – our meaning for life
+
 **Song of Solomon** – Author of faithful love
+
 **Isaiah** – Suffering Servant
+
 **Jeremiah** – the weeping Messiah
+
 **Lamentations** – He assumes God’s wrath for us
+
 **Ezekiel** – Son of Man
+
 **Daniel** – the stranger in the fire with us
+
 **Hosea** – faithful husband even when we run away
+
 **Joel** – He is sending His Spirit to His people
+
 **Amos** – delivers justice to the oppressed
+
 **Obadiah** – Judge of those who do evil
+
 **Jonah** – the greatest missionary
+
 **Micah** – He casts our sin into the sea of forgetfulness
+
 **Nahum** – proclaims future world peace we cannot even imagine
+
 **Habakkuk** – crushes injustice
+
 **Zephaniah** – the Warrior who saves
+
 **Haggai** – restores our worship
+
 **Zechariah** – prophesies a Messiah pierced for us
+
 **Malachi** – sun of righteousness who brings healing
+
 **Matthew** – the Messiah who is King
+
 **Mark** – the Messiah who is a Servant
+
 **Luke** – the Messiah who is a Deliverer
+
 **John** – the Messiah who is a God in the flesh
+
 **Acts** – the Spirit who dwells in His people
+
 **Romans** – the righteousness of God
+
 **1 Corinthians** – the power and love of God
+
 **2 Corinthians** – He is the down payment of what’s to come
+
 **Galatians** – He is our very life
+
 **Ephesians** – the unity of our church
+
 **Philippians** – the joy of our life
+
 **Colossians** – holds the supreme position in all things
+
 **1 Thessalonians** – our comfort in the last days
+
 **2 Thessalonians** – our returning King
+
 **1 Timothy** – Savior of the worst sinners
+
 **2 Timothy** – leader of the leaders
+
 **Titus** – foundation of truth
+
 **Philemon** – our Mediator
+
 **Hebrews** – our High Priest
+
 **James** – He matures our faith
+
 **1 Peter** – our hope in times of suffering
+
 **2 Peter** – the One who guards us from false teaching
+
 **1 John** – source of all fellowship
+
 **2 John** – God in the flesh
+
 **3 John** – source of all truth
+
 **Jude** – protects us from stumbling
+
 **Revelation** – King of Kings and Lord of Lords,
+
 The Alpha and the Omega,
 The Beginning and the End, and
 He is coming again and the One who makes all things new. 
@@ -151,7 +209,7 @@ He is coming again and the One who makes all things new.
 
 I doubt it could be stressed enough though, the Scriptures are all about Christ from beginning to end. The Scriptures are the means to know Christ by the teaching of the Holy Spirit. 
 
-​```    Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself **in all the Scriptures.** Luke 24:27```
+>Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself **in all the Scriptures.** Luke 24:27
 
 
 
