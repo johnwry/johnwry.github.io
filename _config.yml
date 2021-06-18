@@ -76,7 +76,7 @@ img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://johnwry.github.io/assets/images/john-prof.jpg
-
+ 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
