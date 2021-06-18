@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 ## A bit about me
-
+- not much here
 ## Projects I've been Personally a Part of Somehow
 - Taller MotoCar
 - Taller de Chaperia JK
@@ -19,5 +19,5 @@ order: 4
 - [Translation into Spanish and Recording of DVD of The Stranger on the Road to Emmaus](http://www.goodseed.com)
 
 ## Currently Involved
-- [Red Biblica](http://www.redbiblica.org)
 - [DM2](http://www.dm2usa.org)
+- [Red Biblica](http://www.redbiblica.org)
