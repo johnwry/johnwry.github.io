@@ -21,4 +21,4 @@ Let's take a look at what the verse actually says:
 
 So, this has been a great lesson for me! Just because I've always heard something does not make it true. This is especially important regarding Bible facts.
 
-What is true is that Christ is the Lion of Judah and the Lamb that was slain. Both terms are used of Christ in Revelation. 
+What is true is that Christ is the Lion of Judah and the Lamb that was slain. Both terms are used of Christ in Revelation and elsewhere in Scripture. 
