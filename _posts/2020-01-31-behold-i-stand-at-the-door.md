@@ -1,9 +1,11 @@
 ---
-title: "Behold I stand at the door and knock" - Revelation 3:20
+title: Behold I Stand at the Door and Knock
 layout: post
-category: bible
-tags: ask jesus in your heart, stand at the door, is jesus asking you to ask him in
+category: post
+tags: ask jesus in your heart, how to be saved, false gospels
 ---
+
+
 
 ## "Behold I Stand at the Door and Knock" Revelation 3:20
 
