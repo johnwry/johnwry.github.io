@@ -8,7 +8,6 @@ tags: ask jesus in your heart, stand at the door, is jesus asking you to ask him
 ## "Behold I Stand at the Door and Knock" Revelation 3:20
 
 > 'Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.
->
 > Revelation 3:20
 
 This is a verse that has been misinterpreted to mean that Jesus wants you to come into your heart, so He's knocking on the door of your heart. It is connected with a popular confusing Gospel of 'asking Jesus into your heart'. 
