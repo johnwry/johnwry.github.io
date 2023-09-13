@@ -1,4 +1,4 @@
-baseURL = 'http://johnwry.github.io/'
+baseURL = 'http://johnwry.github.io/page/'
 languageCode = 'en-us'
 title = 'BJWry'
 enableRobotsTXT = true
