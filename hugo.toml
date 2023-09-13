@@ -1,0 +1,42 @@
+baseURL = 'http://johnwry.github.io/'
+languageCode = 'en-us'
+title = 'BJWry'
+enableRobotsTXT = true
+# this example loads the theme as hugo module
+# comment out line below, and uncomment the line after it if you prefer to load the theme normally
+# theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
+theme = "compose"
+enableGitInfo = true
+PublishDir = "docs"
+
+# disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "RSS","JSON"]
+
+
+#  menu items
+[[main]]
+  name = "Blog"
+  weight = 5
+  url = "blog/"
+
+[[main]]
+  name = "Docs"
+  weight = 2
+  url = "docs/"
+
+[[main]]
+  name = "Tutorials"
+  weight = 2
+  url = "tutorials/"
+
+[[main]]
+  name = "Example"
+  weight = 3
+  url = "https://docs.neuralvibes.com"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
