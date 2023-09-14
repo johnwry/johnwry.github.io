@@ -6,5 +6,23 @@
     <description>Recent content on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://johnwry.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudios</title>
+      <link>http://johnwry.github.io/page/estudios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnwry.github.io/page/estudios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studies</title>
+      <link>http://johnwry.github.io/page/studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnwry.github.io/page/studies/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

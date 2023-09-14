@@ -1,42 +1,92 @@
-baseURL = 'http://johnwry.github.io/page/'
-languageCode = 'en-us'
-title = 'BJWry'
-enableRobotsTXT = true
-# this example loads the theme as hugo module
-# comment out line below, and uncomment the line after it if you prefer to load the theme normally
-# theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
-theme = "compose"
-enableGitInfo = true
-PublishDir = "docs"
+#
+# Standard configuration
+#
+baseURL                = "https://johnwry.github.io/page/"
+copyright              = "The MIT License (MIT) Copyright © 2020 BJWry"
+defaultContentLanguage = "en"
+enableEmoji            = false
+# enableGitInfo          = true
+metaDataFormat         = "yaml"
+publishDir             = "docs"
+title                  = "BJWry"
+theme                  = "shadocs"
+# themesdir              = "../page/themes"
 
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+[Author]
+  name = "BJWry"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.112.0'
+    max = ''
+  [[module.mounts]]
+    source = 'asyncapi'
+    target = 'static/asyncapi'
+  [[module.mounts]]
+    source = 'openapi'
+    target = 'static/openapi'
+
+#[taxonomies]
+#  category = "categories"
+#  tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS","JSON"]
+  home = ["HTML", "JSON", "RSS"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.tableOfContents]
+    ordered    = false
+    startLevel = 1
+    endLevel   = 6
+  [markup.goldmark.renderer]
+    unsafe = false
 
 
-#  menu items
-[[main]]
-  name = "Blog"
-  weight = 5
-  url = "blog/"
 
-[[main]]
-  name = "Docs"
-  weight = 2
-  url = "docs/"
-
-[[main]]
-  name = "Tutorials"
-  weight = 2
-  url = "tutorials/"
-
-[[main]]
-  name = "Example"
-  weight = 3
-  url = "https://docs.neuralvibes.com"
-
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
+#
+# Specific configuration
+#
+[params]
+  logo                    = "images/logo.png"
+  logoTouch               = "images/logoTouch.png"
+  image404                = "images/404.gif"
+  favicon                 = "images/favicon.png"
+  faviconmd               = "![Favicon](/images/favicon.png)"
+  homeLayout              = "onboarding"
+  siteContentOrder        = "weight"
+  # toc                   = true
+  # globalBanner          = true
+  currentVersion          = "latest"
+  latestVersionUrl        = "https://shadocs.netlify.app/"
+  # enforceRefrelLinks    = true
+  [params.navbar.shortcuts]
+    [params.navbar.shortcuts.example]
+      keys     = ["Shift","1"]
+      function = "scExample"
+  [[params.navbar.versions]]
+    name = 'latest'
+    url  = 'https://shadocs.netlify.app/'
+  [[params.navbar.versions]]
+    name = 'deprecated version'
+    url  = 'https://shadocs.netlify.app/404.html'
+  [params.taxonomies]
+    [params.taxonomies.categories]
+      icon = "fa-solid fa-table-cells"
+    [params.taxonomies.tags]
+      icon = "fa-solid fa-tag"
+  #[params.includes]
+  #  jsModules = [
+  #      "js/shortcuts.js"
+  #    ]
+  #  js        = []
+  #  css       = [
+  #      "css/shortcuts.css"
+  #    ]
+  #  sass      = [
+  #      "sass/custom/example.sass"
+  #  ]
+  [params.versions]
+    hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
+    bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"
