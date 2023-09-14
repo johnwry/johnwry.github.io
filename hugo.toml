@@ -56,10 +56,11 @@ theme                  = "shadocs"
   faviconmd               = "![Favicon](/images/favicon.png)"
   homeLayout              = "onboarding"
   siteContentOrder        = "weight"
-  # toc                   = true
+  toc                   = true
   # globalBanner          = true
   currentVersion          = "latest"
   latestVersionUrl        = "https://shadocs.netlify.app/"
+  custom_css = ["/css/custom.css"]
   # enforceRefrelLinks    = true
   [params.navbar.shortcuts]
     [params.navbar.shortcuts.example]
