@@ -1,0 +1,1825 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content="Hugo 0.117.0">
+<meta name="viewport" content="width=device-width, initial-scale=1" /><title>El Evangelio | BJWry</title>
+
+<link
+  rel="icon"
+  href="/page/images/favicon.png"
+  type="image/x-icon"
+/>
+<link
+    rel="stylesheet"
+    rel="preload"
+    type="text/css"
+    href="/page/css/main.css"
+  /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/page/css/external/fontawesome.all.min.css"
+    /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/page/css/external/overlay-scrollbars/overlayscrollbars.min.css"
+    />
+</head>
+  <body onload="browserCompatibility()"><div id="navbarInfo" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box">
+    <div class="card modal-title is-radiusless">
+      <div class="card-header">
+        <p class="card-header-title is-marginless">About</p>
+      </div>
+    </div>
+    <div class="modal-content-container">
+      <div class="modal-content-block is-block">
+</div>
+    </div>
+  </div>
+</div>
+<div id="navbarShortcuts" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
+        <div class="card-header">
+          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+        </div>
+      </div>
+      <div class="modal-content-container">
+        <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show current page QR code</p>
+  </div><div class="modal-content"><kbd>Escape</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Close modals</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show website information</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show shortcuts</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to homepage</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Find on website</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the top of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Print current page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>1</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">example</p>
+  </div></div>
+      </div></div>
+</div>
+<div id="modalContainer" class="is-hidden modal-container">
+  <div id="modal" class="modal-content-box"></div>
+</div>
+<nav id="navbar" class="navbar" role="navigation" aria-label="main navigation">
+  <div id="navbarItemsContainer" class="navbar-brand"><div id="globalLogoContainer" class="is-flex">
+  <a
+    id="globalLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/page/"
+  >
+    <img
+      alt="Homepage"
+      src="/page/images/logo.png"
+    />
+  </a>
+  <a
+    id="globalTouchLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/page/"
+  >
+    <img
+      alt="Homepage"
+      src="/page/images/logoTouch.png"
+    />
+  </a>
+</div>
+<div id="navbarItems" class="is-flex">
+      <div id="navbarItemsStart" class="is-flex">
+        <div id="searchContainer" class="navbar-item"><div class="control has-icons-left">
+  <span id="searchInput" class="autocomplete">
+    <input
+      id="search"
+      autocomplete="off"
+      class="input"
+      type="search"
+      placeholder="Search"
+    />
+  </span>
+  <span class="icon is-left">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </span>
+  <ul id="searchList" class="is-paddingless is-hidden"></ul>
+</div>
+</div>
+      </div>
+      <div id="navbarItemsEnd" class="is-flex is-invisible"><div class="navbar-item">
+  <a
+    id="printButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfo"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomies"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/page/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/page/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versions"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfo"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div id="navbarExtend" class="navbar-item">
+  <div id="navbarExtendWrapper">
+    <a id="navbarExtendButton" class="button navbar-item-standard">
+      <span class="icon">
+        <i class="fa-solid fa-ellipsis fa-lg"></i>
+      </span>
+    </a>
+    <div id="navbarExtendItemsContainer">
+      <div id="navbarExtendItemsWrapper"><div class="navbar-item">
+  <a
+    id="printButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfoExtend"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomiesExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/page/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/page/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versionsExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfoExtend"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+  </div>
+</nav>
+<div id="navbarOverlay"></div>
+<div
+      class="columns is-mobile is-paddingless is-marginless"
+      id="mainContainer"
+    ><div
+  id="sidebarContainer"
+  class="column is-narrow is-paddingless is-marginless"
+>
+  <div id="sidebarWrapper" class="is-fixed">
+    <div id="sidebar" class="is-marginless">
+      <aside class="menu is-paddingless is-marginless">
+        <ul class="menu-list is-marginless is-paddingless"><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/posts/'>
+        <i class='fa-solid fa-bullhorn fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/posts/'>
+        <i class='fa-solid fa-bullhorn fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Banner'>Banner</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/posts/test/'
+        class='card-header-title'
+          title='test'>
+        <i class='fa-solid fa-bullhorn'></i><p class="pt-0 pb-0 pr-2 pl-0">test</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/posts/demo/'
+        class='card-header-title'
+          title='Demo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Demo</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon is-sidebar-active"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-tree-active is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Estudios'>Estudios</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless is-tree-active"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/libros/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='libros'>libros</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/filemon/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/2-pedro/'
+        class='card-header-title'
+          title='2 Pedro'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/ga%CC%81latas-517-21/'
+        class='card-header-title'
+          title='Gálatas 5:17-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Gálatas 5:17-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/habacuc/'
+        class='card-header-title'
+          title='Habacuc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/habacuc2.4/'
+        class='card-header-title'
+          title='Habacuc 2.4'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc 2.4</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/jueces/'
+        class='card-header-title'
+          title='Jueces'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jueces</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/santiago/'
+        class='card-header-title'
+          title='Santiago'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/topico/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topicos'>Topicos</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/5-principios/'
+        class='card-header-title'
+          title='5 Principios para desenmascarar una cosmovisión no-biblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">5 Principios para desenmascarar una cosmovisión no-biblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/adoracio%CC%81n-bi%CC%81blica/'
+        class='card-header-title'
+          title='Adoración Bíblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Adoración Bíblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/confesion-de-pecado/'
+        class='card-header-title'
+          title='Confesión de Pecados'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confesión de Pecados</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card is-sidebar-active"id='sidebarActiveEntry'><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/el_evangelio/'
+        class='card-header-title'
+          title='El Evangelio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Evangelio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/el-mismo...nuestra-suficiencia/'
+        class='card-header-title'
+          title='El Mismo...nuestra suficiencia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Mismo...nuestra suficiencia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/enemigos-de-observacion/'
+        class='card-header-title'
+          title='Enemigos de la Observación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Enemigos de la Observación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
+        class='card-header-title'
+          title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Estableciendo el decreto que inicia las 70 semanas de Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/topico/familia/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='familia'>familia</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/familia/funeral/'
+        class='card-header-title'
+          title='If life ended here'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">If life ended here</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/familia/funeral_es/'
+        class='card-header-title'
+          title='Si esto fuera el fin'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Si esto fuera el fin</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/galatas-1.6-10/'
+        class='card-header-title'
+          title='Galatas 1.6-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatas 1.6-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/lecciones/habacuc/'
+        class='card-header-title'
+          title='Habacuc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/calvinismo-una-cosmovision-idolatra/'
+        class='card-header-title'
+          title='Identificando la Cosmovisión del Calvinismo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Identificando la Cosmovisión del Calvinismo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/jovenes/'
+        class='card-header-title'
+          title='Jóvenes en la Biblia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jóvenes en la Biblia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/juan2.23-24/'
+        class='card-header-title'
+          title='Juan 2:23-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 2:23-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/juan-541/'
+        class='card-header-title'
+          title='Juan 5:41'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 5:41</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/la-iglesia/'
+        class='card-header-title'
+          title='La Iglesia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Iglesia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/la-ley/'
+        class='card-header-title'
+          title='La Ley y La Gracia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Ley y La Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/simiente-mujer-mesias/'
+        class='card-header-title'
+          title='La Simiente de la mujer'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Simiente de la mujer</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/los-sufrimientos-de-cristo/'
+        class='card-header-title'
+          title='Los Sufrimientos de Cristo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Los Sufrimientos de Cristo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/matrimonio/'
+        class='card-header-title'
+          title='Matrimonio es Idea de Dios'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Matrimonio es Idea de Dios</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/lecciones/zacarias/'
+        class='card-header-title'
+          title='Zacarias'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zacarias</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Studies'>Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/books/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Book Studies'>Book Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/1-john/'
+        class='card-header-title'
+          title='1 John'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 John</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/1-peter/'
+        class='card-header-title'
+          title='1 Peter'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Peter</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/2-timothy/'
+        class='card-header-title'
+          title='2 Timothy'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Timothy</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/books/archives/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Archives'>Archives</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-old/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-orig/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-orig.md/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_notes/'
+        class='card-header-title'
+          title='Zechariah notes'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_notes2/'
+        class='card-header-title'
+          title='Zechariah notes'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_old/'
+        class='card-header-title'
+          title='Zechariah notes old'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes old</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/galatians/'
+        class='card-header-title'
+          title='Galatians'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/gal-3.21-29/'
+        class='card-header-title'
+          title='Galatians 3:21-29'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 3:21-29</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/habakkuk/'
+        class='card-header-title'
+          title='Habakuk'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habakuk</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/hebrews-31-6/'
+        class='card-header-title'
+          title='Hebrews 3:1-6'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebrews 3:1-6</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/romans-9-16/'
+        class='card-header-title'
+          title='Romans 9-11'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 9-11</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/zechariah/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/zephaniah/'
+        class='card-header-title'
+          title='Zephaniah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zephaniah</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/discipleship-need/'
+        class='card-header-title'
+          title='Discipleship -&gt; importance'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Discipleship -&gt; importance</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/ot-books/'
+        class='card-header-title'
+          title='OT Books'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">OT Books</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topical Studies'>Topical Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/2015-03-24-predestination/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/armageddon/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/the-church/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/angels/'
+        class='card-header-title'
+          title='Angels'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Angels</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/armageddon-zech6/'
+        class='card-header-title'
+          title='Armageddon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Armageddon</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/biblical_covenants/'
+        class='card-header-title'
+          title='Biblical Covenants'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Biblical Covenants</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/confession-of-sins/'
+        class='card-header-title'
+          title='Confession of Sins'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confession of Sins</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2021-07-27-daniel.6.18-28/'
+        class='card-header-title'
+          title='Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-08-daniel-31-12/'
+        class='card-header-title'
+          title='Daniel 3:1-12'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel 3:1-12</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/dealing_with_pain/'
+        class='card-header-title'
+          title='Dealing with Pain'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Dealing with Pain</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/galatians-111-24/'
+        class='card-header-title'
+          title='Galatians 1:11-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 1:11-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/homiletics/'
+        class='card-header-title'
+          title='Homiletics'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Homiletics</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/'
+        class='card-header-title'
+          title='install Jekyll on MacOS Big Sur'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">install Jekyll on MacOS Big Sur</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/israel-egypt/'
+        class='card-header-title'
+          title='Israel in Egypt'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Israel in Egypt</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/jesus-mismo-nuestra-propiciacio%CC%81n/'
+        class='card-header-title'
+          title='Jesus mismo-nuestra propiciación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jesus mismo-nuestra propiciación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-11.1-23/'
+        class='card-header-title'
+          title='John 11:1-23'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:1-23</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-11.35-48/'
+        class='card-header-title'
+          title='John 11:35-48'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:35-48</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-13.21-38/'
+        class='card-header-title'
+          title='John 13:21-38'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 13:21-38</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-831-44/'
+        class='card-header-title'
+          title='John 8:31-44'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 8:31-44</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/marriage/'
+        class='card-header-title'
+          title='Marriage'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Marriage</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/juda-kings-mothers/'
+        class='card-header-title'
+          title='Mothers of King of Judah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Mothers of King of Judah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2015-02-15-obedience-of-faith/'
+        class='card-header-title'
+          title='Obedience of faith'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Obedience of faith</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/phil-21-2-phrased/'
+        class='card-header-title'
+          title='Phil 2:1-2 phrased'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Phil 2:1-2 phrased</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-08-repentance/'
+        class='card-header-title'
+          title='Repentance According to the Bible'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Repentance According to the Bible</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/romans-109-10/'
+        class='card-header-title'
+          title='Romans 10:9-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 10:9-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/the-blood-of-jesus/'
+        class='card-header-title'
+          title='The blood of Jesus'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The blood of Jesus</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/'
+        class='card-header-title'
+          title='The Warning to Timothy of False Teachers'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The Warning to Timothy of False Teachers</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2021-07-21-two-instructors/'
+        class='card-header-title'
+          title='Two Instructors'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Two Instructors</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/i-am-acused-of-teaching-easy-believism/'
+        class='card-header-title'
+          title='You are Teaching &#39;Easy Believism&#39;'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">You are Teaching &#39;Easy Believism&#39;</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul>
+      </aside>
+    </div>
+    <div id="sidebarCollapsible" class="is-marginless">
+      <div class="card is-uncollapse-action">
+        <div
+          id="sidebarUncollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-right fa-lg"></i>
+          </a>
+        </div>
+      </div>
+      <div class="card is-collapse-action">
+        <div
+          id="sidebarCollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-left fa-lg"></i>
+            <p>Collapse sidebar</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="sidebarMobileWrapper" class="column is-narrow is-hidden-desktop"></div>
+<div class="columns is-mobile is-marginless is-scroll-smooth has-toc" id="contentContainer">
+  <div class="column" id="content"><div id="contentTitle">El Evangelio</div>
+<h1 id='el-evangelio'>El Evangelio<a href='#el-evangelio' class='anchor'>#</a>
+</h1><h3 id='tus-preguntas-son-importantes-has-hechos-alguna-vez-porque-estamos-aquí'>Tus preguntas son importantes. Has hechos alguna vez? Porque estamos aquí?<a href='#tus-preguntas-son-importantes-has-hechos-alguna-vez-porque-estamos-aqu%c3%ad' class='anchor'>#</a>
+</h3><h4 id='cosmovision-es-un-sistema-de-ver-el-mundo--es-como-una-buena-historia-toda-historia-tiene-un-comienzo-como-empieza-la-parte-del-medio-el-conflicto-el-problema-como-el-conflicto-se-resuelve-y-la-parte-final-que-dice-el-estado-final-con-todo-resuelto'><strong>Cosmovision</strong> es un sistema de ver el mundo.  Es como una buena historia. Toda historia tiene un comienzo (como empieza), la parte del medio (el conflicto, el problema). como el conflicto se resuelve y la parte final que dice el estado final con todo resuelto.<a href='#cosmovision-es-un-sistema-de-ver-el-mundo--es-como-una-buena-historia-toda-historia-tiene-un-comienzo-como-empieza-la-parte-del-medio-el-conflicto-el-problema-como-el-conflicto-se-resuelve-y-la-parte-final-que-dice-el-estado-final-con-todo-resuelto' class='anchor'>#</a>
+</h4><h3 id='una-de-las-preguntas-más-importantes-que-todos-debemos-hacer-es-que-salio-mal'>Una de las preguntas más importantes que todos debemos hacer es ¿QUE SALIO MAL?<a href='#una-de-las-preguntas-m%c3%a1s-importantes-que-todos-debemos-hacer-es-que-salio-mal' class='anchor'>#</a>
+</h3><h4 id='respondiendo-esta-pregunta-requiere-dar-más-que-un-cuento-requiere-una-experiencia-real-que-narra-como-sucedió'>respondiendo esta pregunta requiere dar más que un cuento. Requiere una experiencia real, que narra como sucedió.<a href='#respondiendo-esta-pregunta-requiere-dar-m%c3%a1s-que-un-cuento-requiere-una-experiencia-real-que-narra-como-sucedi%c3%b3' class='anchor'>#</a>
+</h4><h4 id='es-importante-que-lo-que-sabemos-esta-basado-en-la-realidad'>es importante que lo que sabemos esta basado en la realidad.<a href='#es-importante-que-lo-que-sabemos-esta-basado-en-la-realidad' class='anchor'>#</a>
+</h4><h5 id='es-irónico-que-las-universidades-el-lugar-que-uno-va-para-adquirir-conocimiento-es-el-lugar-que-le-enseñar-a-pensar-que-no-sabemos-porque-pero-lo-sabemos-no-podemos-estar-convencidos-del-mundo-ahi-afuera-dicen-que-todo-es-basado-el-lo-que-uno-cree-cada-uno-puede-creer-lo-que-piensa-no-te-parece-inútil-este-punto-de-vista'>Es irónico que las universidades (el lugar que uno va para adquirir conocimiento) es el lugar que le enseñar a pensar que no sabemos porque pero lo sabemos. No podemos estar convencidos del mundo ahi afuera. Dicen que todo es basado el lo que uno cree. Cada uno puede creer lo que piensa. no te parece inútil este punto de vista?<a href='#es-ir%c3%b3nico-que-las-universidades-el-lugar-que-uno-va-para-adquirir-conocimiento-es-el-lugar-que-le-ense%c3%b1ar-a-pensar-que-no-sabemos-porque-pero-lo-sabemos-no-podemos-estar-convencidos-del-mundo-ahi-afuera-dicen-que-todo-es-basado-el-lo-que-uno-cree-cada-uno-puede-creer-lo-que-piensa-no-te-parece-in%c3%batil-este-punto-de-vista' class='anchor'>#</a>
+</h5><h5 id='falsa-conclusión-hay-muchas-cosas-que-sabemos-y-sabemos-lo-que-sabemos'>falsa conclusión: hay muchas cosas que sabemos y sabemos lo que sabemos.<a href='#falsa-conclusi%c3%b3n-hay-muchas-cosas-que-sabemos-y-sabemos-lo-que-sabemos' class='anchor'>#</a>
+</h5><h3 id='que-es-el-cristianismo'>¿Que es el cristianismo?<a href='#que-es-el-cristianismo' class='anchor'>#</a>
+</h3><h4 id='--una-religion-más-que-una-religion-un-relación'>- una religion? Más que una religion, un relación?<a href='#--una-religion-m%c3%a1s-que-una-religion-un-relaci%c3%b3n' class='anchor'>#</a>
+</h4><h4 id='--paz-con-dios'>- paz con Dios?<a href='#--paz-con-dios' class='anchor'>#</a>
+</h4><h4 id='--principios-para-vivir'>- principios para vivir?<a href='#--principios-para-vivir' class='anchor'>#</a>
+</h4><h4 id='--una-relación-íntima-con-jesus'>- Una relación íntima con Jesus?<a href='#--una-relaci%c3%b3n-%c3%adntima-con-jesus' class='anchor'>#</a>
+</h4><h4 id='--cristianimo-es-la-cosmovision-de-la-realidad'>- <strong>Cristianimo es la cosmovision de la realidad</strong><a href='#--cristianimo-es-la-cosmovision-de-la-realidad' class='anchor'>#</a>
+</h4><h3 id='cosmovisión-bíblica-4-elementos'>Cosmovisión Bíblica: 4 elementos<a href='#cosmovisi%c3%b3n-b%c3%adblica-4-elementos' class='anchor'>#</a>
+</h3><h4 id='creacion-como-empieza-todo'><strong>creacion</strong>, como empieza todo<a href='#creacion-como-empieza-todo' class='anchor'>#</a>
+</h4><h4 id='fall-problemconflicto'><strong>fall</strong>, problem/conflicto<a href='#fall-problemconflicto' class='anchor'>#</a>
+</h4><h4 id='rededción-solucion---como-se-trae-una-solución'><strong>rededción</strong>, solucion - como se trae una solución<a href='#rededci%c3%b3n-solucion---como-se-trae-una-soluci%c3%b3n' class='anchor'>#</a>
+</h4><h4 id='restoración---como-resulta-todo-al-final-de-la-historia'><strong>restoración</strong> - como resulta todo al final de la historia.<a href='#restoraci%c3%b3n---como-resulta-todo-al-final-de-la-historia' class='anchor'>#</a>
+</h4><h5 id='nuestra-cosmovision-es-como-entendemos-todo-es-importante-tener-una-correcta-cosmovision-sino-caeremos-en-el-error-de-malinterpretar-las-cosas-y-no-según-lo-que-es-real'>Nuestra cosmovision es como entendemos todo. Es importante tener una correcta cosmovision. Sino, caeremos en el error de malinterpretar las cosas, y no según lo que es real.<a href='#nuestra-cosmovision-es-como-entendemos-todo-es-importante-tener-una-correcta-cosmovision-sino-caeremos-en-el-error-de-malinterpretar-las-cosas-y-no-seg%c3%ban-lo-que-es-real' class='anchor'>#</a>
+</h5><h5 id='el-cristianismo-es-la-historia-del-mundo-conforme-a-la-realidad-es-una-forma-de-ver-el-mundo-es-la-historia-de-como-el-mundo-comenzó-porque-el-mundo-es-como-es-que-parte-nos-corresponde-en-el-drama-y-como-todo-las-tramas-del-libro-llegan-a-ser-resultos'>El Cristianismo es la historia del mundo conforme a la realidad. Es una forma de ver el mundo. Es la historia de como el mundo comenzó, porque el mundo es como es, que parte nos corresponde en el drama, y como todo las tramas del libro llegan a ser resultos.<a href='#el-cristianismo-es-la-historia-del-mundo-conforme-a-la-realidad-es-una-forma-de-ver-el-mundo-es-la-historia-de-como-el-mundo-comenz%c3%b3-porque-el-mundo-es-como-es-que-parte-nos-corresponde-en-el-drama-y-como-todo-las-tramas-del-libro-llegan-a-ser-resultos' class='anchor'>#</a>
+</h5><h2 id='i-dios'>I. Dios<a href='#i-dios' class='anchor'>#</a>
+</h2><h3 id='un-dios-personal---no-una-cosa'>Un Dios Personal - no una cosa<a href='#un-dios-personal---no-una-cosa' class='anchor'>#</a>
+</h3><h4 id='si-dios-existe-y-es-una-persona-y-no-solo-una-cosa-no-es-lógico-pensar-que-se-manifestaría'>Si Dios existe, y es una persona y no solo una cosa, no es lógico pensar que se manifestaría?<a href='#si-dios-existe-y-es-una-persona-y-no-solo-una-cosa-no-es-l%c3%b3gico-pensar-que-se-manifestar%c3%ada' class='anchor'>#</a>
+</h4><h5 id='porque-dios-es-relacional-y-porque-se-revela-podemos-conocerlo-personalmente--a-creación-b-habló'>Porque Dios es relacional y porque se revela, podemos conocerlo, personalmente.  a. Creación, b. habló<a href='#porque-dios-es-relacional-y-porque-se-revela-podemos-conocerlo-personalmente--a-creaci%c3%b3n-b-habl%c3%b3' class='anchor'>#</a>
+</h5><h3 id='un-dios-creador--'>Un Dios Creador -<a href='#un-dios-creador--' class='anchor'>#</a>
+</h3><h4 id='1-dios-creo-todo-bien-todo-en-su-lugar-todo-trabajaba-según-su-propósito-en-el-principio-todo-era-muy-bueno-como-dios-lo-creó'>1. Dios creo todo bien. Todo en su lugar. Todo trabajaba según su propósito. En el principio todo era muy bueno, como Dios lo creó.<a href='#1-dios-creo-todo-bien-todo-en-su-lugar-todo-trabajaba-seg%c3%ban-su-prop%c3%b3sito-en-el-principio-todo-era-muy-bueno-como-dios-lo-cre%c3%b3' class='anchor'>#</a>
+</h4><h4 id='2-ya-que-dios-creo-todo-de-la-nada-todo-le-pertenece'>2. Ya que dios creo TODO de la NADA, todo le pertenece.<a href='#2-ya-que-dios-creo-todo-de-la-nada-todo-le-pertenece' class='anchor'>#</a>
+</h4><h4 id='3-si-dios-es-personal-y-relacional-y-nos-ha-creado-entonces-nosotros-estamos-obligados-a-estar-conectados-a-el-de-una-manera-u-otra--al-no-estar-conectados-a-el-resultamos-desfuncionales-corrompidos-y-rotos'>3. Si Dios es personal y relacional y nos ha creado entonces nosotros estamos obligados a estar conectados a El de una manera u otra.  Al no estar conectados a El, resultamos desfuncionales, corrompidos y rotos.<a href='#3-si-dios-es-personal-y-relacional-y-nos-ha-creado-entonces-nosotros-estamos-obligados-a-estar-conectados-a-el-de-una-manera-u-otra--al-no-estar-conectados-a-el-resultamos-desfuncionales-corrompidos-y-rotos' class='anchor'>#</a>
+</h4><h4 id='rom-118-verseid45118-porque-la-ira-de-dios-se-revela-desde-el-cielo-contra-toda-impiedad-e-injusticia-de-los-hombres-que-con-injusticia-restringen-la-verdad'><a
+  href="verseid:45.1.18"
+    class="is-pretty-link"><strong>Rom 1:18</strong> </a
+>
+ Porque la ira de Dios se revela desde el cielo contra toda impiedad e injusticia de los hombres, que con injusticia restringen la verdad.<a href='#rom-118-verseid45118-porque-la-ira-de-dios-se-revela-desde-el-cielo-contra-toda-impiedad-e-injusticia-de-los-hombres-que-con-injusticia-restringen-la-verdad' class='anchor'>#</a>
+</h4><h5 id='dios-no-dejo-al-mundo-sin-testimonio-el-conocimiento-de-dios-esta-al-acceso-de-todos-mediante-lo-creado'>Dios no dejo al mundo sin testimonio. El conocimiento de Dios esta al acceso de todos mediante lo creado.<a href='#dios-no-dejo-al-mundo-sin-testimonio-el-conocimiento-de-dios-esta-al-acceso-de-todos-mediante-lo-creado' class='anchor'>#</a>
+</h5><h4 id='rom-119-verseid45119-pero-lo-que-se-conoce-acerca-de-dios-es-evidente-dentro-de-ellos-pues-dios-se-lo-hizo-evidente'><a
+  href="verseid:45.1.19"
+    class="is-pretty-link"><strong>Rom 1:19</strong> </a
+>
+ Pero lo que se conoce acerca de Dios es evidente dentro de ellos, pues Dios se lo hizo evidente.<a href='#rom-119-verseid45119-pero-lo-que-se-conoce-acerca-de-dios-es-evidente-dentro-de-ellos-pues-dios-se-lo-hizo-evidente' class='anchor'>#</a>
+</h4><h4 id='rom-120-verseid45120-porque-desde-la-creación-del-mundo-sus-atributos-invisibles-su-eterno-poder-y-divinidad-se-han-visto-con-toda-claridad-siendo-entendidos-por-medio-de-lo-creado-de-manera-que-ellos-no-tienen-excusa'><a
+  href="verseid:45.1.20"
+    class="is-pretty-link"><strong>Rom 1:20</strong> </a
+>
+ Porque desde la creación del mundo, Sus atributos invisibles, Su eterno poder y divinidad, se han visto con toda claridad, siendo entendidos por medio de lo creado, de manera que ellos no tienen excusa.<a href='#rom-120-verseid45120-porque-desde-la-creaci%c3%b3n-del-mundo-sus-atributos-invisibles-su-eterno-poder-y-divinidad-se-han-visto-con-toda-claridad-siendo-entendidos-por-medio-de-lo-creado-de-manera-que-ellos-no-tienen-excusa' class='anchor'>#</a>
+</h4><h3 id='dios-dice-que-es-bueno-significa-que-dios-debe-ser-amable-amor-dadivoso-también-imparcial-recto-honrado-correcto'>Dios dice que es bueno. Significa que Dios debe ser amable, amor, dadivoso, también imparcial, recto, honrado, correcto<a href='#dios-dice-que-es-bueno-significa-que-dios-debe-ser-amable-amor-dadivoso-tambi%c3%a9n-imparcial-recto-honrado-correcto' class='anchor'>#</a>
+</h3><h4 id='mar-1018-verseid411018-jesús-le-respondiónadie-es-bueno-sino-solo-uno-dios'><a
+  href="verseid:41.10.18"
+    class="is-pretty-link"><strong>Mar 10:18</strong> </a
+>
+ Jesús le respondió&hellip;Nadie es bueno, sino solo uno, Dios.<a href='#mar-1018-verseid411018-jes%c3%bas-le-respondi%c3%b3nadie-es-bueno-sino-solo-uno-dios' class='anchor'>#</a>
+</h4><h4 id='el-rey-david-dijo-psa-1005-verseid191005-porque-el-señor-es-bueno-para-siempre-es-su-misericordia-y-su-fidelidad-por-todas-las-generaciones'>El Rey David dijo: <a
+  href="verseid:19.100.5"
+    class="is-pretty-link"><strong>Psa 100:5</strong> </a
+>
+ Porque el SEÑOR es bueno; Para siempre es Su misericordia, Y Su fidelidad por todas las generaciones.<a href='#el-rey-david-dijo-psa-1005-verseid191005-porque-el-se%c3%b1or-es-bueno-para-siempre-es-su-misericordia-y-su-fidelidad-por-todas-las-generaciones' class='anchor'>#</a>
+</h4><h3 id='pregunta-nosotros-fuimos-creados-por-dios-no-escogimos-ser-creados-porque-un-dios-bueno-nos-condena-al-infierno-a-ser-separados-de-el'>PREGUNTA: Nosotros fuimos creados por Dios, no escogimos ser creados, ¿porque un Dios bueno nos condena al infierno a ser separados de El?<a href='#pregunta-nosotros-fuimos-creados-por-dios-no-escogimos-ser-creados-porque-un-dios-bueno-nos-condena-al-infierno-a-ser-separados-de-el' class='anchor'>#</a>
+</h3><h2 id='ii-hombre'>II. Hombre<a href='#ii-hombre' class='anchor'>#</a>
+</h2><h3 id='por-un-lado-el-hombre-es-hecho-de-cuerpo-físico-por-otro-lado-humanos-no-son-pequeños-dioses-no-somos-supernaturales-somos-criaturas'>por un lado el hombre es hecho de cuerpo físico. Por otro lado, humanos no son pequeños dioses. No somos supernaturales. somos criaturas.<a href='#por-un-lado-el-hombre-es-hecho-de-cuerpo-f%c3%adsico-por-otro-lado-humanos-no-son-peque%c3%b1os-dioses-no-somos-supernaturales-somos-criaturas' class='anchor'>#</a>
+</h3><h4 id='dependemos-del-dios-que-nos-hizo-del-polvo'>Dependemos del Dios que nos hizo del polvo.<a href='#dependemos-del-dios-que-nos-hizo-del-polvo' class='anchor'>#</a>
+</h4><h4 id='sin-emabargo-somos-las-criaturas-más-especiales-detro-de-todo-lo-creado'>Sin emabargo somos las criaturas más especiales detro de todo lo creado.<a href='#sin-emabargo-somos-las-criaturas-m%c3%a1s-especiales-detro-de-todo-lo-creado' class='anchor'>#</a>
+</h4><h4 id='porque-somos-creados-tenemos-valor'>Porque somos creados, tenemos valor.<a href='#porque-somos-creados-tenemos-valor' class='anchor'>#</a>
+</h4><h4 id='el-hombre-es-distinguido-en-la-creación'>El hombre es distinguido en la creación.<a href='#el-hombre-es-distinguido-en-la-creaci%c3%b3n' class='anchor'>#</a>
+</h4><h3 id='una-ley-no-tener-a-otros-dioses'>Una LEY: No tener a otros dioses<a href='#una-ley-no-tener-a-otros-dioses' class='anchor'>#</a>
+</h3><h4 id='1-dios-de-la-biblia-vs-dioses-falsos--la-elusividad-de-la-idolatria-es-dificil-de-identificar'>1. Dios de la Biblia vs dioses falsos.  La elusividad de la idolatria. Es dificil de identificar.<a href='#1-dios-de-la-biblia-vs-dioses-falsos--la-elusividad-de-la-idolatria-es-dificil-de-identificar' class='anchor'>#</a>
+</h4><h5 id='a-falsos-dioses-se-hacen-parecer-al-dios-verdadero'>a. Falsos dioses se hacen parecer al Dios verdadero<a href='#a-falsos-dioses-se-hacen-parecer-al-dios-verdadero' class='anchor'>#</a>
+</h5><h6 id='i-provision'>i. Provision<a href='#i-provision' class='anchor'>#</a>
+</h6><h6 id='ii-protección'>ii. Protección<a href='#ii-protecci%c3%b3n' class='anchor'>#</a>
+</h6><h6 id='iii-propósito'>iii. Propósito<a href='#iii-prop%c3%b3sito' class='anchor'>#</a>
+</h6><h5 id='2-falsos-dioses-son-creados-según-percibimos-necesidad-romanos-1'>2. Falsos dioses son creados según percibimos necesidad. Romanos 1<a href='#2-falsos-dioses-son-creados-seg%c3%ban-percibimos-necesidad-romanos-1' class='anchor'>#</a>
+</h5><h6 id='paso-1-profesaron-ser-sabios'>Paso 1: Profesaron ser sabios<a href='#paso-1-profesaron-ser-sabios' class='anchor'>#</a>
+</h6><h6 id='paso-2-cambiaron-a-dios-por-una-imagen-de-hombre-o-animal'>Paso 2: Cambiaron a Dios por una imagen de hombre o animal.<a href='#paso-2-cambiaron-a-dios-por-una-imagen-de-hombre-o-animal' class='anchor'>#</a>
+</h6><h6 id='paso-3-adoran-y-sirven-la-creación-en-vez-del-creador'>Paso 3: Adoran y sirven la creación en vez del creador.<a href='#paso-3-adoran-y-sirven-la-creaci%c3%b3n-en-vez-del-creador' class='anchor'>#</a>
+</h6><h2 id='pregunta-si-alguien-hace-algo-malo-deberia-pagar-por-ello'>PREGUNTA: Si alguien hace algo malo, ¿deberia pagar por ello?<a href='#pregunta-si-alguien-hace-algo-malo-deberia-pagar-por-ello' class='anchor'>#</a>
+</h2><h2 id='pregunta-tu-has-hecho-algo-malo'>PREGUNTA: ¿TU HAS HECHO ALGO MALO?<a href='#pregunta-tu-has-hecho-algo-malo' class='anchor'>#</a>
+</h2><h3 id='roto---mar-721-verseid41721-porque-de-dentro-del-corazón-de-los-hombres-salen-los-malos-pensamientos-los-adulterios-las-fornicaciones-los-homicidios'>Roto - <em><a
+  href="verseid:41.7.21"
+    class="is-pretty-link"><strong>Mar 7:21</strong> </a
+>
+ Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los adulterios, las fornicaciones, los homicidios,</em><a href='#roto---mar-721-verseid41721-porque-de-dentro-del-coraz%c3%b3n-de-los-hombres-salen-los-malos-pensamientos-los-adulterios-las-fornicaciones-los-homicidios' class='anchor'>#</a>
+</h3><h3 id='perdido---luk-1910-verseid421910-porque-el-hijo-del-hombre-vino-a-buscar-y-a-salvar-lo-que-se-había-perdido'>Perdido - <em><a
+  href="verseid:42.19.10"
+    class="is-pretty-link"><strong>Luk 19:10</strong> </a
+>
+ Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido.</em><a href='#perdido---luk-1910-verseid421910-porque-el-hijo-del-hombre-vino-a-buscar-y-a-salvar-lo-que-se-hab%c3%ada-perdido' class='anchor'>#</a>
+</h3><h3 id='malvado---jer-1811-verseid241811-ahora-pues-habla-a-los-hombres-de-judá-y-a-los-habitantes-de-jerusalén-y-diles-así-dice-el-señor-estoy-preparando-una-calamidad-contra-ustedes-y-tramando-un-plan-contra-ustedes-vuélvanse-pues-cada-uno-de-su-mal-camino-y-enmienden-sus-caminos-y-sus-obras'>Malvado - <em><a
+  href="verseid:24.18.11"
+    class="is-pretty-link"><strong>Jer 18:11</strong> </a
+>
+ »Ahora pues, habla a los hombres de Judá y a los habitantes de Jerusalén, y diles: “Así dice el SEÑOR: ‘Estoy preparando una calamidad contra ustedes y tramando un plan contra ustedes. Vuélvanse, pues, cada uno de su mal camino y enmienden sus caminos y sus obras’”.</em><a href='#malvado---jer-1811-verseid241811-ahora-pues-habla-a-los-hombres-de-jud%c3%a1-y-a-los-habitantes-de-jerusal%c3%a9n-y-diles-as%c3%ad-dice-el-se%c3%b1or-estoy-preparando-una-calamidad-contra-ustedes-y-tramando-un-plan-contra-ustedes-vu%c3%a9lvanse-pues-cada-uno-de-su-mal-camino-y-enmienden-sus-caminos-y-sus-obras' class='anchor'>#</a>
+</h3><h4 id='jer-1812-verseid241812-pero-ellos-dirán-es-en-vano-porque-vamos-a-seguir-nuestros-propios-planes-y-cada-uno-de-nosotros-obrará-conforme-a-la-terquedad-de-su-malvado-corazón'><em><a
+  href="verseid:24.18.12"
+    class="is-pretty-link"><strong>Jer 18:12</strong> </a
+>
+ Pero ellos dirán: “Es en vano; porque vamos a seguir nuestros propios planes, y cada uno de nosotros obrará conforme a la terquedad de su malvado corazón”.</em><a href='#jer-1812-verseid241812-pero-ellos-dir%c3%a1n-es-en-vano-porque-vamos-a-seguir-nuestros-propios-planes-y-cada-uno-de-nosotros-obrar%c3%a1-conforme-a-la-terquedad-de-su-malvado-coraz%c3%b3n' class='anchor'>#</a>
+</h4><h3 id='la-pregunta-si-dios-es-bueno-porque-hay-maldad-en-el-mundo-es-entonces-totalmente-predecible-entendiendo-la-historia-tiene-sentido-cuando-entendemos-que-aunque-dios-es-enteramente-bueno-el-hombre-se-rebeló-y-con-esa-rebelion-vino-a-consecuencia-corrupción-maldad-dolor'>La pregunta, ¿Si Dios es bueno, porque hay maldad en el mundo? Es entonces totalmente predecible entendiendo la historia. Tiene sentido cuando entendemos que aunque Dios es enteramente bueno, el hombre se rebeló y con esa rebelion vino a consecuencia corrupción, maldad, dolor&hellip;<a href='#la-pregunta-si-dios-es-bueno-porque-hay-maldad-en-el-mundo-es-entonces-totalmente-predecible-entendiendo-la-historia-tiene-sentido-cuando-entendemos-que-aunque-dios-es-enteramente-bueno-el-hombre-se-rebel%c3%b3-y-con-esa-rebelion-vino-a-consecuencia-corrupci%c3%b3n-maldad-dolor' class='anchor'>#</a>
+</h3><h4 id='pregunta-nosotros-fuimos-creados-por-dios-no-escogimos-ser-creados-porque-nos-condena-al-infierno-a-ser-separados-de-el'>PREGUNTA: Nosotros fuimos creados por Dios, no escogimos ser creados, porque nos condena al infierno a ser separados de El.<a href='#pregunta-nosotros-fuimos-creados-por-dios-no-escogimos-ser-creados-porque-nos-condena-al-infierno-a-ser-separados-de-el' class='anchor'>#</a>
+</h4><h4 id='casi-todos-creen-en-el-infierno-pero-casi-nadie-piensa-terminar-ahi-ahora-entendiendo-mejor-quien-es-dios-y-conociendo-la-historia-del-hombre-podemos-concluir-que-la-mayoria-ira-al-cielo'>Casi todos creen en el infierno, pero casi nadie piensa terminar ahi. Ahora entendiendo mejor quien es Dios y conociendo la historia del hombre, ¿podemos concluir que la mayoria ira al cielo?<a href='#casi-todos-creen-en-el-infierno-pero-casi-nadie-piensa-terminar-ahi-ahora-entendiendo-mejor-quien-es-dios-y-conociendo-la-historia-del-hombre-podemos-concluir-que-la-mayoria-ira-al-cielo' class='anchor'>#</a>
+</h4><h5 id='mat-713-verseid40713-entren-por-la-puerta-estrecha-porque-ancha-es-la-puerta-y-amplia-es-la-senda-que-lleva-a-la-perdición-y-muchos-son-los-que-entran-por-ella'><em><a
+  href="verseid:40.7.13"
+    class="is-pretty-link"><strong>Mat 7:13</strong> </a
+>
+ Entren por la puerta estrecha, porque ancha es la puerta y amplia es la senda que lleva a la perdición, y muchos son los que entran por ella.</em><a href='#mat-713-verseid40713-entren-por-la-puerta-estrecha-porque-ancha-es-la-puerta-y-amplia-es-la-senda-que-lleva-a-la-perdici%c3%b3n-y-muchos-son-los-que-entran-por-ella' class='anchor'>#</a>
+</h5><h5 id='mat-714-verseid40714-pero-estrecha-es-la-puerta-y-angosta-la-senda-que-lleva-a-la-vida-y-pocos-son-los-que-la-hallan'><em><a
+  href="verseid:40.7.14"
+    class="is-pretty-link"><strong>Mat 7:14</strong> </a
+>
+ Pero estrecha es la puerta y angosta la senda que lleva a la vida, y pocos son los que la hallan.</em><a href='#mat-714-verseid40714-pero-estrecha-es-la-puerta-y-angosta-la-senda-que-lleva-a-la-vida-y-pocos-son-los-que-la-hallan' class='anchor'>#</a>
+</h5><h4 id='ira-dios-esta-enojado-romanos-118--rom-323-juan-336'>IRA: Dios esta enojado. Romanos 1:18.  Rom 3:23, Juan 3:36<a href='#ira-dios-esta-enojado-romanos-118--rom-323-juan-336' class='anchor'>#</a>
+</h4><h4 id='col-35-verseid5135-la-fornicación-la-impureza-las-pasiones-los-malos-deseos-y-la-avaricia-que-es-idolatría'><a
+  href="verseid:51.3.5"
+    class="is-pretty-link"><strong>Col 3:5</strong> </a
+>
+ &hellip;la fornicación, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.<a href='#col-35-verseid5135-la-fornicaci%c3%b3n-la-impureza-las-pasiones-los-malos-deseos-y-la-avaricia-que-es-idolatr%c3%ada' class='anchor'>#</a>
+</h4><h4 id='col-36-verseid5136-pues-la-ira-de-dios-vendrá-sobre-los-hijos-de-desobediencia-por-causa-de-estas-cosas'><a
+  href="verseid:51.3.6"
+    class="is-pretty-link"><strong>Col 3:6</strong> </a
+>
+ Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas,<a href='#col-36-verseid5136-pues-la-ira-de-dios-vendr%c3%a1-sobre-los-hijos-de-desobediencia-por-causa-de-estas-cosas' class='anchor'>#</a>
+</h4><h4 id='rom-310-verseid45310-como-está-escrito-no-hay-justo-ni-aun-uno'><a
+  href="verseid:45.3.10"
+    class="is-pretty-link"><strong>Rom 3:10</strong> </a
+>
+ Como está escrito: «NO HAY JUSTO, NI AUN UNO;<a href='#rom-310-verseid45310-como-est%c3%a1-escrito-no-hay-justo-ni-aun-uno' class='anchor'>#</a>
+</h4><h4 id='rom-311-verseid45311-no-hay-quien-entienda-no-hay-quien-busque-a-dios'><a
+  href="verseid:45.3.11"
+    class="is-pretty-link"><strong>Rom 3:11</strong> </a
+>
+ NO HAY QUIEN ENTIENDA, NO HAY QUIEN BUSQUE A DIOS.<a href='#rom-311-verseid45311-no-hay-quien-entienda-no-hay-quien-busque-a-dios' class='anchor'>#</a>
+</h4><h4 id='rom-323-verseid45323-por-cuanto-todos-pecaron-y-no-alcanzan-la-gloria-de-dios'><a
+  href="verseid:45.3.23"
+    class="is-pretty-link"><strong>Rom 3:23</strong> </a
+>
+ por cuanto todos pecaron y no alcanzan la gloria de Dios.<a href='#rom-323-verseid45323-por-cuanto-todos-pecaron-y-no-alcanzan-la-gloria-de-dios' class='anchor'>#</a>
+</h4><h4 id='ecc-720-verseid21720-ciertamente-no-hay-hombre-justo-en-la-tierra-que-haga-el-bien-y-nunca-peque'><a
+  href="verseid:21.7.20"
+    class="is-pretty-link"><strong>Ecc 7:20</strong> </a
+>
+ Ciertamente no hay hombre justo en la tierra Que haga el bien y nunca peque.<a href='#ecc-720-verseid21720-ciertamente-no-hay-hombre-justo-en-la-tierra-que-haga-el-bien-y-nunca-peque' class='anchor'>#</a>
+</h4><p>​				NOTA: <code>Recuerdas lo que dijimos? El que hace mal debe pagar por sus males. </code></p>
+<h2 id='iii-cristo-y-la-cruz'>III. Cristo y la Cruz<a href='#iii-cristo-y-la-cruz' class='anchor'>#</a>
+</h2><h5 id='un-tipo-de-problema-necesita-el-mismo-tipo-de-solución'>Un tipo de problema necesita el mismo tipo de solución.<a href='#un-tipo-de-problema-necesita-el-mismo-tipo-de-soluci%c3%b3n' class='anchor'>#</a>
+</h5><h4 id='1ti-115verseid54115-palabra-fiel-y-digna-de-ser-aceptada-por-todos-cristo-jesús-vino-al-mundo-para-salvar-a-los-pecadores-entre-los-cuales-yo-soy-el-primero'><a
+  href="verseid:54.1.15"
+    class="is-pretty-link">1Ti 1:15</a
+>
+ Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero.<a href='#1ti-115verseid54115-palabra-fiel-y-digna-de-ser-aceptada-por-todos-cristo-jes%c3%bas-vino-al-mundo-para-salvar-a-los-pecadores-entre-los-cuales-yo-soy-el-primero' class='anchor'>#</a>
+</h4><h4 id='2-cosas-sobre-jesus-que-son-importantes'>2 Cosas sobre Jesus que son importantes<a href='#2-cosas-sobre-jesus-que-son-importantes' class='anchor'>#</a>
+</h4><h4 id='quien-era---humano-creció-paso-hambre-es-uno-de-nosotros'><strong>Quien era</strong> - humano, creció, paso hambre, es uno de nosotros.<a href='#quien-era---humano-creci%c3%b3-paso-hambre-es-uno-de-nosotros' class='anchor'>#</a>
+</h4><h6 id='exisito-antes-de-nacer-el-tiene-poder-para-perdonar-pecados-honor-a-dios-es-honor-a-el-el-juicio-final-en-el-dia-de-juicio-pertenece-a-el-ellos-que-confian-en-el-aunque-mueran-vivirán'>Exisito antes de nacer. El tiene poder para perdonar pecados, Honor a Dios es honor a El, El juicio final en el dia de juicio pertenece a El. Ellos que confian en el, aunque mueran, vivirán.<a href='#exisito-antes-de-nacer-el-tiene-poder-para-perdonar-pecados-honor-a-dios-es-honor-a-el-el-juicio-final-en-el-dia-de-juicio-pertenece-a-el-ellos-que-confian-en-el-aunque-mueran-vivir%c3%a1n' class='anchor'>#</a>
+</h6><h6 id='los-milagros-que-hizo-jesus-no-eran-para-señalar-a-sus-enseñanzas-era-para-que-la-gente-miraran-a-el'>Los milagros que hizo Jesus no eran para señalar a sus enseñanzas, era para que la gente miraran a El.<a href='#los-milagros-que-hizo-jesus-no-eran-para-se%c3%b1alar-a-sus-ense%c3%b1anzas-era-para-que-la-gente-miraran-a-el' class='anchor'>#</a>
+</h6><h6 id='jesus-no-fue-crucificado-por-lo-que-hizo-fue-crucificado-por-quien-afirmo-ser-dijo-que-era-dios'>Jesus no fue crucificado por lo que hizo. Fue crucificado por quien afirmo ser. Dijo que era Dios.<a href='#jesus-no-fue-crucificado-por-lo-que-hizo-fue-crucificado-por-quien-afirmo-ser-dijo-que-era-dios' class='anchor'>#</a>
+</h6><h6 id='en-el-principio-era-el-verbo-en-el-principio-creo-dios'>En el principio era el verbo. En el principio creo Dios.<a href='#en-el-principio-era-el-verbo-en-el-principio-creo-dios' class='anchor'>#</a>
+</h6><h6 id='joh-114-verseid43114-el-verbo-se-hizo-carne-y-habitó-entre-nosotros-y-vimos-su-gloria-gloria-como-del-unigénito-del-padre-lleno-de-gracia-y-de-verdad'><a
+  href="verseid:43.1.14"
+    class="is-pretty-link"><strong>Joh 1:14</strong> </a
+>
+ El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.<a href='#joh-114-verseid43114-el-verbo-se-hizo-carne-y-habit%c3%b3-entre-nosotros-y-vimos-su-gloria-gloria-como-del-unig%c3%a9nito-del-padre-lleno-de-gracia-y-de-verdad' class='anchor'>#</a>
+</h6><h4 id='que-hizo'><strong>Que hizo</strong><a href='#que-hizo' class='anchor'>#</a>
+</h4><h5 id='jesus-no-vino-para-ayudarnos-a-llevarnos-bien'>Jesus no vino para ayudarnos a llevarnos bien.<a href='#jesus-no-vino-para-ayudarnos-a-llevarnos-bien' class='anchor'>#</a>
+</h5><h5 id='no-vino-para-enseñarnos-como-alimentar-a-los-pobres'>No vino para enseñarnos como alimentar a los pobres.<a href='#no-vino-para-ense%c3%b1arnos-como-alimentar-a-los-pobres' class='anchor'>#</a>
+</h5><h5 id='no-vino-para-restaurar-justicia-social'>No vino para restaurar justicia social.<a href='#no-vino-para-restaurar-justicia-social' class='anchor'>#</a>
+</h5><h6 id='muchos-afirmar-que-el-propósito-principal-de-venir-a-la-tierra-era-para-vivir-una-vida-moral-no-es-asi'>Muchos afirmar que el propósito principal de venir a la tierra era para vivir una vida moral. No es asi.<a href='#muchos-afirmar-que-el-prop%c3%b3sito-principal-de-venir-a-la-tierra-era-para-vivir-una-vida-moral-no-es-asi' class='anchor'>#</a>
+</h6><h5 id='jesus-hizo-preguntas'>Jesus hizo preguntas:<a href='#jesus-hizo-preguntas' class='anchor'>#</a>
+</h5><h6 id='mar-29-verseid4129-qué-es-más-fácil-decir-al-paralítico-tus-pecados-te-son-perdonados-o-decirlelevántate-toma-tu-camilla-y-anda'><em><a
+  href="verseid:41.2.9"
+    class="is-pretty-link"><strong>Mar 2:9</strong> </a
+>
+ ¿Qué es más fácil, decir al paralítico: “Tus pecados te son perdonados”, o decirle:“Levántate, toma tu camilla y anda”?</em><a href='#mar-29-verseid4129-qu%c3%a9-es-m%c3%a1s-f%c3%a1cil-decir-al-paral%c3%adtico-tus-pecados-te-son-perdonados-o-decirlelev%c3%a1ntate-toma-tu-camilla-y-anda' class='anchor'>#</a>
+</h6><h6 id='joh-138-verseid43138-qué-buscan'><a
+  href="verseid:43.1.38"
+    class="is-pretty-link"><strong>Joh 1:38</strong> </a
+>
+ ¿Qué buscan?<a href='#joh-138-verseid43138-qu%c3%a9-buscan' class='anchor'>#</a>
+</h6><h6 id='joh-846-verseid43846-por-qué-ustedes-no-me-creen'><a
+  href="verseid:43.8.46"
+    class="is-pretty-link"><strong>Joh 8:46</strong> </a
+>
+ ¿por qué ustedes no me creen?<a href='#joh-846-verseid43846-por-qu%c3%a9-ustedes-no-me-creen' class='anchor'>#</a>
+</h6><h6 id='mat-1615-verseid401615-quién-decís-que-soy-yo'><a
+  href="verseid:40.16.15"
+    class="is-pretty-link"><strong>Mat 16:15</strong> </a
+>
+ ¿quién decís que soy yo?<a href='#mat-1615-verseid401615-qui%c3%a9n-dec%c3%ads-que-soy-yo' class='anchor'>#</a>
+</h6><h6 id='un-buen-maestro-de-moral'>¿Un buen maestro de moral?<a href='#un-buen-maestro-de-moral' class='anchor'>#</a>
+</h6><h6 id='sincero-pero-delirante'>¿Sincero pero delirante?<a href='#sincero-pero-delirante' class='anchor'>#</a>
+</h6><h6 id='deliberadamente-malvado-y-engañoso'>¿Deliberadamente malvado y engañoso?<a href='#deliberadamente-malvado-y-enga%c3%b1oso' class='anchor'>#</a>
+</h6><h6 id='un-personaje-completamente-ficticio'>¿Un personaje completamente ficticio?<a href='#un-personaje-completamente-ficticio' class='anchor'>#</a>
+</h6><h6 id='una-persona-real-que-fue-embellecida-con-el-tiempo'>¿Una persona real que fue embellecida con el tiempo?<a href='#una-persona-real-que-fue-embellecida-con-el-tiempo' class='anchor'>#</a>
+</h6><h6 id='quién-afirmó-ser'>¿Quién afirmó ser?<a href='#qui%c3%a9n-afirm%c3%b3-ser' class='anchor'>#</a>
+</h6><h5 id='se-puede-eliminar-todo-lo-que-jesus-dijo-e-hizo-para-los-pobres-y-la-justicia-social-y-no-afectara-su-mensaje-en-absoluto-por-eso-juan-no-hizo-ni-una-sola-mención-de-pobresa-ni-injusticia-jesus-dio-4-discursos-solo-en-el-primer-discurso-menciona-a-los-pobres-pero-no-a-los-de-la-pobreza-economica-sino-a-los-pobres-en-espíritu-eso-no-significa-que-no-le-importaba-a-los-pobres-pero-también-le-importaba-a-los-ricos-a-lo-oprobio-e-inclusive-a-los-religiosos'>Se puede eliminar todo lo que Jesus dijo e hizo para los pobres y la justicia social y no afectara su mensaje en absoluto. Por eso Juan no hizo ni una sola mención de pobresa ni injusticia. Jesus dio 4 discursos. Solo en el primer discurso menciona a los pobres pero no a los de la pobreza economica sino a los pobres en espíritu. Eso no significa que no le importaba a los pobres, pero también le importaba a los ricos, a lo oprobio e inclusive a los religiosos.<a href='#se-puede-eliminar-todo-lo-que-jesus-dijo-e-hizo-para-los-pobres-y-la-justicia-social-y-no-afectara-su-mensaje-en-absoluto-por-eso-juan-no-hizo-ni-una-sola-menci%c3%b3n-de-pobresa-ni-injusticia-jesus-dio-4-discursos-solo-en-el-primer-discurso-menciona-a-los-pobres-pero-no-a-los-de-la-pobreza-economica-sino-a-los-pobres-en-esp%c3%adritu-eso-no-significa-que-no-le-importaba-a-los-pobres-pero-tambi%c3%a9n-le-importaba-a-los-ricos-a-lo-oprobio-e-inclusive-a-los-religiosos' class='anchor'>#</a>
+</h5><h5 id='la-historia-de-jesus-no-enfoca-en-el-trabajo-de-cristianos-sino-en-su-obra-en-la-obra-de-dios'>La historia de Jesus no enfoca en el trabajo de Cristianos, sino en su obra, en la obra de Dios.<a href='#la-historia-de-jesus-no-enfoca-en-el-trabajo-de-cristianos-sino-en-su-obra-en-la-obra-de-dios' class='anchor'>#</a>
+</h5><h4 id='en-el-cielo-dios-esta-airado-pero-envio-a-su-hijo-a-la-tierra'>En el cielo, Dios esta airado pero envio a su Hijo a la tierra&hellip;<a href='#en-el-cielo-dios-esta-airado-pero-envio-a-su-hijo-a-la-tierra' class='anchor'>#</a>
+</h4><h5 id='joh-316-verseid43316--dios-dio-a-su-hijo-unigénito-para-que-tengan-vida-eterna'><a
+  href="verseid:43.3.16"
+    class="is-pretty-link"><strong>Joh 3:16</strong> </a
+>
+ &hellip; Dios dio a Su Hijo unigénito, para que tengan vida eterna.<a href='#joh-316-verseid43316--dios-dio-a-su-hijo-unig%c3%a9nito-para-que-tengan-vida-eterna' class='anchor'>#</a>
+</h5><h5 id='php-28-verseid5028-y-hallándose-en-forma-de-hombre-se-humilló-él-mismo-haciéndose-obediente-hasta-la-muerte-y-muerte-de-cruz'><a
+  href="verseid:50.2.8"
+    class="is-pretty-link"><strong>Php 2:8</strong> </a
+>
+ Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz.<a href='#php-28-verseid5028-y-hall%c3%a1ndose-en-forma-de-hombre-se-humill%c3%b3-%c3%a9l-mismo-haci%c3%a9ndose-obediente-hasta-la-muerte-y-muerte-de-cruz' class='anchor'>#</a>
+</h5><h6 id='obediencia-dios-dio-con-un-plan-el-plan-de-ir-a-redimir-al-mundo'>OBEDIENCIA: Dios dio con un plan. El plan de ir a redimir al mundo.<a href='#obediencia-dios-dio-con-un-plan-el-plan-de-ir-a-redimir-al-mundo' class='anchor'>#</a>
+</h6><h4 id='entonces-porque-vino-acabamos-de-celebrar-la-navidad'>¿Entonces, Porque vino? Acabamos de celebrar la navidad.<a href='#entonces-porque-vino-acabamos-de-celebrar-la-navidad' class='anchor'>#</a>
+</h4><h5 id='heb-105-7-verseid58105-por-eso-cuando-cristo-vino-a-este-mundo-le-dijo-a-dios-tú-no-pides-sacrificios-a-cambio-de-tu-perdón-por-eso-me-has-dado-un-cuerpo--por-eso-te-dije-aquí-me-tienes-para-cumplir-tu-voluntad-así-me-lo-enseña-la-ley-de-moisés'><a
+  href="verseid:58.10.5"
+    class="is-pretty-link"><strong>Heb 10:5-7</strong> </a
+>
+ Por eso, cuando Cristo vino a este mundo, le dijo a Dios: «Tú no pides sacrificios a cambio de tu perdón; por eso me has dado un cuerpo.  »Por eso te dije: “Aquí me tienes, para cumplir tu voluntad. Así me lo enseña la Ley de Moisés.”»<a href='#heb-105-7-verseid58105-por-eso-cuando-cristo-vino-a-este-mundo-le-dijo-a-dios-t%c3%ba-no-pides-sacrificios-a-cambio-de-tu-perd%c3%b3n-por-eso-me-has-dado-un-cuerpo--por-eso-te-dije-aqu%c3%ad-me-tienes-para-cumplir-tu-voluntad-as%c3%ad-me-lo-ense%c3%b1a-la-ley-de-mois%c3%a9s' class='anchor'>#</a>
+</h5><h5 id='joh-1017-verseid431017-por-eso-me-ama-el-padre-porque-yo-pongo-mi-vida-para-volverla-a-tomar'><a
+  href="verseid:43.10.17"
+    class="is-pretty-link"><strong>Joh 10:17</strong> </a
+>
+ Por eso me ama el Padre, porque yo pongo mi vida, para volverla a tomar.<a href='#joh-1017-verseid431017-por-eso-me-ama-el-padre-porque-yo-pongo-mi-vida-para-volverla-a-tomar' class='anchor'>#</a>
+</h5><h5 id='joh-1018-verseid431018-nadie-me-la-quita-sino-que-yo-de-mí-mismo-la-pongo-tengo-poder-para-ponerla-y-tengo-poder-para-volverla-a-tomar-este-mandamiento-recibí-de-mi-padre'><a
+  href="verseid:43.10.18"
+    class="is-pretty-link"><strong>Joh 10:18</strong> </a
+>
+ Nadie me la quita, sino que yo de mí mismo la pongo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre.<a href='#joh-1018-verseid431018-nadie-me-la-quita-sino-que-yo-de-m%c3%ad-mismo-la-pongo-tengo-poder-para-ponerla-y-tengo-poder-para-volverla-a-tomar-este-mandamiento-recib%c3%ad-de-mi-padre' class='anchor'>#</a>
+</h5><h3 id='porque-la-exclusividad-de-jesus'>¿Porque la exclusividad de Jesus?<a href='#porque-la-exclusividad-de-jesus' class='anchor'>#</a>
+</h3><h4 id='el-evangelio-es-dios-tomando-la-culpa-sobre-si-para-que-nosotros-fuesemos-librados-de-toda-culpa'>El evangelio es Dios tomando la culpa sobre si, para que nosotros fuesemos librados de toda culpa.<a href='#el-evangelio-es-dios-tomando-la-culpa-sobre-si-para-que-nosotros-fuesemos-librados-de-toda-culpa' class='anchor'>#</a>
+</h4><h5 id='act-412-verseid44412-en-ningún-otro-hay-salvación-porque-no-hay-otro-nombre-bajo-el-cielo-dado-a-los-hombres-en-el-cual-podamos-ser-salvos'><a
+  href="verseid:44.4.12"
+    class="is-pretty-link"><strong>Act 4:12</strong> </a
+>
+ En ningún otro hay salvación, porque no hay otro nombre bajo el cielo dado a los hombres, en el cual podamos ser salvos».<a href='#act-412-verseid44412-en-ning%c3%ban-otro-hay-salvaci%c3%b3n-porque-no-hay-otro-nombre-bajo-el-cielo-dado-a-los-hombres-en-el-cual-podamos-ser-salvos' class='anchor'>#</a>
+</h5><h5 id='cristo-vino-a-salvarnos-no-de-la-pobreza-no-de-injusticia-jesus-vino-a-salvarnos-del-padre-que-esta-airado-conta-la-injusticia-del-hombre-romanos-118-dios-envio-a-su-hijo-para-ser-el-pago-necessario-para-satisfacer-su-ira-y-darnos-perdon-de-pecados-darnos-vida-eterna-jesus-vino-para-que-el-mismo-fuera-el-pago-por-nuestras-rebeliones'>Cristo vino a salvarnos. No de la pobreza, no de injusticia. Jesus vino a salvarnos del Padre que esta airado conta la injusticia del hombre. Romanos 1:18. Dios envio a su hijo para ser el pago necessario para satisfacer su ira y darnos perdon de pecados darnos vida eterna. Jesus vino para que el mismo fuera el pago por nuestras rebeliones.<a href='#cristo-vino-a-salvarnos-no-de-la-pobreza-no-de-injusticia-jesus-vino-a-salvarnos-del-padre-que-esta-airado-conta-la-injusticia-del-hombre-romanos-118-dios-envio-a-su-hijo-para-ser-el-pago-necessario-para-satisfacer-su-ira-y-darnos-perdon-de-pecados-darnos-vida-eterna-jesus-vino-para-que-el-mismo-fuera-el-pago-por-nuestras-rebeliones' class='anchor'>#</a>
+</h5><p>Era imposible para el hombre mejorar su situación. Nuestra participacion fue pecar. Cristo vino a morir por pecadores.</p>
+<p>La obra De Dios en la encarnacion y muerte de Cristo no tiene ningún valor para tu vida a no ser que lo creas.</p>
+<p>La única manera que Dios puede dar salvación es por fe en Jesucristo. El creer en Cristo es depositar tu plena confianza que Cristo tomo tu lugar, que fue a la cruz por ti, pagando el precio necesario para tus pegados ante un Dios justo. Dios aceptó su pago a tu favor y le levantó de los muertos. Dios aceptó su obediencia de muerte de Cruz en tu lugar. Ahora Dios puede prometer vida eterna a todo aquel que en el cree.</p>
+<p>¿Lo crees?</p>
+<p>no es un salto al vacio, una creencia sin evidencia o razón, creencia apesar de lo comprobado.</p>
+<h2 id='iv-restauración'>IV. Restauración<a href='#iv-restauraci%c3%b3n' class='anchor'>#</a>
+</h2><p>EL PROBLEMA #1: todos estan de acuerdo, el mundo no es como debe ser. Sin embargo la solución no es eliminar a Dios. Esto no resuelve nada. La maldad sigue existiendo. La pregunta es, como se resuelve?</p>
+<p>El PROBLEMA #2: Solo un camino al cielo</p>
+</div><div class="column is-sticky is-paddingless" id="tocWrapper">
+  <div class="is-paddingless" id="tocContainer">
+    <div class="toc-header">
+      <h6 class="toc-title is-marginless">On this page:</h6>
+      <i
+        title="Back to top"
+        id="tocBackToTop"
+        class="fa-solid fa-circle-arrow-up"
+      ></i>
+    </div>
+    <div id="tocContent">
+      <div id="toc"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#el-evangelio">El Evangelio</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#tus-preguntas-son-importantes-has-hechos-alguna-vez-porque-estamos-aquí">Tus preguntas son importantes. Has hechos alguna vez? Porque estamos aquí?</a>
+              <ul>
+                <li><a href="#cosmovision-es-un-sistema-de-ver-el-mundo--es-como-una-buena-historia-toda-historia-tiene-un-comienzo-como-empieza-la-parte-del-medio-el-conflicto-el-problema-como-el-conflicto-se-resuelve-y-la-parte-final-que-dice-el-estado-final-con-todo-resuelto"><strong>Cosmovision</strong> es un sistema de ver el mundo.  Es como una buena historia. Toda historia tiene un comienzo (como empieza), la parte del medio (el conflicto, el problema). como el conflicto se resuelve y la parte final que dice el estado final con todo resuelto.</a></li>
+              </ul>
+            </li>
+            <li><a href="#una-de-las-preguntas-más-importantes-que-todos-debemos-hacer-es-que-salio-mal">Una de las preguntas más importantes que todos debemos hacer es ¿QUE SALIO MAL?</a>
+              <ul>
+                <li><a href="#respondiendo-esta-pregunta-requiere-dar-más-que-un-cuento-requiere-una-experiencia-real-que-narra-como-sucedió">respondiendo esta pregunta requiere dar más que un cuento. Requiere una experiencia real, que narra como sucedió.</a></li>
+                <li><a href="#es-importante-que-lo-que-sabemos-esta-basado-en-la-realidad">es importante que lo que sabemos esta basado en la realidad.</a>
+                  <ul>
+                    <li><a href="#es-irónico-que-las-universidades-el-lugar-que-uno-va-para-adquirir-conocimiento-es-el-lugar-que-le-enseñar-a-pensar-que-no-sabemos-porque-pero-lo-sabemos-no-podemos-estar-convencidos-del-mundo-ahi-afuera-dicen-que-todo-es-basado-el-lo-que-uno-cree-cada-uno-puede-creer-lo-que-piensa-no-te-parece-inútil-este-punto-de-vista">Es irónico que las universidades (el lugar que uno va para adquirir conocimiento) es el lugar que le enseñar a pensar que no sabemos porque pero lo sabemos. No podemos estar convencidos del mundo ahi afuera. Dicen que todo es basado el lo que uno cree. Cada uno puede creer lo que piensa. no te parece inútil este punto de vista?</a></li>
+                    <li><a href="#falsa-conclusión-hay-muchas-cosas-que-sabemos-y-sabemos-lo-que-sabemos">falsa conclusión: hay muchas cosas que sabemos y sabemos lo que sabemos.</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="#que-es-el-cristianismo">¿Que es el cristianismo?</a>
+              <ul>
+                <li><a href="#--una-religion-más-que-una-religion-un-relación">- una religion? Más que una religion, un relación?</a></li>
+                <li><a href="#--paz-con-dios">- paz con Dios?</a></li>
+                <li><a href="#--principios-para-vivir">- principios para vivir?</a></li>
+                <li><a href="#--una-relación-íntima-con-jesus">- Una relación íntima con Jesus?</a></li>
+                <li><a href="#--cristianimo-es-la-cosmovision-de-la-realidad">- <strong>Cristianimo es la cosmovision de la realidad</strong></a></li>
+              </ul>
+            </li>
+            <li><a href="#cosmovisión-bíblica-4-elementos">Cosmovisión Bíblica: 4 elementos</a>
+              <ul>
+                <li><a href="#creacion-como-empieza-todo"><strong>creacion</strong>, como empieza todo</a></li>
+                <li><a href="#fall-problemconflicto"><strong>fall</strong>, problem/conflicto</a></li>
+                <li><a href="#rededción-solucion---como-se-trae-una-solución"><strong>rededción</strong>, solucion - como se trae una solución</a></li>
+                <li><a href="#restoración---como-resulta-todo-al-final-de-la-historia"><strong>restoración</strong> - como resulta todo al final de la historia.</a>
+                  <ul>
+                    <li><a href="#nuestra-cosmovision-es-como-entendemos-todo-es-importante-tener-una-correcta-cosmovision-sino-caeremos-en-el-error-de-malinterpretar-las-cosas-y-no-según-lo-que-es-real">Nuestra cosmovision es como entendemos todo. Es importante tener una correcta cosmovision. Sino, caeremos en el error de malinterpretar las cosas, y no según lo que es real.</a></li>
+                    <li><a href="#el-cristianismo-es-la-historia-del-mundo-conforme-a-la-realidad-es-una-forma-de-ver-el-mundo-es-la-historia-de-como-el-mundo-comenzó-porque-el-mundo-es-como-es-que-parte-nos-corresponde-en-el-drama-y-como-todo-las-tramas-del-libro-llegan-a-ser-resultos">El Cristianismo es la historia del mundo conforme a la realidad. Es una forma de ver el mundo. Es la historia de como el mundo comenzó, porque el mundo es como es, que parte nos corresponde en el drama, y como todo las tramas del libro llegan a ser resultos.</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#i-dios">I. Dios</a>
+          <ul>
+            <li><a href="#un-dios-personal---no-una-cosa">Un Dios Personal - no una cosa</a>
+              <ul>
+                <li><a href="#si-dios-existe-y-es-una-persona-y-no-solo-una-cosa-no-es-lógico-pensar-que-se-manifestaría">Si Dios existe, y es una persona y no solo una cosa, no es lógico pensar que se manifestaría?</a>
+                  <ul>
+                    <li><a href="#porque-dios-es-relacional-y-porque-se-revela-podemos-conocerlo-personalmente--a-creación-b-habló">Porque Dios es relacional y porque se revela, podemos conocerlo, personalmente.  a. Creación, b. habló</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="#un-dios-creador--">Un Dios Creador -</a>
+              <ul>
+                <li><a href="#1-dios-creo-todo-bien-todo-en-su-lugar-todo-trabajaba-según-su-propósito-en-el-principio-todo-era-muy-bueno-como-dios-lo-creó">1. Dios creo todo bien. Todo en su lugar. Todo trabajaba según su propósito. En el principio todo era muy bueno, como Dios lo creó.</a></li>
+                <li><a href="#2-ya-que-dios-creo-todo-de-la-nada-todo-le-pertenece">2. Ya que dios creo TODO de la NADA, todo le pertenece.</a></li>
+                <li><a href="#3-si-dios-es-personal-y-relacional-y-nos-ha-creado-entonces-nosotros-estamos-obligados-a-estar-conectados-a-el-de-una-manera-u-otra--al-no-estar-conectados-a-el-resultamos-desfuncionales-corrompidos-y-rotos">3. Si Dios es personal y relacional y nos ha creado entonces nosotros estamos obligados a estar conectados a El de una manera u otra.  Al no estar conectados a El, resultamos desfuncionales, corrompidos y rotos.</a></li>
+                <li><a href="#rom-118-verseid45118-porque-la-ira-de-dios-se-revela-desde-el-cielo-contra-toda-impiedad-e-injusticia-de-los-hombres-que-con-injusticia-restringen-la-verdad"><a href="verseid:45.1.18"><strong>Rom 1:18</strong> </a> Porque la ira de Dios se revela desde el cielo contra toda impiedad e injusticia de los hombres, que con injusticia restringen la verdad.</a>
+                  <ul>
+                    <li><a href="#dios-no-dejo-al-mundo-sin-testimonio-el-conocimiento-de-dios-esta-al-acceso-de-todos-mediante-lo-creado">Dios no dejo al mundo sin testimonio. El conocimiento de Dios esta al acceso de todos mediante lo creado.</a></li>
+                  </ul>
+                </li>
+                <li><a href="#rom-119-verseid45119-pero-lo-que-se-conoce-acerca-de-dios-es-evidente-dentro-de-ellos-pues-dios-se-lo-hizo-evidente"><a href="verseid:45.1.19"><strong>Rom 1:19</strong> </a> Pero lo que se conoce acerca de Dios es evidente dentro de ellos, pues Dios se lo hizo evidente.</a></li>
+                <li><a href="#rom-120-verseid45120-porque-desde-la-creación-del-mundo-sus-atributos-invisibles-su-eterno-poder-y-divinidad-se-han-visto-con-toda-claridad-siendo-entendidos-por-medio-de-lo-creado-de-manera-que-ellos-no-tienen-excusa"><a href="verseid:45.1.20"><strong>Rom 1:20</strong> </a> Porque desde la creación del mundo, Sus atributos invisibles, Su eterno poder y divinidad, se han visto con toda claridad, siendo entendidos por medio de lo creado, de manera que ellos no tienen excusa.</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-dice-que-es-bueno-significa-que-dios-debe-ser-amable-amor-dadivoso-también-imparcial-recto-honrado-correcto">Dios dice que es bueno. Significa que Dios debe ser amable, amor, dadivoso, también imparcial, recto, honrado, correcto</a>
+              <ul>
+                <li><a href="#mar-1018-verseid411018-jesús-le-respondiónadie-es-bueno-sino-solo-uno-dios"><a href="verseid:41.10.18"><strong>Mar 10:18</strong> </a> Jesús le respondió&hellip;Nadie es bueno, sino solo uno, Dios.</a></li>
+                <li><a href="#el-rey-david-dijo-psa-1005-verseid191005-porque-el-señor-es-bueno-para-siempre-es-su-misericordia-y-su-fidelidad-por-todas-las-generaciones">El Rey David dijo: <a href="verseid:19.100.5"><strong>Psa 100:5</strong> </a> Porque el SEÑOR es bueno; Para siempre es Su misericordia, Y Su fidelidad por todas las generaciones.</a></li>
+              </ul>
+            </li>
+            <li><a href="#pregunta-nosotros-fuimos-creados-por-dios-no-escogimos-ser-creados-porque-un-dios-bueno-nos-condena-al-infierno-a-ser-separados-de-el">PREGUNTA: Nosotros fuimos creados por Dios, no escogimos ser creados, ¿porque un Dios bueno nos condena al infierno a ser separados de El?</a></li>
+          </ul>
+        </li>
+        <li><a href="#ii-hombre">II. Hombre</a>
+          <ul>
+            <li><a href="#por-un-lado-el-hombre-es-hecho-de-cuerpo-físico-por-otro-lado-humanos-no-son-pequeños-dioses-no-somos-supernaturales-somos-criaturas">por un lado el hombre es hecho de cuerpo físico. Por otro lado, humanos no son pequeños dioses. No somos supernaturales. somos criaturas.</a>
+              <ul>
+                <li><a href="#dependemos-del-dios-que-nos-hizo-del-polvo">Dependemos del Dios que nos hizo del polvo.</a></li>
+                <li><a href="#sin-emabargo-somos-las-criaturas-más-especiales-detro-de-todo-lo-creado">Sin emabargo somos las criaturas más especiales detro de todo lo creado.</a></li>
+                <li><a href="#porque-somos-creados-tenemos-valor">Porque somos creados, tenemos valor.</a></li>
+                <li><a href="#el-hombre-es-distinguido-en-la-creación">El hombre es distinguido en la creación.</a></li>
+              </ul>
+            </li>
+            <li><a href="#una-ley-no-tener-a-otros-dioses">Una LEY: No tener a otros dioses</a>
+              <ul>
+                <li><a href="#1-dios-de-la-biblia-vs-dioses-falsos--la-elusividad-de-la-idolatria-es-dificil-de-identificar">1. Dios de la Biblia vs dioses falsos.  La elusividad de la idolatria. Es dificil de identificar.</a>
+                  <ul>
+                    <li><a href="#a-falsos-dioses-se-hacen-parecer-al-dios-verdadero">a. Falsos dioses se hacen parecer al Dios verdadero</a>
+                      <ul>
+                        <li><a href="#i-provision">i. Provision</a></li>
+                        <li><a href="#ii-protección">ii. Protección</a></li>
+                        <li><a href="#iii-propósito">iii. Propósito</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#2-falsos-dioses-son-creados-según-percibimos-necesidad-romanos-1">2. Falsos dioses son creados según percibimos necesidad. Romanos 1</a>
+                      <ul>
+                        <li><a href="#paso-1-profesaron-ser-sabios">Paso 1: Profesaron ser sabios</a></li>
+                        <li><a href="#paso-2-cambiaron-a-dios-por-una-imagen-de-hombre-o-animal">Paso 2: Cambiaron a Dios por una imagen de hombre o animal.</a></li>
+                        <li><a href="#paso-3-adoran-y-sirven-la-creación-en-vez-del-creador">Paso 3: Adoran y sirven la creación en vez del creador.</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#pregunta-si-alguien-hace-algo-malo-deberia-pagar-por-ello">PREGUNTA: Si alguien hace algo malo, ¿deberia pagar por ello?</a></li>
+        <li><a href="#pregunta-tu-has-hecho-algo-malo">PREGUNTA: ¿TU HAS HECHO ALGO MALO?</a>
+          <ul>
+            <li><a href="#roto---mar-721-verseid41721-porque-de-dentro-del-corazón-de-los-hombres-salen-los-malos-pensamientos-los-adulterios-las-fornicaciones-los-homicidios">Roto - <em><a href="verseid:41.7.21"><strong>Mar 7:21</strong> </a> Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los adulterios, las fornicaciones, los homicidios,</em></a></li>
+            <li><a href="#perdido---luk-1910-verseid421910-porque-el-hijo-del-hombre-vino-a-buscar-y-a-salvar-lo-que-se-había-perdido">Perdido - <em><a href="verseid:42.19.10"><strong>Luk 19:10</strong> </a> Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido.</em></a></li>
+            <li><a href="#malvado---jer-1811-verseid241811-ahora-pues-habla-a-los-hombres-de-judá-y-a-los-habitantes-de-jerusalén-y-diles-así-dice-el-señor-estoy-preparando-una-calamidad-contra-ustedes-y-tramando-un-plan-contra-ustedes-vuélvanse-pues-cada-uno-de-su-mal-camino-y-enmienden-sus-caminos-y-sus-obras">Malvado - <em><a href="verseid:24.18.11"><strong>Jer 18:11</strong> </a> »Ahora pues, habla a los hombres de Judá y a los habitantes de Jerusalén, y diles: “Así dice el SEÑOR: ‘Estoy preparando una calamidad contra ustedes y tramando un plan contra ustedes. Vuélvanse, pues, cada uno de su mal camino y enmienden sus caminos y sus obras’”.</em></a>
+              <ul>
+                <li><a href="#jer-1812-verseid241812-pero-ellos-dirán-es-en-vano-porque-vamos-a-seguir-nuestros-propios-planes-y-cada-uno-de-nosotros-obrará-conforme-a-la-terquedad-de-su-malvado-corazón"><em><a href="verseid:24.18.12"><strong>Jer 18:12</strong> </a> Pero ellos dirán: “Es en vano; porque vamos a seguir nuestros propios planes, y cada uno de nosotros obrará conforme a la terquedad de su malvado corazón”.</em></a></li>
+              </ul>
+            </li>
+            <li><a href="#la-pregunta-si-dios-es-bueno-porque-hay-maldad-en-el-mundo-es-entonces-totalmente-predecible-entendiendo-la-historia-tiene-sentido-cuando-entendemos-que-aunque-dios-es-enteramente-bueno-el-hombre-se-rebeló-y-con-esa-rebelion-vino-a-consecuencia-corrupción-maldad-dolor">La pregunta, ¿Si Dios es bueno, porque hay maldad en el mundo? Es entonces totalmente predecible entendiendo la historia. Tiene sentido cuando entendemos que aunque Dios es enteramente bueno, el hombre se rebeló y con esa rebelion vino a consecuencia corrupción, maldad, dolor&hellip;</a>
+              <ul>
+                <li><a href="#pregunta-nosotros-fuimos-creados-por-dios-no-escogimos-ser-creados-porque-nos-condena-al-infierno-a-ser-separados-de-el">PREGUNTA: Nosotros fuimos creados por Dios, no escogimos ser creados, porque nos condena al infierno a ser separados de El.</a></li>
+                <li><a href="#casi-todos-creen-en-el-infierno-pero-casi-nadie-piensa-terminar-ahi-ahora-entendiendo-mejor-quien-es-dios-y-conociendo-la-historia-del-hombre-podemos-concluir-que-la-mayoria-ira-al-cielo">Casi todos creen en el infierno, pero casi nadie piensa terminar ahi. Ahora entendiendo mejor quien es Dios y conociendo la historia del hombre, ¿podemos concluir que la mayoria ira al cielo?</a>
+                  <ul>
+                    <li><a href="#mat-713-verseid40713-entren-por-la-puerta-estrecha-porque-ancha-es-la-puerta-y-amplia-es-la-senda-que-lleva-a-la-perdición-y-muchos-son-los-que-entran-por-ella"><em><a href="verseid:40.7.13"><strong>Mat 7:13</strong> </a> Entren por la puerta estrecha, porque ancha es la puerta y amplia es la senda que lleva a la perdición, y muchos son los que entran por ella.</em></a></li>
+                    <li><a href="#mat-714-verseid40714-pero-estrecha-es-la-puerta-y-angosta-la-senda-que-lleva-a-la-vida-y-pocos-son-los-que-la-hallan"><em><a href="verseid:40.7.14"><strong>Mat 7:14</strong> </a> Pero estrecha es la puerta y angosta la senda que lleva a la vida, y pocos son los que la hallan.</em></a></li>
+                  </ul>
+                </li>
+                <li><a href="#ira-dios-esta-enojado-romanos-118--rom-323-juan-336">IRA: Dios esta enojado. Romanos 1:18.  Rom 3:23, Juan 3:36</a></li>
+                <li><a href="#col-35-verseid5135-la-fornicación-la-impureza-las-pasiones-los-malos-deseos-y-la-avaricia-que-es-idolatría"><a href="verseid:51.3.5"><strong>Col 3:5</strong> </a> &hellip;la fornicación, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.</a></li>
+                <li><a href="#col-36-verseid5136-pues-la-ira-de-dios-vendrá-sobre-los-hijos-de-desobediencia-por-causa-de-estas-cosas"><a href="verseid:51.3.6"><strong>Col 3:6</strong> </a> Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas,</a></li>
+                <li><a href="#rom-310-verseid45310-como-está-escrito-no-hay-justo-ni-aun-uno"><a href="verseid:45.3.10"><strong>Rom 3:10</strong> </a> Como está escrito: «NO HAY JUSTO, NI AUN UNO;</a></li>
+                <li><a href="#rom-311-verseid45311-no-hay-quien-entienda-no-hay-quien-busque-a-dios"><a href="verseid:45.3.11"><strong>Rom 3:11</strong> </a> NO HAY QUIEN ENTIENDA, NO HAY QUIEN BUSQUE A DIOS.</a></li>
+                <li><a href="#rom-323-verseid45323-por-cuanto-todos-pecaron-y-no-alcanzan-la-gloria-de-dios"><a href="verseid:45.3.23"><strong>Rom 3:23</strong> </a> por cuanto todos pecaron y no alcanzan la gloria de Dios.</a></li>
+                <li><a href="#ecc-720-verseid21720-ciertamente-no-hay-hombre-justo-en-la-tierra-que-haga-el-bien-y-nunca-peque"><a href="verseid:21.7.20"><strong>Ecc 7:20</strong> </a> Ciertamente no hay hombre justo en la tierra Que haga el bien y nunca peque.</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#iii-cristo-y-la-cruz">III. Cristo y la Cruz</a>
+          <ul>
+            <li>
+              <ul>
+                <li>
+                  <ul>
+                    <li><a href="#un-tipo-de-problema-necesita-el-mismo-tipo-de-solución">Un tipo de problema necesita el mismo tipo de solución.</a></li>
+                  </ul>
+                </li>
+                <li><a href="#1ti-115verseid54115-palabra-fiel-y-digna-de-ser-aceptada-por-todos-cristo-jesús-vino-al-mundo-para-salvar-a-los-pecadores-entre-los-cuales-yo-soy-el-primero"><a href="verseid:54.1.15">1Ti 1:15</a> Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero.</a></li>
+                <li><a href="#2-cosas-sobre-jesus-que-son-importantes">2 Cosas sobre Jesus que son importantes</a></li>
+                <li><a href="#quien-era---humano-creció-paso-hambre-es-uno-de-nosotros"><strong>Quien era</strong> - humano, creció, paso hambre, es uno de nosotros.</a>
+                  <ul>
+                    <li>
+                      <ul>
+                        <li><a href="#exisito-antes-de-nacer-el-tiene-poder-para-perdonar-pecados-honor-a-dios-es-honor-a-el-el-juicio-final-en-el-dia-de-juicio-pertenece-a-el-ellos-que-confian-en-el-aunque-mueran-vivirán">Exisito antes de nacer. El tiene poder para perdonar pecados, Honor a Dios es honor a El, El juicio final en el dia de juicio pertenece a El. Ellos que confian en el, aunque mueran, vivirán.</a></li>
+                        <li><a href="#los-milagros-que-hizo-jesus-no-eran-para-señalar-a-sus-enseñanzas-era-para-que-la-gente-miraran-a-el">Los milagros que hizo Jesus no eran para señalar a sus enseñanzas, era para que la gente miraran a El.</a></li>
+                        <li><a href="#jesus-no-fue-crucificado-por-lo-que-hizo-fue-crucificado-por-quien-afirmo-ser-dijo-que-era-dios">Jesus no fue crucificado por lo que hizo. Fue crucificado por quien afirmo ser. Dijo que era Dios.</a></li>
+                        <li><a href="#en-el-principio-era-el-verbo-en-el-principio-creo-dios">En el principio era el verbo. En el principio creo Dios.</a></li>
+                        <li><a href="#joh-114-verseid43114-el-verbo-se-hizo-carne-y-habitó-entre-nosotros-y-vimos-su-gloria-gloria-como-del-unigénito-del-padre-lleno-de-gracia-y-de-verdad"><a href="verseid:43.1.14"><strong>Joh 1:14</strong> </a> El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="#que-hizo"><strong>Que hizo</strong></a>
+                  <ul>
+                    <li><a href="#jesus-no-vino-para-ayudarnos-a-llevarnos-bien">Jesus no vino para ayudarnos a llevarnos bien.</a></li>
+                    <li><a href="#no-vino-para-enseñarnos-como-alimentar-a-los-pobres">No vino para enseñarnos como alimentar a los pobres.</a></li>
+                    <li><a href="#no-vino-para-restaurar-justicia-social">No vino para restaurar justicia social.</a>
+                      <ul>
+                        <li><a href="#muchos-afirmar-que-el-propósito-principal-de-venir-a-la-tierra-era-para-vivir-una-vida-moral-no-es-asi">Muchos afirmar que el propósito principal de venir a la tierra era para vivir una vida moral. No es asi.</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#jesus-hizo-preguntas">Jesus hizo preguntas:</a>
+                      <ul>
+                        <li><a href="#mar-29-verseid4129-qué-es-más-fácil-decir-al-paralítico-tus-pecados-te-son-perdonados-o-decirlelevántate-toma-tu-camilla-y-anda"><em><a href="verseid:41.2.9"><strong>Mar 2:9</strong> </a> ¿Qué es más fácil, decir al paralítico: “Tus pecados te son perdonados”, o decirle:“Levántate, toma tu camilla y anda”?</em></a></li>
+                        <li><a href="#joh-138-verseid43138-qué-buscan"><a href="verseid:43.1.38"><strong>Joh 1:38</strong> </a> ¿Qué buscan?</a></li>
+                        <li><a href="#joh-846-verseid43846-por-qué-ustedes-no-me-creen"><a href="verseid:43.8.46"><strong>Joh 8:46</strong> </a> ¿por qué ustedes no me creen?</a></li>
+                        <li><a href="#mat-1615-verseid401615-quién-decís-que-soy-yo"><a href="verseid:40.16.15"><strong>Mat 16:15</strong> </a> ¿quién decís que soy yo?</a></li>
+                        <li><a href="#un-buen-maestro-de-moral">¿Un buen maestro de moral?</a></li>
+                        <li><a href="#sincero-pero-delirante">¿Sincero pero delirante?</a></li>
+                        <li><a href="#deliberadamente-malvado-y-engañoso">¿Deliberadamente malvado y engañoso?</a></li>
+                        <li><a href="#un-personaje-completamente-ficticio">¿Un personaje completamente ficticio?</a></li>
+                        <li><a href="#una-persona-real-que-fue-embellecida-con-el-tiempo">¿Una persona real que fue embellecida con el tiempo?</a></li>
+                        <li><a href="#quién-afirmó-ser">¿Quién afirmó ser?</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#se-puede-eliminar-todo-lo-que-jesus-dijo-e-hizo-para-los-pobres-y-la-justicia-social-y-no-afectara-su-mensaje-en-absoluto-por-eso-juan-no-hizo-ni-una-sola-mención-de-pobresa-ni-injusticia-jesus-dio-4-discursos-solo-en-el-primer-discurso-menciona-a-los-pobres-pero-no-a-los-de-la-pobreza-economica-sino-a-los-pobres-en-espíritu-eso-no-significa-que-no-le-importaba-a-los-pobres-pero-también-le-importaba-a-los-ricos-a-lo-oprobio-e-inclusive-a-los-religiosos">Se puede eliminar todo lo que Jesus dijo e hizo para los pobres y la justicia social y no afectara su mensaje en absoluto. Por eso Juan no hizo ni una sola mención de pobresa ni injusticia. Jesus dio 4 discursos. Solo en el primer discurso menciona a los pobres pero no a los de la pobreza economica sino a los pobres en espíritu. Eso no significa que no le importaba a los pobres, pero también le importaba a los ricos, a lo oprobio e inclusive a los religiosos.</a></li>
+                    <li><a href="#la-historia-de-jesus-no-enfoca-en-el-trabajo-de-cristianos-sino-en-su-obra-en-la-obra-de-dios">La historia de Jesus no enfoca en el trabajo de Cristianos, sino en su obra, en la obra de Dios.</a></li>
+                  </ul>
+                </li>
+                <li><a href="#en-el-cielo-dios-esta-airado-pero-envio-a-su-hijo-a-la-tierra">En el cielo, Dios esta airado pero envio a su Hijo a la tierra&hellip;</a>
+                  <ul>
+                    <li><a href="#joh-316-verseid43316--dios-dio-a-su-hijo-unigénito-para-que-tengan-vida-eterna"><a href="verseid:43.3.16"><strong>Joh 3:16</strong> </a> &hellip; Dios dio a Su Hijo unigénito, para que tengan vida eterna.</a></li>
+                    <li><a href="#php-28-verseid5028-y-hallándose-en-forma-de-hombre-se-humilló-él-mismo-haciéndose-obediente-hasta-la-muerte-y-muerte-de-cruz"><a href="verseid:50.2.8"><strong>Php 2:8</strong> </a> Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz.</a>
+                      <ul>
+                        <li><a href="#obediencia-dios-dio-con-un-plan-el-plan-de-ir-a-redimir-al-mundo">OBEDIENCIA: Dios dio con un plan. El plan de ir a redimir al mundo.</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="#entonces-porque-vino-acabamos-de-celebrar-la-navidad">¿Entonces, Porque vino? Acabamos de celebrar la navidad.</a>
+                  <ul>
+                    <li><a href="#heb-105-7-verseid58105-por-eso-cuando-cristo-vino-a-este-mundo-le-dijo-a-dios-tú-no-pides-sacrificios-a-cambio-de-tu-perdón-por-eso-me-has-dado-un-cuerpo--por-eso-te-dije-aquí-me-tienes-para-cumplir-tu-voluntad-así-me-lo-enseña-la-ley-de-moisés"><a href="verseid:58.10.5"><strong>Heb 10:5-7</strong> </a> Por eso, cuando Cristo vino a este mundo, le dijo a Dios: «Tú no pides sacrificios a cambio de tu perdón; por eso me has dado un cuerpo.  »Por eso te dije: “Aquí me tienes, para cumplir tu voluntad. Así me lo enseña la Ley de Moisés.”»</a></li>
+                    <li><a href="#joh-1017-verseid431017-por-eso-me-ama-el-padre-porque-yo-pongo-mi-vida-para-volverla-a-tomar"><a href="verseid:43.10.17"><strong>Joh 10:17</strong> </a> Por eso me ama el Padre, porque yo pongo mi vida, para volverla a tomar.</a></li>
+                    <li><a href="#joh-1018-verseid431018-nadie-me-la-quita-sino-que-yo-de-mí-mismo-la-pongo-tengo-poder-para-ponerla-y-tengo-poder-para-volverla-a-tomar-este-mandamiento-recibí-de-mi-padre"><a href="verseid:43.10.18"><strong>Joh 10:18</strong> </a> Nadie me la quita, sino que yo de mí mismo la pongo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre.</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="#porque-la-exclusividad-de-jesus">¿Porque la exclusividad de Jesus?</a>
+              <ul>
+                <li><a href="#el-evangelio-es-dios-tomando-la-culpa-sobre-si-para-que-nosotros-fuesemos-librados-de-toda-culpa">El evangelio es Dios tomando la culpa sobre si, para que nosotros fuesemos librados de toda culpa.</a>
+                  <ul>
+                    <li><a href="#act-412-verseid44412-en-ningún-otro-hay-salvación-porque-no-hay-otro-nombre-bajo-el-cielo-dado-a-los-hombres-en-el-cual-podamos-ser-salvos"><a href="verseid:44.4.12"><strong>Act 4:12</strong> </a> En ningún otro hay salvación, porque no hay otro nombre bajo el cielo dado a los hombres, en el cual podamos ser salvos».</a></li>
+                    <li><a href="#cristo-vino-a-salvarnos-no-de-la-pobreza-no-de-injusticia-jesus-vino-a-salvarnos-del-padre-que-esta-airado-conta-la-injusticia-del-hombre-romanos-118-dios-envio-a-su-hijo-para-ser-el-pago-necessario-para-satisfacer-su-ira-y-darnos-perdon-de-pecados-darnos-vida-eterna-jesus-vino-para-que-el-mismo-fuera-el-pago-por-nuestras-rebeliones">Cristo vino a salvarnos. No de la pobreza, no de injusticia. Jesus vino a salvarnos del Padre que esta airado conta la injusticia del hombre. Romanos 1:18. Dios envio a su hijo para ser el pago necessario para satisfacer su ira y darnos perdon de pecados darnos vida eterna. Jesus vino para que el mismo fuera el pago por nuestras rebeliones.</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#iv-restauración">IV. Restauración</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+      <div id="taxonomies"><div class="taxonomy-wrapper"></div><div class="taxonomy-wrapper"></div></div>
+    </div>
+  </div>
+  <div
+    class="is-paddingless"
+    id="tocCollapsible"
+    title="Collapse/Uncollapse table of contents"
+  >
+    <i class="fa-solid fa-angles-right fa-lg"></i>
+  </div>
+</div>
+</div>
+</div><script type='text/javascript'>
+  const baseUrl = 'https:\/\/johnwry.github.io\/page\/';
+  const codeCopyBefore = 'Copy to clipboard';
+  const codeCopyAfter = 'Copied to clipboard';
+  const svgDownloadLabel = 'Download as SVG';
+  const helperLoadingLabel = 'Loading';
+  const searchNoResults = 'No result found';
+  const introNextLabel = 'Next';
+  const introPrevLabel = 'Previous';
+  const introSkipLabel = '✗';
+  const introDoneLabel = 'Done';
+  const printLabel = 'Print current page';
+  const qrCodeLabel = 'Show current page QR code';
+  const naCommonLabel = 'Not available';
+</script>
+<script
+      type="module"
+      src="/page/js/theme/modules/const.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/modules/helpers.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/modules/helpersGlobal.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/init.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/navbar.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/print.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/qrcode.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/search.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/shortcuts.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/sidebar.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/toc.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/theme/browserCompatibility.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/flexsearch/flexsearch.bundle.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/qrious/qrious.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/overlay-scrollbars/overlayscrollbars.min.js"
+    ></script>
+</body>
+</html>

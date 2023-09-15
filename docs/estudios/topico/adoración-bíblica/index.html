@@ -1,0 +1,2398 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content="Hugo 0.117.0">
+<meta name="viewport" content="width=device-width, initial-scale=1" /><title>Adoración Bíblica | BJWry</title>
+
+<link
+  rel="icon"
+  href="/page/images/favicon.png"
+  type="image/x-icon"
+/>
+<link
+    rel="stylesheet"
+    rel="preload"
+    type="text/css"
+    href="/page/css/main.css"
+  /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/page/css/external/fontawesome.all.min.css"
+    /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/page/css/external/overlay-scrollbars/overlayscrollbars.min.css"
+    />
+</head>
+  <body onload="browserCompatibility()"><div id="navbarInfo" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box">
+    <div class="card modal-title is-radiusless">
+      <div class="card-header">
+        <p class="card-header-title is-marginless">About</p>
+      </div>
+    </div>
+    <div class="modal-content-container">
+      <div class="modal-content-block is-block">
+</div>
+    </div>
+  </div>
+</div>
+<div id="navbarShortcuts" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
+        <div class="card-header">
+          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+        </div>
+      </div>
+      <div class="modal-content-container">
+        <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show current page QR code</p>
+  </div><div class="modal-content"><kbd>Escape</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Close modals</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show website information</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show shortcuts</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to homepage</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Find on website</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the top of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Print current page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>1</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">example</p>
+  </div></div>
+      </div></div>
+</div>
+<div id="modalContainer" class="is-hidden modal-container">
+  <div id="modal" class="modal-content-box"></div>
+</div>
+<nav id="navbar" class="navbar" role="navigation" aria-label="main navigation">
+  <div id="navbarItemsContainer" class="navbar-brand"><div id="globalLogoContainer" class="is-flex">
+  <a
+    id="globalLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/page/"
+  >
+    <img
+      alt="Homepage"
+      src="/page/images/logo.png"
+    />
+  </a>
+  <a
+    id="globalTouchLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/page/"
+  >
+    <img
+      alt="Homepage"
+      src="/page/images/logoTouch.png"
+    />
+  </a>
+</div>
+<div id="navbarItems" class="is-flex">
+      <div id="navbarItemsStart" class="is-flex">
+        <div id="searchContainer" class="navbar-item"><div class="control has-icons-left">
+  <span id="searchInput" class="autocomplete">
+    <input
+      id="search"
+      autocomplete="off"
+      class="input"
+      type="search"
+      placeholder="Search"
+    />
+  </span>
+  <span class="icon is-left">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </span>
+  <ul id="searchList" class="is-paddingless is-hidden"></ul>
+</div>
+</div>
+      </div>
+      <div id="navbarItemsEnd" class="is-flex is-invisible"><div class="navbar-item">
+  <a
+    id="printButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfo"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomies"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/page/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/page/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versions"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfo"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div id="navbarExtend" class="navbar-item">
+  <div id="navbarExtendWrapper">
+    <a id="navbarExtendButton" class="button navbar-item-standard">
+      <span class="icon">
+        <i class="fa-solid fa-ellipsis fa-lg"></i>
+      </span>
+    </a>
+    <div id="navbarExtendItemsContainer">
+      <div id="navbarExtendItemsWrapper"><div class="navbar-item">
+  <a
+    id="printButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfoExtend"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomiesExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/page/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/page/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versionsExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfoExtend"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+  </div>
+</nav>
+<div id="navbarOverlay"></div>
+<div
+      class="columns is-mobile is-paddingless is-marginless"
+      id="mainContainer"
+    ><div
+  id="sidebarContainer"
+  class="column is-narrow is-paddingless is-marginless"
+>
+  <div id="sidebarWrapper" class="is-fixed">
+    <div id="sidebar" class="is-marginless">
+      <aside class="menu is-paddingless is-marginless">
+        <ul class="menu-list is-marginless is-paddingless"><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/posts/'>
+        <i class='fa-solid fa-bullhorn fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/posts/'>
+        <i class='fa-solid fa-bullhorn fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Banner'>Banner</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/posts/test/'
+        class='card-header-title'
+          title='test'>
+        <i class='fa-solid fa-bullhorn'></i><p class="pt-0 pb-0 pr-2 pl-0">test</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/posts/demo/'
+        class='card-header-title'
+          title='Demo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Demo</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon is-sidebar-active"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-tree-active is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Estudios'>Estudios</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless is-tree-active"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/libros/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='libros'>libros</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/filemon/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/2-pedro/'
+        class='card-header-title'
+          title='2 Pedro'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/ga%CC%81latas-517-21/'
+        class='card-header-title'
+          title='Gálatas 5:17-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Gálatas 5:17-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/habacuc/'
+        class='card-header-title'
+          title='Habacuc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/habacuc2.4/'
+        class='card-header-title'
+          title='Habacuc 2.4'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc 2.4</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/jueces/'
+        class='card-header-title'
+          title='Jueces'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jueces</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/santiago/'
+        class='card-header-title'
+          title='Santiago'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/topico/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topicos'>Topicos</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/5-principios/'
+        class='card-header-title'
+          title='5 Principios para desenmascarar una cosmovisión no-biblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">5 Principios para desenmascarar una cosmovisión no-biblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card is-sidebar-active"id='sidebarActiveEntry'><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/adoracio%CC%81n-bi%CC%81blica/'
+        class='card-header-title'
+          title='Adoración Bíblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Adoración Bíblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/confesion-de-pecado/'
+        class='card-header-title'
+          title='Confesión de Pecados'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confesión de Pecados</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/el_evangelio/'
+        class='card-header-title'
+          title='El Evangelio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Evangelio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/el-mismo...nuestra-suficiencia/'
+        class='card-header-title'
+          title='El Mismo...nuestra suficiencia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Mismo...nuestra suficiencia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/enemigos-de-observacion/'
+        class='card-header-title'
+          title='Enemigos de la Observación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Enemigos de la Observación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
+        class='card-header-title'
+          title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Estableciendo el decreto que inicia las 70 semanas de Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/topico/familia/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='familia'>familia</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/familia/funeral/'
+        class='card-header-title'
+          title='If life ended here'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">If life ended here</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/familia/funeral_es/'
+        class='card-header-title'
+          title='Si esto fuera el fin'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Si esto fuera el fin</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/galatas-1.6-10/'
+        class='card-header-title'
+          title='Galatas 1.6-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatas 1.6-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/lecciones/habacuc/'
+        class='card-header-title'
+          title='Habacuc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/calvinismo-una-cosmovision-idolatra/'
+        class='card-header-title'
+          title='Identificando la Cosmovisión del Calvinismo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Identificando la Cosmovisión del Calvinismo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/jovenes/'
+        class='card-header-title'
+          title='Jóvenes en la Biblia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jóvenes en la Biblia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/juan2.23-24/'
+        class='card-header-title'
+          title='Juan 2:23-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 2:23-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/juan-541/'
+        class='card-header-title'
+          title='Juan 5:41'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 5:41</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/la-iglesia/'
+        class='card-header-title'
+          title='La Iglesia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Iglesia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/la-ley/'
+        class='card-header-title'
+          title='La Ley y La Gracia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Ley y La Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/simiente-mujer-mesias/'
+        class='card-header-title'
+          title='La Simiente de la mujer'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Simiente de la mujer</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/los-sufrimientos-de-cristo/'
+        class='card-header-title'
+          title='Los Sufrimientos de Cristo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Los Sufrimientos de Cristo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/matrimonio/'
+        class='card-header-title'
+          title='Matrimonio es Idea de Dios'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Matrimonio es Idea de Dios</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/lecciones/zacarias/'
+        class='card-header-title'
+          title='Zacarias'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zacarias</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Studies'>Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/books/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Book Studies'>Book Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/1-john/'
+        class='card-header-title'
+          title='1 John'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 John</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/1-peter/'
+        class='card-header-title'
+          title='1 Peter'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Peter</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/2-timothy/'
+        class='card-header-title'
+          title='2 Timothy'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Timothy</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/books/archives/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Archives'>Archives</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-old/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-orig/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-orig.md/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_notes/'
+        class='card-header-title'
+          title='Zechariah notes'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_notes2/'
+        class='card-header-title'
+          title='Zechariah notes'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_old/'
+        class='card-header-title'
+          title='Zechariah notes old'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes old</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/galatians/'
+        class='card-header-title'
+          title='Galatians'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/gal-3.21-29/'
+        class='card-header-title'
+          title='Galatians 3:21-29'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 3:21-29</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/habakkuk/'
+        class='card-header-title'
+          title='Habakuk'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habakuk</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/hebrews-31-6/'
+        class='card-header-title'
+          title='Hebrews 3:1-6'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebrews 3:1-6</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/romans-9-16/'
+        class='card-header-title'
+          title='Romans 9-11'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 9-11</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/zechariah/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/zephaniah/'
+        class='card-header-title'
+          title='Zephaniah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zephaniah</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/discipleship-need/'
+        class='card-header-title'
+          title='Discipleship -&gt; importance'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Discipleship -&gt; importance</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/ot-books/'
+        class='card-header-title'
+          title='OT Books'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">OT Books</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topical Studies'>Topical Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/2015-03-24-predestination/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/armageddon/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/the-church/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/angels/'
+        class='card-header-title'
+          title='Angels'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Angels</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/armageddon-zech6/'
+        class='card-header-title'
+          title='Armageddon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Armageddon</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/biblical_covenants/'
+        class='card-header-title'
+          title='Biblical Covenants'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Biblical Covenants</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/confession-of-sins/'
+        class='card-header-title'
+          title='Confession of Sins'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confession of Sins</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2021-07-27-daniel.6.18-28/'
+        class='card-header-title'
+          title='Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-08-daniel-31-12/'
+        class='card-header-title'
+          title='Daniel 3:1-12'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel 3:1-12</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/dealing_with_pain/'
+        class='card-header-title'
+          title='Dealing with Pain'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Dealing with Pain</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/galatians-111-24/'
+        class='card-header-title'
+          title='Galatians 1:11-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 1:11-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/homiletics/'
+        class='card-header-title'
+          title='Homiletics'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Homiletics</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/'
+        class='card-header-title'
+          title='install Jekyll on MacOS Big Sur'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">install Jekyll on MacOS Big Sur</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/israel-egypt/'
+        class='card-header-title'
+          title='Israel in Egypt'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Israel in Egypt</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/jesus-mismo-nuestra-propiciacio%CC%81n/'
+        class='card-header-title'
+          title='Jesus mismo-nuestra propiciación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jesus mismo-nuestra propiciación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-11.1-23/'
+        class='card-header-title'
+          title='John 11:1-23'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:1-23</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-11.35-48/'
+        class='card-header-title'
+          title='John 11:35-48'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:35-48</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-13.21-38/'
+        class='card-header-title'
+          title='John 13:21-38'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 13:21-38</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-831-44/'
+        class='card-header-title'
+          title='John 8:31-44'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 8:31-44</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/marriage/'
+        class='card-header-title'
+          title='Marriage'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Marriage</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/juda-kings-mothers/'
+        class='card-header-title'
+          title='Mothers of King of Judah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Mothers of King of Judah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2015-02-15-obedience-of-faith/'
+        class='card-header-title'
+          title='Obedience of faith'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Obedience of faith</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/phil-21-2-phrased/'
+        class='card-header-title'
+          title='Phil 2:1-2 phrased'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Phil 2:1-2 phrased</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-08-repentance/'
+        class='card-header-title'
+          title='Repentance According to the Bible'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Repentance According to the Bible</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/romans-109-10/'
+        class='card-header-title'
+          title='Romans 10:9-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 10:9-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/the-blood-of-jesus/'
+        class='card-header-title'
+          title='The blood of Jesus'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The blood of Jesus</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/'
+        class='card-header-title'
+          title='The Warning to Timothy of False Teachers'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The Warning to Timothy of False Teachers</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2021-07-21-two-instructors/'
+        class='card-header-title'
+          title='Two Instructors'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Two Instructors</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/i-am-acused-of-teaching-easy-believism/'
+        class='card-header-title'
+          title='You are Teaching &#39;Easy Believism&#39;'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">You are Teaching &#39;Easy Believism&#39;</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul>
+      </aside>
+    </div>
+    <div id="sidebarCollapsible" class="is-marginless">
+      <div class="card is-uncollapse-action">
+        <div
+          id="sidebarUncollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-right fa-lg"></i>
+          </a>
+        </div>
+      </div>
+      <div class="card is-collapse-action">
+        <div
+          id="sidebarCollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-left fa-lg"></i>
+            <p>Collapse sidebar</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="sidebarMobileWrapper" class="column is-narrow is-hidden-desktop"></div>
+<div class="columns is-mobile is-marginless is-scroll-smooth has-toc" id="contentContainer">
+  <div class="column" id="content"><div id="contentTitle">Adoración Bíblica</div>
+<!-- raw HTML omitted -->
+<h1 id='la-excelencia-de-la-adoración'>La Excelencia de la Adoración<a href='#la-excelencia-de-la-adoraci%c3%b3n' class='anchor'>#</a>
+</h1><h2 id='que-enseña-la-biblia-sobre-la-adoración'>¿Que enseña la Biblia sobre la adoración?<a href='#que-ense%c3%b1a-la-biblia-sobre-la-adoraci%c3%b3n' class='anchor'>#</a>
+</h2><h1 id='pnbspp'><!-- raw HTML omitted --> <!-- raw HTML omitted --><a href='#pnbspp' class='anchor'>#</a>
+</h1><h3 id='enséñame-oh-jehová-tu-camino'><em>Enséñame, oh Jehová, tu camino;</em><a href='#ens%c3%a9%c3%b1ame-oh-jehov%c3%a1-tu-camino' class='anchor'>#</a>
+</h3><h3 id='caminaré-yo-en-tu-verdad'><em>caminaré yo en tu verdad;</em><a href='#caminar%c3%a9-yo-en-tu-verdad' class='anchor'>#</a>
+</h3><h3 id='afirma-mi-corazón-para-que-tema-tu-nombre'><em>Afirma mi corazón para que tema tu nombre</em>.<a href='#afirma-mi-coraz%c3%b3n-para-que-tema-tu-nombre' class='anchor'>#</a>
+</h3><h3 id='te-alabaré-oh-jehová-dios-mío-con-todo-mi-corazón'><em>Te alabaré, oh Jehová Dios mío, con todo mi corazón</em>,<a href='#te-alabar%c3%a9-oh-jehov%c3%a1-dios-m%c3%ado-con-todo-mi-coraz%c3%b3n' class='anchor'>#</a>
+</h3><h3 id='y-glorificaré-tu-nombre-para-siempre-salmo-8611-12'><em>Y glorificaré tu nombre para siempre</em>. Salmo 86:11-12<a href='#y-glorificar%c3%a9-tu-nombre-para-siempre-salmo-8611-12' class='anchor'>#</a>
+</h3><h3 id='la-biblia-sí-enseña-adoración'>La Biblia sí enseña adoración&hellip;<a href='#la-biblia-s%c3%ad-ense%c3%b1a-adoraci%c3%b3n' class='anchor'>#</a>
+</h3><h2 id='encontramos-varias-palabras-traducidas-como-adorar-al-español'>Encontramos varias palabras traducidas como &lsquo;adorar&rsquo; al español<a href='#encontramos-varias-palabras-traducidas-como-adorar-al-espa%c3%b1ol' class='anchor'>#</a>
+</h2><h2 id='adorar-en-el-antiguo-testamento'>Adorar en el Antiguo Testamento<a href='#adorar-en-el-antiguo-testamento' class='anchor'>#</a>
+</h2><h3 id='שחה-shachah---una-raíz-primitiva-hacer-bajar-es-decir-postrarse-especialmente-reflexivamente-en-homenaje-a-la-realeza-o-a-dios---inclinarse-auto-hacia-abajo-agacharse-caer-aplanarse-suplicar-humildemente-hacer-hacer-reverencia-hacer-reverencia-inclinarse-adorar'>שָׁחָה [shachah] - Una raíz primitiva; hacer bajar, es decir, postrarse (especialmente reflexivamente en homenaje a la realeza o a Dios): - inclinarse (auto) hacia abajo, agacharse, caer (aplanarse), suplicar humildemente, hacer (hacer) reverencia, hacer reverencia, inclinarse, adorar.<a href='#%d7%a9%d7%97%d7%94-shachah---una-ra%c3%adz-primitiva-hacer-bajar-es-decir-postrarse-especialmente-reflexivamente-en-homenaje-a-la-realeza-o-a-dios---inclinarse-auto-hacia-abajo-agacharse-caer-aplanarse-suplicar-humildemente-hacer-hacer-reverencia-hacer-reverencia-inclinarse-adorar' class='anchor'>#</a>
+</h3><h2 id='adorar-en-el-nuevo-testamento'>Adorar en el Nuevo Testamento<a href='#adorar-en-el-nuevo-testamento' class='anchor'>#</a>
+</h2><h3 id='προσκυνέω-proskuneō---hacer-reverencia-u-homenaje-besando-la-mano-en-el-nt-hacer-reverencia-u-homenaje-mediante-la-postración'>προσκυνέω [proskuneō] - hacer reverencia u homenaje besando la mano; en el NT hacer reverencia u homenaje mediante la postración,<a href='#%cf%80%cf%81%ce%bf%cf%83%ce%ba%cf%85%ce%bd%ce%ad%cf%89-proskune%c5%8d---hacer-reverencia-u-homenaje-besando-la-mano-en-el-nt-hacer-reverencia-u-homenaje-mediante-la-postraci%c3%b3n' class='anchor'>#</a>
+</h3><h3 id='λατρεύω-latreuō---ser-siervo-servir-rendir-servicio-religioso-y-homenaje-adoración-ofrecer-sacrificios-presentar-ofrendas'>λατρεύω [latreuō] - ser siervo, servir, rendir servicio religioso y homenaje, adoración, ofrecer sacrificios, presentar ofrendas.<a href='#%ce%bb%ce%b1%cf%84%cf%81%ce%b5%cf%8d%cf%89-latreu%c5%8d---ser-siervo-servir-rendir-servicio-religioso-y-homenaje-adoraci%c3%b3n-ofrecer-sacrificios-presentar-ofrendas' class='anchor'>#</a>
+</h3><h2 id='iremos-paso-a-paso'>Iremos paso a paso<a href='#iremos-paso-a-paso' class='anchor'>#</a>
+</h2><!-- raw HTML omitted -->
+<h3 id='buscar-la-definición-de-adoración-en-el-lexico-y-observar-todas-las-veces-que-aparece-en-la-biblia-probablemente-no-le-dará-una-comprensión-cabal-de-lo-que-es'>Buscar la definición de adoración en el lexico y observar todas las veces que aparece en la Biblia probablemente no le dará una comprensión cabal de lo que es.<a href='#buscar-la-definici%c3%b3n-de-adoraci%c3%b3n-en-el-lexico-y-observar-todas-las-veces-que-aparece-en-la-biblia-probablemente-no-le-dar%c3%a1-una-comprensi%c3%b3n-cabal-de-lo-que-es' class='anchor'>#</a>
+</h3><h3 id='por-eso-en-este-estudio-nos-tomaremos-unos-pasos-hacia-atras-para-dar-una-mirada-más-amplia-y-así-llegar-a-una-mejor-comprensión-de-la-adoración-como-lo-muestra-la-biblia'>Por eso, en este estudio nos tomaremos unos pasos hacia atras para dar una mirada más amplia y así llegar a una mejor comprensión de la adoración como lo muestra la Biblia.<a href='#por-eso-en-este-estudio-nos-tomaremos-unos-pasos-hacia-atras-para-dar-una-mirada-m%c3%a1s-amplia-y-as%c3%ad-llegar-a-una-mejor-comprensi%c3%b3n-de-la-adoraci%c3%b3n-como-lo-muestra-la-biblia' class='anchor'>#</a>
+</h3><h3 id='a-todos-nos-gusta-una-buena-historia'>A todos nos gusta una buena historia&hellip;<a href='#a-todos-nos-gusta-una-buena-historia' class='anchor'>#</a>
+</h3><h3 id='para-que-una-historia-sea-buena-requiere-mínimamente-de-3-elementos-básicos'>Para que una historia sea buena, requiere mínimamente de 3 elementos básicos&hellip;<a href='#para-que-una-historia-sea-buena-requiere-m%c3%adnimamente-de-3-elementos-b%c3%a1sicos' class='anchor'>#</a>
+</h3><h3 id='1-el-inicio-esteblece-los-caracteres'>1. <strong>El Inicio</strong> (esteblece los caracteres)<a href='#1-el-inicio-esteblece-los-caracteres' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h3 id='2-el-medio-el-problema-y-solución'>2. <strong>El Medio</strong> (el problema y solución)<a href='#2-el-medio-el-problema-y-soluci%c3%b3n' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h3 id='3-el-final-resolución'>3. <strong>El Final</strong> (resolución)<a href='#3-el-final-resoluci%c3%b3n' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h2 id='cosmovision'>COSMOVISION<a href='#cosmovision' class='anchor'>#</a>
+</h2><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id='la-cosmovision-es-la-visión-o-concepción-global-del-universo'>La cosmovision es la visión o concepción global del universo.<a href='#la-cosmovision-es-la-visi%c3%b3n-o-concepci%c3%b3n-global-del-universo' class='anchor'>#</a>
+</h3><h3 id='la-cosmovisión-es-como-entendemos-el-mundo'>La cosmovisión es como entendemos el mundo.<a href='#la-cosmovisi%c3%b3n-es-como-entendemos-el-mundo' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h3 id='el-cristianismo-es-la-cosmovision-de-lo-que-es-real'>El cristianismo es la cosmovision de lo que es <strong>REAL</strong>.<a href='#el-cristianismo-es-la-cosmovision-de-lo-que-es-real' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h4 id='hay-una-sola-realidad-y-dios-quiere-que-todos-la-conozcan'>Hay una sola realidad y Dios quiere que todos la conozcan.<a href='#hay-una-sola-realidad-y-dios-quiere-que-todos-la-conozcan' class='anchor'>#</a>
+</h4><h3 id='nuestra-cosmovisión-incluye-la-historia-del-mundo-como-fué-creado-todo-a-donde-iremos-etc-etc'>Nuestra cosmovisión incluye la historia del mundo, como fué creado todo, a donde iremos etc etc.<a href='#nuestra-cosmovisi%c3%b3n-incluye-la-historia-del-mundo-como-fu%c3%a9-creado-todo-a-donde-iremos-etc-etc' class='anchor'>#</a>
+</h3><h3 id='podemos-resumir-la-cosmovisión-bíblica-en-4-puntos-al-igual-que-una-buena-historia-la-cosmovisión-cristiana-contiene-3-partes-el-início-la-parte-del-medio-que-dividiremos-en-dos-y-el-final'>Podemos resumir la cosmovisión bíblica en 4 puntos. Al igual que una buena historia, la cosmovisión cristiana contiene 3 partes. El início, la parte del medio (que dividiremos en dos) y el final.<a href='#podemos-resumir-la-cosmovisi%c3%b3n-b%c3%adblica-en-4-puntos-al-igual-que-una-buena-historia-la-cosmovisi%c3%b3n-cristiana-contiene-3-partes-el-in%c3%adcio-la-parte-del-medio-que-dividiremos-en-dos-y-el-final' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h1 id='1-dios'>1. Dios<a href='#1-dios' class='anchor'>#</a>
+</h1><hr>
+<!-- raw HTML omitted -->
+<h1 id='todo-inicia-por-dios'><strong>Todo inicia por Dios</strong><a href='#todo-inicia-por-dios' class='anchor'>#</a>
+</h1><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-inició-todo-pero-dios-no-tuvo-inicio-ni-tendrá-fin'>Dios inició todo pero Dios no tuvo inicio ni tendrá fin.<a href='#dios-inici%c3%b3-todo-pero-dios-no-tuvo-inicio-ni-tendr%c3%a1-fin' class='anchor'>#</a>
+</h3><h4 id='isaias-4028'>Isaias 40:28<a href='#isaias-4028' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-no-es-un-ser-creado'>Dios no es un ser creado.<a href='#dios-no-es-un-ser-creado' class='anchor'>#</a>
+</h3><h3 id='simplemente-siempre-ha-existido'>Simplemente siempre ha existido.<a href='#simplemente-siempre-ha-existido' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h3 id='dios-es-separado-y-por-encima-de-su-creación'>Dios es separado y por encima de su creación.<a href='#dios-es-separado-y-por-encima-de-su-creaci%c3%b3n' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h4 id='exodo-314-salmo-369-hechos-1724-25'>Exodo 3:14, Salmo 36:9, Hechos 17:24-25<a href='#exodo-314-salmo-369-hechos-1724-25' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-completamente-independiente'>Dios es completamente independiente<a href='#dios-es-completamente-independiente' class='anchor'>#</a>
+</h3><h3 id='no-depende-de-nada-ni-nadie'>(no depende de nada ni nadie).<a href='#no-depende-de-nada-ni-nadie' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h4 id='job-4111-romanos-1135-36-salmo-5010-12'>Job 41:11, Romanos 11:35-36, Salmo 50:10-12<a href='#job-4111-romanos-1135-36-salmo-5010-12' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<hr>
+<!-- raw HTML omitted -->
+<h3 id='la-historia-del-mundo-inicia-cuando-dios-crea-el-tiempo-el-espacio-y-la-materia'>La historia del mundo inicia cuando Dios crea el tiempo, el espacio y la materia.<a href='#la-historia-del-mundo-inicia-cuando-dios-crea-el-tiempo-el-espacio-y-la-materia' class='anchor'>#</a>
+</h3><h4 id='genesis-11'>Genesis 1:1<a href='#genesis-11' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-creo-todo-en-6-días'>Dios creo todo en 6 días.<a href='#dios-creo-todo-en-6-d%c3%adas' class='anchor'>#</a>
+</h3><h3 id='al-terminar-su-obra-declaró-que-todo-era-muy-bueno'>Al terminar su obra declaró que todo era muy bueno.<a href='#al-terminar-su-obra-declar%c3%b3-que-todo-era-muy-bueno' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h4 id='genesis-131-1-timoteo-44'>Genesis 1:31, 1 Timoteo 4:4,<a href='#genesis-131-1-timoteo-44' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<hr>
+<!-- raw HTML omitted -->
+<h4 id='en-el-principio-dios-el-hombre-y-el-resto-de-la-creación-estaban-en-una-relación-de-perfecta-paz-y-armonia'>En el principio, Dios, el hombre y el resto de la creación estaban en una relación de perfecta paz y armonia.<a href='#en-el-principio-dios-el-hombre-y-el-resto-de-la-creaci%c3%b3n-estaban-en-una-relaci%c3%b3n-de-perfecta-paz-y-armonia' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h2 id='el-caracter-revelado-de-dios'><strong>EL CARACTER REVELADO DE DIOS</strong><a href='#el-caracter-revelado-de-dios' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='hay-un-solo-dios-verdadero'>Hay un solo Dios verdadero.<a href='#hay-un-solo-dios-verdadero' class='anchor'>#</a>
+</h3><h4 id='jeremias-1010-1-juan-520'>Jeremias 10:10, 1 Juan 5:20<a href='#jeremias-1010-1-juan-520' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-todopoderoso'>Dios es todopoderoso.<a href='#dios-es-todopoderoso' class='anchor'>#</a>
+</h3><h4 id='genesis-171-salmo-1475-hebreos-13'>Genesis 17:1, Salmo 147:5, Hebreos 1:3<a href='#genesis-171-salmo-1475-hebreos-13' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-eterno'>Dios es eterno.<a href='#dios-es-eterno' class='anchor'>#</a>
+</h3><h4 id='genesis-2133-juan-858-deuteronomio-3327-salmo-902'>Genesis 21:33, Juan 8:58, Deuteronomio 33:27, Salmo 90:2<a href='#genesis-2133-juan-858-deuteronomio-3327-salmo-902' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-celoso'>Dios es celoso.<a href='#dios-es-celoso' class='anchor'>#</a>
+</h3><h4 id='exodo-3414-1-corintios-1022'>Exodo 34:14, 1 Corintios 10:22<a href='#exodo-3414-1-corintios-1022' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-santo'>Dios es santo.<a href='#dios-es-santo' class='anchor'>#</a>
+</h3><h4 id='job-610-isaias-63'>Job 6:10, Isaias 6:3,<a href='#job-610-isaias-63' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-confiable'>Dios es confiable.<a href='#dios-es-confiable' class='anchor'>#</a>
+</h3><h4 id='salmo-334-salmo-14513'>Salmo 33:4, Salmo 145:13<a href='#salmo-334-salmo-14513' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-justo'>Dios es justo.<a href='#dios-es-justo' class='anchor'>#</a>
+</h3><h4 id='deuteronomio-324-isaias-4521-romanos-326-sofonias-35'>Deuteronomio 32:4, Isaias 45:21, Romanos 3:26, Sofonias 3:5,<a href='#deuteronomio-324-isaias-4521-romanos-326-sofonias-35' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-fiel'>Dios es fiel.<a href='#dios-es-fiel' class='anchor'>#</a>
+</h3><h4 id='2-corintios-118-1-tesalonicenses-524'>2 Corintios 1:18, 1 Tesalonicenses 5:24<a href='#2-corintios-118-1-tesalonicenses-524' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-bueno'>Dios es bueno.<a href='#dios-es-bueno' class='anchor'>#</a>
+</h3><h4 id='nahum-17-marcos-1018'>Nahum 1:7, Marcos 10:18<a href='#nahum-17-marcos-1018' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-es-amor'>Dios es amor.<a href='#dios-es-amor' class='anchor'>#</a>
+</h3><h4 id='1-juan-48-romanos-58-1-juan-31'>1 Juan 4:8, Romanos 5:8, 1 Juan 3:1<a href='#1-juan-48-romanos-58-1-juan-31' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h2 id='el-proposito-de-dios'><strong>EL PROPOSITO DE DIOS</strong><a href='#el-proposito-de-dios' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='como-creador-dios-es-dueño-de-todo'>Como creador, Dios es dueño de todo.<a href='#como-creador-dios-es-due%c3%b1o-de-todo' class='anchor'>#</a>
+</h3><h4 id='juan-13-hebreos-110--salmo-241-job-4111-ezekiel-184-isaiah-3716'>Juan 1:3, Hebreos 1:10,  Salmo 24:1, Job 41:11, Ezekiel 18:4, Isaiah 37:16<a href='#juan-13-hebreos-110--salmo-241-job-4111-ezekiel-184-isaiah-3716' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='todo-fue-creado-por-y-para-jesucristo'>Todo fue creado por y para Jesucristo.<a href='#todo-fue-creado-por-y-para-jesucristo' class='anchor'>#</a>
+</h3><h4 id='colosenses-16-romanos-1136-hebreos-12'>Colosenses 1:6, Romanos 11:36, Hebreos 1:2<a href='#colosenses-16-romanos-1136-hebreos-12' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='juan-423-dice-que-dios-está-en-busqueda-de-verdaderos-adoradores'>Juan 4:23 dice que Dios está en busqueda de verdaderos adoradores&hellip;<a href='#juan-423-dice-que-dios-est%c3%a1-en-busqueda-de-verdaderos-adoradores' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='pero-la-hora-viene-y-ahora-es-cuando-los-verdaderos-adoradores-adorarán-al-padre-en-espíritu-y-en-verdad-porque-ciertamente-span-stylecolor-yellowa-los-tales-el-padre-buscaspan-que-lo-adoren'><em>Pero la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque ciertamente <!-- raw HTML omitted -->a los tales el Padre busca<!-- raw HTML omitted --> que lo adoren</em>.<a href='#pero-la-hora-viene-y-ahora-es-cuando-los-verdaderos-adoradores-adorar%c3%a1n-al-padre-en-esp%c3%adritu-y-en-verdad-porque-ciertamente-span-stylecolor-yellowa-los-tales-el-padre-buscaspan-que-lo-adoren' class='anchor'>#</a>
+</h3><h4 id='juan-423-isaias-6623-1-pedro-29-isaiah-4321-salmo-1506-isaias-437'>Juan 4:23, Isaias 66:23, 1 Pedro 2:9, Isaiah 43:21, Salmo 150:6, Isaias 43:7<a href='#juan-423-isaias-6623-1-pedro-29-isaiah-4321-salmo-1506-isaias-437' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h1 id='2-el-hombre'>2. El Hombre<a href='#2-el-hombre' class='anchor'>#</a>
+</h1><hr>
+<!-- raw HTML omitted -->
+<h2 id='una-criatura-superior'>Una criatura superior<a href='#una-criatura-superior' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='cuando-dios-creó-la-humanidad-hizo-algo-muy-creativo'>Cuando Dios creó la humanidad, hizo algo muy creativo.<a href='#cuando-dios-cre%c3%b3-la-humanidad-hizo-algo-muy-creativo' class='anchor'>#</a>
+</h3><h3 id='hizo-seres-a-su-imagen-capaz-de-razonar-sentir-y-relacionarse'>Hizo seres a Su imagen, capaz de razonar, sentir y relacionarse.<a href='#hizo-seres-a-su-imagen-capaz-de-razonar-sentir-y-relacionarse' class='anchor'>#</a>
+</h3><h4 id='genesis-27-isaias-425-salmo-13913-14-marcos-106--salmo-84-8'>Genesis 2:7, Isaias 42:5, Salmo 139:13-14, Marcos 10:6,  Salmo 8:4-8<a href='#genesis-27-isaias-425-salmo-13913-14-marcos-106--salmo-84-8' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-hombre-fué-bendecido-por-dios-para-multiplicar-y-llenar-la-tierra-de-su-imagen'>El hombre fué bendecido por Dios para multiplicar y llenar la tierra de Su imagen.<a href='#el-hombre-fu%c3%a9-bendecido-por-dios-para-multiplicar-y-llenar-la-tierra-de-su-imagen' class='anchor'>#</a>
+</h3><h4 id='genesis-128-mark-1213-17-colosenses-115'>Genesis 1:28, Mark 12:13-17, Colosenses 1:15<a href='#genesis-128-mark-1213-17-colosenses-115' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-hombre-no-fué-creado-para-existir-independiente-de-dios-el-hombre-es-totalmente-dependiente-de-dios'>El hombre no fué creado para existir independiente de Dios. El hombre es totalmente dependiente de Dios.<a href='#el-hombre-no-fu%c3%a9-creado-para-existir-independiente-de-dios-el-hombre-es-totalmente-dependiente-de-dios' class='anchor'>#</a>
+</h3><h4 id='genesis-219-22-genesis-312-hechos-1722-28'>Genesis 2:19-22, Genesis 3:12, Hechos 17:22-28<a href='#genesis-219-22-genesis-312-hechos-1722-28' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='sin-embargo-y-a-pesar-que-dios-proveyó-todo-para-que-el-hombre-pudiera-ser-un-fiel-dependiente-y-administrador-de-todo-el-jardín-el-hombre-se-rebeló'>Sin embargo, y a pesar que Dios proveyó todo para que el hombre pudiera ser un fiel dependiente y administrador de todo el jardín, el hombre se rebeló.<a href='#sin-embargo-y-a-pesar-que-dios-provey%c3%b3-todo-para-que-el-hombre-pudiera-ser-un-fiel-dependiente-y-administrador-de-todo-el-jard%c3%adn-el-hombre-se-rebel%c3%b3' class='anchor'>#</a>
+</h3><h4 id='heading'><a href='#heading' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='cuando-peco-entró-la-muerte'>Cuando peco, entró la muerte.<a href='#cuando-peco-entr%c3%b3-la-muerte' class='anchor'>#</a>
+</h3><h4 id='génesis-216-17-romanos-512'>Génesis 2:16-17, Romanos 5:12<a href='#g%c3%a9nesis-216-17-romanos-512' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h2 id='que-significa-la-frase-entró-la-muerte-romanos-512'>¿Que significa la frase &ldquo;<em>entró la muerte</em>&rdquo;? Romanos 5:12<a href='#que-significa-la-frase-entr%c3%b3-la-muerte-romanos-512' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-muerte-en-la-biblia-no-significa-dejar-de-existir'>La muerte en la Biblia no significa dejar de existir.<a href='#la-muerte-en-la-biblia-no-significa-dejar-de-existir' class='anchor'>#</a>
+</h3><h3 id='cuando-la-biblia-menciona-muerte-siempre-se-refiere-a-separación'>Cuando la Biblia menciona muerte siempre se refiere a separación.<a href='#cuando-la-biblia-menciona-muerte-siempre-se-refiere-a-separaci%c3%b3n' class='anchor'>#</a>
+</h3><h3 id='el-tipo-de-muerte-es-determinado-por-el-contexto'>El tipo de muerte es determinado por el contexto.<a href='#el-tipo-de-muerte-es-determinado-por-el-contexto' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-biblia-menciona-muerte-física-separación-entre-el-espíritu-y-el-cuerpo-lucas-854-55'>La Biblia menciona muerte física (separación entre el espíritu y el cuerpo). Lucas 8:54-55<a href='#la-biblia-menciona-muerte-f%c3%adsica-separaci%c3%b3n-entre-el-esp%c3%adritu-y-el-cuerpo-lucas-854-55' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-biblia-menciona-muerte-espiritual-separación-espiritual-entre-dios-y-el-hombre-efesios-21-5'>La Biblia menciona muerte espiritual (separación espiritual entre Dios y el hombre). Efesios 2:1, 5<a href='#la-biblia-menciona-muerte-espiritual-separaci%c3%b3n-espiritual-entre-dios-y-el-hombre-efesios-21-5' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-biblia-menciona-muerte-de-relación-separación-de-estado-romanos-66-romanos-74'>La Biblia menciona muerte de relación (separación de estado). Romanos 6:6, Romanos 7:4<a href='#la-biblia-menciona-muerte-de-relaci%c3%b3n-separaci%c3%b3n-de-estado-romanos-66-romanos-74' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-biblia-menciona-muerte-de-comunión-1-timoteo-55-6'>La Biblia menciona muerte de comunión. 1 Timoteo 5:5-6<a href='#la-biblia-menciona-muerte-de-comuni%c3%b3n-1-timoteo-55-6' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-biblia-menciona-muerte-eterna-separación-eterna-en-el-lago-de-fuego-apocalipsis-2014'>La Biblia menciona muerte eterna (separación eterna en el lago de fuego). Apocalipsis 20:14<a href='#la-biblia-menciona-muerte-eterna-separaci%c3%b3n-eterna-en-el-lago-de-fuego-apocalipsis-2014' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-historia-pudo-haber-terminado-ahí'>La historia pudo haber terminado ahí&hellip;<a href='#la-historia-pudo-haber-terminado-ah%c3%ad' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h2 id='pero-dios-tenía-un-plan-preparado'>Pero Dios tenía un Plan Preparado<a href='#pero-dios-ten%c3%ada-un-plan-preparado' class='anchor'>#</a>
+</h2><h3 id='2-timoteo-19-10-1-pedro-119-20'>2 Timoteo 1:9-10, 1 Pedro 1:19-20<a href='#2-timoteo-19-10-1-pedro-119-20' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-podia-haber-hecho-adoradores-de-las-piedras-pero-no-lo-hizo'>Dios podia haber hecho adoradores de las piedras. Pero no lo hizo.<a href='#dios-podia-haber-hecho-adoradores-de-las-piedras-pero-no-lo-hizo' class='anchor'>#</a>
+</h3><h4 id='lucas-38'>Lucas 3:8<a href='#lucas-38' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='los-cielos-si-declaran-la-gloria-de-dios-pero-esto-no-es-adoración'>Los cielos si declaran la gloria de Dios, pero esto no es adoración.<a href='#los-cielos-si-declaran-la-gloria-de-dios-pero-esto-no-es-adoraci%c3%b3n' class='anchor'>#</a>
+</h3><h3 id='no-tienen-voluntad-simplemente-reflejan-naturalmente-la-inteligencia-creatividad-y-poder-de-dios'>No tienen voluntad, simplemente reflejan naturalmente la inteligencia, creatividad y poder de Dios.<a href='#no-tienen-voluntad-simplemente-reflejan-naturalmente-la-inteligencia-creatividad-y-poder-de-dios' class='anchor'>#</a>
+</h3><h4 id='salmo-191'>Salmo 19:1<a href='#salmo-191' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h2 id='el-conflicto-central-de-la-historia-es-el-hombre'>El Conflicto Central de la Historia es el Hombre.<a href='#el-conflicto-central-de-la-historia-es-el-hombre' class='anchor'>#</a>
+</h2><h3 id='ezekiel-2230'>Ezekiel 22:30<a href='#ezekiel-2230' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-hombre-fue-creado-para-adorar'>El hombre fue creado para adorar.<a href='#el-hombre-fue-creado-para-adorar' class='anchor'>#</a>
+</h3><h4 id='isaias-4321-isaias-437-mateo-410-apocalipsis-147-salmo-292-apocalipsis-49-11'>Isaias 43:21, Isaias 43:7, Mateo 4:10, Apocalipsis 14:7, Salmo 29:2, Apocalipsis 4:9-11<a href='#isaias-4321-isaias-437-mateo-410-apocalipsis-147-salmo-292-apocalipsis-49-11' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-creó-a-la-humanidad-para-que-lo-adorara-a-él-y-solo-a-el-pero-desde-el-jardín-del-edén-la-humanidad-ha-buscado-su-realización-fuera-de-dios'>Dios creó a la humanidad para que Lo adorara a Él y solo a El, pero desde el Jardín del Edén, la humanidad ha buscado su realización fuera de Dios.<a href='#dios-cre%c3%b3-a-la-humanidad-para-que-lo-adorara-a-%c3%a9l-y-solo-a-el-pero-desde-el-jard%c3%adn-del-ed%c3%a9n-la-humanidad-ha-buscado-su-realizaci%c3%b3n-fuera-de-dios' class='anchor'>#</a>
+</h3><h4 id='romanos-121-romanos-123-romanos-125'>Romanos 1:21, Romanos 1:23, Romanos 1:25<a href='#romanos-121-romanos-123-romanos-125' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='naturalmente-el-hombre-adora-a-su-manera-genesis-43-5'>Naturalmente el hombre adora a su manera. Genesis 4:3-5<a href='#naturalmente-el-hombre-adora-a-su-manera-genesis-43-5' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='naturalmente-el-hombre-adora-cosas-creadas-que-cree-que-le-darán-lo-que-quiere'>Naturalmente el hombre adora cosas creadas que cree que le darán lo que quiere.<a href='#naturalmente-el-hombre-adora-cosas-creadas-que-cree-que-le-dar%c3%a1n-lo-que-quiere' class='anchor'>#</a>
+</h3><h4 id='exodo-321-6'>Exodo 32:1-6<a href='#exodo-321-6' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='sabemos-quien-está-detras-de-todo-esto-y-al-final-se-revelará-claramente'>Sabemos quien está detras de todo esto y al final se revelará claramente.<a href='#sabemos-quien-est%c3%a1-detras-de-todo-esto-y-al-final-se-revelar%c3%a1-claramente' class='anchor'>#</a>
+</h3><h4 id='apocalipsis-131-8'>Apocalipsis 13:1-8<a href='#apocalipsis-131-8' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h4 id='esto-por-supuesto-siempre-demuestra-ser-una-búsqueda-vacía'>Esto, por supuesto, siempre demuestra ser una búsqueda vacía.<a href='#esto-por-supuesto-siempre-demuestra-ser-una-b%c3%basqueda-vac%c3%ada' class='anchor'>#</a>
+</h4><h4 id='jeremías-25-isaías-536-romanos-118-25-romanos-102-3'>Jeremías 2:5; Isaías 53:6; Romanos 1:18-25; Romanos 10:2-3<a href='#jerem%c3%adas-25-isa%c3%adas-536-romanos-118-25-romanos-102-3' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h2 id='resumiendo'>Resumiendo<a href='#resumiendo' class='anchor'>#</a>
+</h2><h3 id='el-hombre-no-confió-en-su-creador'>El hombre no confió en su creador.<a href='#el-hombre-no-confi%c3%b3-en-su-creador' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h3 id='pasó-de-ser-un-adorador-de-dios'>Pasó de ser un adorador de Dios<a href='#pas%c3%b3-de-ser-un-adorador-de-dios' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h3 id='a-un-adorador-de-lo-creado'>a un adorador de lo creado.<a href='#a-un-adorador-de-lo-creado' class='anchor'>#</a>
+</h3><!-- raw HTML omitted -->
+<h4 id='lucas-46-7'>Lucas 4:6-7<a href='#lucas-46-7' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<hr>
+<!-- raw HTML omitted -->
+<h3 id='cuando-el-hombre-decidió-no-obedecer-a-dios-no-solo-dejó-de-adorarle-sino-que-perdió-acceso-al-jardín'>Cuando el hombre decidió no obedecer a Dios, no solo dejó de adorarle, sino que perdió acceso al jardín.<a href='#cuando-el-hombre-decidi%c3%b3-no-obedecer-a-dios-no-solo-dej%c3%b3-de-adorarle-sino-que-perdi%c3%b3-acceso-al-jard%c3%adn' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='debemos-comprender-algo'>Debemos comprender algo&hellip;<a href='#debemos-comprender-algo' class='anchor'>#</a>
+</h3><h3 id='aunque-adán-hubiese-pedido-perdón-en-ese-momento-a-dios-no-hubiera-sido-restaurado-al-jardín-porque'>Aunque Adán hubiese pedido perdón en ese momento a Dios, no hubiera sido restaurado al jardín. ¿Porque?<a href='#aunque-ad%c3%a1n-hubiese-pedido-perd%c3%b3n-en-ese-momento-a-dios-no-hubiera-sido-restaurado-al-jard%c3%adn-porque' class='anchor'>#</a>
+</h3><h4 id='romanos-518-genesis-324-genesis-315--juan-318'>Romanos 5:18, Genesis 3:24, Genesis 3:15,  Juan 3:18<a href='#romanos-518-genesis-324-genesis-315--juan-318' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='todo-lo-que-el-hombre-es-capáz-de-lograr-es-insuficiente-ineficaz-y-despreciable-ante-dios'>Todo lo que el hombre es capáz de lograr es insuficiente, ineficaz y despreciable ante Dios.<a href='#todo-lo-que-el-hombre-es-cap%c3%a1z-de-lograr-es-insuficiente-ineficaz-y-despreciable-ante-dios' class='anchor'>#</a>
+</h3><h4 id='isaias-646-isaias-5712-romanos-102-3'>Isaias 64:6, Isaias 57:12, Romanos 10:2-3<a href='#isaias-646-isaias-5712-romanos-102-3' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='ciertamente-span-stylecolor-yellowno-hay-hombre-justo-en-la-tierraspan-que-haga-el-bien-y-nunca-peque-eclesiastes-720'><em>Ciertamente <!-- raw HTML omitted -->no hay hombre justo en la tierra<!-- raw HTML omitted --> Que haga el bien y nunca peque</em>. Eclesiastes 7:20<a href='#ciertamente-span-stylecolor-yellowno-hay-hombre-justo-en-la-tierraspan-que-haga-el-bien-y-nunca-peque-eclesiastes-720' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='span-stylecolor-yellowtodos-se-han-desviadospan-a-una-se-han-corrompido-no-hay-quien-haga-el-bien-no-hay-ni-siquiera-uno-salmo-533'><em><!-- raw HTML omitted -->Todos se han desviado<!-- raw HTML omitted -->, a una se han corrompido; No hay quien haga el bien, no hay ni siquiera uno</em>. Salmo 53:3<a href='#span-stylecolor-yellowtodos-se-han-desviadospan-a-una-se-han-corrompido-no-hay-quien-haga-el-bien-no-hay-ni-siquiera-uno-salmo-533' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-hombre-es-el-culpable-romanos-310-20'>El hombre es el culpable. Romanos 3:10-20<a href='#el-hombre-es-el-culpable-romanos-310-20' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='en-conclusion-el-hombre-es-el-problema'>En conclusion: <strong>¡El hombre es el problema!</strong><a href='#en-conclusion-el-hombre-es-el-problema' class='anchor'>#</a>
+</h3><h3 id='el-hombre-no-tiene-esperanza-alguna-de-arreglar-su-situación-para-con-dios'>El hombre no tiene esperanza alguna de arreglar su situación para con Dios.<a href='#el-hombre-no-tiene-esperanza-alguna-de-arreglar-su-situaci%c3%b3n-para-con-dios' class='anchor'>#</a>
+</h3><h4 id='eclesiastés-93-romanos-312-romanos-623'>Eclesiastés 9:3, Romanos 3:12, Romanos 6:23<a href='#eclesiast%c3%a9s-93-romanos-312-romanos-623' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='pero-gracias-sean-dadas-a-dios-que-a-pesar-del-rechazo-del-hombre-proveyó-una-solución'>¡¡Pero gracias sean dadas a Dios que a pesar del rechazo del hombre, proveyó una solución!!<a href='#pero-gracias-sean-dadas-a-dios-que-a-pesar-del-rechazo-del-hombre-provey%c3%b3-una-soluci%c3%b3n' class='anchor'>#</a>
+</h3><h4 id='romanos-321-22'>Romanos 3:21-22<a href='#romanos-321-22' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='es-decir-dios-hizo-posible-el-pago-justo-por-nuestros-pecados-de-manera-sustitutiva-por-medio-de-jesucristo-romanos-323-24'>Es decir, Dios hizo posible el pago justo por nuestros pecados de manera sustitutiva por medio de Jesucristo. Romanos 3:23-24<a href='#es-decir-dios-hizo-posible-el-pago-justo-por-nuestros-pecados-de-manera-sustitutiva-por-medio-de-jesucristo-romanos-323-24' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='la-condena-que-nos-mereciamos-la-tomó-el'>¡La condena que nos mereciamos, la tomó El!<a href='#la-condena-que-nos-mereciamos-la-tom%c3%b3-el' class='anchor'>#</a>
+</h3><h4 id='gálatas-313'>Gálatas 3:13<a href='#g%c3%a1latas-313' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h1 id='entonces-la-pregunta-que-debes-responder-es'>Entonces, La pregunta que debes responder es&hellip;<a href='#entonces-la-pregunta-que-debes-responder-es' class='anchor'>#</a>
+</h1><hr>
+<!-- raw HTML omitted -->
+<h3 id='has-creido-que-cristo-es-suficiente-para-el-pago-de-tus-pecados-y-para-darte-vida-eterna-para-nunca-más-ver-la-condenación'>¿Has creido que Cristo es <strong>suficiente</strong> para el pago de tus pecados y para darte vida eterna, para nunca más ver la condenación?<a href='#has-creido-que-cristo-es-suficiente-para-el-pago-de-tus-pecados-y-para-darte-vida-eterna-para-nunca-m%c3%a1s-ver-la-condenaci%c3%b3n' class='anchor'>#</a>
+</h3><h4 id='1-juan-513-juan-524'>1 Juan 5:13, Juan 5:24<a href='#1-juan-513-juan-524' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h1 id='3-solución'>3. Solución<a href='#3-soluci%c3%b3n' class='anchor'>#</a>
+</h1><hr>
+<!-- raw HTML omitted -->
+<h2 id='dios-proveyó-la-solución'>Dios proveyó la solución<a href='#dios-provey%c3%b3-la-soluci%c3%b3n' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h2 id='ihebreos-101-39--el-valor-del-sacrificio-único-de-cristo'>I.	Hebreos 10:1-39 – El Valor del Sacrificio Único de Cristo<a href='#ihebreos-101-39--el-valor-del-sacrificio-%c3%banico-de-cristo' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='ahebreos-101-10--el-éxito-del-sacrificio-de-cristo'>A.	Hebreos 10:1-10 – El éxito del sacrificio de Cristo<a href='#ahebreos-101-10--el-%c3%a9xito-del-sacrificio-de-cristo' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='bhebreos-1011-18--el-alcance-del-sacrificio-de-cristo'>B.	Hebreos 10:11-18 – El alcance del sacrificio de Cristo<a href='#bhebreos-1011-18--el-alcance-del-sacrificio-de-cristo' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='chebreos-1019-25--la-motivación-que-el-sacrificio-de-cristo-provee'>C.	Hebreos 10:19-25 – La motivación que el sacrificio de Cristo Provee<a href='#chebreos-1019-25--la-motivaci%c3%b3n-que-el-sacrificio-de-cristo-provee' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h4 id='1hebreos-1019-20--cómo-debe-el-conocimiento-del-sacrificio-de-cristo-impactar-nuestras-vidas'>1.	Hebreos 10:19-20 – ¿Cómo debe el conocimiento del sacrificio de Cristo impactar nuestras vidas?<a href='#1hebreos-1019-20--c%c3%b3mo-debe-el-conocimiento-del-sacrificio-de-cristo-impactar-nuestras-vidas' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h5 id='ahebreos-1019a--así-que-considerando-la-naturaleza-eficaz-del-sacrificio-de-cristo'>a.	Hebreos 10:19a – Así que, considerando la naturaleza eficaz del sacrificio de Cristo…<a href='#ahebreos-1019a--as%c3%ad-que-considerando-la-naturaleza-eficaz-del-sacrificio-de-cristo' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h5 id='bhebreos-1019b--hermanos-al-referirse-a-sus-lectores-como-hermanos-el-autor-reconocía-que-sus-destinatarios-eran-creyentes'>b.	Hebreos 10:19b – Hermanos… Al referirse a sus lectores como hermanos, el autor reconocía que sus destinatarios eran creyentes.<a href='#bhebreos-1019b--hermanos-al-referirse-a-sus-lectores-como-hermanos-el-autor-reconoc%c3%ada-que-sus-destinatarios-eran-creyentes' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h5 id='chebreos-1019c--teniendo-libertad-para-entrar-en-el-lugar-santísimo-por-la-sangre-de-jesucristo-debido-al-perdón-que-recibieron-por-medio-de-la-sangre-de-cristo-los-creyentes-hebreos-podían-entrar-a-la-presencia-de-dios-con-confianza-romanos-831-39-1-pedro-118-19-1-juan-17'>c.	Hebreos 10:19c – Teniendo libertad para entrar en el Lugar Santísimo por la sangre de Jesucristo. Debido al perdón que recibieron por medio de la sangre de Cristo, los creyentes hebreos podían entrar a la presencia de Dios con confianza. Romanos 8:31 39, 1 Pedro 1:18-19, 1 Juan 1:7<a href='#chebreos-1019c--teniendo-libertad-para-entrar-en-el-lugar-sant%c3%adsimo-por-la-sangre-de-jesucristo-debido-al-perd%c3%b3n-que-recibieron-por-medio-de-la-sangre-de-cristo-los-creyentes-hebreos-pod%c3%adan-entrar-a-la-presencia-de-dios-con-confianza-romanos-831-39-1-pedro-118-19-1-juan-17' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h6 id='1en-hebreos-414-16-somos-invitados-a-acercarnos-al-lugar-santo-la-presencia-de-dios-en-cualquier-momento-por-medio-de-la-oración-efesios-311-12'>1)	En Hebreos 4:14-16 somos invitados a acercarnos al Lugar Santo (La presencia de Dios) en cualquier momento por medio de la oración. Efesios 3:11-12<a href='#1en-hebreos-414-16-somos-invitados-a-acercarnos-al-lugar-santo-la-presencia-de-dios-en-cualquier-momento-por-medio-de-la-oraci%c3%b3n-efesios-311-12' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='2un-día-en-el-futuro-podremos-acercarnos-a-dios-a-su-lugar-santísimo-celestial-en-persona-2-corintios-56-8-filipenses-123-1-tesalonicenses-417-18-510-hebreos-719-1-pedro-29-10-318-apocalipsis-223-4'>2)	Un día en el futuro podremos acercarnos a Dios a Su Lugar Santísimo celestial en persona. 2 Corintios 5:6-8; Filipenses 1:23; 1 Tesalonicenses 4:17-18, 5:10; Hebreos 7:19; 1 Pedro 2:9-10, 3:18, Apocalipsis 22:3-4<a href='#2un-d%c3%ada-en-el-futuro-podremos-acercarnos-a-dios-a-su-lugar-sant%c3%adsimo-celestial-en-persona-2-corintios-56-8-filipenses-123-1-tesalonicenses-417-18-510-hebreos-719-1-pedro-29-10-318-apocalipsis-223-4' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='3verdaderamente-ninguno-de-nosotros-es-digno-o-suficientemente-bueno-para-acercarse-a-dios-ni-siquiera-en-nuestro-mejor-día-ninguno-de-nosotros-se-acercará-jamás-a-dios-basado-en-nuestra-bondad-sino-solamente-sobre-la-base-de-la-obra-consumada-de-cristo'>3)	Verdaderamente ninguno de nosotros es digno o suficientemente bueno para acercarse a Dios, ni siquiera en nuestro mejor día. Ninguno de nosotros se acercará jamás a Dios basado en nuestra bondad sino solamente sobre la base de la obra consumada de Cristo.<a href='#3verdaderamente-ninguno-de-nosotros-es-digno-o-suficientemente-bueno-para-acercarse-a-dios-ni-siquiera-en-nuestro-mejor-d%c3%ada-ninguno-de-nosotros-se-acercar%c3%a1-jam%c3%a1s-a-dios-basado-en-nuestra-bondad-sino-solamente-sobre-la-base-de-la-obra-consumada-de-cristo' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h5 id='dhebreos-1020--por-el-camino-nuevo-y-vivo-que-él-nos-abrió-a-través-del-velo-esto-es-de-su-carne-cristo-abrió-el-camino-para-que-entráramos-al-lugar-santísimo-por-medio-de-su-cuerpo-físico-que-fue-rasgado-en-su-muerte-substitutiva-por-nosotros-en-la-cruz'>d.	Hebreos 10:20 – Por el camino nuevo y vivo que Él nos abrió a través del velo, esto es, de Su carne. Cristo abrió el camino para que entráramos al Lugar Santísimo por medio de Su cuerpo físico que fue rasgado en Su muerte substitutiva por nosotros en la cruz.<a href='#dhebreos-1020--por-el-camino-nuevo-y-vivo-que-%c3%a9l-nos-abri%c3%b3-a-trav%c3%a9s-del-velo-esto-es-de-su-carne-cristo-abri%c3%b3-el-camino-para-que-entr%c3%a1ramos-al-lugar-sant%c3%adsimo-por-medio-de-su-cuerpo-f%c3%adsico-que-fue-rasgado-en-su-muerte-substitutiva-por-nosotros-en-la-cruz' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h6 id='1la-puerta-que-cristo-abrió-no-estaba-en-el-lugar-santo-en-el-tabernáculo-terrenal-nosotros-ahora-entramos-a-la-presencia-celestial-de-dios-por-medio-del-camino-nuevo-y-vivo-que-la-muerte-de-jesús-proveyó-juan-221-22-romanos-83'>1)	La puerta que Cristo abrió no estaba en el Lugar Santo en el tabernáculo terrenal. Nosotros ahora entramos a la presencia celestial de Dios por medio del camino nuevo y vivo que la muerte de Jesús proveyó. Juan 2:21-22, Romanos 8:3<a href='#1la-puerta-que-cristo-abri%c3%b3-no-estaba-en-el-lugar-santo-en-el-tabern%c3%a1culo-terrenal-nosotros-ahora-entramos-a-la-presencia-celestial-de-dios-por-medio-del-camino-nuevo-y-vivo-que-la-muerte-de-jes%c3%bas-provey%c3%b3-juan-221-22-romanos-83' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='2el-camino-nuevo-y-vivo-hacia-el-verdadero-lugar-santísimo-fue-a-través-de-la-muerte-física-y-espiritual-de-cristo-marcos-1534-si-bien-en-su-cuerpo-físico-en-la-cruz-1-pedro-224'>2)	El camino nuevo y vivo hacia el verdadero Lugar Santísimo fue a través de la muerte física y espiritual de Cristo (Marcos 15:34) si bien en Su cuerpo físico en la cruz. 1 Pedro 2:24<a href='#2el-camino-nuevo-y-vivo-hacia-el-verdadero-lugar-sant%c3%adsimo-fue-a-trav%c3%a9s-de-la-muerte-f%c3%adsica-y-espiritual-de-cristo-marcos-1534-si-bien-en-su-cuerpo-f%c3%adsico-en-la-cruz-1-pedro-224' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='3a-través-del-velo-esto-es-su-carne-el-cuerpo-de-cristo-fue-la-cortina-que-fue-rasgada-para-abrirnos-el-camino-para-entrar-a-la-presencia-de-dios-juan-109-146-1-timoteo-25'>3)	…a través del velo, esto es, Su carne. El cuerpo de Cristo fue la cortina que fue rasgada para abrirnos el camino para entrar a la presencia de Dios. Juan 10:9, 14:6; 1 Timoteo 2:5<a href='#3a-trav%c3%a9s-del-velo-esto-es-su-carne-el-cuerpo-de-cristo-fue-la-cortina-que-fue-rasgada-para-abrirnos-el-camino-para-entrar-a-la-presencia-de-dios-juan-109-146-1-timoteo-25' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='4en-la-salvación-pasamos-de-muerte-a-vida-eterna-a-través-de-cristo-por-medio-de-todo-lo-que-ocurrió-en-su-sacrificio-en-la-cruz-juan-524'>4)	En la salvación pasamos de muerte a vida eterna a través de Cristo, por medio de todo lo que ocurrió en Su sacrificio en la cruz. Juan 5:24<a href='#4en-la-salvaci%c3%b3n-pasamos-de-muerte-a-vida-eterna-a-trav%c3%a9s-de-cristo-por-medio-de-todo-lo-que-ocurri%c3%b3-en-su-sacrificio-en-la-cruz-juan-524' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h4 id='2hebreos-1021-25--por-lo-tanto-basados-en-la-obra-sacrificial-sacerdotal-de-cristo-debemos-acercarnos-v22-aferrarnos-v23-mostrar-compasión-v24-evitar-la-negligencia-v25a-y-buscar-motivar-a-otros-positivamente-v25b'>2.	Hebreos 10:21-25 – Por lo tanto basados en la obra sacrificial sacerdotal de Cristo, debemos acercarnos (v.22), aferrarnos (v.23), mostrar compasión (v.24), evitar la negligencia (v.25a), y buscar motivar a otros positivamente (v.25b).<a href='#2hebreos-1021-25--por-lo-tanto-basados-en-la-obra-sacrificial-sacerdotal-de-cristo-debemos-acercarnos-v22-aferrarnos-v23-mostrar-compasi%c3%b3n-v24-evitar-la-negligencia-v25a-y-buscar-motivar-a-otros-positivamente-v25b' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h5 id='ahebreos-1021--y-teniendo-un-gran-sacerdote-sobre-la-casa-de-dios-el-conocimiento-del-sacrificio-vs19-20-y-sacerdocio-de-cristo-v21-debe-movernos-a-la-acción-piadosa'>a.	Hebreos 10:21 – Y teniendo un gran sacerdote sobre la casa de Dios… El conocimiento del sacrificio (vs.19-20) y sacerdocio de Cristo (v.21) debe movernos a la acción piadosa.<a href='#ahebreos-1021--y-teniendo-un-gran-sacerdote-sobre-la-casa-de-dios-el-conocimiento-del-sacrificio-vs19-20-y-sacerdocio-de-cristo-v21-debe-movernos-a-la-acci%c3%b3n-piadosa' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h5 id='bhebreos-1022--basados-en-el-sacerdocio-de-cristo-estamos-ahora-invitados-a-acercarnos-a-dios-entusiastamente'>b.	Hebreos 10:22 – Basados en el sacerdocio de Cristo, estamos ahora invitados a acercarnos a Dios entusiastamente.<a href='#bhebreos-1022--basados-en-el-sacerdocio-de-cristo-estamos-ahora-invitados-a-acercarnos-a-dios-entusiastamente' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h6 id='1hebreos-1022a--acerquémonos-con-corazón-sincero-lit-verdadero-el-conocimiento-del-sacerdocio-de-cristo-debe-de-atraernos-a-una-comunión-íntima-con-dios-hebreos-82-924-juan-423'>1)	Hebreos 10:22a – Acerquémonos con corazón sincero [Lit. ‘verdadero’]… El conocimiento del sacerdocio de Cristo debe de atraernos a una comunión íntima con Dios. Hebreos 8:2, 9:24, Juan 4:23<a href='#1hebreos-1022a--acerqu%c3%a9monos-con-coraz%c3%b3n-sincero-lit-verdadero-el-conocimiento-del-sacerdocio-de-cristo-debe-de-atraernos-a-una-comuni%c3%b3n-%c3%adntima-con-dios-hebreos-82-924-juan-423' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='ἀληθινός-sinceroverdadero---lo-que-no-sólo-tiene-el-nombre-y-la-semejanza-sino-la-naturaleza-real-correspondiente-al-nombre-en-todos-los-aspectos-correspondiente-a-la-idea-significada-por-el-nombre-real-verdadero-genuino'>ἀληθινός [sincero/verdadero] - lo que no sólo tiene el nombre y la semejanza, sino la naturaleza real correspondiente al nombre, en todos los aspectos correspondiente a la idea significada por el nombre, real, verdadero genuino<a href='#%e1%bc%80%ce%bb%ce%b7%ce%b8%ce%b9%ce%bd%cf%8c%cf%82-sinceroverdadero---lo-que-no-s%c3%b3lo-tiene-el-nombre-y-la-semejanza-sino-la-naturaleza-real-correspondiente-al-nombre-en-todos-los-aspectos-correspondiente-a-la-idea-significada-por-el-nombre-real-verdadero-genuino' class='anchor'>#</a>
+</h6><h6 id='1a-frente-a-lo-ficticio-falsificado-imaginario-simulado-o-pretendido'>1a) frente a lo ficticio, falsificado, imaginario, simulado o pretendido<a href='#1a-frente-a-lo-ficticio-falsificado-imaginario-simulado-o-pretendido' class='anchor'>#</a>
+</h6><h6 id='1b-contrasta-las-realidades-con-sus-apariencias'>1b) contrasta las realidades con sus apariencias<a href='#1b-contrasta-las-realidades-con-sus-apariencias' class='anchor'>#</a>
+</h6><h6 id='1c-opuesto-a-lo-imperfecto-defectuoso-frágil-incierto'>1c) opuesto a lo imperfecto defectuoso, frágil, incierto<a href='#1c-opuesto-a-lo-imperfecto-defectuoso-fr%c3%a1gil-incierto' class='anchor'>#</a>
+</h6><h6 id='2-verdadero-veraz-sincero'>2) verdadero, veraz, sincero<a href='#2-verdadero-veraz-sincero' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='2hebreos-1022b--acerquémonos-en-plena-certidumbre-de-fe-basados-en-la-obra-y-persona-de-cristo-debemos-ser-atraídos-hacia-dios-con-un-gran-sentido-de-confianza'>2)	Hebreos 10:22b – Acerquémonos …en plena certidumbre de fe. Basados en la obra y persona de Cristo debemos ser atraídos hacia Dios con un gran sentido de confianza.<a href='#2hebreos-1022b--acerqu%c3%a9monos-en-plena-certidumbre-de-fe-basados-en-la-obra-y-persona-de-cristo-debemos-ser-atra%c3%addos-hacia-dios-con-un-gran-sentido-de-confianza' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='3hebreos-1022c--acerquémonos-teniendo--lbla-purificados-lit-rociados-los-corazones-de-mala-conciencia-el-saber-que-nuestros-pecados-son-perdonados-gracias-a-la-obra-completa-de-cristo-nos-libera-del-peso-de-la-culpa-y-la-vergüenza-para-que-podamos-acercarnos-a-dios-con-confianza-hebreos-96-9-hebreos-911-14'>3)	Hebreos 10:22c – Acerquémonos …[‘teniendo’ – LBLA] purificados [Lit. ‘rociados’] los corazones de mala conciencia. El saber que nuestros pecados son perdonados gracias a la obra completa de Cristo nos libera del peso de la culpa y la vergüenza para que podamos acercarnos a Dios con confianza. Hebreos 9:6-9, Hebreos 9:11-14<a href='#3hebreos-1022c--acerqu%c3%a9monos-teniendo--lbla-purificados-lit-rociados-los-corazones-de-mala-conciencia-el-saber-que-nuestros-pecados-son-perdonados-gracias-a-la-obra-completa-de-cristo-nos-libera-del-peso-de-la-culpa-y-la-verg%c3%bcenza-para-que-podamos-acercarnos-a-dios-con-confianza-hebreos-96-9-hebreos-911-14' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='4hebreos-1022d--acerquémonos-teniendo--lbla-lavados-los-cuerpos-con-agua-pura-en-un-sentido-metafórico-la-obra-sacerdotal-de-cristo-nos-limpió-con-agua-pura-esta-metáfora-habla-de-la-posición-limpia-que-ahora-tenemos-delante-de-dios-juan-1310'>4)	Hebreos 10:22d – Acerquémonos …[‘teniendo’ – LBLA] lavados los cuerpos con agua pura. En un sentido metafórico, la obra sacerdotal de Cristo nos limpió con agua pura. Esta metáfora habla de la posición limpia que ahora tenemos delante de Dios. Juan 13:10<a href='#4hebreos-1022d--acerqu%c3%a9monos-teniendo--lbla-lavados-los-cuerpos-con-agua-pura-en-un-sentido-metaf%c3%b3rico-la-obra-sacerdotal-de-cristo-nos-limpi%c3%b3-con-agua-pura-esta-met%c3%a1fora-habla-de-la-posici%c3%b3n-limpia-que-ahora-tenemos-delante-de-dios-juan-1310' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h5 id='chebreos-1023--mantengamos-firme-sin-fluctuar-vacilar--lbla-la-profesión-lit-confesión-de-nuestra-esperanza-porque-fiel-es-el-que-prometió-el-conocimiento-de-la-fidelidad-de-cristo-nos-debe-causar-aferrarnos-firmemente-a-la-esperanza-que-profesamos-efesios-118'>c.	Hebreos 10:23 – Mantengamos firme, sin fluctuar [‘vacilar’ – LBLA], la profesión [Lit. ‘confesión’] de nuestra esperanza, porque fiel es el que prometió. El conocimiento de la fidelidad de Cristo nos debe causar aferrarnos firmemente a la esperanza que profesamos. Efesios 1:18<a href='#chebreos-1023--mantengamos-firme-sin-fluctuar-vacilar--lbla-la-profesi%c3%b3n-lit-confesi%c3%b3n-de-nuestra-esperanza-porque-fiel-es-el-que-prometi%c3%b3-el-conocimiento-de-la-fidelidad-de-cristo-nos-debe-causar-aferrarnos-firmemente-a-la-esperanza-que-profesamos-efesios-118' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h6 id='1la-esperanza-mencionada-aqui-es-la-misma-esperanza-que-continuamente-hemos-profesado-desde-el-primer-día-de-nuestra-salvación-romanos-55-823-25'>1)	La esperanza mencionada aqui es la misma esperanza que continuamente hemos profesado desde el primer día de nuestra salvación. Romanos 5:5, 8:23-25<a href='#1la-esperanza-mencionada-aqui-es-la-misma-esperanza-que-continuamente-hemos-profesado-desde-el-primer-d%c3%ada-de-nuestra-salvaci%c3%b3n-romanos-55-823-25' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h6 id='2por-qué-podemos-mantenernos-firmes-de-la-esperanza-que-siempre-hemos-confesado-porque-el-dios-que-hace-promesas-es-confiable-1-juan-33'>2)	¿Por qué podemos mantenernos firmes de la esperanza que siempre hemos confesado? Porque el Dios que hace promesas es confiable. 1 Juan 3:3<a href='#2por-qu%c3%a9-podemos-mantenernos-firmes-de-la-esperanza-que-siempre-hemos-confesado-porque-el-dios-que-hace-promesas-es-confiable-1-juan-33' class='anchor'>#</a>
+</h6><hr>
+<!-- raw HTML omitted -->
+<h3 id='porque-convenía-que-aquel-para-quien-son-todas-las-cosas-y-por-quien-son-todas-las-cosas-llevando-muchos-hijos-a-la-gloria-hiciera-perfecto-por-medio-de-los-padecimientos-al-autor-de-la-salvación-de-ellos'>Porque convenía que Aquel para quien son todas las cosas y por quien son todas las cosas, llevando muchos hijos a la gloria, hiciera perfecto por medio de los padecimientos al autor de la salvación de ellos.<a href='#porque-conven%c3%ada-que-aquel-para-quien-son-todas-las-cosas-y-por-quien-son-todas-las-cosas-llevando-muchos-hijos-a-la-gloria-hiciera-perfecto-por-medio-de-los-padecimientos-al-autor-de-la-salvaci%c3%b3n-de-ellos' class='anchor'>#</a>
+</h3><h4 id='hebreos-210'>Hebreos 2:10<a href='#hebreos-210' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='por-tanto-ofrezcamos-continuamente-mediante-él-sacrificio-de-alabanza-a-dios-es-decir-el-fruto-de-labios-que-confiesan-su-nombre'>Por tanto, ofrezcamos continuamente mediante Él, sacrificio de alabanza a Dios, es decir, el fruto de labios que confiesan Su nombre.<a href='#por-tanto-ofrezcamos-continuamente-mediante-%c3%a9l-sacrificio-de-alabanza-a-dios-es-decir-el-fruto-de-labios-que-confiesan-su-nombre' class='anchor'>#</a>
+</h3><h4 id='hebreos-1315'>Hebreos 13:15<a href='#hebreos-1315' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h1 id='4-restauración'>4. Restauración<a href='#4-restauraci%c3%b3n' class='anchor'>#</a>
+</h1><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-evangelio-es-poder-de-dios-para-salvación-del-poder-del-pecado--1-corintios-118'>El Evangelio es poder de Dios para Salvación del <strong>PODER</strong> del pecado.  1 Corintios 1:18<a href='#el-evangelio-es-poder-de-dios-para-salvaci%c3%b3n-del-poder-del-pecado--1-corintios-118' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-evangelio-es-poder-de-dios-para-la-santificación'>El Evangelio es poder de Dios para la santificación.<a href='#el-evangelio-es-poder-de-dios-para-la-santificaci%c3%b3n' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h2 id='dios-nos-ha-identificado-en-la-persona-y-obra-de-jesucristo-gálatas-220'>Dios nos ha identificado en la persona y obra de Jesucristo. Gálatas 2:20<a href='#dios-nos-ha-identificado-en-la-persona-y-obra-de-jesucristo-g%c3%a1latas-220' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h4 id='1-fuimos-bautizados-con-cristo-en-su-muerte-romanos-63'>1. Fuimos bautizados con Cristo en su muerte. Romanos 6:3<a href='#1-fuimos-bautizados-con-cristo-en-su-muerte-romanos-63' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h5 id='2-morimos-a-el-pecado-romanos-62'>2. Morimos a el pecado. Romanos 6:2<a href='#2-morimos-a-el-pecado-romanos-62' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h5 id='3-morimos-a-nuestro-antiguo-yo-romanos-66'>3. Morimos a nuestro antiguo yo. Romanos 6:6<a href='#3-morimos-a-nuestro-antiguo-yo-romanos-66' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h5 id='4-morimos-a-la-ley-romanos-74'>4. Morimos a la ley. Romanos 7:4<a href='#4-morimos-a-la-ley-romanos-74' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h5 id='5-morimos-al-mundo-colosenses-220-23'>5. Morimos al mundo. Colosenses 2:20-23<a href='#5-morimos-al-mundo-colosenses-220-23' class='anchor'>#</a>
+</h5><hr>
+<!-- raw HTML omitted -->
+<h4 id='6-fuimos-bautizados-con-cristo-en-su-sepultura-romanos-64'>6. Fuimos bautizados con Cristo en su sepultura. Romanos 6:4<a href='#6-fuimos-bautizados-con-cristo-en-su-sepultura-romanos-64' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h4 id='7-fuimos-bautizados-con-cristo-en-su-resurrección-romanos-64'>7. Fuimos bautizados con Cristo en su resurrección. Romanos 6:4<a href='#7-fuimos-bautizados-con-cristo-en-su-resurrecci%c3%b3n-romanos-64' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h4 id='8-al-ser-unidos-a-cristo-ahora-estamos-vivos-para-dios-romanos-611'>8. Al ser unidos a Cristo ahora estamos vivos para Dios. Romanos 6:11<a href='#8-al-ser-unidos-a-cristo-ahora-estamos-vivos-para-dios-romanos-611' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h4 id='9-al-ser-colocados-en-cristo-hemos-ascendido-y-estamos-sentados-a-la-diestra-del-padre-el-lugar-de-mayor-aceptación-colosenses-31-3'>9. Al ser colocados en Cristo hemos ascendido y estamos sentados a la diestra del Padre. El lugar de mayor aceptación. Colosenses 3:1-3<a href='#9-al-ser-colocados-en-cristo-hemos-ascendido-y-estamos-sentados-a-la-diestra-del-padre-el-lugar-de-mayor-aceptaci%c3%b3n-colosenses-31-3' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='creyente-ya-conoces-la-realidad-de-estar-unido-a-cristo--ya-tienes-tu-completa-restauración-espiritual-con-el-padre-por-medio-de-jesucristo-pero-debes-contarlo-por-la-fe-romanos-611'>Creyente, ya conoces la realidad de estar unido a Cristo.  Ya tienes tu completa restauración espiritual con el Padre por medio de Jesucristo, pero debes contarlo por la fe. Romanos 6:11<a href='#creyente-ya-conoces-la-realidad-de-estar-unido-a-cristo--ya-tienes-tu-completa-restauraci%c3%b3n-espiritual-con-el-padre-por-medio-de-jesucristo-pero-debes-contarlo-por-la-fe-romanos-611' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h2 id='entonces-que-hacemos-con-nuestra-nueva-posición-de-aceptación'>Entonces, ¿Que hacemos con nuestra nueva posición de aceptación?<a href='#entonces-que-hacemos-con-nuestra-nueva-posici%c3%b3n-de-aceptaci%c3%b3n' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='ahora-presentate-ya-no-a-tu-viejo-amo-la-carne-sino-al-espíritu'>Ahora, presentate, ya no a tu viejo amo (la carne) sino al Espíritu.<a href='#ahora-presentate-ya-no-a-tu-viejo-amo-la-carne-sino-al-esp%c3%adritu' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='presenta-los-miembros-de-tu-cuerpo-al-espíritu-para-uso-de-justicia-romanos-613-14'>Presenta los miembros de tu cuerpo al Espíritu para uso de justicia. Romanos 6:13-14<a href='#presenta-los-miembros-de-tu-cuerpo-al-esp%c3%adritu-para-uso-de-justicia-romanos-613-14' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='esto-es-maravilloso-el-creyente-ya-no-tiene-porque-ser-esclavo-a-la-carne-sino-que-sus-miembros-pueden-ser-presentados-al-espíritu-y-usados-por-dios-para-justicia-romanos-620-22'>¡Esto es maravilloso! El creyente ya no tiene porque ser esclavo a la carne sino que sus miembros pueden ser presentados al Espíritu y usados por Dios para justicia. Romanos 6:20-22<a href='#esto-es-maravilloso-el-creyente-ya-no-tiene-porque-ser-esclavo-a-la-carne-sino-que-sus-miembros-pueden-ser-presentados-al-esp%c3%adritu-y-usados-por-dios-para-justicia-romanos-620-22' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-mundo-que-opera-según-la-carne-no-puede-agradar-a-dios-romanos-87-8'>El mundo (que opera según la carne) no puede agradar a Dios. Romanos 8:7-8<a href='#el-mundo-que-opera-seg%c3%ban-la-carne-no-puede-agradar-a-dios-romanos-87-8' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='pero-igualmente-el-creyente-que-no-esta-presentado-al-espíritu-y-está-presentado-a-la-carne-tampoco-puede-agradar-a-dios-romanos-813'>Pero igualmente, el creyente que no esta presentado al Espíritu y está presentado a la carne, tampoco puede agradar a Dios. Romanos 8:13<a href='#pero-igualmente-el-creyente-que-no-esta-presentado-al-esp%c3%adritu-y-est%c3%a1-presentado-a-la-carne-tampoco-puede-agradar-a-dios-romanos-813' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h2 id='la-influencia-del-espíritu-en-la-vida-del-creyente'>La influencia del Espíritu en la vida del Creyente<a href='#la-influencia-del-esp%c3%adritu-en-la-vida-del-creyente' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-creyente-que-cuenta-por-la-fe-en-su-identidad-en-cristo-está-en-la-posición-de-poderse-presentar-al-espíritu-y-agradar-a-dios'>El creyente que cuenta por la fe en su identidad en Cristo, está en la posición de poderse presentar al Espíritu y agradar a Dios.<a href='#el-creyente-que-cuenta-por-la-fe-en-su-identidad-en-cristo-est%c3%a1-en-la-posici%c3%b3n-de-poderse-presentar-al-esp%c3%adritu-y-agradar-a-dios' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-creyente-que-se-presenta-al-espíritu-de-manera-consistente-llega-a-ser-un-hijo-maduro-de-dios-romanos-814'>El creyente que se presenta al Espíritu de manera consistente llega a ser un hijo maduro de Dios. Romanos 8:14<a href='#el-creyente-que-se-presenta-al-esp%c3%adritu-de-manera-consistente-llega-a-ser-un-hijo-maduro-de-dios-romanos-814' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-creyente-que-se-presenta-como-sacrificio-vivo-al-espíritu-no-camina-ni-satisface-en-ese-momento-los-deseos-de-la-carne-gálatas-516'>El creyente que se presenta como sacrificio vivo al Espíritu no camina ni satisface (en ese momento) los deseos de la carne. Gálatas 5:16<a href='#el-creyente-que-se-presenta-como-sacrificio-vivo-al-esp%c3%adritu-no-camina-ni-satisface-en-ese-momento-los-deseos-de-la-carne-g%c3%a1latas-516' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='al-estar-presentado-al-espíritu-uno-es-influenciado-por-el-espíritu--efesios-518-colosenses-316'>Al estar presentado al Espíritu uno es influenciado por el Espíritu.  Efesios 5:18, Colosenses 3:16<a href='#al-estar-presentado-al-esp%c3%adritu-uno-es-influenciado-por-el-esp%c3%adritu--efesios-518-colosenses-316' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='produce-su-fruto-el-carácter-de-cristo-gálatas-522-23'>Produce Su fruto (el carácter de Cristo). Gálatas 5:22-23<a href='#produce-su-fruto-el-car%c3%a1cter-de-cristo-g%c3%a1latas-522-23' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='produce-un-espíritu-adorador-romanos-815'>Produce un espíritu adorador. Romanos 8:15<a href='#produce-un-esp%c3%adritu-adorador-romanos-815' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='enseña-la-verdad-para-entendimiento-juan-1426'>Enseña la verdad para entendimiento. Juan 14:26<a href='#ense%c3%b1a-la-verdad-para-entendimiento-juan-1426' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='nos-da-seguridad-romanos-816'>Nos da seguridad. Romanos 8:16<a href='#nos-da-seguridad-romanos-816' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='no-permite-que-caminemos-según-la-carne-gálatas-516'>No permite que caminemos según la carne. Gálatas 5:16<a href='#no-permite-que-caminemos-seg%c3%ban-la-carne-g%c3%a1latas-516' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='dios-produce-verdaderos-adoradores-de-aquellos-que-caminan-presentados-al-espíritu-lucas-1827-hebreos-116-1-corintios-1510-isaias-5715'>Dios produce verdaderos adoradores de aquellos que caminan presentados al Espíritu. Lucas 18:27, Hebreos 11:6, 1 Corintios 15:10, Isaias 57:15<a href='#dios-produce-verdaderos-adoradores-de-aquellos-que-caminan-presentados-al-esp%c3%adritu-lucas-1827-hebreos-116-1-corintios-1510-isaias-5715' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h3 id='adoren-al-señor-en-span-stylecoloryellowvestiduras-santasspan-tiemblen-ante-su-presencia-toda-la-tierra'>Adoren al SEÑOR en <!-- raw HTML omitted -->vestiduras santas<!-- raw HTML omitted -->; Tiemblen ante Su presencia, toda la tierra.<a href='#adoren-al-se%c3%b1or-en-span-stylecoloryellowvestiduras-santasspan-tiemblen-ante-su-presencia-toda-la-tierra' class='anchor'>#</a>
+</h3><h4 id='salmo-969'>Salmo 96:9<a href='#salmo-969' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='por-lo-cual-span-stylecoloryellowpuesto-que-recibimos-un-reino-que-es-inconmoviblespan-demostremos-gratitud-mediante-la-cual-ofrezcamos-a-dios-un-servicio-aceptable-con-temor-y-reverencia'>Por lo cual, <!-- raw HTML omitted -->puesto que recibimos un reino que es inconmovible<!-- raw HTML omitted -->, demostremos gratitud, mediante la cual ofrezcamos a Dios un servicio aceptable con temor y reverencia;<a href='#por-lo-cual-span-stylecoloryellowpuesto-que-recibimos-un-reino-que-es-inconmoviblespan-demostremos-gratitud-mediante-la-cual-ofrezcamos-a-dios-un-servicio-aceptable-con-temor-y-reverencia' class='anchor'>#</a>
+</h3><h4 id='hebreos-1228'>Hebreos 12:28<a href='#hebreos-1228' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='que-la-palabra-de-cristo-span-stylecolor-yellowhabite-en-abundancia-en-ustedesspan-con-toda-sabiduría-enseñándose-y-amonestándose-unos-a-otros-con-salmos-himnos-y-canciones-espirituales-cantando-a-dios-con-acción-de-gracias-en-sus-corazones'>Que la palabra de Cristo <!-- raw HTML omitted -->habite en abundancia en ustedes<!-- raw HTML omitted -->, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos y canciones espirituales, cantando a Dios con acción de gracias en sus corazones.<a href='#que-la-palabra-de-cristo-span-stylecolor-yellowhabite-en-abundancia-en-ustedesspan-con-toda-sabidur%c3%ada-ense%c3%b1%c3%a1ndose-y-amonest%c3%a1ndose-unos-a-otros-con-salmos-himnos-y-canciones-espirituales-cantando-a-dios-con-acci%c3%b3n-de-gracias-en-sus-corazones' class='anchor'>#</a>
+</h3><h4 id='colosenses-316'>Colosenses 3:16<a href='#colosenses-316' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='el-sacrificio-de-los-impíos-es-abominación-al-señor-pero-span-stylecolor-yellowla-oración-de-los-rectos-es-su-deleitespan'><em>El sacrificio de los impíos es abominación al SEÑOR, Pero <!-- raw HTML omitted -->la oración de los rectos es Su deleite<!-- raw HTML omitted --></em>.<a href='#el-sacrificio-de-los-imp%c3%ados-es-abominaci%c3%b3n-al-se%c3%b1or-pero-span-stylecolor-yellowla-oraci%c3%b3n-de-los-rectos-es-su-deleitespan' class='anchor'>#</a>
+</h3><h4 id='proverbios-158'>Proverbios 15:8<a href='#proverbios-158' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h2 id='toda-persona-tiene-como-parte-de-su-adn-ser-un-adorador--a-quien-o-a-que-el-individuo-adora-varía'>Toda persona tiene como parte de su ADN ser un adorador.  A quien o a que el individuo adora varía.<a href='#toda-persona-tiene-como-parte-de-su-adn-ser-un-adorador--a-quien-o-a-que-el-individuo-adora-var%c3%ada' class='anchor'>#</a>
+</h2><hr>
+<!-- raw HTML omitted -->
+<h3 id='a-los-ídolos-ángeles-hombres-imágenes-o-cosas-creadas--1-reyes-1230-apocalipsis-228-9-hechos-1025-apocalipsis-1920'>A los ídolos, ángeles, hombres, imágenes o cosas creadas.  1 Reyes 12:30, Apocalipsis 22:8-9, Hechos 10:25, Apocalipsis 19:20<a href='#a-los-%c3%addolos-%c3%a1ngeles-hombres-im%c3%a1genes-o-cosas-creadas--1-reyes-1230-apocalipsis-228-9-hechos-1025-apocalipsis-1920' class='anchor'>#</a>
+</h3><hr>
+<!-- raw HTML omitted -->
+<h4 id='dios-busca-a-aquellos-que-le-adoran-con-honestidad-no-hipócritamente-jesús-no-tenía-nada-bueno-que-decir-acerca-de-los-fariseos-hipócritas-que-se-mostraban-adorando-a-dios-cuando-en-realidad-no-les-importaba-en-absoluto'>Dios busca a aquellos que Le adoran con honestidad, no hipócritamente. Jesús no tenía nada bueno que decir acerca de los fariseos hipócritas que se mostraban adorando a Dios cuando en realidad no les importaba en absoluto.<a href='#dios-busca-a-aquellos-que-le-adoran-con-honestidad-no-hip%c3%b3critamente-jes%c3%bas-no-ten%c3%ada-nada-bueno-que-decir-acerca-de-los-fariseos-hip%c3%b3critas-que-se-mostraban-adorando-a-dios-cuando-en-realidad-no-les-importaba-en-absoluto' class='anchor'>#</a>
+</h4><h4 id='mateo-2325-27'>Mateo 23:25-27<a href='#mateo-2325-27' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='vengan-adoremos-y-postrémonos-doblemos-la-rodilla-ante-el-señor-nuestro-hacedor'>Vengan, adoremos y postrémonos; Doblemos la rodilla ante el SEÑOR nuestro Hacedor.<a href='#vengan-adoremos-y-postr%c3%a9monos-doblemos-la-rodilla-ante-el-se%c3%b1or-nuestro-hacedor' class='anchor'>#</a>
+</h3><h4 id='salmo-956'>Salmo 95:6<a href='#salmo-956' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='por-tanto-ofrezcamos-continuamente-span-stylecolor-yellowmediante-élspan-sacrificio-de-alabanza-a-dios-es-decir-el-fruto-de-labios-que-confiesan-su-nombre'>Por tanto, ofrezcamos continuamente <!-- raw HTML omitted -->mediante Él<!-- raw HTML omitted -->, sacrificio de alabanza a Dios, es decir, el fruto de labios que confiesan Su nombre.<a href='#por-tanto-ofrezcamos-continuamente-span-stylecolor-yellowmediante-%c3%a9lspan-sacrificio-de-alabanza-a-dios-es-decir-el-fruto-de-labios-que-confiesan-su-nombre' class='anchor'>#</a>
+</h3><h4 id='hebreos-1315-1'>Hebreos 13:15<a href='#hebreos-1315-1' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='oh-dios-tú-eres-mi-dios-te-buscaré-con-afán-mi-alma-tiene-sed-de-ti-mi-carne-te-anhela-cual-tierra-seca-y-árida-donde-no-hay-agua-así-te-contemplaba-en-el-santuario-para-ver-tu-poder-y-tu-gloria-span-stylecolor-yellowporque-tu-misericordia-es-mejor-que-la-vidaspan-mis-labios-te-alabarán'><em>Oh Dios, Tú eres mi Dios; te buscaré con afán. Mi alma tiene sed de Ti, mi carne te anhela Cual tierra seca y árida donde no hay agua. Así te contemplaba en el santuario, Para ver Tu poder y Tu gloria. <!-- raw HTML omitted -->Porque Tu misericordia es mejor que la vida<!-- raw HTML omitted -->, Mis labios te alabarán</em>.<a href='#oh-dios-t%c3%ba-eres-mi-dios-te-buscar%c3%a9-con-af%c3%a1n-mi-alma-tiene-sed-de-ti-mi-carne-te-anhela-cual-tierra-seca-y-%c3%a1rida-donde-no-hay-agua-as%c3%ad-te-contemplaba-en-el-santuario-para-ver-tu-poder-y-tu-gloria-span-stylecolor-yellowporque-tu-misericordia-es-mejor-que-la-vidaspan-mis-labios-te-alabar%c3%a1n' class='anchor'>#</a>
+</h3><h4 id='salmo-631-3'>Salmo 63:1-3<a href='#salmo-631-3' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='así-te-bendeciré-mientras-viva-en-tu-nombre-alzaré-mis-manos-como-con-médula-y-grasa-está-saciada-mi-alma-y-con-labios-jubilosos-te-alaba-mi-boca-cuando-en-mi-lecho-me-acuerdo-de-ti-en-ti-medito-durante-las-vigilias-de-la-noche-span-stylecolor-yellowporque-tú-has-sido-mi-ayudaspan-y-a-la-sombra-de-tus-alas-canto-gozoso'><em>Así te bendeciré mientras viva, En Tu nombre alzaré mis manos. Como con médula y grasa está saciada mi alma; Y con labios jubilosos te alaba mi boca. Cuando en mi lecho me acuerdo de Ti, En Ti medito durante las vigilias de la noche. <!-- raw HTML omitted -->Porque Tú has sido mi ayuda<!-- raw HTML omitted -->, Y a la sombra de Tus alas canto gozoso</em>.<a href='#as%c3%ad-te-bendecir%c3%a9-mientras-viva-en-tu-nombre-alzar%c3%a9-mis-manos-como-con-m%c3%a9dula-y-grasa-est%c3%a1-saciada-mi-alma-y-con-labios-jubilosos-te-alaba-mi-boca-cuando-en-mi-lecho-me-acuerdo-de-ti-en-ti-medito-durante-las-vigilias-de-la-noche-span-stylecolor-yellowporque-t%c3%ba-has-sido-mi-ayudaspan-y-a-la-sombra-de-tus-alas-canto-gozoso' class='anchor'>#</a>
+</h3><h4 id='salmo-634-7'>Salmo 63:4-7<a href='#salmo-634-7' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='un-día-por-medio-de-la-obra-de-cristo-dios-terminará-la-plena-restauración-de-todo'>Un día, por medio de la obra de Cristo, Dios terminará la plena restauración de todo.<a href='#un-d%c3%ada-por-medio-de-la-obra-de-cristo-dios-terminar%c3%a1-la-plena-restauraci%c3%b3n-de-todo' class='anchor'>#</a>
+</h3><h4 id='romanos-820-21-romanos-823'>Romanos 8:20-21, Romanos 8:23<a href='#romanos-820-21-romanos-823' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='y-después-de-que-hayan-sufrido-un-poco-de-tiempo-el-dios-de-toda-gracia-que-los-llamó-a-su-gloria-eterna-en-cristo-span-stylecoloryellowél-mismo-los-perfeccionará-afirmará-fortalecerá-y-estableceráspan'>Y después de que hayan sufrido un poco de tiempo, el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo, <!-- raw HTML omitted -->Él mismo los perfeccionará, afirmará, fortalecerá, y establecerá<!-- raw HTML omitted -->.<a href='#y-despu%c3%a9s-de-que-hayan-sufrido-un-poco-de-tiempo-el-dios-de-toda-gracia-que-los-llam%c3%b3-a-su-gloria-eterna-en-cristo-span-stylecoloryellow%c3%a9l-mismo-los-perfeccionar%c3%a1-afirmar%c3%a1-fortalecer%c3%a1-y-establecer%c3%a1span' class='anchor'>#</a>
+</h3><h4 id='1-pedro-510'>1 Pedro 5:10<a href='#1-pedro-510' class='anchor'>#</a>
+</h4><hr>
+<!-- raw HTML omitted -->
+<h3 id='oh-señor-quién-no-temerá-y-glorificará-tu-nombre-pues-solo-tú-eres-santo-porque-todas-las-naciones-vendrán-y-adorarán-en-tu-presencia-pues-tus-justos-juicios-han-sido-revelados'><strong>¡Oh Señor! ¿Quién no temerá y glorificará Tu nombre? Pues solo Tú eres santo; Porque TODAS LAS NACIONES VENDRÁN Y ADORARÁN EN TU PRESENCIA, Pues Tus justos juicios han sido revelados»</strong>.<a href='#oh-se%c3%b1or-qui%c3%a9n-no-temer%c3%a1-y-glorificar%c3%a1-tu-nombre-pues-solo-t%c3%ba-eres-santo-porque-todas-las-naciones-vendr%c3%a1n-y-adorar%c3%a1n-en-tu-presencia-pues-tus-justos-juicios-han-sido-revelados' class='anchor'>#</a>
+</h3><h4 id='apocalipsis-154-apocalipsis-211-5'>Apocalipsis 15:4, Apocalipsis 21:1-5<a href='#apocalipsis-154-apocalipsis-211-5' class='anchor'>#</a>
+</h4></div><div class="column is-sticky is-paddingless" id="tocWrapper">
+  <div class="is-paddingless" id="tocContainer">
+    <div class="toc-header">
+      <h6 class="toc-title is-marginless">On this page:</h6>
+      <i
+        title="Back to top"
+        id="tocBackToTop"
+        class="fa-solid fa-circle-arrow-up"
+      ></i>
+    </div>
+    <div id="tocContent">
+      <div id="toc"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#la-excelencia-de-la-adoración">La Excelencia de la Adoración</a>
+      <ul>
+        <li><a href="#que-enseña-la-biblia-sobre-la-adoración">¿Que enseña la Biblia sobre la adoración?</a></li>
+      </ul>
+    </li>
+    <li><a href="#pnbspp"><!-- raw HTML omitted --> <!-- raw HTML omitted --></a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#enséñame-oh-jehová-tu-camino"><em>Enséñame, oh Jehová, tu camino;</em></a></li>
+            <li><a href="#caminaré-yo-en-tu-verdad"><em>caminaré yo en tu verdad;</em></a></li>
+            <li><a href="#afirma-mi-corazón-para-que-tema-tu-nombre"><em>Afirma mi corazón para que tema tu nombre</em>.</a></li>
+            <li><a href="#te-alabaré-oh-jehová-dios-mío-con-todo-mi-corazón"><em>Te alabaré, oh Jehová Dios mío, con todo mi corazón</em>,</a></li>
+            <li><a href="#y-glorificaré-tu-nombre-para-siempre-salmo-8611-12"><em>Y glorificaré tu nombre para siempre</em>. Salmo 86:11-12</a></li>
+            <li><a href="#la-biblia-sí-enseña-adoración">La Biblia sí enseña adoración&hellip;</a></li>
+          </ul>
+        </li>
+        <li><a href="#encontramos-varias-palabras-traducidas-como-adorar-al-español">Encontramos varias palabras traducidas como &lsquo;adorar&rsquo; al español</a></li>
+        <li><a href="#adorar-en-el-antiguo-testamento">Adorar en el Antiguo Testamento</a>
+          <ul>
+            <li><a href="#שחה-shachah---una-raíz-primitiva-hacer-bajar-es-decir-postrarse-especialmente-reflexivamente-en-homenaje-a-la-realeza-o-a-dios---inclinarse-auto-hacia-abajo-agacharse-caer-aplanarse-suplicar-humildemente-hacer-hacer-reverencia-hacer-reverencia-inclinarse-adorar">שָׁחָה [shachah] - Una raíz primitiva; hacer bajar, es decir, postrarse (especialmente reflexivamente en homenaje a la realeza o a Dios): - inclinarse (auto) hacia abajo, agacharse, caer (aplanarse), suplicar humildemente, hacer (hacer) reverencia, hacer reverencia, inclinarse, adorar.</a></li>
+          </ul>
+        </li>
+        <li><a href="#adorar-en-el-nuevo-testamento">Adorar en el Nuevo Testamento</a>
+          <ul>
+            <li><a href="#προσκυνέω-proskuneō---hacer-reverencia-u-homenaje-besando-la-mano-en-el-nt-hacer-reverencia-u-homenaje-mediante-la-postración">προσκυνέω [proskuneō] - hacer reverencia u homenaje besando la mano; en el NT hacer reverencia u homenaje mediante la postración,</a></li>
+            <li><a href="#λατρεύω-latreuō---ser-siervo-servir-rendir-servicio-religioso-y-homenaje-adoración-ofrecer-sacrificios-presentar-ofrendas">λατρεύω [latreuō] - ser siervo, servir, rendir servicio religioso y homenaje, adoración, ofrecer sacrificios, presentar ofrendas.</a></li>
+          </ul>
+        </li>
+        <li><a href="#iremos-paso-a-paso">Iremos paso a paso</a>
+          <ul>
+            <li><a href="#buscar-la-definición-de-adoración-en-el-lexico-y-observar-todas-las-veces-que-aparece-en-la-biblia-probablemente-no-le-dará-una-comprensión-cabal-de-lo-que-es">Buscar la definición de adoración en el lexico y observar todas las veces que aparece en la Biblia probablemente no le dará una comprensión cabal de lo que es.</a></li>
+            <li><a href="#por-eso-en-este-estudio-nos-tomaremos-unos-pasos-hacia-atras-para-dar-una-mirada-más-amplia-y-así-llegar-a-una-mejor-comprensión-de-la-adoración-como-lo-muestra-la-biblia">Por eso, en este estudio nos tomaremos unos pasos hacia atras para dar una mirada más amplia y así llegar a una mejor comprensión de la adoración como lo muestra la Biblia.</a></li>
+            <li><a href="#a-todos-nos-gusta-una-buena-historia">A todos nos gusta una buena historia&hellip;</a></li>
+            <li><a href="#para-que-una-historia-sea-buena-requiere-mínimamente-de-3-elementos-básicos">Para que una historia sea buena, requiere mínimamente de 3 elementos básicos&hellip;</a></li>
+            <li><a href="#1-el-inicio-esteblece-los-caracteres">1. <strong>El Inicio</strong> (esteblece los caracteres)</a></li>
+            <li><a href="#2-el-medio-el-problema-y-solución">2. <strong>El Medio</strong> (el problema y solución)</a></li>
+            <li><a href="#3-el-final-resolución">3. <strong>El Final</strong> (resolución)</a></li>
+          </ul>
+        </li>
+        <li><a href="#cosmovision">COSMOVISION</a>
+          <ul>
+            <li><a href="#la-cosmovision-es-la-visión-o-concepción-global-del-universo">La cosmovision es la visión o concepción global del universo.</a></li>
+            <li><a href="#la-cosmovisión-es-como-entendemos-el-mundo">La cosmovisión es como entendemos el mundo.</a></li>
+            <li><a href="#el-cristianismo-es-la-cosmovision-de-lo-que-es-real">El cristianismo es la cosmovision de lo que es <strong>REAL</strong>.</a>
+              <ul>
+                <li><a href="#hay-una-sola-realidad-y-dios-quiere-que-todos-la-conozcan">Hay una sola realidad y Dios quiere que todos la conozcan.</a></li>
+              </ul>
+            </li>
+            <li><a href="#nuestra-cosmovisión-incluye-la-historia-del-mundo-como-fué-creado-todo-a-donde-iremos-etc-etc">Nuestra cosmovisión incluye la historia del mundo, como fué creado todo, a donde iremos etc etc.</a></li>
+            <li><a href="#podemos-resumir-la-cosmovisión-bíblica-en-4-puntos-al-igual-que-una-buena-historia-la-cosmovisión-cristiana-contiene-3-partes-el-início-la-parte-del-medio-que-dividiremos-en-dos-y-el-final">Podemos resumir la cosmovisión bíblica en 4 puntos. Al igual que una buena historia, la cosmovisión cristiana contiene 3 partes. El início, la parte del medio (que dividiremos en dos) y el final.</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#1-dios">1. Dios</a></li>
+    <li><a href="#todo-inicia-por-dios"><strong>Todo inicia por Dios</strong></a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#dios-inició-todo-pero-dios-no-tuvo-inicio-ni-tendrá-fin">Dios inició todo pero Dios no tuvo inicio ni tendrá fin.</a>
+              <ul>
+                <li><a href="#isaias-4028">Isaias 40:28</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-no-es-un-ser-creado">Dios no es un ser creado.</a></li>
+            <li><a href="#simplemente-siempre-ha-existido">Simplemente siempre ha existido.</a></li>
+            <li><a href="#dios-es-separado-y-por-encima-de-su-creación">Dios es separado y por encima de su creación.</a>
+              <ul>
+                <li><a href="#exodo-314-salmo-369-hechos-1724-25">Exodo 3:14, Salmo 36:9, Hechos 17:24-25</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-completamente-independiente">Dios es completamente independiente</a></li>
+            <li><a href="#no-depende-de-nada-ni-nadie">(no depende de nada ni nadie).</a>
+              <ul>
+                <li><a href="#job-4111-romanos-1135-36-salmo-5010-12">Job 41:11, Romanos 11:35-36, Salmo 50:10-12</a></li>
+              </ul>
+            </li>
+            <li><a href="#la-historia-del-mundo-inicia-cuando-dios-crea-el-tiempo-el-espacio-y-la-materia">La historia del mundo inicia cuando Dios crea el tiempo, el espacio y la materia.</a>
+              <ul>
+                <li><a href="#genesis-11">Genesis 1:1</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-creo-todo-en-6-días">Dios creo todo en 6 días.</a></li>
+            <li><a href="#al-terminar-su-obra-declaró-que-todo-era-muy-bueno">Al terminar su obra declaró que todo era muy bueno.</a>
+              <ul>
+                <li><a href="#genesis-131-1-timoteo-44">Genesis 1:31, 1 Timoteo 4:4,</a></li>
+                <li><a href="#en-el-principio-dios-el-hombre-y-el-resto-de-la-creación-estaban-en-una-relación-de-perfecta-paz-y-armonia">En el principio, Dios, el hombre y el resto de la creación estaban en una relación de perfecta paz y armonia.</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#el-caracter-revelado-de-dios"><strong>EL CARACTER REVELADO DE DIOS</strong></a>
+          <ul>
+            <li><a href="#hay-un-solo-dios-verdadero">Hay un solo Dios verdadero.</a>
+              <ul>
+                <li><a href="#jeremias-1010-1-juan-520">Jeremias 10:10, 1 Juan 5:20</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-todopoderoso">Dios es todopoderoso.</a>
+              <ul>
+                <li><a href="#genesis-171-salmo-1475-hebreos-13">Genesis 17:1, Salmo 147:5, Hebreos 1:3</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-eterno">Dios es eterno.</a>
+              <ul>
+                <li><a href="#genesis-2133-juan-858-deuteronomio-3327-salmo-902">Genesis 21:33, Juan 8:58, Deuteronomio 33:27, Salmo 90:2</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-celoso">Dios es celoso.</a>
+              <ul>
+                <li><a href="#exodo-3414-1-corintios-1022">Exodo 34:14, 1 Corintios 10:22</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-santo">Dios es santo.</a>
+              <ul>
+                <li><a href="#job-610-isaias-63">Job 6:10, Isaias 6:3,</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-confiable">Dios es confiable.</a>
+              <ul>
+                <li><a href="#salmo-334-salmo-14513">Salmo 33:4, Salmo 145:13</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-justo">Dios es justo.</a>
+              <ul>
+                <li><a href="#deuteronomio-324-isaias-4521-romanos-326-sofonias-35">Deuteronomio 32:4, Isaias 45:21, Romanos 3:26, Sofonias 3:5,</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-fiel">Dios es fiel.</a>
+              <ul>
+                <li><a href="#2-corintios-118-1-tesalonicenses-524">2 Corintios 1:18, 1 Tesalonicenses 5:24</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-bueno">Dios es bueno.</a>
+              <ul>
+                <li><a href="#nahum-17-marcos-1018">Nahum 1:7, Marcos 10:18</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-es-amor">Dios es amor.</a>
+              <ul>
+                <li><a href="#1-juan-48-romanos-58-1-juan-31">1 Juan 4:8, Romanos 5:8, 1 Juan 3:1</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#el-proposito-de-dios"><strong>EL PROPOSITO DE DIOS</strong></a>
+          <ul>
+            <li><a href="#como-creador-dios-es-dueño-de-todo">Como creador, Dios es dueño de todo.</a>
+              <ul>
+                <li><a href="#juan-13-hebreos-110--salmo-241-job-4111-ezekiel-184-isaiah-3716">Juan 1:3, Hebreos 1:10,  Salmo 24:1, Job 41:11, Ezekiel 18:4, Isaiah 37:16</a></li>
+              </ul>
+            </li>
+            <li><a href="#todo-fue-creado-por-y-para-jesucristo">Todo fue creado por y para Jesucristo.</a>
+              <ul>
+                <li><a href="#colosenses-16-romanos-1136-hebreos-12">Colosenses 1:6, Romanos 11:36, Hebreos 1:2</a></li>
+              </ul>
+            </li>
+            <li><a href="#juan-423-dice-que-dios-está-en-busqueda-de-verdaderos-adoradores">Juan 4:23 dice que Dios está en busqueda de verdaderos adoradores&hellip;</a></li>
+            <li><a href="#pero-la-hora-viene-y-ahora-es-cuando-los-verdaderos-adoradores-adorarán-al-padre-en-espíritu-y-en-verdad-porque-ciertamente-span-stylecolor-yellowa-los-tales-el-padre-buscaspan-que-lo-adoren"><em>Pero la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque ciertamente <!-- raw HTML omitted -->a los tales el Padre busca<!-- raw HTML omitted --> que lo adoren</em>.</a>
+              <ul>
+                <li><a href="#juan-423-isaias-6623-1-pedro-29-isaiah-4321-salmo-1506-isaias-437">Juan 4:23, Isaias 66:23, 1 Pedro 2:9, Isaiah 43:21, Salmo 150:6, Isaias 43:7</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#2-el-hombre">2. El Hombre</a>
+      <ul>
+        <li><a href="#una-criatura-superior">Una criatura superior</a>
+          <ul>
+            <li><a href="#cuando-dios-creó-la-humanidad-hizo-algo-muy-creativo">Cuando Dios creó la humanidad, hizo algo muy creativo.</a></li>
+            <li><a href="#hizo-seres-a-su-imagen-capaz-de-razonar-sentir-y-relacionarse">Hizo seres a Su imagen, capaz de razonar, sentir y relacionarse.</a>
+              <ul>
+                <li><a href="#genesis-27-isaias-425-salmo-13913-14-marcos-106--salmo-84-8">Genesis 2:7, Isaias 42:5, Salmo 139:13-14, Marcos 10:6,  Salmo 8:4-8</a></li>
+              </ul>
+            </li>
+            <li><a href="#el-hombre-fué-bendecido-por-dios-para-multiplicar-y-llenar-la-tierra-de-su-imagen">El hombre fué bendecido por Dios para multiplicar y llenar la tierra de Su imagen.</a>
+              <ul>
+                <li><a href="#genesis-128-mark-1213-17-colosenses-115">Genesis 1:28, Mark 12:13-17, Colosenses 1:15</a></li>
+              </ul>
+            </li>
+            <li><a href="#el-hombre-no-fué-creado-para-existir-independiente-de-dios-el-hombre-es-totalmente-dependiente-de-dios">El hombre no fué creado para existir independiente de Dios. El hombre es totalmente dependiente de Dios.</a>
+              <ul>
+                <li><a href="#genesis-219-22-genesis-312-hechos-1722-28">Genesis 2:19-22, Genesis 3:12, Hechos 17:22-28</a></li>
+              </ul>
+            </li>
+            <li><a href="#sin-embargo-y-a-pesar-que-dios-proveyó-todo-para-que-el-hombre-pudiera-ser-un-fiel-dependiente-y-administrador-de-todo-el-jardín-el-hombre-se-rebeló">Sin embargo, y a pesar que Dios proveyó todo para que el hombre pudiera ser un fiel dependiente y administrador de todo el jardín, el hombre se rebeló.</a>
+              <ul>
+                <li><a href="#heading"></a></li>
+              </ul>
+            </li>
+            <li><a href="#cuando-peco-entró-la-muerte">Cuando peco, entró la muerte.</a>
+              <ul>
+                <li><a href="#génesis-216-17-romanos-512">Génesis 2:16-17, Romanos 5:12</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#que-significa-la-frase-entró-la-muerte-romanos-512">¿Que significa la frase &ldquo;<em>entró la muerte</em>&rdquo;? Romanos 5:12</a>
+          <ul>
+            <li><a href="#la-muerte-en-la-biblia-no-significa-dejar-de-existir">La muerte en la Biblia no significa dejar de existir.</a></li>
+            <li><a href="#cuando-la-biblia-menciona-muerte-siempre-se-refiere-a-separación">Cuando la Biblia menciona muerte siempre se refiere a separación.</a></li>
+            <li><a href="#el-tipo-de-muerte-es-determinado-por-el-contexto">El tipo de muerte es determinado por el contexto.</a></li>
+            <li><a href="#la-biblia-menciona-muerte-física-separación-entre-el-espíritu-y-el-cuerpo-lucas-854-55">La Biblia menciona muerte física (separación entre el espíritu y el cuerpo). Lucas 8:54-55</a></li>
+            <li><a href="#la-biblia-menciona-muerte-espiritual-separación-espiritual-entre-dios-y-el-hombre-efesios-21-5">La Biblia menciona muerte espiritual (separación espiritual entre Dios y el hombre). Efesios 2:1, 5</a></li>
+            <li><a href="#la-biblia-menciona-muerte-de-relación-separación-de-estado-romanos-66-romanos-74">La Biblia menciona muerte de relación (separación de estado). Romanos 6:6, Romanos 7:4</a></li>
+            <li><a href="#la-biblia-menciona-muerte-de-comunión-1-timoteo-55-6">La Biblia menciona muerte de comunión. 1 Timoteo 5:5-6</a></li>
+            <li><a href="#la-biblia-menciona-muerte-eterna-separación-eterna-en-el-lago-de-fuego-apocalipsis-2014">La Biblia menciona muerte eterna (separación eterna en el lago de fuego). Apocalipsis 20:14</a></li>
+            <li><a href="#la-historia-pudo-haber-terminado-ahí">La historia pudo haber terminado ahí&hellip;</a></li>
+          </ul>
+        </li>
+        <li><a href="#pero-dios-tenía-un-plan-preparado">Pero Dios tenía un Plan Preparado</a>
+          <ul>
+            <li><a href="#2-timoteo-19-10-1-pedro-119-20">2 Timoteo 1:9-10, 1 Pedro 1:19-20</a></li>
+            <li><a href="#dios-podia-haber-hecho-adoradores-de-las-piedras-pero-no-lo-hizo">Dios podia haber hecho adoradores de las piedras. Pero no lo hizo.</a>
+              <ul>
+                <li><a href="#lucas-38">Lucas 3:8</a></li>
+              </ul>
+            </li>
+            <li><a href="#los-cielos-si-declaran-la-gloria-de-dios-pero-esto-no-es-adoración">Los cielos si declaran la gloria de Dios, pero esto no es adoración.</a></li>
+            <li><a href="#no-tienen-voluntad-simplemente-reflejan-naturalmente-la-inteligencia-creatividad-y-poder-de-dios">No tienen voluntad, simplemente reflejan naturalmente la inteligencia, creatividad y poder de Dios.</a>
+              <ul>
+                <li><a href="#salmo-191">Salmo 19:1</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#el-conflicto-central-de-la-historia-es-el-hombre">El Conflicto Central de la Historia es el Hombre.</a>
+          <ul>
+            <li><a href="#ezekiel-2230">Ezekiel 22:30</a></li>
+            <li><a href="#el-hombre-fue-creado-para-adorar">El hombre fue creado para adorar.</a>
+              <ul>
+                <li><a href="#isaias-4321-isaias-437-mateo-410-apocalipsis-147-salmo-292-apocalipsis-49-11">Isaias 43:21, Isaias 43:7, Mateo 4:10, Apocalipsis 14:7, Salmo 29:2, Apocalipsis 4:9-11</a></li>
+              </ul>
+            </li>
+            <li><a href="#dios-creó-a-la-humanidad-para-que-lo-adorara-a-él-y-solo-a-el-pero-desde-el-jardín-del-edén-la-humanidad-ha-buscado-su-realización-fuera-de-dios">Dios creó a la humanidad para que Lo adorara a Él y solo a El, pero desde el Jardín del Edén, la humanidad ha buscado su realización fuera de Dios.</a>
+              <ul>
+                <li><a href="#romanos-121-romanos-123-romanos-125">Romanos 1:21, Romanos 1:23, Romanos 1:25</a></li>
+              </ul>
+            </li>
+            <li><a href="#naturalmente-el-hombre-adora-a-su-manera-genesis-43-5">Naturalmente el hombre adora a su manera. Genesis 4:3-5</a></li>
+            <li><a href="#naturalmente-el-hombre-adora-cosas-creadas-que-cree-que-le-darán-lo-que-quiere">Naturalmente el hombre adora cosas creadas que cree que le darán lo que quiere.</a>
+              <ul>
+                <li><a href="#exodo-321-6">Exodo 32:1-6</a></li>
+              </ul>
+            </li>
+            <li><a href="#sabemos-quien-está-detras-de-todo-esto-y-al-final-se-revelará-claramente">Sabemos quien está detras de todo esto y al final se revelará claramente.</a>
+              <ul>
+                <li><a href="#apocalipsis-131-8">Apocalipsis 13:1-8</a></li>
+                <li><a href="#esto-por-supuesto-siempre-demuestra-ser-una-búsqueda-vacía">Esto, por supuesto, siempre demuestra ser una búsqueda vacía.</a></li>
+                <li><a href="#jeremías-25-isaías-536-romanos-118-25-romanos-102-3">Jeremías 2:5; Isaías 53:6; Romanos 1:18-25; Romanos 10:2-3</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#resumiendo">Resumiendo</a>
+          <ul>
+            <li><a href="#el-hombre-no-confió-en-su-creador">El hombre no confió en su creador.</a></li>
+            <li><a href="#pasó-de-ser-un-adorador-de-dios">Pasó de ser un adorador de Dios</a></li>
+            <li><a href="#a-un-adorador-de-lo-creado">a un adorador de lo creado.</a>
+              <ul>
+                <li><a href="#lucas-46-7">Lucas 4:6-7</a></li>
+              </ul>
+            </li>
+            <li><a href="#cuando-el-hombre-decidió-no-obedecer-a-dios-no-solo-dejó-de-adorarle-sino-que-perdió-acceso-al-jardín">Cuando el hombre decidió no obedecer a Dios, no solo dejó de adorarle, sino que perdió acceso al jardín.</a></li>
+            <li><a href="#debemos-comprender-algo">Debemos comprender algo&hellip;</a></li>
+            <li><a href="#aunque-adán-hubiese-pedido-perdón-en-ese-momento-a-dios-no-hubiera-sido-restaurado-al-jardín-porque">Aunque Adán hubiese pedido perdón en ese momento a Dios, no hubiera sido restaurado al jardín. ¿Porque?</a>
+              <ul>
+                <li><a href="#romanos-518-genesis-324-genesis-315--juan-318">Romanos 5:18, Genesis 3:24, Genesis 3:15,  Juan 3:18</a></li>
+              </ul>
+            </li>
+            <li><a href="#todo-lo-que-el-hombre-es-capáz-de-lograr-es-insuficiente-ineficaz-y-despreciable-ante-dios">Todo lo que el hombre es capáz de lograr es insuficiente, ineficaz y despreciable ante Dios.</a>
+              <ul>
+                <li><a href="#isaias-646-isaias-5712-romanos-102-3">Isaias 64:6, Isaias 57:12, Romanos 10:2-3</a></li>
+              </ul>
+            </li>
+            <li><a href="#ciertamente-span-stylecolor-yellowno-hay-hombre-justo-en-la-tierraspan-que-haga-el-bien-y-nunca-peque-eclesiastes-720"><em>Ciertamente <!-- raw HTML omitted -->no hay hombre justo en la tierra<!-- raw HTML omitted --> Que haga el bien y nunca peque</em>. Eclesiastes 7:20</a></li>
+            <li><a href="#span-stylecolor-yellowtodos-se-han-desviadospan-a-una-se-han-corrompido-no-hay-quien-haga-el-bien-no-hay-ni-siquiera-uno-salmo-533"><em><!-- raw HTML omitted -->Todos se han desviado<!-- raw HTML omitted -->, a una se han corrompido; No hay quien haga el bien, no hay ni siquiera uno</em>. Salmo 53:3</a></li>
+            <li><a href="#el-hombre-es-el-culpable-romanos-310-20">El hombre es el culpable. Romanos 3:10-20</a></li>
+            <li><a href="#en-conclusion-el-hombre-es-el-problema">En conclusion: <strong>¡El hombre es el problema!</strong></a></li>
+            <li><a href="#el-hombre-no-tiene-esperanza-alguna-de-arreglar-su-situación-para-con-dios">El hombre no tiene esperanza alguna de arreglar su situación para con Dios.</a>
+              <ul>
+                <li><a href="#eclesiastés-93-romanos-312-romanos-623">Eclesiastés 9:3, Romanos 3:12, Romanos 6:23</a></li>
+              </ul>
+            </li>
+            <li><a href="#pero-gracias-sean-dadas-a-dios-que-a-pesar-del-rechazo-del-hombre-proveyó-una-solución">¡¡Pero gracias sean dadas a Dios que a pesar del rechazo del hombre, proveyó una solución!!</a>
+              <ul>
+                <li><a href="#romanos-321-22">Romanos 3:21-22</a></li>
+              </ul>
+            </li>
+            <li><a href="#es-decir-dios-hizo-posible-el-pago-justo-por-nuestros-pecados-de-manera-sustitutiva-por-medio-de-jesucristo-romanos-323-24">Es decir, Dios hizo posible el pago justo por nuestros pecados de manera sustitutiva por medio de Jesucristo. Romanos 3:23-24</a></li>
+            <li><a href="#la-condena-que-nos-mereciamos-la-tomó-el">¡La condena que nos mereciamos, la tomó El!</a>
+              <ul>
+                <li><a href="#gálatas-313">Gálatas 3:13</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#entonces-la-pregunta-que-debes-responder-es">Entonces, La pregunta que debes responder es&hellip;</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#has-creido-que-cristo-es-suficiente-para-el-pago-de-tus-pecados-y-para-darte-vida-eterna-para-nunca-más-ver-la-condenación">¿Has creido que Cristo es <strong>suficiente</strong> para el pago de tus pecados y para darte vida eterna, para nunca más ver la condenación?</a>
+              <ul>
+                <li><a href="#1-juan-513-juan-524">1 Juan 5:13, Juan 5:24</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#3-solución">3. Solución</a>
+      <ul>
+        <li><a href="#dios-proveyó-la-solución">Dios proveyó la solución</a></li>
+        <li><a href="#ihebreos-101-39--el-valor-del-sacrificio-único-de-cristo">I.	Hebreos 10:1-39 – El Valor del Sacrificio Único de Cristo</a>
+          <ul>
+            <li><a href="#ahebreos-101-10--el-éxito-del-sacrificio-de-cristo">A.	Hebreos 10:1-10 – El éxito del sacrificio de Cristo</a></li>
+            <li><a href="#bhebreos-1011-18--el-alcance-del-sacrificio-de-cristo">B.	Hebreos 10:11-18 – El alcance del sacrificio de Cristo</a></li>
+            <li><a href="#chebreos-1019-25--la-motivación-que-el-sacrificio-de-cristo-provee">C.	Hebreos 10:19-25 – La motivación que el sacrificio de Cristo Provee</a>
+              <ul>
+                <li><a href="#1hebreos-1019-20--cómo-debe-el-conocimiento-del-sacrificio-de-cristo-impactar-nuestras-vidas">1.	Hebreos 10:19-20 – ¿Cómo debe el conocimiento del sacrificio de Cristo impactar nuestras vidas?</a>
+                  <ul>
+                    <li><a href="#ahebreos-1019a--así-que-considerando-la-naturaleza-eficaz-del-sacrificio-de-cristo">a.	Hebreos 10:19a – Así que, considerando la naturaleza eficaz del sacrificio de Cristo…</a></li>
+                    <li><a href="#bhebreos-1019b--hermanos-al-referirse-a-sus-lectores-como-hermanos-el-autor-reconocía-que-sus-destinatarios-eran-creyentes">b.	Hebreos 10:19b – Hermanos… Al referirse a sus lectores como hermanos, el autor reconocía que sus destinatarios eran creyentes.</a></li>
+                    <li><a href="#chebreos-1019c--teniendo-libertad-para-entrar-en-el-lugar-santísimo-por-la-sangre-de-jesucristo-debido-al-perdón-que-recibieron-por-medio-de-la-sangre-de-cristo-los-creyentes-hebreos-podían-entrar-a-la-presencia-de-dios-con-confianza-romanos-831-39-1-pedro-118-19-1-juan-17">c.	Hebreos 10:19c – Teniendo libertad para entrar en el Lugar Santísimo por la sangre de Jesucristo. Debido al perdón que recibieron por medio de la sangre de Cristo, los creyentes hebreos podían entrar a la presencia de Dios con confianza. Romanos 8:31 39, 1 Pedro 1:18-19, 1 Juan 1:7</a>
+                      <ul>
+                        <li><a href="#1en-hebreos-414-16-somos-invitados-a-acercarnos-al-lugar-santo-la-presencia-de-dios-en-cualquier-momento-por-medio-de-la-oración-efesios-311-12">1)	En Hebreos 4:14-16 somos invitados a acercarnos al Lugar Santo (La presencia de Dios) en cualquier momento por medio de la oración. Efesios 3:11-12</a></li>
+                        <li><a href="#2un-día-en-el-futuro-podremos-acercarnos-a-dios-a-su-lugar-santísimo-celestial-en-persona-2-corintios-56-8-filipenses-123-1-tesalonicenses-417-18-510-hebreos-719-1-pedro-29-10-318-apocalipsis-223-4">2)	Un día en el futuro podremos acercarnos a Dios a Su Lugar Santísimo celestial en persona. 2 Corintios 5:6-8; Filipenses 1:23; 1 Tesalonicenses 4:17-18, 5:10; Hebreos 7:19; 1 Pedro 2:9-10, 3:18, Apocalipsis 22:3-4</a></li>
+                        <li><a href="#3verdaderamente-ninguno-de-nosotros-es-digno-o-suficientemente-bueno-para-acercarse-a-dios-ni-siquiera-en-nuestro-mejor-día-ninguno-de-nosotros-se-acercará-jamás-a-dios-basado-en-nuestra-bondad-sino-solamente-sobre-la-base-de-la-obra-consumada-de-cristo">3)	Verdaderamente ninguno de nosotros es digno o suficientemente bueno para acercarse a Dios, ni siquiera en nuestro mejor día. Ninguno de nosotros se acercará jamás a Dios basado en nuestra bondad sino solamente sobre la base de la obra consumada de Cristo.</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#dhebreos-1020--por-el-camino-nuevo-y-vivo-que-él-nos-abrió-a-través-del-velo-esto-es-de-su-carne-cristo-abrió-el-camino-para-que-entráramos-al-lugar-santísimo-por-medio-de-su-cuerpo-físico-que-fue-rasgado-en-su-muerte-substitutiva-por-nosotros-en-la-cruz">d.	Hebreos 10:20 – Por el camino nuevo y vivo que Él nos abrió a través del velo, esto es, de Su carne. Cristo abrió el camino para que entráramos al Lugar Santísimo por medio de Su cuerpo físico que fue rasgado en Su muerte substitutiva por nosotros en la cruz.</a>
+                      <ul>
+                        <li><a href="#1la-puerta-que-cristo-abrió-no-estaba-en-el-lugar-santo-en-el-tabernáculo-terrenal-nosotros-ahora-entramos-a-la-presencia-celestial-de-dios-por-medio-del-camino-nuevo-y-vivo-que-la-muerte-de-jesús-proveyó-juan-221-22-romanos-83">1)	La puerta que Cristo abrió no estaba en el Lugar Santo en el tabernáculo terrenal. Nosotros ahora entramos a la presencia celestial de Dios por medio del camino nuevo y vivo que la muerte de Jesús proveyó. Juan 2:21-22, Romanos 8:3</a></li>
+                        <li><a href="#2el-camino-nuevo-y-vivo-hacia-el-verdadero-lugar-santísimo-fue-a-través-de-la-muerte-física-y-espiritual-de-cristo-marcos-1534-si-bien-en-su-cuerpo-físico-en-la-cruz-1-pedro-224">2)	El camino nuevo y vivo hacia el verdadero Lugar Santísimo fue a través de la muerte física y espiritual de Cristo (Marcos 15:34) si bien en Su cuerpo físico en la cruz. 1 Pedro 2:24</a></li>
+                        <li><a href="#3a-través-del-velo-esto-es-su-carne-el-cuerpo-de-cristo-fue-la-cortina-que-fue-rasgada-para-abrirnos-el-camino-para-entrar-a-la-presencia-de-dios-juan-109-146-1-timoteo-25">3)	…a través del velo, esto es, Su carne. El cuerpo de Cristo fue la cortina que fue rasgada para abrirnos el camino para entrar a la presencia de Dios. Juan 10:9, 14:6; 1 Timoteo 2:5</a></li>
+                        <li><a href="#4en-la-salvación-pasamos-de-muerte-a-vida-eterna-a-través-de-cristo-por-medio-de-todo-lo-que-ocurrió-en-su-sacrificio-en-la-cruz-juan-524">4)	En la salvación pasamos de muerte a vida eterna a través de Cristo, por medio de todo lo que ocurrió en Su sacrificio en la cruz. Juan 5:24</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="#2hebreos-1021-25--por-lo-tanto-basados-en-la-obra-sacrificial-sacerdotal-de-cristo-debemos-acercarnos-v22-aferrarnos-v23-mostrar-compasión-v24-evitar-la-negligencia-v25a-y-buscar-motivar-a-otros-positivamente-v25b">2.	Hebreos 10:21-25 – Por lo tanto basados en la obra sacrificial sacerdotal de Cristo, debemos acercarnos (v.22), aferrarnos (v.23), mostrar compasión (v.24), evitar la negligencia (v.25a), y buscar motivar a otros positivamente (v.25b).</a>
+                  <ul>
+                    <li><a href="#ahebreos-1021--y-teniendo-un-gran-sacerdote-sobre-la-casa-de-dios-el-conocimiento-del-sacrificio-vs19-20-y-sacerdocio-de-cristo-v21-debe-movernos-a-la-acción-piadosa">a.	Hebreos 10:21 – Y teniendo un gran sacerdote sobre la casa de Dios… El conocimiento del sacrificio (vs.19-20) y sacerdocio de Cristo (v.21) debe movernos a la acción piadosa.</a></li>
+                    <li><a href="#bhebreos-1022--basados-en-el-sacerdocio-de-cristo-estamos-ahora-invitados-a-acercarnos-a-dios-entusiastamente">b.	Hebreos 10:22 – Basados en el sacerdocio de Cristo, estamos ahora invitados a acercarnos a Dios entusiastamente.</a>
+                      <ul>
+                        <li><a href="#1hebreos-1022a--acerquémonos-con-corazón-sincero-lit-verdadero-el-conocimiento-del-sacerdocio-de-cristo-debe-de-atraernos-a-una-comunión-íntima-con-dios-hebreos-82-924-juan-423">1)	Hebreos 10:22a – Acerquémonos con corazón sincero [Lit. ‘verdadero’]… El conocimiento del sacerdocio de Cristo debe de atraernos a una comunión íntima con Dios. Hebreos 8:2, 9:24, Juan 4:23</a></li>
+                        <li><a href="#ἀληθινός-sinceroverdadero---lo-que-no-sólo-tiene-el-nombre-y-la-semejanza-sino-la-naturaleza-real-correspondiente-al-nombre-en-todos-los-aspectos-correspondiente-a-la-idea-significada-por-el-nombre-real-verdadero-genuino">ἀληθινός [sincero/verdadero] - lo que no sólo tiene el nombre y la semejanza, sino la naturaleza real correspondiente al nombre, en todos los aspectos correspondiente a la idea significada por el nombre, real, verdadero genuino</a></li>
+                        <li><a href="#1a-frente-a-lo-ficticio-falsificado-imaginario-simulado-o-pretendido">1a) frente a lo ficticio, falsificado, imaginario, simulado o pretendido</a></li>
+                        <li><a href="#1b-contrasta-las-realidades-con-sus-apariencias">1b) contrasta las realidades con sus apariencias</a></li>
+                        <li><a href="#1c-opuesto-a-lo-imperfecto-defectuoso-frágil-incierto">1c) opuesto a lo imperfecto defectuoso, frágil, incierto</a></li>
+                        <li><a href="#2-verdadero-veraz-sincero">2) verdadero, veraz, sincero</a></li>
+                        <li><a href="#2hebreos-1022b--acerquémonos-en-plena-certidumbre-de-fe-basados-en-la-obra-y-persona-de-cristo-debemos-ser-atraídos-hacia-dios-con-un-gran-sentido-de-confianza">2)	Hebreos 10:22b – Acerquémonos …en plena certidumbre de fe. Basados en la obra y persona de Cristo debemos ser atraídos hacia Dios con un gran sentido de confianza.</a></li>
+                        <li><a href="#3hebreos-1022c--acerquémonos-teniendo--lbla-purificados-lit-rociados-los-corazones-de-mala-conciencia-el-saber-que-nuestros-pecados-son-perdonados-gracias-a-la-obra-completa-de-cristo-nos-libera-del-peso-de-la-culpa-y-la-vergüenza-para-que-podamos-acercarnos-a-dios-con-confianza-hebreos-96-9-hebreos-911-14">3)	Hebreos 10:22c – Acerquémonos …[‘teniendo’ – LBLA] purificados [Lit. ‘rociados’] los corazones de mala conciencia. El saber que nuestros pecados son perdonados gracias a la obra completa de Cristo nos libera del peso de la culpa y la vergüenza para que podamos acercarnos a Dios con confianza. Hebreos 9:6-9, Hebreos 9:11-14</a></li>
+                        <li><a href="#4hebreos-1022d--acerquémonos-teniendo--lbla-lavados-los-cuerpos-con-agua-pura-en-un-sentido-metafórico-la-obra-sacerdotal-de-cristo-nos-limpió-con-agua-pura-esta-metáfora-habla-de-la-posición-limpia-que-ahora-tenemos-delante-de-dios-juan-1310">4)	Hebreos 10:22d – Acerquémonos …[‘teniendo’ – LBLA] lavados los cuerpos con agua pura. En un sentido metafórico, la obra sacerdotal de Cristo nos limpió con agua pura. Esta metáfora habla de la posición limpia que ahora tenemos delante de Dios. Juan 13:10</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#chebreos-1023--mantengamos-firme-sin-fluctuar-vacilar--lbla-la-profesión-lit-confesión-de-nuestra-esperanza-porque-fiel-es-el-que-prometió-el-conocimiento-de-la-fidelidad-de-cristo-nos-debe-causar-aferrarnos-firmemente-a-la-esperanza-que-profesamos-efesios-118">c.	Hebreos 10:23 – Mantengamos firme, sin fluctuar [‘vacilar’ – LBLA], la profesión [Lit. ‘confesión’] de nuestra esperanza, porque fiel es el que prometió. El conocimiento de la fidelidad de Cristo nos debe causar aferrarnos firmemente a la esperanza que profesamos. Efesios 1:18</a>
+                      <ul>
+                        <li><a href="#1la-esperanza-mencionada-aqui-es-la-misma-esperanza-que-continuamente-hemos-profesado-desde-el-primer-día-de-nuestra-salvación-romanos-55-823-25">1)	La esperanza mencionada aqui es la misma esperanza que continuamente hemos profesado desde el primer día de nuestra salvación. Romanos 5:5, 8:23-25</a></li>
+                        <li><a href="#2por-qué-podemos-mantenernos-firmes-de-la-esperanza-que-siempre-hemos-confesado-porque-el-dios-que-hace-promesas-es-confiable-1-juan-33">2)	¿Por qué podemos mantenernos firmes de la esperanza que siempre hemos confesado? Porque el Dios que hace promesas es confiable. 1 Juan 3:3</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="#porque-convenía-que-aquel-para-quien-son-todas-las-cosas-y-por-quien-son-todas-las-cosas-llevando-muchos-hijos-a-la-gloria-hiciera-perfecto-por-medio-de-los-padecimientos-al-autor-de-la-salvación-de-ellos">Porque convenía que Aquel para quien son todas las cosas y por quien son todas las cosas, llevando muchos hijos a la gloria, hiciera perfecto por medio de los padecimientos al autor de la salvación de ellos.</a>
+              <ul>
+                <li><a href="#hebreos-210">Hebreos 2:10</a></li>
+              </ul>
+            </li>
+            <li><a href="#por-tanto-ofrezcamos-continuamente-mediante-él-sacrificio-de-alabanza-a-dios-es-decir-el-fruto-de-labios-que-confiesan-su-nombre">Por tanto, ofrezcamos continuamente mediante Él, sacrificio de alabanza a Dios, es decir, el fruto de labios que confiesan Su nombre.</a>
+              <ul>
+                <li><a href="#hebreos-1315">Hebreos 13:15</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#4-restauración">4. Restauración</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#el-evangelio-es-poder-de-dios-para-salvación-del-poder-del-pecado--1-corintios-118">El Evangelio es poder de Dios para Salvación del <strong>PODER</strong> del pecado.  1 Corintios 1:18</a></li>
+            <li><a href="#el-evangelio-es-poder-de-dios-para-la-santificación">El Evangelio es poder de Dios para la santificación.</a></li>
+          </ul>
+        </li>
+        <li><a href="#dios-nos-ha-identificado-en-la-persona-y-obra-de-jesucristo-gálatas-220">Dios nos ha identificado en la persona y obra de Jesucristo. Gálatas 2:20</a>
+          <ul>
+            <li>
+              <ul>
+                <li><a href="#1-fuimos-bautizados-con-cristo-en-su-muerte-romanos-63">1. Fuimos bautizados con Cristo en su muerte. Romanos 6:3</a>
+                  <ul>
+                    <li><a href="#2-morimos-a-el-pecado-romanos-62">2. Morimos a el pecado. Romanos 6:2</a></li>
+                    <li><a href="#3-morimos-a-nuestro-antiguo-yo-romanos-66">3. Morimos a nuestro antiguo yo. Romanos 6:6</a></li>
+                    <li><a href="#4-morimos-a-la-ley-romanos-74">4. Morimos a la ley. Romanos 7:4</a></li>
+                    <li><a href="#5-morimos-al-mundo-colosenses-220-23">5. Morimos al mundo. Colosenses 2:20-23</a></li>
+                  </ul>
+                </li>
+                <li><a href="#6-fuimos-bautizados-con-cristo-en-su-sepultura-romanos-64">6. Fuimos bautizados con Cristo en su sepultura. Romanos 6:4</a></li>
+                <li><a href="#7-fuimos-bautizados-con-cristo-en-su-resurrección-romanos-64">7. Fuimos bautizados con Cristo en su resurrección. Romanos 6:4</a></li>
+                <li><a href="#8-al-ser-unidos-a-cristo-ahora-estamos-vivos-para-dios-romanos-611">8. Al ser unidos a Cristo ahora estamos vivos para Dios. Romanos 6:11</a></li>
+                <li><a href="#9-al-ser-colocados-en-cristo-hemos-ascendido-y-estamos-sentados-a-la-diestra-del-padre-el-lugar-de-mayor-aceptación-colosenses-31-3">9. Al ser colocados en Cristo hemos ascendido y estamos sentados a la diestra del Padre. El lugar de mayor aceptación. Colosenses 3:1-3</a></li>
+              </ul>
+            </li>
+            <li><a href="#creyente-ya-conoces-la-realidad-de-estar-unido-a-cristo--ya-tienes-tu-completa-restauración-espiritual-con-el-padre-por-medio-de-jesucristo-pero-debes-contarlo-por-la-fe-romanos-611">Creyente, ya conoces la realidad de estar unido a Cristo.  Ya tienes tu completa restauración espiritual con el Padre por medio de Jesucristo, pero debes contarlo por la fe. Romanos 6:11</a></li>
+          </ul>
+        </li>
+        <li><a href="#entonces-que-hacemos-con-nuestra-nueva-posición-de-aceptación">Entonces, ¿Que hacemos con nuestra nueva posición de aceptación?</a>
+          <ul>
+            <li><a href="#ahora-presentate-ya-no-a-tu-viejo-amo-la-carne-sino-al-espíritu">Ahora, presentate, ya no a tu viejo amo (la carne) sino al Espíritu.</a></li>
+            <li><a href="#presenta-los-miembros-de-tu-cuerpo-al-espíritu-para-uso-de-justicia-romanos-613-14">Presenta los miembros de tu cuerpo al Espíritu para uso de justicia. Romanos 6:13-14</a></li>
+            <li><a href="#esto-es-maravilloso-el-creyente-ya-no-tiene-porque-ser-esclavo-a-la-carne-sino-que-sus-miembros-pueden-ser-presentados-al-espíritu-y-usados-por-dios-para-justicia-romanos-620-22">¡Esto es maravilloso! El creyente ya no tiene porque ser esclavo a la carne sino que sus miembros pueden ser presentados al Espíritu y usados por Dios para justicia. Romanos 6:20-22</a></li>
+            <li><a href="#el-mundo-que-opera-según-la-carne-no-puede-agradar-a-dios-romanos-87-8">El mundo (que opera según la carne) no puede agradar a Dios. Romanos 8:7-8</a></li>
+            <li><a href="#pero-igualmente-el-creyente-que-no-esta-presentado-al-espíritu-y-está-presentado-a-la-carne-tampoco-puede-agradar-a-dios-romanos-813">Pero igualmente, el creyente que no esta presentado al Espíritu y está presentado a la carne, tampoco puede agradar a Dios. Romanos 8:13</a></li>
+          </ul>
+        </li>
+        <li><a href="#la-influencia-del-espíritu-en-la-vida-del-creyente">La influencia del Espíritu en la vida del Creyente</a>
+          <ul>
+            <li><a href="#el-creyente-que-cuenta-por-la-fe-en-su-identidad-en-cristo-está-en-la-posición-de-poderse-presentar-al-espíritu-y-agradar-a-dios">El creyente que cuenta por la fe en su identidad en Cristo, está en la posición de poderse presentar al Espíritu y agradar a Dios.</a></li>
+            <li><a href="#el-creyente-que-se-presenta-al-espíritu-de-manera-consistente-llega-a-ser-un-hijo-maduro-de-dios-romanos-814">El creyente que se presenta al Espíritu de manera consistente llega a ser un hijo maduro de Dios. Romanos 8:14</a></li>
+            <li><a href="#el-creyente-que-se-presenta-como-sacrificio-vivo-al-espíritu-no-camina-ni-satisface-en-ese-momento-los-deseos-de-la-carne-gálatas-516">El creyente que se presenta como sacrificio vivo al Espíritu no camina ni satisface (en ese momento) los deseos de la carne. Gálatas 5:16</a></li>
+            <li><a href="#al-estar-presentado-al-espíritu-uno-es-influenciado-por-el-espíritu--efesios-518-colosenses-316">Al estar presentado al Espíritu uno es influenciado por el Espíritu.  Efesios 5:18, Colosenses 3:16</a></li>
+            <li><a href="#produce-su-fruto-el-carácter-de-cristo-gálatas-522-23">Produce Su fruto (el carácter de Cristo). Gálatas 5:22-23</a></li>
+            <li><a href="#produce-un-espíritu-adorador-romanos-815">Produce un espíritu adorador. Romanos 8:15</a></li>
+            <li><a href="#enseña-la-verdad-para-entendimiento-juan-1426">Enseña la verdad para entendimiento. Juan 14:26</a></li>
+            <li><a href="#nos-da-seguridad-romanos-816">Nos da seguridad. Romanos 8:16</a></li>
+            <li><a href="#no-permite-que-caminemos-según-la-carne-gálatas-516">No permite que caminemos según la carne. Gálatas 5:16</a></li>
+            <li><a href="#dios-produce-verdaderos-adoradores-de-aquellos-que-caminan-presentados-al-espíritu-lucas-1827-hebreos-116-1-corintios-1510-isaias-5715">Dios produce verdaderos adoradores de aquellos que caminan presentados al Espíritu. Lucas 18:27, Hebreos 11:6, 1 Corintios 15:10, Isaias 57:15</a></li>
+            <li><a href="#adoren-al-señor-en-span-stylecoloryellowvestiduras-santasspan-tiemblen-ante-su-presencia-toda-la-tierra">Adoren al SEÑOR en <!-- raw HTML omitted -->vestiduras santas<!-- raw HTML omitted -->; Tiemblen ante Su presencia, toda la tierra.</a>
+              <ul>
+                <li><a href="#salmo-969">Salmo 96:9</a></li>
+              </ul>
+            </li>
+            <li><a href="#por-lo-cual-span-stylecoloryellowpuesto-que-recibimos-un-reino-que-es-inconmoviblespan-demostremos-gratitud-mediante-la-cual-ofrezcamos-a-dios-un-servicio-aceptable-con-temor-y-reverencia">Por lo cual, <!-- raw HTML omitted -->puesto que recibimos un reino que es inconmovible<!-- raw HTML omitted -->, demostremos gratitud, mediante la cual ofrezcamos a Dios un servicio aceptable con temor y reverencia;</a>
+              <ul>
+                <li><a href="#hebreos-1228">Hebreos 12:28</a></li>
+              </ul>
+            </li>
+            <li><a href="#que-la-palabra-de-cristo-span-stylecolor-yellowhabite-en-abundancia-en-ustedesspan-con-toda-sabiduría-enseñándose-y-amonestándose-unos-a-otros-con-salmos-himnos-y-canciones-espirituales-cantando-a-dios-con-acción-de-gracias-en-sus-corazones">Que la palabra de Cristo <!-- raw HTML omitted -->habite en abundancia en ustedes<!-- raw HTML omitted -->, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos y canciones espirituales, cantando a Dios con acción de gracias en sus corazones.</a>
+              <ul>
+                <li><a href="#colosenses-316">Colosenses 3:16</a></li>
+              </ul>
+            </li>
+            <li><a href="#el-sacrificio-de-los-impíos-es-abominación-al-señor-pero-span-stylecolor-yellowla-oración-de-los-rectos-es-su-deleitespan"><em>El sacrificio de los impíos es abominación al SEÑOR, Pero <!-- raw HTML omitted -->la oración de los rectos es Su deleite<!-- raw HTML omitted --></em>.</a>
+              <ul>
+                <li><a href="#proverbios-158">Proverbios 15:8</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#toda-persona-tiene-como-parte-de-su-adn-ser-un-adorador--a-quien-o-a-que-el-individuo-adora-varía">Toda persona tiene como parte de su ADN ser un adorador.  A quien o a que el individuo adora varía.</a>
+          <ul>
+            <li><a href="#a-los-ídolos-ángeles-hombres-imágenes-o-cosas-creadas--1-reyes-1230-apocalipsis-228-9-hechos-1025-apocalipsis-1920">A los ídolos, ángeles, hombres, imágenes o cosas creadas.  1 Reyes 12:30, Apocalipsis 22:8-9, Hechos 10:25, Apocalipsis 19:20</a>
+              <ul>
+                <li><a href="#dios-busca-a-aquellos-que-le-adoran-con-honestidad-no-hipócritamente-jesús-no-tenía-nada-bueno-que-decir-acerca-de-los-fariseos-hipócritas-que-se-mostraban-adorando-a-dios-cuando-en-realidad-no-les-importaba-en-absoluto">Dios busca a aquellos que Le adoran con honestidad, no hipócritamente. Jesús no tenía nada bueno que decir acerca de los fariseos hipócritas que se mostraban adorando a Dios cuando en realidad no les importaba en absoluto.</a></li>
+                <li><a href="#mateo-2325-27">Mateo 23:25-27</a></li>
+              </ul>
+            </li>
+            <li><a href="#vengan-adoremos-y-postrémonos-doblemos-la-rodilla-ante-el-señor-nuestro-hacedor">Vengan, adoremos y postrémonos; Doblemos la rodilla ante el SEÑOR nuestro Hacedor.</a>
+              <ul>
+                <li><a href="#salmo-956">Salmo 95:6</a></li>
+              </ul>
+            </li>
+            <li><a href="#por-tanto-ofrezcamos-continuamente-span-stylecolor-yellowmediante-élspan-sacrificio-de-alabanza-a-dios-es-decir-el-fruto-de-labios-que-confiesan-su-nombre">Por tanto, ofrezcamos continuamente <!-- raw HTML omitted -->mediante Él<!-- raw HTML omitted -->, sacrificio de alabanza a Dios, es decir, el fruto de labios que confiesan Su nombre.</a>
+              <ul>
+                <li><a href="#hebreos-1315-1">Hebreos 13:15</a></li>
+              </ul>
+            </li>
+            <li><a href="#oh-dios-tú-eres-mi-dios-te-buscaré-con-afán-mi-alma-tiene-sed-de-ti-mi-carne-te-anhela-cual-tierra-seca-y-árida-donde-no-hay-agua-así-te-contemplaba-en-el-santuario-para-ver-tu-poder-y-tu-gloria-span-stylecolor-yellowporque-tu-misericordia-es-mejor-que-la-vidaspan-mis-labios-te-alabarán"><em>Oh Dios, Tú eres mi Dios; te buscaré con afán. Mi alma tiene sed de Ti, mi carne te anhela Cual tierra seca y árida donde no hay agua. Así te contemplaba en el santuario, Para ver Tu poder y Tu gloria. <!-- raw HTML omitted -->Porque Tu misericordia es mejor que la vida<!-- raw HTML omitted -->, Mis labios te alabarán</em>.</a>
+              <ul>
+                <li><a href="#salmo-631-3">Salmo 63:1-3</a></li>
+              </ul>
+            </li>
+            <li><a href="#así-te-bendeciré-mientras-viva-en-tu-nombre-alzaré-mis-manos-como-con-médula-y-grasa-está-saciada-mi-alma-y-con-labios-jubilosos-te-alaba-mi-boca-cuando-en-mi-lecho-me-acuerdo-de-ti-en-ti-medito-durante-las-vigilias-de-la-noche-span-stylecolor-yellowporque-tú-has-sido-mi-ayudaspan-y-a-la-sombra-de-tus-alas-canto-gozoso"><em>Así te bendeciré mientras viva, En Tu nombre alzaré mis manos. Como con médula y grasa está saciada mi alma; Y con labios jubilosos te alaba mi boca. Cuando en mi lecho me acuerdo de Ti, En Ti medito durante las vigilias de la noche. <!-- raw HTML omitted -->Porque Tú has sido mi ayuda<!-- raw HTML omitted -->, Y a la sombra de Tus alas canto gozoso</em>.</a>
+              <ul>
+                <li><a href="#salmo-634-7">Salmo 63:4-7</a></li>
+              </ul>
+            </li>
+            <li><a href="#un-día-por-medio-de-la-obra-de-cristo-dios-terminará-la-plena-restauración-de-todo">Un día, por medio de la obra de Cristo, Dios terminará la plena restauración de todo.</a>
+              <ul>
+                <li><a href="#romanos-820-21-romanos-823">Romanos 8:20-21, Romanos 8:23</a></li>
+              </ul>
+            </li>
+            <li><a href="#y-después-de-que-hayan-sufrido-un-poco-de-tiempo-el-dios-de-toda-gracia-que-los-llamó-a-su-gloria-eterna-en-cristo-span-stylecoloryellowél-mismo-los-perfeccionará-afirmará-fortalecerá-y-estableceráspan">Y después de que hayan sufrido un poco de tiempo, el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo, <!-- raw HTML omitted -->Él mismo los perfeccionará, afirmará, fortalecerá, y establecerá<!-- raw HTML omitted -->.</a>
+              <ul>
+                <li><a href="#1-pedro-510">1 Pedro 5:10</a></li>
+              </ul>
+            </li>
+            <li><a href="#oh-señor-quién-no-temerá-y-glorificará-tu-nombre-pues-solo-tú-eres-santo-porque-todas-las-naciones-vendrán-y-adorarán-en-tu-presencia-pues-tus-justos-juicios-han-sido-revelados"><strong>¡Oh Señor! ¿Quién no temerá y glorificará Tu nombre? Pues solo Tú eres santo; Porque TODAS LAS NACIONES VENDRÁN Y ADORARÁN EN TU PRESENCIA, Pues Tus justos juicios han sido revelados»</strong>.</a>
+              <ul>
+                <li><a href="#apocalipsis-154-apocalipsis-211-5">Apocalipsis 15:4, Apocalipsis 21:1-5</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+      <div id="taxonomies"><div class="taxonomy-wrapper"></div><div class="taxonomy-wrapper"></div></div>
+    </div>
+  </div>
+  <div
+    class="is-paddingless"
+    id="tocCollapsible"
+    title="Collapse/Uncollapse table of contents"
+  >
+    <i class="fa-solid fa-angles-right fa-lg"></i>
+  </div>
+</div>
+</div>
+</div><script type='text/javascript'>
+  const baseUrl = 'https:\/\/johnwry.github.io\/page\/';
+  const codeCopyBefore = 'Copy to clipboard';
+  const codeCopyAfter = 'Copied to clipboard';
+  const svgDownloadLabel = 'Download as SVG';
+  const helperLoadingLabel = 'Loading';
+  const searchNoResults = 'No result found';
+  const introNextLabel = 'Next';
+  const introPrevLabel = 'Previous';
+  const introSkipLabel = '✗';
+  const introDoneLabel = 'Done';
+  const printLabel = 'Print current page';
+  const qrCodeLabel = 'Show current page QR code';
+  const naCommonLabel = 'Not available';
+</script>
+<script
+      type="module"
+      src="/page/js/theme/modules/const.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/modules/helpers.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/modules/helpersGlobal.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/init.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/navbar.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/print.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/qrcode.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/search.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/shortcuts.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/sidebar.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/toc.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/theme/browserCompatibility.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/flexsearch/flexsearch.bundle.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/qrious/qrious.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/overlay-scrollbars/overlayscrollbars.min.js"
+    ></script>
+</body>
+</html>

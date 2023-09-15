@@ -126,6 +126,7 @@ ___
 
 ### La iglesia fue diseñada para ser santa e irreprochable. Con esta meta Cristo se entregó, y con esta meta sus obreros deben realizar su trabajo. No hay razón para creer que no lograremos este objetivo. Podemos afirmar que el futuro de la iglesia será glorioso.
 
+<!-- .slide:   data-background-color="white"  data-menu-title="" data-background-size="fill" data-background-image="https://raw.githubusercontent.com/johnwry/dm2/main/markdown/iglesia/media/audience.jpeg" data-background-opacity=".7" -->
 ## **VII. ¿Qué dice Dios acerca de la iglesia actual?**
 
 ### Cuando decimos que el futuro de la iglesia es glorioso, afirmamos que lo mismo ocurre en el presente. 

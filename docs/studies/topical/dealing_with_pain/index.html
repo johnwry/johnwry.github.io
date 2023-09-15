@@ -1,0 +1,1572 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content="Hugo 0.117.0">
+<meta name="viewport" content="width=device-width, initial-scale=1" /><title>Dealing with Pain | BJWry</title>
+
+<link
+  rel="icon"
+  href="/page/images/favicon.png"
+  type="image/x-icon"
+/>
+<link
+    rel="stylesheet"
+    rel="preload"
+    type="text/css"
+    href="/page/css/main.css"
+  /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/page/css/external/fontawesome.all.min.css"
+    /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/page/css/external/overlay-scrollbars/overlayscrollbars.min.css"
+    />
+</head>
+  <body onload="browserCompatibility()"><div id="navbarInfo" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box">
+    <div class="card modal-title is-radiusless">
+      <div class="card-header">
+        <p class="card-header-title is-marginless">About</p>
+      </div>
+    </div>
+    <div class="modal-content-container">
+      <div class="modal-content-block is-block">
+</div>
+    </div>
+  </div>
+</div>
+<div id="navbarShortcuts" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
+        <div class="card-header">
+          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+        </div>
+      </div>
+      <div class="modal-content-container">
+        <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show current page QR code</p>
+  </div><div class="modal-content"><kbd>Escape</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Close modals</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show website information</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show shortcuts</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to homepage</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Find on website</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the top of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Print current page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>1</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">example</p>
+  </div></div>
+      </div></div>
+</div>
+<div id="modalContainer" class="is-hidden modal-container">
+  <div id="modal" class="modal-content-box"></div>
+</div>
+<nav id="navbar" class="navbar" role="navigation" aria-label="main navigation">
+  <div id="navbarItemsContainer" class="navbar-brand"><div id="globalLogoContainer" class="is-flex">
+  <a
+    id="globalLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/page/"
+  >
+    <img
+      alt="Homepage"
+      src="/page/images/logo.png"
+    />
+  </a>
+  <a
+    id="globalTouchLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/page/"
+  >
+    <img
+      alt="Homepage"
+      src="/page/images/logoTouch.png"
+    />
+  </a>
+</div>
+<div id="navbarItems" class="is-flex">
+      <div id="navbarItemsStart" class="is-flex">
+        <div id="searchContainer" class="navbar-item"><div class="control has-icons-left">
+  <span id="searchInput" class="autocomplete">
+    <input
+      id="search"
+      autocomplete="off"
+      class="input"
+      type="search"
+      placeholder="Search"
+    />
+  </span>
+  <span class="icon is-left">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </span>
+  <ul id="searchList" class="is-paddingless is-hidden"></ul>
+</div>
+</div>
+      </div>
+      <div id="navbarItemsEnd" class="is-flex is-invisible"><div class="navbar-item">
+  <a
+    id="printButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfo"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomies"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/page/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/page/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versions"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfo"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div id="navbarExtend" class="navbar-item">
+  <div id="navbarExtendWrapper">
+    <a id="navbarExtendButton" class="button navbar-item-standard">
+      <span class="icon">
+        <i class="fa-solid fa-ellipsis fa-lg"></i>
+      </span>
+    </a>
+    <div id="navbarExtendItemsContainer">
+      <div id="navbarExtendItemsWrapper"><div class="navbar-item">
+  <a
+    id="printButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfoExtend"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomiesExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/page/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/page/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versionsExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfoExtend"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+  </div>
+</nav>
+<div id="navbarOverlay"></div>
+<div
+      class="columns is-mobile is-paddingless is-marginless"
+      id="mainContainer"
+    ><div
+  id="sidebarContainer"
+  class="column is-narrow is-paddingless is-marginless"
+>
+  <div id="sidebarWrapper" class="is-fixed">
+    <div id="sidebar" class="is-marginless">
+      <aside class="menu is-paddingless is-marginless">
+        <ul class="menu-list is-marginless is-paddingless"><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/posts/'>
+        <i class='fa-solid fa-bullhorn fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/posts/'>
+        <i class='fa-solid fa-bullhorn fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Banner'>Banner</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/posts/test/'
+        class='card-header-title'
+          title='test'>
+        <i class='fa-solid fa-bullhorn'></i><p class="pt-0 pb-0 pr-2 pl-0">test</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/posts/demo/'
+        class='card-header-title'
+          title='Demo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Demo</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Estudios'>Estudios</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/libros/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='libros'>libros</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/filemon/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/2-pedro/'
+        class='card-header-title'
+          title='2 Pedro'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/ga%CC%81latas-517-21/'
+        class='card-header-title'
+          title='Gálatas 5:17-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Gálatas 5:17-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/habacuc/'
+        class='card-header-title'
+          title='Habacuc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/habacuc2.4/'
+        class='card-header-title'
+          title='Habacuc 2.4'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc 2.4</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/jueces/'
+        class='card-header-title'
+          title='Jueces'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jueces</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/libros/santiago/'
+        class='card-header-title'
+          title='Santiago'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/topico/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topicos'>Topicos</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/5-principios/'
+        class='card-header-title'
+          title='5 Principios para desenmascarar una cosmovisión no-biblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">5 Principios para desenmascarar una cosmovisión no-biblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/adoracio%CC%81n-bi%CC%81blica/'
+        class='card-header-title'
+          title='Adoración Bíblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Adoración Bíblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/confesion-de-pecado/'
+        class='card-header-title'
+          title='Confesión de Pecados'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confesión de Pecados</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/el_evangelio/'
+        class='card-header-title'
+          title='El Evangelio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Evangelio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/el-mismo...nuestra-suficiencia/'
+        class='card-header-title'
+          title='El Mismo...nuestra suficiencia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Mismo...nuestra suficiencia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/enemigos-de-observacion/'
+        class='card-header-title'
+          title='Enemigos de la Observación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Enemigos de la Observación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
+        class='card-header-title'
+          title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Estableciendo el decreto que inicia las 70 semanas de Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/estudios/topico/familia/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='familia'>familia</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/familia/funeral/'
+        class='card-header-title'
+          title='If life ended here'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">If life ended here</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/familia/funeral_es/'
+        class='card-header-title'
+          title='Si esto fuera el fin'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Si esto fuera el fin</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/galatas-1.6-10/'
+        class='card-header-title'
+          title='Galatas 1.6-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatas 1.6-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/lecciones/habacuc/'
+        class='card-header-title'
+          title='Habacuc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/calvinismo-una-cosmovision-idolatra/'
+        class='card-header-title'
+          title='Identificando la Cosmovisión del Calvinismo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Identificando la Cosmovisión del Calvinismo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/jovenes/'
+        class='card-header-title'
+          title='Jóvenes en la Biblia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jóvenes en la Biblia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/juan2.23-24/'
+        class='card-header-title'
+          title='Juan 2:23-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 2:23-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/juan-541/'
+        class='card-header-title'
+          title='Juan 5:41'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 5:41</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/la-iglesia/'
+        class='card-header-title'
+          title='La Iglesia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Iglesia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/la-ley/'
+        class='card-header-title'
+          title='La Ley y La Gracia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Ley y La Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/simiente-mujer-mesias/'
+        class='card-header-title'
+          title='La Simiente de la mujer'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Simiente de la mujer</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/los-sufrimientos-de-cristo/'
+        class='card-header-title'
+          title='Los Sufrimientos de Cristo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Los Sufrimientos de Cristo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/matrimonio/'
+        class='card-header-title'
+          title='Matrimonio es Idea de Dios'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Matrimonio es Idea de Dios</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/estudios/topico/lecciones/zacarias/'
+        class='card-header-title'
+          title='Zacarias'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zacarias</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon is-sidebar-active"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-tree-active is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Studies'>Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless is-tree-active"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/books/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Book Studies'>Book Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/1-john/'
+        class='card-header-title'
+          title='1 John'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 John</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/1-peter/'
+        class='card-header-title'
+          title='1 Peter'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Peter</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/2-timothy/'
+        class='card-header-title'
+          title='2 Timothy'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Timothy</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/books/archives/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Archives'>Archives</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-old/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-orig/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah-orig.md/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_notes/'
+        class='card-header-title'
+          title='Zechariah notes'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_notes2/'
+        class='card-header-title'
+          title='Zechariah notes'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/archives/zechariah_old/'
+        class='card-header-title'
+          title='Zechariah notes old'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes old</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/galatians/'
+        class='card-header-title'
+          title='Galatians'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/gal-3.21-29/'
+        class='card-header-title'
+          title='Galatians 3:21-29'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 3:21-29</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/habakkuk/'
+        class='card-header-title'
+          title='Habakuk'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habakuk</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/hebrews-31-6/'
+        class='card-header-title'
+          title='Hebrews 3:1-6'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebrews 3:1-6</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/romans-9-16/'
+        class='card-header-title'
+          title='Romans 9-11'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 9-11</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/zechariah/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/books/zephaniah/'
+        class='card-header-title'
+          title='Zephaniah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zephaniah</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/discipleship-need/'
+        class='card-header-title'
+          title='Discipleship -&gt; importance'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Discipleship -&gt; importance</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/ot-books/'
+        class='card-header-title'
+          title='OT Books'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">OT Books</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/'>
+        <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topical Studies'>Topical Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/2015-03-24-predestination/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/page/studies/topical/armageddon/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/the-church/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/angels/'
+        class='card-header-title'
+          title='Angels'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Angels</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/armageddon-zech6/'
+        class='card-header-title'
+          title='Armageddon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Armageddon</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/biblical_covenants/'
+        class='card-header-title'
+          title='Biblical Covenants'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Biblical Covenants</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/confession-of-sins/'
+        class='card-header-title'
+          title='Confession of Sins'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confession of Sins</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2021-07-27-daniel.6.18-28/'
+        class='card-header-title'
+          title='Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-08-daniel-31-12/'
+        class='card-header-title'
+          title='Daniel 3:1-12'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel 3:1-12</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card is-sidebar-active"id='sidebarActiveEntry'><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/dealing_with_pain/'
+        class='card-header-title'
+          title='Dealing with Pain'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Dealing with Pain</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/galatians-111-24/'
+        class='card-header-title'
+          title='Galatians 1:11-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 1:11-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/homiletics/'
+        class='card-header-title'
+          title='Homiletics'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Homiletics</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/'
+        class='card-header-title'
+          title='install Jekyll on MacOS Big Sur'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">install Jekyll on MacOS Big Sur</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/israel-egypt/'
+        class='card-header-title'
+          title='Israel in Egypt'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Israel in Egypt</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/jesus-mismo-nuestra-propiciacio%CC%81n/'
+        class='card-header-title'
+          title='Jesus mismo-nuestra propiciación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jesus mismo-nuestra propiciación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-11.1-23/'
+        class='card-header-title'
+          title='John 11:1-23'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:1-23</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-11.35-48/'
+        class='card-header-title'
+          title='John 11:35-48'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:35-48</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-13.21-38/'
+        class='card-header-title'
+          title='John 13:21-38'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 13:21-38</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/john-831-44/'
+        class='card-header-title'
+          title='John 8:31-44'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 8:31-44</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/marriage/'
+        class='card-header-title'
+          title='Marriage'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Marriage</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/juda-kings-mothers/'
+        class='card-header-title'
+          title='Mothers of King of Judah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Mothers of King of Judah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2015-02-15-obedience-of-faith/'
+        class='card-header-title'
+          title='Obedience of faith'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Obedience of faith</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/phil-21-2-phrased/'
+        class='card-header-title'
+          title='Phil 2:1-2 phrased'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Phil 2:1-2 phrased</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-08-repentance/'
+        class='card-header-title'
+          title='Repentance According to the Bible'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Repentance According to the Bible</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/romans-109-10/'
+        class='card-header-title'
+          title='Romans 10:9-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 10:9-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/the-blood-of-jesus/'
+        class='card-header-title'
+          title='The blood of Jesus'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The blood of Jesus</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/'
+        class='card-header-title'
+          title='The Warning to Timothy of False Teachers'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The Warning to Timothy of False Teachers</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/2021-07-21-two-instructors/'
+        class='card-header-title'
+          title='Two Instructors'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Two Instructors</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/page/studies/topical/i-am-acused-of-teaching-easy-believism/'
+        class='card-header-title'
+          title='You are Teaching &#39;Easy Believism&#39;'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">You are Teaching &#39;Easy Believism&#39;</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul>
+      </aside>
+    </div>
+    <div id="sidebarCollapsible" class="is-marginless">
+      <div class="card is-uncollapse-action">
+        <div
+          id="sidebarUncollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-right fa-lg"></i>
+          </a>
+        </div>
+      </div>
+      <div class="card is-collapse-action">
+        <div
+          id="sidebarCollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-left fa-lg"></i>
+            <p>Collapse sidebar</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="sidebarMobileWrapper" class="column is-narrow is-hidden-desktop"></div>
+<div class="columns is-mobile is-marginless is-scroll-smooth has-toc" id="contentContainer">
+  <div class="column" id="content"><div id="contentTitle">Dealing with Pain</div>
+<h1 id='learning-from-grief'>Learning from Grief<a href='#learning-from-grief' class='anchor'>#</a>
+</h1><ol>
+<li>It&rsquo;s easy to doubt God when things don&rsquo;t go well (Psalm 77:1-9)</li>
+<li>Knowing God&rsquo;s true self provides a framework around our chaos (Psalm 77:10-14)</li>
+<li>Christ is our life (Psalm 77:15)</li>
+</ol>
+<h1 id='psalm-77'>Psalm 77<a href='#psalm-77' class='anchor'>#</a>
+</h1><h2 id='i-psalm-771-6-asaph-doubts-god'>I. Psalm 77:1-6 Asaph doubts God<a href='#i-psalm-771-6-asaph-doubts-god' class='anchor'>#</a>
+</h2><p><em>(For the choir director; according to Jeduthun. A Psalm of Asaph.)</em></p>
+<h3 id='psa-771--my-voice-rises-to-god-and-i-will-cry-aloud-my-voice-rises-to-god-and-he-will-hear-me'>Psa 77:1  My voice rises to God, and I will cry aloud; My voice rises to God, and He will hear me.<a href='#psa-771--my-voice-rises-to-god-and-i-will-cry-aloud-my-voice-rises-to-god-and-he-will-hear-me' class='anchor'>#</a>
+</h3><p>The Psalmist goes to God. He cries out to God. God is who will listen.
+In the midst of uncontrollable hurt, trauma, frustration when we can&rsquo;t even make sense of our own thoughts and are flooded with emotion, I have found this Psalm to provide guidance and great encouragement.</p>
+<h3 id='psa-772-in-the-day-of-my-trouble-i-sought-the-lord-in-the-night-my-hand-was-stretched-out-without-weariness-my-soul-refused-to-be-comforted'>Psa 77:2 In the day of my trouble I sought the Lord; In the night my hand was stretched out without weariness; My soul refused to be comforted.<a href='#psa-772-in-the-day-of-my-trouble-i-sought-the-lord-in-the-night-my-hand-was-stretched-out-without-weariness-my-soul-refused-to-be-comforted' class='anchor'>#</a>
+</h3><ul>
+<li>Sleepless nights, troubled, no comfort in sight sound familiar? I believe believers all experience some form of grief at one time or another. To experience Sickness, be jobless, lose a loved one. We find ourselves overwhelmed by profound sorrow, but also stress, anxiety, depression.</li>
+<li>This is all too familiar these days</li>
+</ul>
+<h3 id='psa-773-when-i-remember-god-then-i-am-disturbed-when-i-sigh-then-my-spirit-grows-faint-selah'>Psa 77:3 When I remember God, then I am disturbed; When I sigh, then my spirit grows faint. Selah.<a href='#psa-773-when-i-remember-god-then-i-am-disturbed-when-i-sigh-then-my-spirit-grows-faint-selah' class='anchor'>#</a>
+</h3><ul>
+<li>The thought of God can become disturbing, (disturbing: to be in great commotion or tumult, to rage, war, moan, clamor)</li>
+<li>We know God is over all. God is all powerful. Why does God allow this in my life? It&rsquo;s easy to become convinced God is not on top of things. God has changed. God is upset at me because i&rsquo;m less than perfect. Every time God comes to mind, it is disrupting. Not happy. I need happy. Happy thoughts. Not this, spiritual christians aren&rsquo;t supposed to feel this. Thoughts of God can be the last thing we feel we need. Know this is real.</li>
+<li>I&rsquo;d never doubt God, God could never disturb me&hellip;put it this way, have you ever shunned away from getting into Scripture for fear of what you might find?</li>
+<li>The psalmist went through it.</li>
+</ul>
+<h3 id='psa-774-thou-hast-held-my-eyelids-open-i-am-so-troubled-that-i-cannot-speak'>Psa 77:4 Thou hast held my eyelids open; I am so troubled that I cannot speak.<a href='#psa-774-thou-hast-held-my-eyelids-open-i-am-so-troubled-that-i-cannot-speak' class='anchor'>#</a>
+</h3><ul>
+<li>This is not a statement of resignation or of trust but an accusation. God has caused him to be troubled and now he&rsquo;s speechless.</li>
+</ul>
+<h3 id='psa-775-i-have-considered-the-days-of-old-the-years-of-long-ago'>Psa 77:5 I have considered the days of old, The years of long ago.<a href='#psa-775-i-have-considered-the-days-of-old-the-years-of-long-ago' class='anchor'>#</a>
+</h3><ul>
+<li>here Asaph begins comparing his present situation with the &lsquo;good ol days&rsquo;. Kind of like Israel when they thought about Egypt. Like me saying I was better off before I began walking with the Lord.</li>
+<li>Someone might say, never say that! God might strike you dead with lightning! That is not the Psalmists approach.</li>
+</ul>
+<h3 id='psa-776-i-will-remember-my-song-in-the-night-i-will-meditate-with-my-heart-and-my-spirit-ponders'>Psa 77:6 I will remember my song in the night; I will meditate with my heart; And my spirit ponders.<a href='#psa-776-i-will-remember-my-song-in-the-night-i-will-meditate-with-my-heart-and-my-spirit-ponders' class='anchor'>#</a>
+</h3><ul>
+<li>Asaph is singing the blues in Aminor.</li>
+<li>This is not the same tune Paul and Silas are singing while in the Jail at Filipi.</li>
+</ul>
+<h2 id='ii-psalm-777-9-asaphs-six-questions-about-god'>II. Psalm 77:7-9 Asaph&rsquo;s Six questions about God<a href='#ii-psalm-777-9-asaphs-six-questions-about-god' class='anchor'>#</a>
+</h2><ul>
+<li>These are deep, existential questions. The Psalmist leads us into six foundational questions he asked in the time of grief.</li>
+</ul>
+<h3 id='psa-777-will-the-lord-reject-forever-and-will-he-never-be-favorable-again-rom-111-2'>Psa 77:7 Will the Lord reject forever? And will He never be favorable again? (Rom 11:1-2)<a href='#psa-777-will-the-lord-reject-forever-and-will-he-never-be-favorable-again-rom-111-2' class='anchor'>#</a>
+</h3><p>Presumption: 1. God has rejected me 2. This situation will last forever 3. God has withdrawn whatever he once gave me.</p>
+<p><code>Rom 11:1 I say then, God has not rejected His people, has He? May it never be! </code>
+<code>For I too am an Israelite, a descendant of Abraham, of the tribe of Benjamin.</code>
+<code>Rom 11:2 God has not rejected His people whom He foreknew. </code>
+<code>Or do you not know what the Scripture says in the passage about Elijah,</code>
+<code>how he pleads with God against Israel?</code></p>
+<h3 id='psa-778-has-his-lovingkindness-ceased-forever-has-his-promise-come-to-an-end-forever-núm-2319'>Psa 77:8 Has His lovingkindness ceased forever? Has His promise come to an end forever? (Núm 23:19)<a href='#psa-778-has-his-lovingkindness-ceased-forever-has-his-promise-come-to-an-end-forever-n%c3%bam-2319' class='anchor'>#</a>
+</h3><p>Presumption: 1. God has ceased being loving to me 2. God does not keep His promises 3. Gods acceptance must be earned. 4. God doesn’t always keep his promises</p>
+<p><code>Num 23:19 &quot;God is not a man, that He should lie, Nor a son of man, that He should repent;</code>
+<code>Has He said, and will He not do it? Or has He spoken, and will He not make it good?</code></p>
+<h3 id='psa-779-has-god-forgotten-to-be-gracious-or-has-he-in-anger-withdrawn-his-compassion-selah'>Psa 77:9 Has God forgotten to be gracious? Or has He in anger withdrawn His compassion? Selah.<a href='#psa-779-has-god-forgotten-to-be-gracious-or-has-he-in-anger-withdrawn-his-compassion-selah' class='anchor'>#</a>
+</h3><p>Presumption: 1. God has forgotten about me 2. My problem is too big for God 3. God is not good enough 4. God is angry at me 5. I have failed</p>
+<p><code>Isa 40:27 Why do you say, O Jacob, and assert, O Israel,</code>
+<code>&quot;My way is hidden from</code> <code>the LORD, And the justice due me escapes the notice of my God&quot;?</code>
+<code>Isa 40:28 Do you not know? Have you not heard? The Everlasting God, the LORD,</code>
+<code>the Creator of the ends of the earth Does not become weary or tired. His</code> <code>understanding is inscrutable.</code></p>
+<ul>
+<li>Jacob went through this and never seemed to come out the other side.</li>
+</ul>
+<p><strong>Summary:</strong>
+We can surmise that the pain in this persons life made him doubt and question God’s character. He is confronted with an experience that is seemingly too much for God. God is perceived to be angry perhaps suggesting there must also be personal guilt.</p>
+<ul>
+<li>there can be no question as to this: Situations like these are far more than Asaph can handle, you and I either. It is not as though God is testing you to see if you are resolute enough, strong enough.</li>
+</ul>
+<p>##III. Psalm 77:10-14 A corrected perspective of the Character of God</p>
+<h3 id='psa-7710-then-i-said-it-is-my-grief-that-the-right-hand-of-the-most-high-has-changed'>Psa 77:10 Then I said, &ldquo;It is my grief, That the right hand of the Most High has changed.&rdquo;<a href='#psa-7710-then-i-said-it-is-my-grief-that-the-right-hand-of-the-most-high-has-changed' class='anchor'>#</a>
+</h3><p><code>Psa 73:21 When my heart was embittered And I was pierced within,</code>
+<code>Psa 73:22 Then I was senseless and ignorant; I was like a beast before You.</code></p>
+<p>Psa 77:10  And I said, This is my infirmity…KJV</p>
+<blockquote>
+<p>“The meaning of this phrase is not,
+as would appear from our translation,
+that his reflections on the subject
+were to be traced to his weakness,
+or were a proof of weakness of mind,
+but that the subject overpowered him.” - Barnes</p>
+</blockquote>
+<ul>
+<li>The Psalmist&rsquo;s line of questioning leads to a conclusive answer: preposterous!</li>
+<li>God is not unfaithful, God is good, God will never leave or forsake, God is a jealous God (He deeply desires you), God is love, God is kind, God is compassionate, His mercies are new every morning, God is seeking out to be known by you, deeply, truly, wonderfully.<br>
+Asaph knows enough to conclude none of his presumptions are founded in reality but only in his sentiment of the present experience.</li>
+</ul>
+<p><strong>He identifies the problem</strong> The true cause of his state becomes apparent. You see we can truly rejoice in the midst of troubles. Not because we have the willpower but because we know God is good and he uses all our circumstances for good.</p>
+<ul>
+<li>The Psalmist has been so preoccupied with his affliction that he has lost faith in the goodness and grace of God.
+Look how often the psalmist uses the words ‘I’ and ‘me’ in this psalm. By doing so removed his focus on God.</li>
+<li>The point is not &ldquo;don&rsquo;t be like Asaph&rdquo;. Rather if/when you find yourself in this some day, if you&rsquo;re here today and God seems distant even angry, you&rsquo;re not alone.</li>
+</ul>
+<p>-Asaph thus acknowledges that the problem does not lie with God, but with his overwhelming grief causing God to seem altogether different.</p>
+<h3 id='psalm-7711-i-shall-remember-the-deeds-of-the-lord-surely-i-will-remember-thy-wonders-of-old'>Psalm 77:11 I shall remember the deeds of the LORD; Surely I will remember Thy wonders of old.<a href='#psalm-7711-i-shall-remember-the-deeds-of-the-lord-surely-i-will-remember-thy-wonders-of-old' class='anchor'>#</a>
+</h3><h3 id='psalm-7712-i-will-meditate-on-all-thy-work-and-muse-on-thy-deeds'>Psalm 77:12 I will meditate on all Thy work, And muse on Thy deeds.<a href='#psalm-7712-i-will-meditate-on-all-thy-work-and-muse-on-thy-deeds' class='anchor'>#</a>
+</h3><h3 id='psa-7713-thy-way-o-god-is-holy-what-god-is-great-like-our-god'>Psa 77:13 Thy way, O God, is holy; What god is great like our God?<a href='#psa-7713-thy-way-o-god-is-holy-what-god-is-great-like-our-god' class='anchor'>#</a>
+</h3><ul>
+<li>God is holy but also his way is holy</li>
+</ul>
+<h3 id='psa-7714-thou-art-the-god-who-workest-wonders-thou-hast-made-known-thy-strength-among-the-peoples'>Psa 77:14 Thou art the God who workest wonders; Thou hast made known Thy strength among the peoples.<a href='#psa-7714-thou-art-the-god-who-workest-wonders-thou-hast-made-known-thy-strength-among-the-peoples' class='anchor'>#</a>
+</h3><ul>
+<li>
+<p>God has clearly shown his great strength to all. in fact he does this daily through creation.</p>
+</li>
+<li>
+<p>Psalmist turns his attention to God as revealing himself through history. Psalmist <strong>remembers, meditates, muses on God</strong></p>
+</li>
+</ul>
+<h2 id='iii-psalm-7715-god-is-who-gives-life'>III. Psalm 77:15 God is who Gives life<a href='#iii-psalm-7715-god-is-who-gives-life' class='anchor'>#</a>
+</h2><h3 id='psa-7715-thou-hast-by-thy-power-redeemed-thy-people-the-sons-of-jacob-and-joseph-selah'>Psa 77:15 Thou hast by Thy power redeemed Thy people, The sons of Jacob and Joseph. Selah.<a href='#psa-7715-thou-hast-by-thy-power-redeemed-thy-people-the-sons-of-jacob-and-joseph-selah' class='anchor'>#</a>
+</h3><p>Jacob vs Joseph</p>
+<ul>
+<li>the story of Jacob vs Joseph is telling.
+Both went through grief. Jacob lost his son while Joseph lost everything and was sold into slavery. Both experienced grief in their lives.</li>
+</ul>
+<p>Joseph</p>
+<p><code>Gen 45:7  &quot;**God** sent me before you to preserve for you a remnant in the earth,</code>
+<code>and to keep you alive by a great deliverance.</code></p>
+<p><code>Gen 50:20 &quot;As for you, you meant evil against me, but God meant it for good</code>
+<code>in order to bring about this present result, to preserve many people alive.</code>
+<code>Gen 50:21 &quot;So therefore, do not be afraid; I will provide for you and your little ones.&quot; </code>
+<code>So he comforted them and spoke kindly to them.</code></p>
+<p>Jacob</p>
+<p><code>Gen 46:3 He said, &quot;**I am God, the God of your father;**</code></p>
+<p><code>Gen 44:29 'If you take this one also from me, and harm befalls him, </code>
+<code>you will bring my gray hair down to Sheol in sorrow.'</code></p>
+<p><code>Gen 46:29 Joseph prepared his chariot and went up to Goshen to meet his father Israel; </code>
+<code>as soon as he appeared before him, he fell on his neck and wept on his neck a long time.</code>
+<code>Gen 46:30 Then Israel said to Joseph, &quot;Now let me die, </code>
+<code>since I have seen your face, that you are still alive.&quot;</code></p>
+<ul>
+<li>both Jacob and Joseph are among those redeemed. Yet one saw God using the trial for good while the other failed to see God because of the trial.</li>
+</ul>
+<p><code>Gen 45:7  &quot;**God** sent me before you to preserve for you a remnant in the earth, and to keep you alive by a great deliverance</code></p>
+<p><code>Gen 44:30 ”since his life is bound up in the lad's life…”</code></p>
+<p><code>Rom 8:32  He who did not spare His own Son, but delivered Him over for us all, </code>
+<code>how will He not also with Him freely give us all things? </code></p>
+<h2 id='iv-psalm-7716-20-two-examples-of-god-working-in-the-past'>IV. Psalm 77:16-20 Two examples of God working in the past<a href='#iv-psalm-7716-20-two-examples-of-god-working-in-the-past' class='anchor'>#</a>
+</h2><h3 id='psa-7716-the-waters-saw-thee-o-god-the-waters-saw-thee-they-were-in-anguish-the-deeps-also-trembled'>Psa 77:16 The waters saw Thee, O God; The waters saw Thee, they were in anguish; The deeps also trembled.<a href='#psa-7716-the-waters-saw-thee-o-god-the-waters-saw-thee-they-were-in-anguish-the-deeps-also-trembled' class='anchor'>#</a>
+</h3><h3 id='psa-7717-the-clouds-poured-out-water-the-skies-gave-forth-a-sound-thy-arrows-flashed-here-and-there'>Psa 77:17 The clouds poured out water; The skies gave forth a sound; Thy arrows flashed here and there.<a href='#psa-7717-the-clouds-poured-out-water-the-skies-gave-forth-a-sound-thy-arrows-flashed-here-and-there' class='anchor'>#</a>
+</h3><h3 id='psa-7718-the-sound-of-thy-thunder-was-in-the-whirlwind-the-lightnings-lit-up-the-world-the-earth-trembled-and-shook'>Psa 77:18 The sound of Thy thunder was in the whirlwind; The lightnings lit up the world; The earth trembled and shook.<a href='#psa-7718-the-sound-of-thy-thunder-was-in-the-whirlwind-the-lightnings-lit-up-the-world-the-earth-trembled-and-shook' class='anchor'>#</a>
+</h3><ul>
+<li>is Asaph alluding to the flood? Why? Because even in the worldwide destruction at the flood, God never ceased being who he is.</li>
+</ul>
+<h3 id='psa-7719-thy-way-was-in-the-sea-and-thy-paths-in-the-mighty-waters-and-thy-footprints-may-not-be-known'>Psa 77:19 Thy way was in the sea, And Thy paths in the mighty waters, And Thy footprints may not be known.<a href='#psa-7719-thy-way-was-in-the-sea-and-thy-paths-in-the-mighty-waters-and-thy-footprints-may-not-be-known' class='anchor'>#</a>
+</h3><h3 id='psa-7720-thou-didst-lead-thy-people-like-a-flock-by-the-hand-of-moses-and-aaron'>Psa 77:20 Thou didst lead Thy people like a flock, By the hand of Moses and Aaron.<a href='#psa-7720-thou-didst-lead-thy-people-like-a-flock-by-the-hand-of-moses-and-aaron' class='anchor'>#</a>
+</h3><ul>
+<li>God miraculously saved Israel from Egypt in the Red Sea.</li>
+</ul>
+<p><code>Isa 52:10  The LORD has bared His holy arm In the sight of all the nations,</code>
+<code>That all the ends of the earth may see The salvation of our God. </code></p>
+<h2 id='v-conclusion'>V. Conclusion<a href='#v-conclusion' class='anchor'>#</a>
+</h2><p>Jacob: his life was wrapped up in the life of his son</p>
+<p>Joseph: God used circumstances intended for evil by others for the ultimate good of mankind</p>
+<p>Us: wrapped up in Gods son.</p>
+<p><code>Col 3:1 Therefore if you have been raised up with Christ, </code>
+<code>keep seeking the things above, where Christ is, seated at the right hand of God.</code>
+<code>Col 3:2 Set your mind on the things above, not on the things that are on earth.</code>
+<code>Col 3:3 For you have died and your life is hidden with Christ in God.</code>
+<code>Col 3:4 When Christ, who is our life, is revealed, then you also will be revealed with Him in glory.</code></p>
+<ol>
+<li>It&rsquo;s easy to doubt and question God when things don&rsquo;t go well (Psalm 77:1-9)</li>
+<li>Knowing God&rsquo;s true self (as revealed in Scripture), provides a framework around our chaos (Psalm 77:10-14)</li>
+<li>Christ is our life (Psalm 77:15)</li>
+</ol>
+<p><code>Eph 6:13 Therefore, take up the full armor of God,</code>
+<code>so that you will be able to resist in the evil day,</code>
+<code>and having done everything, to stand firm. </code></p>
+<p>.</p>
+</div><div class="column is-sticky is-paddingless" id="tocWrapper">
+  <div class="is-paddingless" id="tocContainer">
+    <div class="toc-header">
+      <h6 class="toc-title is-marginless">On this page:</h6>
+      <i
+        title="Back to top"
+        id="tocBackToTop"
+        class="fa-solid fa-circle-arrow-up"
+      ></i>
+    </div>
+    <div id="tocContent">
+      <div id="toc"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#learning-from-grief">Learning from Grief</a></li>
+    <li><a href="#psalm-77">Psalm 77</a>
+      <ul>
+        <li><a href="#i-psalm-771-6-asaph-doubts-god">I. Psalm 77:1-6 Asaph doubts God</a>
+          <ul>
+            <li><a href="#psa-771--my-voice-rises-to-god-and-i-will-cry-aloud-my-voice-rises-to-god-and-he-will-hear-me">Psa 77:1  My voice rises to God, and I will cry aloud; My voice rises to God, and He will hear me.</a></li>
+            <li><a href="#psa-772-in-the-day-of-my-trouble-i-sought-the-lord-in-the-night-my-hand-was-stretched-out-without-weariness-my-soul-refused-to-be-comforted">Psa 77:2 In the day of my trouble I sought the Lord; In the night my hand was stretched out without weariness; My soul refused to be comforted.</a></li>
+            <li><a href="#psa-773-when-i-remember-god-then-i-am-disturbed-when-i-sigh-then-my-spirit-grows-faint-selah">Psa 77:3 When I remember God, then I am disturbed; When I sigh, then my spirit grows faint. Selah.</a></li>
+            <li><a href="#psa-774-thou-hast-held-my-eyelids-open-i-am-so-troubled-that-i-cannot-speak">Psa 77:4 Thou hast held my eyelids open; I am so troubled that I cannot speak.</a></li>
+            <li><a href="#psa-775-i-have-considered-the-days-of-old-the-years-of-long-ago">Psa 77:5 I have considered the days of old, The years of long ago.</a></li>
+            <li><a href="#psa-776-i-will-remember-my-song-in-the-night-i-will-meditate-with-my-heart-and-my-spirit-ponders">Psa 77:6 I will remember my song in the night; I will meditate with my heart; And my spirit ponders.</a></li>
+          </ul>
+        </li>
+        <li><a href="#ii-psalm-777-9-asaphs-six-questions-about-god">II. Psalm 77:7-9 Asaph&rsquo;s Six questions about God</a>
+          <ul>
+            <li><a href="#psa-777-will-the-lord-reject-forever-and-will-he-never-be-favorable-again-rom-111-2">Psa 77:7 Will the Lord reject forever? And will He never be favorable again? (Rom 11:1-2)</a></li>
+            <li><a href="#psa-778-has-his-lovingkindness-ceased-forever-has-his-promise-come-to-an-end-forever-núm-2319">Psa 77:8 Has His lovingkindness ceased forever? Has His promise come to an end forever? (Núm 23:19)</a></li>
+            <li><a href="#psa-779-has-god-forgotten-to-be-gracious-or-has-he-in-anger-withdrawn-his-compassion-selah">Psa 77:9 Has God forgotten to be gracious? Or has He in anger withdrawn His compassion? Selah.</a></li>
+            <li><a href="#psa-7710-then-i-said-it-is-my-grief-that-the-right-hand-of-the-most-high-has-changed">Psa 77:10 Then I said, &ldquo;It is my grief, That the right hand of the Most High has changed.&rdquo;</a></li>
+            <li><a href="#psalm-7711-i-shall-remember-the-deeds-of-the-lord-surely-i-will-remember-thy-wonders-of-old">Psalm 77:11 I shall remember the deeds of the LORD; Surely I will remember Thy wonders of old.</a></li>
+            <li><a href="#psalm-7712-i-will-meditate-on-all-thy-work-and-muse-on-thy-deeds">Psalm 77:12 I will meditate on all Thy work, And muse on Thy deeds.</a></li>
+            <li><a href="#psa-7713-thy-way-o-god-is-holy-what-god-is-great-like-our-god">Psa 77:13 Thy way, O God, is holy; What god is great like our God?</a></li>
+            <li><a href="#psa-7714-thou-art-the-god-who-workest-wonders-thou-hast-made-known-thy-strength-among-the-peoples">Psa 77:14 Thou art the God who workest wonders; Thou hast made known Thy strength among the peoples.</a></li>
+          </ul>
+        </li>
+        <li><a href="#iii-psalm-7715-god-is-who-gives-life">III. Psalm 77:15 God is who Gives life</a>
+          <ul>
+            <li><a href="#psa-7715-thou-hast-by-thy-power-redeemed-thy-people-the-sons-of-jacob-and-joseph-selah">Psa 77:15 Thou hast by Thy power redeemed Thy people, The sons of Jacob and Joseph. Selah.</a></li>
+          </ul>
+        </li>
+        <li><a href="#iv-psalm-7716-20-two-examples-of-god-working-in-the-past">IV. Psalm 77:16-20 Two examples of God working in the past</a>
+          <ul>
+            <li><a href="#psa-7716-the-waters-saw-thee-o-god-the-waters-saw-thee-they-were-in-anguish-the-deeps-also-trembled">Psa 77:16 The waters saw Thee, O God; The waters saw Thee, they were in anguish; The deeps also trembled.</a></li>
+            <li><a href="#psa-7717-the-clouds-poured-out-water-the-skies-gave-forth-a-sound-thy-arrows-flashed-here-and-there">Psa 77:17 The clouds poured out water; The skies gave forth a sound; Thy arrows flashed here and there.</a></li>
+            <li><a href="#psa-7718-the-sound-of-thy-thunder-was-in-the-whirlwind-the-lightnings-lit-up-the-world-the-earth-trembled-and-shook">Psa 77:18 The sound of Thy thunder was in the whirlwind; The lightnings lit up the world; The earth trembled and shook.</a></li>
+            <li><a href="#psa-7719-thy-way-was-in-the-sea-and-thy-paths-in-the-mighty-waters-and-thy-footprints-may-not-be-known">Psa 77:19 Thy way was in the sea, And Thy paths in the mighty waters, And Thy footprints may not be known.</a></li>
+            <li><a href="#psa-7720-thou-didst-lead-thy-people-like-a-flock-by-the-hand-of-moses-and-aaron">Psa 77:20 Thou didst lead Thy people like a flock, By the hand of Moses and Aaron.</a></li>
+          </ul>
+        </li>
+        <li><a href="#v-conclusion">V. Conclusion</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+      <div id="taxonomies"><div class="taxonomy-wrapper"></div><div class="taxonomy-wrapper"></div></div>
+    </div>
+  </div>
+  <div
+    class="is-paddingless"
+    id="tocCollapsible"
+    title="Collapse/Uncollapse table of contents"
+  >
+    <i class="fa-solid fa-angles-right fa-lg"></i>
+  </div>
+</div>
+</div>
+</div><script type='text/javascript'>
+  const baseUrl = 'https:\/\/johnwry.github.io\/page\/';
+  const codeCopyBefore = 'Copy to clipboard';
+  const codeCopyAfter = 'Copied to clipboard';
+  const svgDownloadLabel = 'Download as SVG';
+  const helperLoadingLabel = 'Loading';
+  const searchNoResults = 'No result found';
+  const introNextLabel = 'Next';
+  const introPrevLabel = 'Previous';
+  const introSkipLabel = '✗';
+  const introDoneLabel = 'Done';
+  const printLabel = 'Print current page';
+  const qrCodeLabel = 'Show current page QR code';
+  const naCommonLabel = 'Not available';
+</script>
+<script
+      type="module"
+      src="/page/js/theme/modules/const.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/modules/helpers.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/modules/helpersGlobal.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/init.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/navbar.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/print.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/qrcode.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/search.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/shortcuts.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/sidebar.min.js"
+    ></script><script
+      type="module"
+      src="/page/js/theme/toc.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/theme/browserCompatibility.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/flexsearch/flexsearch.bundle.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/qrious/qrious.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/page/js/external/overlay-scrollbars/overlayscrollbars.min.js"
+    ></script>
+</body>
+</html>
