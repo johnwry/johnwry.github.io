@@ -3,6 +3,7 @@
 #
 baseURL                = "https://johnwry.github.io/page/"
 copyright              = "The MIT License (MIT) Copyright © 2020 BJWry"
+rssLimit = 10
 defaultContentLanguage = "en"
 enableEmoji            = false
 # enableGitInfo          = true
@@ -14,6 +15,8 @@ theme                  = "shadocs"
 
 [Author]
   name = "BJWry"
+  email = "johnwry@gmail.com"
+
 
 [module]
   [module.hugoVersion]
