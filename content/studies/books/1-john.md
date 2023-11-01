@@ -3,6 +3,9 @@ Title: 1 John
 Template: outline
 ---
 
+
+
+======
 What was from the beginning, 
 what we have heard, 
 what we have seen with our eyes, 

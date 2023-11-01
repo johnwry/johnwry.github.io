@@ -12,6 +12,10 @@ publishDir             = "docs"
 title                  = "BJWry"
 theme                  = "shadocs"
 # themesdir              = "../page/themes"
+custom_css = ["css/custom.css"]
+
+# pygmentsUseClasses=false
+# pygmentsCodeFences=false
 
 [Author]
   name = "BJWry"
@@ -64,6 +68,7 @@ theme                  = "shadocs"
   currentVersion          = "latest"
   latestVersionUrl        = "https://shadocs.netlify.app/"
 
+
   # enforceRefrelLinks    = true
   [params.navbar.shortcuts]
     [params.navbar.shortcuts.example]
@@ -91,6 +96,7 @@ theme                  = "shadocs"
   #  sass      = [
   #      "sass/custom/example.sass"
   #  ]
+
   [params.versions]
     hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
     bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"
