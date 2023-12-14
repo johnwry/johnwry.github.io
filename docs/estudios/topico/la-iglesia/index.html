@@ -7,24 +7,72 @@
 
 <link
   rel="icon"
-  href="/page/images/favicon.png"
+  href="/images/favicon.png"
   type="image/x-icon"
 />
 <link
     rel="stylesheet"
     rel="preload"
     type="text/css"
-    href="/page/css/main.css"
+    href="/css/main.css"
   /><link
       rel="stylesheet"
       type="text/css"
-      href="/page/css/external/fontawesome.all.min.css"
+      href="/css/external/fontawesome.all.min.css"
     /><link
       rel="stylesheet"
       type="text/css"
-      href="/page/css/external/overlay-scrollbars/overlayscrollbars.min.css"
+      href="/css/external/overlay-scrollbars/overlayscrollbars.min.css"
     />
-</head>
+<style>
+
+body {
+    
+    font-size: larger;
+}
+
+#content h1 {
+    font-size:30px;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#content h2{
+    font-size:25px;
+    text-indent: 30px;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h3{
+    font-size:20px;
+    text-indent: 60px;   
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h4{
+    font-size:20px;
+    text-indent: 90px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h5{
+    font-size:20px;
+    text-indent: 120px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h6{
+    font-size:20px;
+    text-indent: 150px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+</style></head>
   <body onload="browserCompatibility()"><div id="navbarInfo" class="is-hidden modal-container">
   <div class="modal-content-box modal-text-box">
     <div class="card modal-title is-radiusless">
@@ -92,21 +140,21 @@
   <a
     id="globalLogo"
     class="navbar-item navbar-item-standard is-paddingless"
-    href="/page/"
+    href="/"
   >
     <img
       alt="Homepage"
-      src="/page/images/logo.png"
+      src="/images/logo.png"
     />
   </a>
   <a
     id="globalTouchLogo"
     class="navbar-item navbar-item-standard is-paddingless"
-    href="/page/"
+    href="/"
   >
     <img
       alt="Homepage"
-      src="/page/images/logoTouch.png"
+      src="/images/logoTouch.png"
     />
   </a>
 </div>
@@ -186,10 +234,10 @@
     role="menu"
   >
     <div class="dropdown-content is-paddingless"><a
-              href="/page/categories/"
+              href="/categories/"
               class="dropdown-item has-text-weight-bold"
             ><i class="fa-solid fa-table-cells"></i>Categories</a><a
-              href="/page/tags/"
+              href="/tags/"
               class="dropdown-item has-text-weight-bold"
             ><i class="fa-solid fa-tag"></i>Tags</a></div>
   </div>
@@ -303,10 +351,10 @@
     role="menu"
   >
     <div class="dropdown-content is-paddingless"><a
-              href="/page/categories/"
+              href="/categories/"
               class="dropdown-item has-text-weight-bold"
             ><i class="fa-solid fa-table-cells"></i>Categories</a><a
-              href="/page/tags/"
+              href="/tags/"
               class="dropdown-item has-text-weight-bold"
             ><i class="fa-solid fa-tag"></i>Tags</a></div>
   </div>
@@ -375,12 +423,12 @@
     <div id="sidebar" class="is-marginless">
       <aside class="menu is-paddingless is-marginless">
         <ul class="menu-list is-marginless is-paddingless"><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/posts/'>
+      <div class='card-header-title' href='/posts/'>
         <i class='fa-solid fa-bullhorn fa-lg'></i></div></div>
       </div><div class="is-expandable">
       <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/posts/'>
+      <div class='card-header-title' href='/posts/'>
         <i class='fa-solid fa-bullhorn fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Banner'>Banner</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -389,7 +437,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/posts/test/'
+        href='/posts/test/'
         class='card-header-title'
           title='test'>
         <i class='fa-solid fa-bullhorn'></i><p class="pt-0 pb-0 pr-2 pl-0">test</p></a></div>
@@ -399,7 +447,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/posts/demo/'
+        href='/posts/demo/'
         class='card-header-title'
           title='Demo'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Demo</p></a></div>
@@ -408,12 +456,12 @@
     </div></ul></li>
       </div>
     </div><div class="card is-fs-expandable-icon is-sidebar-active"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/estudios/'>
+      <div class='card-header-title' href='/estudios/'>
         <i class='fa-solid fa-bars fa-lg'></i></div></div>
       </div><div class="is-expandable">
       <div class="is-sidebar-list-wrapper"><li class="is-marginless is-tree-active is-entries-expandable is-entries-expanded"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/estudios/'>
+      <div class='card-header-title' href='/estudios/'>
         <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Estudios'>Estudios</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
                 <span class='icon'></span>
               </a>
@@ -421,7 +469,7 @@
           </div><ul class="is-marginless is-tree-active"><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/estudios/libros/'>
+      <div class='card-header-title' href='/estudios/libros/'>
         <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='libros'>libros</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -430,7 +478,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/filemon/'
+        href='/estudios/libros/filemon/'
         class='card-header-title'
           title=''>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
@@ -440,7 +488,17 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/2-pedro/'
+        href='/estudios/libros/1-juan/'
+        class='card-header-title'
+          title='1 Juan'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Juan</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/2-pedro/'
         class='card-header-title'
           title='2 Pedro'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
@@ -450,7 +508,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/ga%CC%81latas-517-21/'
+        href='/estudios/libros/ga%CC%81latas-517-21/'
         class='card-header-title'
           title='Gálatas 5:17-21'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Gálatas 5:17-21</p></a></div>
@@ -460,7 +518,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/habacuc/'
+        href='/estudios/libros/habacuc/'
         class='card-header-title'
           title='Habacuc'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
@@ -470,7 +528,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/habacuc2.4/'
+        href='/estudios/libros/habacuc2.4/'
         class='card-header-title'
           title='Habacuc 2.4'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc 2.4</p></a></div>
@@ -480,7 +538,17 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/jueces/'
+        href='/estudios/libros/hebreos/'
+        class='card-header-title'
+          title='Hebreos'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/jueces/'
         class='card-header-title'
           title='Jueces'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jueces</p></a></div>
@@ -490,7 +558,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/libros/santiago/'
+        href='/estudios/libros/santiago/'
         class='card-header-title'
           title='Santiago'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago</p></a></div>
@@ -501,7 +569,7 @@
     </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-expanded"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/estudios/topico/'>
+      <div class='card-header-title' href='/estudios/topico/'>
         <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topicos'>Topicos</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
                 <span class='icon'></span>
               </a>
@@ -510,7 +578,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/5-principios/'
+        href='/estudios/topico/5-principios/'
         class='card-header-title'
           title='5 Principios para desenmascarar una cosmovisión no-biblica'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">5 Principios para desenmascarar una cosmovisión no-biblica</p></a></div>
@@ -520,7 +588,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/adoracio%CC%81n-bi%CC%81blica/'
+        href='/estudios/topico/adoracio%CC%81n-bi%CC%81blica/'
         class='card-header-title'
           title='Adoración Bíblica'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Adoración Bíblica</p></a></div>
@@ -530,7 +598,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/confesion-de-pecado/'
+        href='/estudios/topico/confesion-de-pecado/'
         class='card-header-title'
           title='Confesión de Pecados'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confesión de Pecados</p></a></div>
@@ -540,7 +608,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/el_evangelio/'
+        href='/estudios/topico/el_evangelio/'
         class='card-header-title'
           title='El Evangelio'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Evangelio</p></a></div>
@@ -550,7 +618,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/el-mismo...nuestra-suficiencia/'
+        href='/estudios/topico/el-mismo...nuestra-suficiencia/'
         class='card-header-title'
           title='El Mismo...nuestra suficiencia'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Mismo...nuestra suficiencia</p></a></div>
@@ -560,7 +628,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/enemigos-de-observacion/'
+        href='/estudios/topico/enemigos-de-observacion/'
         class='card-header-title'
           title='Enemigos de la Observación'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Enemigos de la Observación</p></a></div>
@@ -570,7 +638,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
+        href='/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
         class='card-header-title'
           title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Estableciendo el decreto que inicia las 70 semanas de Daniel</p></a></div>
@@ -579,7 +647,7 @@
     </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/estudios/topico/familia/'>
+      <div class='card-header-title' href='/estudios/topico/familia/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='familia'>familia</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -588,7 +656,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/familia/funeral/'
+        href='/estudios/topico/familia/funeral/'
         class='card-header-title'
           title='If life ended here'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">If life ended here</p></a></div>
@@ -598,7 +666,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/familia/funeral_es/'
+        href='/estudios/topico/familia/funeral_es/'
         class='card-header-title'
           title='Si esto fuera el fin'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Si esto fuera el fin</p></a></div>
@@ -610,7 +678,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/galatas-1.6-10/'
+        href='/estudios/topico/galatas-1.6-10/'
         class='card-header-title'
           title='Galatas 1.6-10'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatas 1.6-10</p></a></div>
@@ -620,7 +688,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/lecciones/habacuc/'
+        href='/estudios/topico/lecciones/habacuc/'
         class='card-header-title'
           title='Habacuc'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc</p></a></div>
@@ -630,7 +698,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/calvinismo-una-cosmovision-idolatra/'
+        href='/estudios/topico/calvinismo-una-cosmovision-idolatra/'
         class='card-header-title'
           title='Identificando la Cosmovisión del Calvinismo'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Identificando la Cosmovisión del Calvinismo</p></a></div>
@@ -640,7 +708,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/jovenes/'
+        href='/estudios/topico/jovenes/'
         class='card-header-title'
           title='Jóvenes en la Biblia'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jóvenes en la Biblia</p></a></div>
@@ -650,7 +718,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/juan2.23-24/'
+        href='/estudios/topico/juan2.23-24/'
         class='card-header-title'
           title='Juan 2:23-24'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 2:23-24</p></a></div>
@@ -660,7 +728,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/juan-541/'
+        href='/estudios/topico/juan-541/'
         class='card-header-title'
           title='Juan 5:41'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 5:41</p></a></div>
@@ -670,7 +738,7 @@
       <div class=""><li class="is-marginless"><div
             class="card is-sidebar-active"id='sidebarActiveEntry'><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/la-iglesia/'
+        href='/estudios/topico/la-iglesia/'
         class='card-header-title'
           title='La Iglesia'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Iglesia</p></a></div>
@@ -680,7 +748,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/la-ley/'
+        href='/estudios/topico/la-ley/'
         class='card-header-title'
           title='La Ley y La Gracia'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Ley y La Gracia</p></a></div>
@@ -690,7 +758,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/simiente-mujer-mesias/'
+        href='/estudios/topico/simiente-mujer-mesias/'
         class='card-header-title'
           title='La Simiente de la mujer'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Simiente de la mujer</p></a></div>
@@ -700,7 +768,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/los-sufrimientos-de-cristo/'
+        href='/estudios/topico/los-sufrimientos-de-cristo/'
         class='card-header-title'
           title='Los Sufrimientos de Cristo'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Los Sufrimientos de Cristo</p></a></div>
@@ -710,7 +778,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/matrimonio/'
+        href='/estudios/topico/matrimonio/'
         class='card-header-title'
           title='Matrimonio es Idea de Dios'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Matrimonio es Idea de Dios</p></a></div>
@@ -720,7 +788,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/estudios/topico/lecciones/zacarias/'
+        href='/estudios/topico/lecciones/zacarias/'
         class='card-header-title'
           title='Zacarias'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zacarias</p></a></div>
@@ -731,12 +799,12 @@
     </div></ul></li>
       </div>
     </div><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/'>
+      <div class='card-header-title' href='/studies/'>
         <i class='fa-solid fa-bars fa-lg'></i></div></div>
       </div><div class="is-expandable">
       <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/'>
+      <div class='card-header-title' href='/studies/'>
         <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Studies'>Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -744,7 +812,7 @@
           </div><ul class="is-marginless"><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/books/'>
+      <div class='card-header-title' href='/studies/books/'>
         <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Book Studies'>Book Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -753,7 +821,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/1-john/'
+        href='/studies/books/1-john/'
         class='card-header-title'
           title='1 John'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 John</p></a></div>
@@ -763,7 +831,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/1-peter/'
+        href='/studies/books/1-peter/'
         class='card-header-title'
           title='1 Peter'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Peter</p></a></div>
@@ -773,7 +841,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/2-timothy/'
+        href='/studies/books/2-timothy/'
         class='card-header-title'
           title='2 Timothy'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Timothy</p></a></div>
@@ -782,7 +850,7 @@
     </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/books/archives/'>
+      <div class='card-header-title' href='/studies/books/archives/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Archives'>Archives</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -791,7 +859,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/archives/zechariah-old/'
+        href='/studies/books/archives/zechariah-old/'
         class='card-header-title'
           title='Zechariah'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
@@ -801,7 +869,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/archives/zechariah-orig/'
+        href='/studies/books/archives/zechariah-orig/'
         class='card-header-title'
           title='Zechariah'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
@@ -811,7 +879,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/archives/zechariah-orig.md/'
+        href='/studies/books/archives/zechariah-orig.md/'
         class='card-header-title'
           title='Zechariah'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
@@ -821,7 +889,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/archives/zechariah_notes/'
+        href='/studies/books/archives/zechariah_notes/'
         class='card-header-title'
           title='Zechariah notes'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
@@ -831,7 +899,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/archives/zechariah_notes2/'
+        href='/studies/books/archives/zechariah_notes2/'
         class='card-header-title'
           title='Zechariah notes'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes</p></a></div>
@@ -841,7 +909,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/archives/zechariah_old/'
+        href='/studies/books/archives/zechariah_old/'
         class='card-header-title'
           title='Zechariah notes old'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah notes old</p></a></div>
@@ -853,7 +921,17 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/galatians/'
+        href='/studies/books/ephesians/'
+        class='card-header-title'
+          title='Ephesians'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Ephesians</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/galatians/'
         class='card-header-title'
           title='Galatians'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians</p></a></div>
@@ -863,7 +941,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/gal-3.21-29/'
+        href='/studies/books/gal-3.21-29/'
         class='card-header-title'
           title='Galatians 3:21-29'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 3:21-29</p></a></div>
@@ -873,7 +951,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/habakkuk/'
+        href='/studies/books/habakkuk/'
         class='card-header-title'
           title='Habakuk'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habakuk</p></a></div>
@@ -883,7 +961,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/hebrews-31-6/'
+        href='/studies/books/hebrews-31-6/'
         class='card-header-title'
           title='Hebrews 3:1-6'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebrews 3:1-6</p></a></div>
@@ -893,7 +971,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/romans-9-16/'
+        href='/studies/books/romans-9-16/'
         class='card-header-title'
           title='Romans 9-11'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 9-11</p></a></div>
@@ -903,7 +981,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/zechariah/'
+        href='/studies/books/zechariah/'
         class='card-header-title'
           title='Zechariah'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
@@ -913,7 +991,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/books/zephaniah/'
+        href='/studies/books/zephaniah/'
         class='card-header-title'
           title='Zephaniah'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zephaniah</p></a></div>
@@ -925,7 +1003,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/discipleship-need/'
+        href='/studies/discipleship-need/'
         class='card-header-title'
           title='Discipleship -&gt; importance'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Discipleship -&gt; importance</p></a></div>
@@ -935,7 +1013,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/ot-books/'
+        href='/studies/ot-books/'
         class='card-header-title'
           title='OT Books'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">OT Books</p></a></div>
@@ -944,7 +1022,7 @@
     </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/topical/'>
+      <div class='card-header-title' href='/studies/topical/'>
         <i class='fa-solid fa-bars'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topical Studies'>Topical Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
                 <span class='icon'></span>
               </a>
@@ -952,14 +1030,14 @@
           </div><ul class="is-marginless"><div class="">
       <div class=""><li class="is-marginless"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/topical/2015-03-24-predestination/'>
+      <div class='card-header-title' href='/studies/topical/2015-03-24-predestination/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
           </div></li>
       </div>
     </div><div class="">
       <div class=""><li class="is-marginless"><div
             class="card"><div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/page/studies/topical/armageddon/'>
+      <div class='card-header-title' href='/studies/topical/armageddon/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
           </div></li>
       </div>
@@ -967,7 +1045,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/the-church/'
+        href='/studies/topical/the-church/'
         class='card-header-title'
           title=''>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
@@ -977,7 +1055,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/angels/'
+        href='/studies/topical/angels/'
         class='card-header-title'
           title='Angels'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Angels</p></a></div>
@@ -987,7 +1065,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/armageddon-zech6/'
+        href='/studies/topical/armageddon-zech6/'
         class='card-header-title'
           title='Armageddon'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Armageddon</p></a></div>
@@ -997,7 +1075,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/biblical_covenants/'
+        href='/studies/topical/biblical_covenants/'
         class='card-header-title'
           title='Biblical Covenants'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Biblical Covenants</p></a></div>
@@ -1007,7 +1085,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/confession-of-sins/'
+        href='/studies/topical/confession-of-sins/'
         class='card-header-title'
           title='Confession of Sins'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confession of Sins</p></a></div>
@@ -1017,7 +1095,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2021-07-27-daniel.6.18-28/'
+        href='/studies/topical/2021-07-27-daniel.6.18-28/'
         class='card-header-title'
           title='Daniel'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel</p></a></div>
@@ -1027,7 +1105,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2020-06-08-daniel-31-12/'
+        href='/studies/topical/2020-06-08-daniel-31-12/'
         class='card-header-title'
           title='Daniel 3:1-12'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel 3:1-12</p></a></div>
@@ -1037,7 +1115,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/dealing_with_pain/'
+        href='/studies/topical/dealing_with_pain/'
         class='card-header-title'
           title='Dealing with Pain'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Dealing with Pain</p></a></div>
@@ -1047,7 +1125,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/galatians-111-24/'
+        href='/studies/topical/galatians-111-24/'
         class='card-header-title'
           title='Galatians 1:11-24'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 1:11-24</p></a></div>
@@ -1057,7 +1135,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/homiletics/'
+        href='/studies/topical/homiletics/'
         class='card-header-title'
           title='Homiletics'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Homiletics</p></a></div>
@@ -1067,7 +1145,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/'
+        href='/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/'
         class='card-header-title'
           title='install Jekyll on MacOS Big Sur'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">install Jekyll on MacOS Big Sur</p></a></div>
@@ -1077,7 +1155,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/israel-egypt/'
+        href='/studies/topical/israel-egypt/'
         class='card-header-title'
           title='Israel in Egypt'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Israel in Egypt</p></a></div>
@@ -1087,7 +1165,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/jesus-mismo-nuestra-propiciacio%CC%81n/'
+        href='/studies/topical/jesus-mismo-nuestra-propiciacio%CC%81n/'
         class='card-header-title'
           title='Jesus mismo-nuestra propiciación'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jesus mismo-nuestra propiciación</p></a></div>
@@ -1097,7 +1175,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/john-11.1-23/'
+        href='/studies/topical/john-11.1-23/'
         class='card-header-title'
           title='John 11:1-23'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:1-23</p></a></div>
@@ -1107,7 +1185,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/john-11.35-48/'
+        href='/studies/topical/john-11.35-48/'
         class='card-header-title'
           title='John 11:35-48'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:35-48</p></a></div>
@@ -1117,7 +1195,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/john-13.21-38/'
+        href='/studies/topical/john-13.21-38/'
         class='card-header-title'
           title='John 13:21-38'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 13:21-38</p></a></div>
@@ -1127,7 +1205,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/john-831-44/'
+        href='/studies/topical/john-831-44/'
         class='card-header-title'
           title='John 8:31-44'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 8:31-44</p></a></div>
@@ -1137,7 +1215,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/marriage/'
+        href='/studies/topical/marriage/'
         class='card-header-title'
           title='Marriage'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Marriage</p></a></div>
@@ -1147,7 +1225,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/juda-kings-mothers/'
+        href='/studies/topical/juda-kings-mothers/'
         class='card-header-title'
           title='Mothers of King of Judah'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Mothers of King of Judah</p></a></div>
@@ -1157,7 +1235,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2015-02-15-obedience-of-faith/'
+        href='/studies/topical/2015-02-15-obedience-of-faith/'
         class='card-header-title'
           title='Obedience of faith'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Obedience of faith</p></a></div>
@@ -1167,7 +1245,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/phil-21-2-phrased/'
+        href='/studies/topical/phil-21-2-phrased/'
         class='card-header-title'
           title='Phil 2:1-2 phrased'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Phil 2:1-2 phrased</p></a></div>
@@ -1177,7 +1255,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2020-06-08-repentance/'
+        href='/studies/topical/2020-06-08-repentance/'
         class='card-header-title'
           title='Repentance According to the Bible'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Repentance According to the Bible</p></a></div>
@@ -1187,7 +1265,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/romans-109-10/'
+        href='/studies/topical/romans-109-10/'
         class='card-header-title'
           title='Romans 10:9-10'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 10:9-10</p></a></div>
@@ -1197,7 +1275,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/the-blood-of-jesus/'
+        href='/studies/topical/the-blood-of-jesus/'
         class='card-header-title'
           title='The blood of Jesus'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The blood of Jesus</p></a></div>
@@ -1207,7 +1285,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/'
+        href='/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/'
         class='card-header-title'
           title='The Warning to Timothy of False Teachers'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The Warning to Timothy of False Teachers</p></a></div>
@@ -1217,7 +1295,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/2021-07-21-two-instructors/'
+        href='/studies/topical/2021-07-21-two-instructors/'
         class='card-header-title'
           title='Two Instructors'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Two Instructors</p></a></div>
@@ -1227,7 +1305,7 @@
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/page/studies/topical/i-am-acused-of-teaching-easy-believism/'
+        href='/studies/topical/i-am-acused-of-teaching-easy-believism/'
         class='card-header-title'
           title='You are Teaching &#39;Easy Believism&#39;'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">You are Teaching &#39;Easy Believism&#39;</p></a></div>
@@ -1287,79 +1365,78 @@
 </h2><h3 id='su-función-y-propósito-según-la-biblia'><strong>Su función y propósito según la Biblia</strong><a href='#su-funci%c3%b3n-y-prop%c3%b3sito-seg%c3%ban-la-biblia' class='anchor'>#</a>
 </h3><!-- raw HTML omitted -->
 <h2 id='i-qué-es-la-iglesia'><strong>I. ¿Qué es la Iglesia?</strong><a href='#i-qu%c3%a9-es-la-iglesia' class='anchor'>#</a>
-</h2><h3 id='la-palabra-iglesia-en-griego-es-ekklesia--ek-que-significa-fuera-o-fuera-de-y-kaleo-que-significa-llamar-se-utiliza-en-el-nuevo-testamento-para-identificar-la-comunidad-de-creyentes-en-jesucristo'>La palabra “Iglesia” en griego es <strong>EKKLESIA</strong>.  EK que significa fuera, o fuera de, y KALEO que significa llamar. Se utiliza en el Nuevo Testamento para identificar la comunidad de creyentes en Jesucristo.<a href='#la-palabra-iglesia-en-griego-es-ekklesia--ek-que-significa-fuera-o-fuera-de-y-kaleo-que-significa-llamar-se-utiliza-en-el-nuevo-testamento-para-identificar-la-comunidad-de-creyentes-en-jesucristo' class='anchor'>#</a>
+</h2><h3 id='la-palabra-iglesia-en-griego-es-ekklesia--ek-que-significa-fuera-o-fuera-de-y-kaleo-significa-llamar-aparece-117-veces-en-el-nuevo-testamento'>La palabra “Iglesia” en griego es <strong>EKKLESIA</strong>.  EK que significa fuera, o fuera de, y KALEO significa llamar. Aparece 117 veces en el Nuevo Testamento.<a href='#la-palabra-iglesia-en-griego-es-ekklesia--ek-que-significa-fuera-o-fuera-de-y-kaleo-significa-llamar-aparece-117-veces-en-el-nuevo-testamento' class='anchor'>#</a>
 </h3><!-- raw HTML omitted -->
 <h3 id='literalmente-significa-asamblea-congregación-o-reunión-hechos-1939-40'>Literalmente significa &ldquo;<strong>asamblea</strong>&rdquo;, &ldquo;<strong>congregación</strong>&rdquo; o &ldquo;<strong>reunión</strong>&rdquo;. Hechos 19:39-40<a href='#literalmente-significa-asamblea-congregaci%c3%b3n-o-reuni%c3%b3n-hechos-1939-40' class='anchor'>#</a>
-</h3><h3 id='en-el-antiguo-testamento-se-usaba-un-término-similar-para-referirse-a-experiencias-como-el-día-de-la-asamblea-la-congregación-del-señor-o-reunión-delante-del-señor-deuteronomio-910-2-crónicas-78-1-crónicas-134'>En el Antiguo Testamento se usaba un término similar para referirse a experiencias como “el día de la asamblea”, “la congregación del Señor” o “reunión delante del Señor”. Deuteronomio 9:10, 2 Crónicas 7:8, 1 Crónicas 13:4<a href='#en-el-antiguo-testamento-se-usaba-un-t%c3%a9rmino-similar-para-referirse-a-experiencias-como-el-d%c3%ada-de-la-asamblea-la-congregaci%c3%b3n-del-se%c3%b1or-o-reuni%c3%b3n-delante-del-se%c3%b1or-deuteronomio-910-2-cr%c3%b3nicas-78-1-cr%c3%b3nicas-134' class='anchor'>#</a>
-</h3><h3 id='así-cuando-jesús-declara-edificaré-mi-iglesia-mateo-1618-no-resultó-algo-desconocido-para-el-oyente-común'>Así, cuando Jesús declara: “<em>Edificaré mi iglesia</em>” (Mateo 16:18), no resultó algo desconocido para el oyente común.<a href='#as%c3%ad-cuando-jes%c3%bas-declara-edificar%c3%a9-mi-iglesia-mateo-1618-no-result%c3%b3-algo-desconocido-para-el-oyente-com%c3%ban' class='anchor'>#</a>
-</h3><h3 id='poco-después-en-el-nuevo-testamento-la-palabra-se-limita-estrictamente-a-referirse-a-la-congregación-de-creyentes-en-jesucristo-hechos-1427'>Poco después, en el Nuevo Testamento, la palabra se limita estrictamente a referirse a la congregación de creyentes en Jesucristo. Hechos 14:27<a href='#poco-despu%c3%a9s-en-el-nuevo-testamento-la-palabra-se-limita-estrictamente-a-referirse-a-la-congregaci%c3%b3n-de-creyentes-en-jesucristo-hechos-1427' class='anchor'>#</a>
-</h3><h3 id='en-el-nuevo-testamento-ninguna-sinagoga-templo-capilla-tabernáculo-edificio-o-cualquier-otro-lugar-de-reunión-fue-llamado-la-iglesia-1-corintios-12-2-corintios-11-gálatas-12-filemón-12'>En el Nuevo Testamento, ninguna sinagoga, templo, capilla, tabernáculo, edificio o cualquier otro lugar de reunión fue llamado “la iglesia”. 1 Corintios 1:2, 2 Corintios 1:1, Gálatas 1:2, Filemón 1:2<a href='#en-el-nuevo-testamento-ninguna-sinagoga-templo-capilla-tabern%c3%a1culo-edificio-o-cualquier-otro-lugar-de-reuni%c3%b3n-fue-llamado-la-iglesia-1-corintios-12-2-corintios-11-g%c3%a1latas-12-filem%c3%b3n-12' class='anchor'>#</a>
-</h3><h2 id='la-naturaleza-de-la-iglesia'>La Naturaleza de la Iglesia<a href='#la-naturaleza-de-la-iglesia' class='anchor'>#</a>
-</h2><h3 id='la-iglesia-es-poseción-de-jesucristo-regalo-del-padre-pagado-por-la-sagre-de-cristo-juan-639-hechos-2028'>La iglesia es poseción de Jesucristo, regalo del Padre, pagado por la sagre de Cristo. Juan 6:39, Hechos 20:28<a href='#la-iglesia-es-poseci%c3%b3n-de-jesucristo-regalo-del-padre-pagado-por-la-sagre-de-cristo-juan-639-hechos-2028' class='anchor'>#</a>
-</h3><h3 id='la-iglesia-es-hecha-hijos-de-dios-1-juan-31'>La iglesia es hecha &ldquo;<em>hijos de Dios</em>&rdquo;. 1 Juan 3:1<a href='#la-iglesia-es-hecha-hijos-de-dios-1-juan-31' class='anchor'>#</a>
+</h3><h3 id='en-el-antiguo-testamento-se-usaba-un-término-similar-para-referirse-a-experiencias-como-el-día-de-la-asamblea-la-congregación-o-reunión-deuteronomio-910-2-crónicas-78-salmo-10732'>En el Antiguo Testamento se usaba un término similar para referirse a experiencias como “el día de la asamblea”, “la congregación” o “reunión”. Deuteronomio 9:10, 2 Crónicas 7:8, Salmo 107:32<a href='#en-el-antiguo-testamento-se-usaba-un-t%c3%a9rmino-similar-para-referirse-a-experiencias-como-el-d%c3%ada-de-la-asamblea-la-congregaci%c3%b3n-o-reuni%c3%b3n-deuteronomio-910-2-cr%c3%b3nicas-78-salmo-10732' class='anchor'>#</a>
+</h3><h3 id='así-que-cuando-jesús-declara-edificaré-mi-ekklesia-mateo-1618-no-resultó-algo-desconocido-para-el-oyente-común'>Así que, cuando Jesús declara: “<em>Edificaré mi EKKLESIA</em>” (Mateo 16:18), no resultó algo desconocido para el oyente común.<a href='#as%c3%ad-que-cuando-jes%c3%bas-declara-edificar%c3%a9-mi-ekklesia-mateo-1618-no-result%c3%b3-algo-desconocido-para-el-oyente-com%c3%ban' class='anchor'>#</a>
+</h3><h3 id='poco-después-en-el-nuevo-testamento-la-palabra-con-el-artículo-definido-τεν-ekklesia---la-iglesia-se-limita-estrictamente-a-referirse-a-la-congregación-de-creyentes-en-jesucristo-hechos-1427'>Poco después, en el Nuevo Testamento, la palabra con el artículo definido (ΤΕΝ EKKLESIA - la iglesia), se limita estrictamente a referirse a la congregación de creyentes en Jesucristo. Hechos 14:27<a href='#poco-despu%c3%a9s-en-el-nuevo-testamento-la-palabra-con-el-art%c3%adculo-definido-%cf%84%ce%b5%ce%bd-ekklesia---la-iglesia-se-limita-estrictamente-a-referirse-a-la-congregaci%c3%b3n-de-creyentes-en-jesucristo-hechos-1427' class='anchor'>#</a>
+</h3><h3 id='la-palabra-ekklesia-nunca-se-usa-refiriendose-a-una-sinagoga-templo-capilla-tabernáculo-edificio-o-cualquier-otro-lugar-de-reunión-como-iglesia-1-corintios-12-2-corintios-11-gálatas-12-filemón-12'>La palabra EKKLESIA nunca se usa refiriendose a una sinagoga, templo, capilla, tabernáculo, edificio o cualquier otro lugar de reunión como “iglesia”. 1 Corintios 1:2, 2 Corintios 1:1, Gálatas 1:2, Filemón 1:2<a href='#la-palabra-ekklesia-nunca-se-usa-refiriendose-a-una-sinagoga-templo-capilla-tabern%c3%a1culo-edificio-o-cualquier-otro-lugar-de-reuni%c3%b3n-como-iglesia-1-corintios-12-2-corintios-11-g%c3%a1latas-12-filem%c3%b3n-12' class='anchor'>#</a>
+</h3><h2 id='ii-la-naturaleza-de-la-iglesia'>II. La Naturaleza de la Iglesia<a href='#ii-la-naturaleza-de-la-iglesia' class='anchor'>#</a>
+</h2><h3 id='la-iglesia-es-poseción-de-jesucristo-regalo-del-padre-juan-639-comprado-mediante-la-obra-de-cristo-hechos-2028'>La iglesia es poseción de Jesucristo, regalo del Padre (Juan 6:39), comprado mediante la obra de Cristo. Hechos 20:28<a href='#la-iglesia-es-poseci%c3%b3n-de-jesucristo-regalo-del-padre-juan-639-comprado-mediante-la-obra-de-cristo-hechos-2028' class='anchor'>#</a>
+</h3><blockquote>
+<p>Tengan cuidado de sí mismos y de toda la congregación&hellip;la cual Él [Cristo] <strong>compró con Su propia sangre</strong>. Hechos 20:28</p>
+</blockquote>
+<h3 id='la-iglesia-es-compuesta-de-hijos-de-dios-todo-el-que-cree-en-jesucristo-como-salvador-llega-a-ser-parte-de-la-iglesia--juan-112-1-juan-31'>La iglesia es compuesta de &ldquo;<em>hijos de Dios</em>&rdquo;. Todo el que cree en Jesucristo como salvador llega a ser parte de la iglesia.  Juan 1:12, 1 Juan 3:1<a href='#la-iglesia-es-compuesta-de-hijos-de-dios-todo-el-que-cree-en-jesucristo-como-salvador-llega-a-ser-parte-de-la-iglesia--juan-112-1-juan-31' class='anchor'>#</a>
 </h3><blockquote>
 <p>&ldquo;Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la <strong>familia de Dios</strong>&rdquo;. Efesios 2:19</p>
 </blockquote>
 <blockquote>
 <p>&ldquo;pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la <strong>casa de Dios</strong>, que es la iglesia del Dios vivo, columna y sostén de la verdad&rdquo;. 1 Timoteo 3:15</p>
 </blockquote>
-<h3 id='al-hacernos-hijos-suyos-dios-es-nuestro-padre-al-cual-clamamos-abba-mediante-el-espíritu-y-cristo-es-nuestro-hermano-juan-112-gálatas-46-hebreos-211-12'>Al hacernos hijos suyos, Dios es nuestro Padre al cual clamamos &ldquo;abba&rdquo; mediante el Espíritu, y Cristo es nuestro hermano. Juan 1:12, Gálatas 4:6, Hebreos 2:11-12<a href='#al-hacernos-hijos-suyos-dios-es-nuestro-padre-al-cual-clamamos-abba-mediante-el-esp%c3%adritu-y-cristo-es-nuestro-hermano-juan-112-g%c3%a1latas-46-hebreos-211-12' class='anchor'>#</a>
-</h3><h4 id='dios-está-comprometido-a-la-iglesia-como-un-padre-lo-es-a-sus-hijos-2-corintios-13-1-corintios-86-2-corintios-98-hebreos-125-7'>Dios está comprometido a la iglesia como un padre lo es a sus hijos. 2 Corintios 1:3, 1 Corintios 8:6, 2 Corintios 9:8, Hebreos 12:5-7<a href='#dios-est%c3%a1-comprometido-a-la-iglesia-como-un-padre-lo-es-a-sus-hijos-2-corintios-13-1-corintios-86-2-corintios-98-hebreos-125-7' class='anchor'>#</a>
-</h4><h3 id='la-iglesia-que-consiste-en-todos-los-creyentes-es-la-morada-de-dios-templo-de-dios-efesios-221-22-y-el-canal-a-través-del-cual-él-vive-y-se-extiende-al-mundo'>La iglesia, que consiste en todos los creyentes, es la morada de Dios (<em>templo de Dios</em>, Efesios 2:21-22) y el canal a través del cual Él vive y se extiende al mundo.<a href='#la-iglesia-que-consiste-en-todos-los-creyentes-es-la-morada-de-dios-templo-de-dios-efesios-221-22-y-el-canal-a-trav%c3%a9s-del-cual-%c3%a9l-vive-y-se-extiende-al-mundo' class='anchor'>#</a>
-</h3><h4 id='no-solo-el-espíritu-santo-mora-individualmente-dentro-de-cada-miembro-de-la-iglesia-sino-que-todos-los-miembros-juntos-forman-un-cuerpo-cuerpo-de-cristo-unificado-a-través-del-cual-el-espíritu-santo-quiere-afectar-nuestro-mundo-filipenses-127b-22-efesios-44-6'>No solo el Espíritu Santo mora individualmente dentro de cada miembro de la iglesia, sino que todos los miembros juntos forman un cuerpo (cuerpo de Cristo) unificado a través del cual el Espíritu Santo quiere afectar nuestro mundo. Filipenses 1:27b, 2:2; Efesios 4:4-6<a href='#no-solo-el-esp%c3%adritu-santo-mora-individualmente-dentro-de-cada-miembro-de-la-iglesia-sino-que-todos-los-miembros-juntos-forman-un-cuerpo-cuerpo-de-cristo-unificado-a-trav%c3%a9s-del-cual-el-esp%c3%adritu-santo-quiere-afectar-nuestro-mundo-filipenses-127b-22-efesios-44-6' class='anchor'>#</a>
-</h4><h3 id='aunque-una-iglesia-debe-ser-organizada-no-se-trata-de-formas-programas-o-estructuras-materiales-la-iglesia-no-es-una-organización-para-ser-manejada-como-una-empresa-o-negocio'>Aunque una iglesia debe ser organizada, no se trata de formas, programas o estructuras materiales. La iglesia no es una organización para ser manejada como una empresa o negocio.<a href='#aunque-una-iglesia-debe-ser-organizada-no-se-trata-de-formas-programas-o-estructuras-materiales-la-iglesia-no-es-una-organizaci%c3%b3n-para-ser-manejada-como-una-empresa-o-negocio' class='anchor'>#</a>
-</h3><h3 id='la-iglesia-es-un-organismo-vivo-y-es-mejor-entendido-como-una-casa-donde-los-integrantes-son-miembros-de-la-familia-la-cabeza-del-hogar-es-cristo-gálatas-610-efesios-415-colosenses-118'>La iglesia es un organismo vivo y es mejor entendido como una casa donde los integrantes son miembros de la familia. La cabeza del hogar es Cristo. Gálatas 6:10, Efesios 4:15, Colosenses 1:18<a href='#la-iglesia-es-un-organismo-vivo-y-es-mejor-entendido-como-una-casa-donde-los-integrantes-son-miembros-de-la-familia-la-cabeza-del-hogar-es-cristo-g%c3%a1latas-610-efesios-415-colosenses-118' class='anchor'>#</a>
-</h3><h4 id='por-eso-es-que-los-líderes-de-la-iglesia-local-deben-ser-buenos-hombres-de-familia-tito-16-1-timoteo-312'>Por eso es que los líderes de la iglesia local deben ser buenos hombres de familia. Tito 1:6, 1 Timoteo 3:12<a href='#por-eso-es-que-los-l%c3%adderes-de-la-iglesia-local-deben-ser-buenos-hombres-de-familia-tito-16-1-timoteo-312' class='anchor'>#</a>
-</h4><h2 id='ii-iglesia-local-vs-iglesia-universal'><strong>II. Iglesia Local vs Iglesia Universal</strong><a href='#ii-iglesia-local-vs-iglesia-universal' class='anchor'>#</a>
-</h2><h3 id='el-primer-sentido-en-el-que-se-utiliza-la-palabra-iglesia-lo-que-llamamos-local-se-define-por-su-entorno-geográfico'>El primer sentido en el que se utiliza la palabra “iglesia”, lo que llamamos “<strong>local</strong>”, se define por su entorno geográfico.<a href='#el-primer-sentido-en-el-que-se-utiliza-la-palabra-iglesia-lo-que-llamamos-local-se-define-por-su-entorno-geogr%c3%a1fico' class='anchor'>#</a>
-</h3><h3 id='las-iglesias-en-el-nuevo-testamento-fueron-identificadas-por-el-nombre-de-una-ciudad-nunca-por-el-nombre-de-un-país-o-región'>Las iglesias en el Nuevo Testamento fueron identificadas por el nombre de una ciudad, nunca por el nombre de un país o región.<a href='#las-iglesias-en-el-nuevo-testamento-fueron-identificadas-por-el-nombre-de-una-ciudad-nunca-por-el-nombre-de-un-pa%c3%ads-o-regi%c3%b3n' class='anchor'>#</a>
-</h3><h4 id='por-ejemplo-se-hablaría-de-las-iglesias-de-galacia-en-plural-porque-galacia-era-una-región-con-muchas-ciudades-y-por-lo-tanto-muchas-iglesias-locales-gálatas-12'>Por ejemplo, se hablaría de “<em>las iglesias de Galacia</em>” en plural porque Galacia era una región con muchas ciudades y, por lo tanto, muchas iglesias locales. Gálatas 1:2<a href='#por-ejemplo-se-hablar%c3%ada-de-las-iglesias-de-galacia-en-plural-porque-galacia-era-una-regi%c3%b3n-con-muchas-ciudades-y-por-lo-tanto-muchas-iglesias-locales-g%c3%a1latas-12' class='anchor'>#</a>
-</h4><h4 id='cuando-se-habla-de-corinto-éfeso-tesalónica-etc-se-utiliza-la-forma-singular-y-el-nombre-de-la-ciudad-identifica-a-la-iglesia-1-corintios-12-efesios-11'>Cuando se habla de Corinto, Éfeso, Tesalónica, etc., se utiliza la forma singular y el nombre de la ciudad identifica a la iglesia. 1 Corintios 1:2, Efesios 1:1<a href='#cuando-se-habla-de-corinto-%c3%a9feso-tesal%c3%b3nica-etc-se-utiliza-la-forma-singular-y-el-nombre-de-la-ciudad-identifica-a-la-iglesia-1-corintios-12-efesios-11' class='anchor'>#</a>
-</h4><h5 id='cada-una-de-estas-iglesias-estaba-compuesta-por-los-cristianos-residentes-de-una-misma-ciudad'>Cada una de estas iglesias estaba compuesta por los cristianos residentes de una misma ciudad.<a href='#cada-una-de-estas-iglesias-estaba-compuesta-por-los-cristianos-residentes-de-una-misma-ciudad' class='anchor'>#</a>
-</h5><h3 id='del-nuevo-testamento-observamos-que-las-iglesias-locales-ni-siquiera-erigieron-edificios-simplemente-se-reunían-en-lugares-convenientes-romanos-165-23-colosenses-415'>Del Nuevo Testamento, observamos que las iglesias locales ni siquiera erigieron edificios; simplemente se reunían en lugares convenientes. Romanos 16:5, 23, Colosenses 4:15<a href='#del-nuevo-testamento-observamos-que-las-iglesias-locales-ni-siquiera-erigieron-edificios-simplemente-se-reun%c3%adan-en-lugares-convenientes-romanos-165-23-colosenses-415' class='anchor'>#</a>
-</h3><h3 id='el-segundo-sentido-llamado-universal-se-refiere-al-conjunto-de-creyentes-en-jesucristo-de-todos-los-tiempos-y-lugares-mateo-1618-efesios-122-23-hechos-191-10'>El segundo sentido, llamado “<strong>universal</strong>”, se refiere al conjunto de creyentes en Jesucristo de todos los tiempos y lugares. Mateo 16:18, Efesios 1:22-23, Hechos 19:1-10<a href='#el-segundo-sentido-llamado-universal-se-refiere-al-conjunto-de-creyentes-en-jesucristo-de-todos-los-tiempos-y-lugares-mateo-1618-efesios-122-23-hechos-191-10' class='anchor'>#</a>
-</h3><h4 id='la-primera-reunión-de-la-iglesia-universal-ocurrirá-durante-el-arrebatamiento--1-tesalonisenses-416-17'>La primera reunión de la iglesia universal ocurrirá durante el arrebatamiento.  1 Tesalonisenses 4:16-17<a href='#la-primera-reuni%c3%b3n-de-la-iglesia-universal-ocurrir%c3%a1-durante-el-arrebatamiento--1-tesalonisenses-416-17' class='anchor'>#</a>
-</h4><h4 id='la-iglesia-local-difiere-sólo-en-tamaño-de-la-universal-pero-no-en-esencia-la-naturaleza-de-la-iglesia-local-y-el-compromiso-de-dios-con-ella-son-los-mismos-que-los-de-la-iglesia-universal'>La iglesia local difiere sólo en tamaño de la universal, pero no en esencia. La naturaleza de la iglesia local y el compromiso de Dios con ella son los mismos que los de la iglesia universal.<a href='#la-iglesia-local-difiere-s%c3%b3lo-en-tama%c3%b1o-de-la-universal-pero-no-en-esencia-la-naturaleza-de-la-iglesia-local-y-el-compromiso-de-dios-con-ella-son-los-mismos-que-los-de-la-iglesia-universal' class='anchor'>#</a>
-</h4><h2 id='iii-quién-construye-la-iglesia'><strong>III. ¿Quién Construye la Iglesia?</strong><a href='#iii-qui%c3%a9n-construye-la-iglesia' class='anchor'>#</a>
-</h2><h3 id='jesús-declaró-que-edificar-o-edificar-la-iglesia-es-algo-que-él-haría-personalmente-él-dijo-edificaré-mi-iglesia-mateo-1618'>Jesús declaró que edificar o edificar la iglesia es algo que Él haría personalmente. Él dijo: “<em>Edificaré mi iglesia</em>” (Mateo 16:18).<a href='#jes%c3%bas-declar%c3%b3-que-edificar-o-edificar-la-iglesia-es-algo-que-%c3%a9l-har%c3%ada-personalmente-%c3%a9l-dijo-edificar%c3%a9-mi-iglesia-mateo-1618' class='anchor'>#</a>
-</h3><h3 id='cuando-ascendió-al-padre-envió-a-la-tierra-al-espiritu-santo-hechos-21-3-33'>Cuando ascendió al Padre envió a la tierra al Espiritu Santo. Hechos 2:1-3, 33<a href='#cuando-ascendi%c3%b3-al-padre-envi%c3%b3-a-la-tierra-al-espiritu-santo-hechos-21-3-33' class='anchor'>#</a>
-</h3><h3 id='una-de-las-metáforas-más-conocidas-que-se-utilizan-para-referirse-a-la-iglesia-es-el-cuerpo-de-cristo-jesucristo-afirma-que-él-es-la-cabeza-y-que-todos-los-creyentes-forman-su-cuerpo-1-corintios-615'>Una de las metáforas más conocidas que se utilizan para referirse a la iglesia es el “<em>cuerpo de Cristo</em>”. Jesucristo afirma que Él es la cabeza y que todos los creyentes forman Su cuerpo. 1 Corintios 6:15<a href='#una-de-las-met%c3%a1foras-m%c3%a1s-conocidas-que-se-utilizan-para-referirse-a-la-iglesia-es-el-cuerpo-de-cristo-jesucristo-afirma-que-%c3%a9l-es-la-cabeza-y-que-todos-los-creyentes-forman-su-cuerpo-1-corintios-615' class='anchor'>#</a>
-</h3><h3 id='el-énfasis-de-la-metáfora-está-en-la-unión-de-cristo-y-la-iglesia-y-entre-los-propios-creyentes-algo-indispensable-para-comprender-cómo-funciona-la-iglesia-bajo-la-autoridad-de-jesucristo-1-corintios-1213-juan-1420'>El énfasis de la metáfora está en la unión de Cristo y la iglesia y entre los propios creyentes, algo indispensable para comprender cómo funciona la iglesia bajo la autoridad de Jesucristo. 1 Corintios 12:13, Juan 14:20,<a href='#el-%c3%a9nfasis-de-la-met%c3%a1fora-est%c3%a1-en-la-uni%c3%b3n-de-cristo-y-la-iglesia-y-entre-los-propios-creyentes-algo-indispensable-para-comprender-c%c3%b3mo-funciona-la-iglesia-bajo-la-autoridad-de-jesucristo-1-corintios-1213-juan-1420' class='anchor'>#</a>
-</h3><h3 id='según-pablo-cada-creyente-tiene-una-función-en-la-iglesia-así-como-los-diferentes-miembros-de-un-cuerpo-tienen-una-función-específica-hechos-1117-1-corintios-127-romanos-126'>Según Pablo, cada creyente tiene una función en la iglesia, así como los diferentes miembros de un cuerpo tienen una función específica. Hechos 11:17, 1 Corintios 12:7, Romanos 12:6<a href='#seg%c3%ban-pablo-cada-creyente-tiene-una-funci%c3%b3n-en-la-iglesia-as%c3%ad-como-los-diferentes-miembros-de-un-cuerpo-tienen-una-funci%c3%b3n-espec%c3%adfica-hechos-1117-1-corintios-127-romanos-126' class='anchor'>#</a>
-</h3><h4 id='un-creyente-que-se-comporta-como-diótrefes-en-3-juan-que-se-apropia-de-la-iglesia-local-creyéndose-la-máxima-autoridad-usurpa-el-lugar-de-cristo'>Un creyente que se comporta como Diótrefes en 3 Juan (que se apropia de la iglesia local, creyéndose la máxima autoridad) usurpa el lugar de Cristo.<a href='#un-creyente-que-se-comporta-como-di%c3%b3trefes-en-3-juan-que-se-apropia-de-la-iglesia-local-crey%c3%a9ndose-la-m%c3%a1xima-autoridad-usurpa-el-lugar-de-cristo' class='anchor'>#</a>
-</h4><h2 id='iv-cuál-es-el-papel-de-la-iglesia-local'><strong>IV. ¿Cuál es el papel de la iglesia local?</strong><a href='#iv-cu%c3%a1l-es-el-papel-de-la-iglesia-local' class='anchor'>#</a>
-</h2><h3 id='la-responsabilidad-ministerial-de-la-iglesia-local-recae-sobre-los-miembros-en-su-conjunto-a-medida-que-los-miembros-identifican-sus-dones-y-asumen-la-responsabilidad-de-administrarlos-bajo-la-dirección-del-espíritu-santo-la-iglesia-aumenta-su-capacidad-para-bendecir-y-cumplir-su-misión-en-la-tierra'>La responsabilidad ministerial de la iglesia local recae sobre los miembros en su conjunto. A medida que los miembros identifican sus dones y asumen la responsabilidad de administrarlos bajo la dirección del Espíritu Santo, la iglesia aumenta su capacidad para bendecir y cumplir su misión en la tierra.<a href='#la-responsabilidad-ministerial-de-la-iglesia-local-recae-sobre-los-miembros-en-su-conjunto-a-medida-que-los-miembros-identifican-sus-dones-y-asumen-la-responsabilidad-de-administrarlos-bajo-la-direcci%c3%b3n-del-esp%c3%adritu-santo-la-iglesia-aumenta-su-capacidad-para-bendecir-y-cumplir-su-misi%c3%b3n-en-la-tierra' class='anchor'>#</a>
-</h3><h3 id='la-visión-de-cristo-es-edificaré-mi-iglesia-la-manera-que-lo-edifica-es-por-medio-del-discipulado-mateo-2819-20'>La visión de Cristo es &ldquo;edificaré mi iglesia&rdquo;. La manera que lo edifica es por medio del discipulado. Mateo 28:19-20<a href='#la-visi%c3%b3n-de-cristo-es-edificar%c3%a9-mi-iglesia-la-manera-que-lo-edifica-es-por-medio-del-discipulado-mateo-2819-20' class='anchor'>#</a>
-</h3><h3 id='no-dijo-en-todas-las-naciones-sino-de-todas-las-naciones-mateo-2819-20'>No dijo &ldquo;en&rdquo; todas las naciones, sino &ldquo;de&rdquo; todas las naciones. Mateo 28:19-20.<a href='#no-dijo-en-todas-las-naciones-sino-de-todas-las-naciones-mateo-2819-20' class='anchor'>#</a>
-</h3><h3 id='esencialmente-la-iglesia-avanza-la-visión-de-cristo-al-avanzar-en-su-misión-de-ir'>Esencialmente la iglesia avanza la visión de Cristo al avanzar en su misión de ir&hellip;.<a href='#esencialmente-la-iglesia-avanza-la-visi%c3%b3n-de-cristo-al-avanzar-en-su-misi%c3%b3n-de-ir' class='anchor'>#</a>
-</h3><h4 id='1-evangelizando'>1. Evangelizando&hellip;<a href='#1-evangelizando' class='anchor'>#</a>
-</h4><!-- raw HTML omitted -->
-<h4 id='2-discipulando-'>2. Discipulando &hellip;<a href='#2-discipulando-' class='anchor'>#</a>
-</h4><!-- raw HTML omitted -->
-<h4 id='3-enseñando'>3. Enseñando<a href='#3-ense%c3%b1ando' class='anchor'>#</a>
-</h4><!-- raw HTML omitted -->
-<h3 id='y-así-edifica-cristo-su-iglesia-mateo-2819-20'>&hellip;y así edifica Cristo Su Iglesia. Mateo 28:19-20<a href='#y-as%c3%ad-edifica-cristo-su-iglesia-mateo-2819-20' class='anchor'>#</a>
+<h3 id='el-énfasis-de-la-metáfora-cuerpo-de-cristo-está-en-la-unión-de-cristo-y-la-iglesia-y-entre-los-propios-creyentes-algo-indispensable-para-comprender-cómo-funciona-la-iglesia-bajo-la-autoridad-de-jesucristo-1-corintios-1213-juan-1420'>El énfasis de la metáfora &ldquo;cuerpo de Cristo&rdquo; está en la unión de Cristo y la iglesia y entre los propios creyentes, algo indispensable para comprender cómo funciona la iglesia bajo la autoridad de Jesucristo. 1 Corintios 12:13, Juan 14:20<a href='#el-%c3%a9nfasis-de-la-met%c3%a1fora-cuerpo-de-cristo-est%c3%a1-en-la-uni%c3%b3n-de-cristo-y-la-iglesia-y-entre-los-propios-creyentes-algo-indispensable-para-comprender-c%c3%b3mo-funciona-la-iglesia-bajo-la-autoridad-de-jesucristo-1-corintios-1213-juan-1420' class='anchor'>#</a>
 </h3><!-- raw HTML omitted -->
-<h2 id='v-cómo-era-la-iglesia-en-el-nuevo-testamento'><strong>V. ¿Cómo era la iglesia en el Nuevo Testamento?</strong><a href='#v-c%c3%b3mo-era-la-iglesia-en-el-nuevo-testamento' class='anchor'>#</a>
-</h2><h3 id='la-iglesia-que-vemos-en-el-nuevo-testamento-era-dinámica-nunca-prisionera-de-los-edificios'>La iglesia que vemos en el Nuevo Testamento era dinámica. Nunca prisionera de los edificios.<a href='#la-iglesia-que-vemos-en-el-nuevo-testamento-era-din%c3%a1mica-nunca-prisionera-de-los-edificios' class='anchor'>#</a>
-</h3><h3 id='vemos-a-la-iglesia-reunirse-en-el-templo-en-una-sinagoga-en-la-calle-junto-al-mar-en-lugares-públicos-y-a-menudo-en-los-hogares'>vemos a la iglesia reunirse en el templo, en una sinagoga, en la calle, junto al mar, en lugares públicos y, a menudo, en los hogares.<a href='#vemos-a-la-iglesia-reunirse-en-el-templo-en-una-sinagoga-en-la-calle-junto-al-mar-en-lugares-p%c3%bablicos-y-a-menudo-en-los-hogares' class='anchor'>#</a>
-</h3><h3 id='las-iglesias-neotestamentarias-nunca-fueron-activistas-lo-principal-era-la-enseñanza-del-evangelio-de-la-gracia-hechos-528-hebreos-139-colosenses-128'>Las iglesias Neotestamentarias nunca fueron activistas. Lo principal era la enseñanza del evangelio de la gracia. Hechos 5:28, Hebreos 13:9, Colosenses 1:28<a href='#las-iglesias-neotestamentarias-nunca-fueron-activistas-lo-principal-era-la-ense%c3%b1anza-del-evangelio-de-la-gracia-hechos-528-hebreos-139-colosenses-128' class='anchor'>#</a>
-</h3><h3 id='todos-los-días-se-reunían-en-el-templo-y-partían-el-pan-en-casa-en-casa-comieron-su-comida-con-corazones-alegres-y-sinceros-alabando-a-dios-y-gozando-del-favor-de-todo-el-pueblo-cada-día-el-señor-añadía-a-ellos-los-que-se-salvaban-hechos-246-47'>“Todos los días se reunían en el templo y partían el pan en casa en casa. Comieron su comida con corazones alegres y sinceros, alabando a Dios y gozando del favor de todo el pueblo. Cada día el Señor añadía a ellos los que se salvaban” (Hechos 2:46-47).<a href='#todos-los-d%c3%adas-se-reun%c3%adan-en-el-templo-y-part%c3%adan-el-pan-en-casa-en-casa-comieron-su-comida-con-corazones-alegres-y-sinceros-alabando-a-dios-y-gozando-del-favor-de-todo-el-pueblo-cada-d%c3%ada-el-se%c3%b1or-a%c3%b1ad%c3%ada-a-ellos-los-que-se-salvaban-hechos-246-47' class='anchor'>#</a>
-</h3><h3 id='parece-que-las-reuniones-eran-diarias-y-ciertamente-no-monótonas-el-culto-la-comunión-fraterna-la-oración-el-trabajo-en-la-edificación-mutua-el-testimonio-de-cristo-y-la-atención-a-las-necesidades-de-los-pobres-no-formaban-parte-de-programas-especiales-sino-de-actividades-cotidianas'>Parece que las reuniones eran diarias y ciertamente no monótonas. El culto, la comunión fraterna, la oración, el trabajo en la edificación mutua, el testimonio de Cristo y la atención a las necesidades de los pobres no formaban parte de programas especiales, sino de actividades cotidianas.<a href='#parece-que-las-reuniones-eran-diarias-y-ciertamente-no-mon%c3%b3tonas-el-culto-la-comuni%c3%b3n-fraterna-la-oraci%c3%b3n-el-trabajo-en-la-edificaci%c3%b3n-mutua-el-testimonio-de-cristo-y-la-atenci%c3%b3n-a-las-necesidades-de-los-pobres-no-formaban-parte-de-programas-especiales-sino-de-actividades-cotidianas' class='anchor'>#</a>
-</h3><h2 id='vi-cuál-es-el-futuro-de-la-iglesia'><strong>VI. ¿Cuál es el futuro de la iglesia?</strong><a href='#vi-cu%c3%a1l-es-el-futuro-de-la-iglesia' class='anchor'>#</a>
-</h2><h3 id='el-futuro-de-la-iglesia-del-señor-es-glorioso-la-iglesia-no-sólo-saldrá-victoriosa-en-el-cielo-sino-también-aquí-en-la-tierra-al-echar-otro-vistazo-a-mateo-1618-vemos-que-se-refiere-a-la-iglesia-cuando-dice-y-las-puertas-del-hades-no-la-dominarán-la-declaración-de-jesús-aquí-no-presenta-un-grupo-pequeño-y-temeroso-de-creyentes-tímidos-al-contrario-muestra-una-iglesia-vigorosa-y-audaz-capaz-de-salir-victoriosa-de-cualquier-circunstancia-incluida-la-muerte'>El futuro de la iglesia del Señor es glorioso. La iglesia no sólo saldrá victoriosa en el cielo, sino también aquí en la tierra. Al echar otro vistazo a Mateo 16:18, vemos que se refiere a la iglesia cuando dice &ldquo;y las puertas del Hades no la dominarán&rdquo;. La declaración de Jesús aquí no presenta un grupo pequeño y temeroso de creyentes tímidos. Al contrario, muestra una iglesia vigorosa y audaz, capaz de salir victoriosa de cualquier circunstancia, incluida la muerte.<a href='#el-futuro-de-la-iglesia-del-se%c3%b1or-es-glorioso-la-iglesia-no-s%c3%b3lo-saldr%c3%a1-victoriosa-en-el-cielo-sino-tambi%c3%a9n-aqu%c3%ad-en-la-tierra-al-echar-otro-vistazo-a-mateo-1618-vemos-que-se-refiere-a-la-iglesia-cuando-dice-y-las-puertas-del-hades-no-la-dominar%c3%a1n-la-declaraci%c3%b3n-de-jes%c3%bas-aqu%c3%ad-no-presenta-un-grupo-peque%c3%b1o-y-temeroso-de-creyentes-t%c3%admidos-al-contrario-muestra-una-iglesia-vigorosa-y-audaz-capaz-de-salir-victoriosa-de-cualquier-circunstancia-incluida-la-muerte' class='anchor'>#</a>
-</h3><h3 id='en-efesios-526-27-pablo-declara-que-jesús-se-entregó-a-sí-mismo-por-la-iglesia-para-santificarla-limpiándola-con-el-lavamiento-del-agua-mediante-la-palabra-esto-lo-hizo-para-presentarse-a-sí-mismo-la-iglesia-en-esplendor-sin-mancha-ni-arruga-ni-nada-parecido-sino-santa-e-irreprensible-nuestro-dios-no-ha-fallado-en-ninguno-de-sus-esfuerzos-ni-fallará-en-éste'>En Efesios 5:26-27, Pablo declara que Jesús se entregó a sí mismo por la iglesia, “para santificarla, limpiándola con el lavamiento del agua mediante la palabra. Esto lo hizo para presentarse a sí mismo la iglesia en esplendor, sin mancha ni arruga ni nada parecido, sino santa e irreprensible”. Nuestro Dios no ha fallado en ninguno de Sus esfuerzos, ni fallará en éste.<a href='#en-efesios-526-27-pablo-declara-que-jes%c3%bas-se-entreg%c3%b3-a-s%c3%ad-mismo-por-la-iglesia-para-santificarla-limpi%c3%a1ndola-con-el-lavamiento-del-agua-mediante-la-palabra-esto-lo-hizo-para-presentarse-a-s%c3%ad-mismo-la-iglesia-en-esplendor-sin-mancha-ni-arruga-ni-nada-parecido-sino-santa-e-irreprensible-nuestro-dios-no-ha-fallado-en-ninguno-de-sus-esfuerzos-ni-fallar%c3%a1-en-%c3%a9ste' class='anchor'>#</a>
-</h3><h3 id='la-iglesia-fue-diseñada-para-ser-santa-e-irreprochable-con-esta-meta-cristo-se-entregó-y-con-esta-meta-sus-obreros-deben-realizar-su-trabajo-no-hay-razón-para-creer-que-no-lograremos-este-objetivo-podemos-afirmar-que-el-futuro-de-la-iglesia-será-glorioso'>La iglesia fue diseñada para ser santa e irreprochable. Con esta meta Cristo se entregó, y con esta meta sus obreros deben realizar su trabajo. No hay razón para creer que no lograremos este objetivo. Podemos afirmar que el futuro de la iglesia será glorioso.<a href='#la-iglesia-fue-dise%c3%b1ada-para-ser-santa-e-irreprochable-con-esta-meta-cristo-se-entreg%c3%b3-y-con-esta-meta-sus-obreros-deben-realizar-su-trabajo-no-hay-raz%c3%b3n-para-creer-que-no-lograremos-este-objetivo-podemos-afirmar-que-el-futuro-de-la-iglesia-ser%c3%a1-glorioso' class='anchor'>#</a>
+<h2 id='iii-cual-es-la-visión-de-cristo-para-su-iglesia'><strong>III. ¿Cual es la visión de Cristo para Su Iglesia?</strong><a href='#iii-cual-es-la-visi%c3%b3n-de-cristo-para-su-iglesia' class='anchor'>#</a>
+</h2><h3 id='jesús-declaró-que-edificar-la-iglesia-seria-algo-que-él-haría-personalmente-él-dijo-edificaré-mi-iglesia-mateo-1618'>Jesús declaró que edificar la iglesia seria algo que Él haría personalmente. Él dijo: “<em>Edificaré mi iglesia</em>” (Mateo 16:18).<a href='#jes%c3%bas-declar%c3%b3-que-edificar-la-iglesia-seria-algo-que-%c3%a9l-har%c3%ada-personalmente-%c3%a9l-dijo-edificar%c3%a9-mi-iglesia-mateo-1618' class='anchor'>#</a>
+</h3><h4 id='1-la-visión-de-jesucristo-es-ver-a-su-iglesia---cuerpo-y-esposa-de-cristo---completa-mateo-1618-2819-20-romanos-1125'>1. La visión de Jesucristo es ver a Su iglesia - cuerpo y esposa de Cristo - completa. Mateo 16:18, 28:19-20; Romanos 11:25<a href='#1-la-visi%c3%b3n-de-jesucristo-es-ver-a-su-iglesia---cuerpo-y-esposa-de-cristo---completa-mateo-1618-2819-20-romanos-1125' class='anchor'>#</a>
+</h4><h4 id='2-el-libro-de-apocalipsis-dice-que-el-cuerpo-de-cristo-no-sólo-se-completará-sino-que-será-compuesto-de-gente-de-toda-tribu-lengua-y-nación-apocalipsis-59'>2. El libro de Apocalipsis dice que el cuerpo de Cristo no sólo se completará, sino que será compuesto de gente de toda tribu, lengua, y nación. Apocalipsis 5:9<a href='#2-el-libro-de-apocalipsis-dice-que-el-cuerpo-de-cristo-no-s%c3%b3lo-se-completar%c3%a1-sino-que-ser%c3%a1-compuesto-de-gente-de-toda-tribu-lengua-y-naci%c3%b3n-apocalipsis-59' class='anchor'>#</a>
+</h4><h2 id='iv-cuál-es-la-misión-de-la-iglesia'><strong>IV. ¿Cuál es la misión de la Iglesia?</strong><a href='#iv-cu%c3%a1l-es-la-misi%c3%b3n-de-la-iglesia' class='anchor'>#</a>
+</h2><h3 id='la-responsabilidad-ministerial-de-la-iglesia-local-recae-sobre-los-miembros-en-su-conjunto-a-medida-que-los-miembros-identifican-sus-dones-y-asumen-la-responsabilidad-de-administrarlos-bajo-la-dirección-del-espíritu-santo-la-iglesia-aumenta-su-capacidad-para-bendecir-y-cumplir-su-misión-en-la-tierra-1-pedro-410'>La responsabilidad ministerial de la iglesia local recae sobre los miembros en su conjunto. A medida que los miembros identifican sus dones y asumen la responsabilidad de administrarlos bajo la dirección del Espíritu Santo, la iglesia aumenta su capacidad para bendecir y cumplir su misión en la tierra. 1 Pedro 4:10<a href='#la-responsabilidad-ministerial-de-la-iglesia-local-recae-sobre-los-miembros-en-su-conjunto-a-medida-que-los-miembros-identifican-sus-dones-y-asumen-la-responsabilidad-de-administrarlos-bajo-la-direcci%c3%b3n-del-esp%c3%adritu-santo-la-iglesia-aumenta-su-capacidad-para-bendecir-y-cumplir-su-misi%c3%b3n-en-la-tierra-1-pedro-410' class='anchor'>#</a>
+</h3><h3 id='la-vision-de-cristo-es-edificaré-mi-iglesia'>La VISION de Cristo es &ldquo;<em>edificaré mi iglesia</em>&rdquo;.<a href='#la-vision-de-cristo-es-edificar%c3%a9-mi-iglesia' class='anchor'>#</a>
+</h3><h3 id='la-manera-que-cristo-edifica-su-iglesia-es-la-gran-comisión-mateo-2818-20'>La MANERA que Cristo edifica su Iglesia es la Gran Comisión. Mateo 28:18-20<a href='#la-manera-que-cristo-edifica-su-iglesia-es-la-gran-comisi%c3%b3n-mateo-2818-20' class='anchor'>#</a>
 </h3><!-- raw HTML omitted -->
-<h2 id='vii-qué-dice-dios-acerca-de-la-iglesia-actual'><strong>VII. ¿Qué dice Dios acerca de la iglesia actual?</strong><a href='#vii-qu%c3%a9-dice-dios-acerca-de-la-iglesia-actual' class='anchor'>#</a>
-</h2><h3 id='cuando-decimos-que-el-futuro-de-la-iglesia-es-glorioso-afirmamos-que-lo-mismo-ocurre-en-el-presente'>Cuando decimos que el futuro de la iglesia es glorioso, afirmamos que lo mismo ocurre en el presente.<a href='#cuando-decimos-que-el-futuro-de-la-iglesia-es-glorioso-afirmamos-que-lo-mismo-ocurre-en-el-presente' class='anchor'>#</a>
-</h3><h3 id='hoy-la-iglesia-es-exactamente-lo-que-dios-declaró-la-casa-de-dios-la-columna-y-fundamento-de-la-verdad-el-templo-de-dios-su-cuerpo-un-pueblo-escogido-un-sacerdocio-santo-y-sin-importar-las-circunstancias-que-enfrente-seguirá-siendo-todo-lo-que-dios-dijo-que-es'>Hoy, la iglesia es exactamente lo que Dios declaró: la casa de Dios, la columna y fundamento de la verdad, el templo de Dios, Su cuerpo, un pueblo escogido, un sacerdocio santo y, sin importar las circunstancias que enfrente, seguirá siendo todo lo que Dios dijo que es.<a href='#hoy-la-iglesia-es-exactamente-lo-que-dios-declar%c3%b3-la-casa-de-dios-la-columna-y-fundamento-de-la-verdad-el-templo-de-dios-su-cuerpo-un-pueblo-escogido-un-sacerdocio-santo-y-sin-importar-las-circunstancias-que-enfrente-seguir%c3%a1-siendo-todo-lo-que-dios-dijo-que-es' class='anchor'>#</a>
-</h3><h3 id='en-efesios-310-pablo-explica-lo-que-está-sucediendo-actualmente-con-la-iglesia-para-que-ahora-la-multifacética-sabiduría-de-dios-sea-dada-a-conocer-por-medio-de-la-iglesia-a-los-principados-y-potestades-en-los-cielos'>En Efesios 3:10, Pablo explica lo que está sucediendo actualmente con la iglesia, “para que ahora la multifacética sabiduría de Dios sea dada a conocer por medio de la iglesia a los principados y potestades en los cielos”.<a href='#en-efesios-310-pablo-explica-lo-que-est%c3%a1-sucediendo-actualmente-con-la-iglesia-para-que-ahora-la-multifac%c3%a9tica-sabidur%c3%ada-de-dios-sea-dada-a-conocer-por-medio-de-la-iglesia-a-los-principados-y-potestades-en-los-cielos' class='anchor'>#</a>
-</h3><h3 id='no-podemos-comprender-completamente-la-grandeza-de-la-iglesia-durante-siglos-dios-mantuvo-oculto-este-maravilloso-misterio-lo-que-fue-revelado-a-pablo-y-a-otros-es-tan-extraordinario-que-incluso-los-ángeles-observan-atentamente-lo-que-sucede-el-amor-del-señor-por-su-iglesia-deja-a-todos-boquiabiertos'>No podemos comprender completamente la grandeza de la iglesia. Durante siglos, Dios mantuvo oculto este maravilloso misterio. Lo que fue revelado a Pablo y a otros es tan extraordinario que incluso los ángeles observan atentamente lo que sucede. El amor del Señor por Su iglesia deja a todos boquiabiertos.<a href='#no-podemos-comprender-completamente-la-grandeza-de-la-iglesia-durante-siglos-dios-mantuvo-oculto-este-maravilloso-misterio-lo-que-fue-revelado-a-pablo-y-a-otros-es-tan-extraordinario-que-incluso-los-%c3%a1ngeles-observan-atentamente-lo-que-sucede-el-amor-del-se%c3%b1or-por-su-iglesia-deja-a-todos-boquiabiertos' class='anchor'>#</a>
-</h3><h3 id='dios-deseaba-unir-a-judíos-y-gentiles-en-un-solo-pueblo-la-iglesia-esto-no-es-fácil-para-aquellos-que-esperan-que-todos-se-unan-bajo-los-judíos-para-acercarse-a-dios-jesucristo-vino-a-la-tierra-y-entregó-su-vida-para-salvarnos'>Dios deseaba unir a judíos y gentiles en un solo pueblo: la iglesia. Esto no es fácil para aquellos que esperan que todos se unan bajo los judíos para acercarse a Dios. Jesucristo vino a la tierra y entregó Su vida para salvarnos.<a href='#dios-deseaba-unir-a-jud%c3%ados-y-gentiles-en-un-solo-pueblo-la-iglesia-esto-no-es-f%c3%a1cil-para-aquellos-que-esperan-que-todos-se-unan-bajo-los-jud%c3%ados-para-acercarse-a-dios-jesucristo-vino-a-la-tierra-y-entreg%c3%b3-su-vida-para-salvarnos' class='anchor'>#</a>
-</h3><h3 id='esto-debe-ser-admirable-para-los-ángeles-que-vieron-caer-a-una-buena-parte-de-los-suyos-sin-posibilidad-de-redención-desde-el-antiguo-testamento-los-ángeles-han-mostrado-curiosidad-hacia-esta-realidad-pero-sólo-recientemente-y-a-través-de-la-iglesia-dios-ha-instruido-a-todos-y-su-sabiduría-ha-sido-expresada-plenamente'>Esto debe ser admirable para los ángeles, que vieron caer a una buena parte de los suyos sin posibilidad de redención. Desde el Antiguo Testamento, los ángeles han mostrado curiosidad hacia esta realidad, pero sólo recientemente, y a través de la iglesia, Dios ha instruido a todos y su sabiduría ha sido expresada plenamente.<a href='#esto-debe-ser-admirable-para-los-%c3%a1ngeles-que-vieron-caer-a-una-buena-parte-de-los-suyos-sin-posibilidad-de-redenci%c3%b3n-desde-el-antiguo-testamento-los-%c3%a1ngeles-han-mostrado-curiosidad-hacia-esta-realidad-pero-s%c3%b3lo-recientemente-y-a-trav%c3%a9s-de-la-iglesia-dios-ha-instruido-a-todos-y-su-sabidur%c3%ada-ha-sido-expresada-plenamente' class='anchor'>#</a>
-</h3><h3 id='esta-escena-parece-describir-a-los-ángeles-que-observan-la-expresión-del-amor-divino-hacia-la-iglesia-desde-un-balcón-celestial-y-en-la-admiración-son-capaces-de-comprender-como-nunca-la-sabiduría-de-dios-este-conocimiento-debería-dejarnos-sin-aliento-con-lágrimas-de-agradecimiento-y-una-profunda-sensación-de-admiración-y-humildad-al-vernos-a-nosotros-mismos-como-parte-privilegiada-del-plan-divino-gloria-a-dios-en-la-iglesia-hoy-y-por-toda-la-eternidad'>Esta escena parece describir a los ángeles que observan la expresión del amor divino hacia la iglesia desde un balcón celestial y, en la admiración, son capaces de comprender como nunca la sabiduría de Dios. Este conocimiento debería dejarnos sin aliento, con lágrimas de agradecimiento y una profunda sensación de admiración y humildad al vernos a nosotros mismos como parte privilegiada del plan divino. ¡Gloria a Dios en la iglesia hoy y por toda la eternidad!<a href='#esta-escena-parece-describir-a-los-%c3%a1ngeles-que-observan-la-expresi%c3%b3n-del-amor-divino-hacia-la-iglesia-desde-un-balc%c3%b3n-celestial-y-en-la-admiraci%c3%b3n-son-capaces-de-comprender-como-nunca-la-sabidur%c3%ada-de-dios-este-conocimiento-deber%c3%ada-dejarnos-sin-aliento-con-l%c3%a1grimas-de-agradecimiento-y-una-profunda-sensaci%c3%b3n-de-admiraci%c3%b3n-y-humildad-al-vernos-a-nosotros-mismos-como-parte-privilegiada-del-plan-divino-gloria-a-dios-en-la-iglesia-hoy-y-por-toda-la-eternidad' class='anchor'>#</a>
-</h3></div><div class="column is-sticky is-paddingless" id="tocWrapper">
+<!-- raw HTML omitted -->
+<h2 id='v-la-grán-comisión'><strong>V. La Grán Comisión</strong><a href='#v-la-gr%c3%a1n-comisi%c3%b3n' class='anchor'>#</a>
+</h2><blockquote>
+<p>Vayan, pues,  y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado&hellip;» Mateo 28:19-20</p>
+</blockquote>
+<!-- raw HTML omitted -->
+<h4 id='el-mayor-desafío-que-la-iglesia-enfrenta-en-cualquier-generación-es-lograr-que-las-personas-participen-en-el-proceso-de-la-replicación-esto-es-especialmente-difícil-en-ciertos-círculos-donde-los-maestros-niegan-que-la-gran-comisión-sea-aplicable-para-hoy'>El mayor desafío que la iglesia enfrenta en cualquier generación, es lograr que las personas participen en el proceso de la replicación. Esto es especialmente difícil en ciertos círculos donde los maestros niegan que la Gran Comisión sea aplicable para hoy.<a href='#el-mayor-desaf%c3%ado-que-la-iglesia-enfrenta-en-cualquier-generaci%c3%b3n-es-lograr-que-las-personas-participen-en-el-proceso-de-la-replicaci%c3%b3n-esto-es-especialmente-dif%c3%adcil-en-ciertos-c%c3%adrculos-donde-los-maestros-niegan-que-la-gran-comisi%c3%b3n-sea-aplicable-para-hoy' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h4 id='sin-la-gran-comisión-no-existe-ímpetu-bíblico-para-que-las-iglesias-se-reproduzcan-si-la-iglesia-de-jesucristo-fracasa-en-reduplicarse-así-misma-a-través-de-un-discipulado-efectivo-las-iglesias-locales-quedaran-vacantes-debido-a-la-falta-de-agregar-nuevos-miembros-al-cuerpo-de-cristo'>Sin la Gran Comisión no existe ímpetu bíblico para que las iglesias se reproduzcan. Si la iglesia de Jesucristo fracasa en reduplicarse así misma a través de un discipulado efectivo, las iglesias locales quedaran vacantes debido a la falta de agregar nuevos miembros al cuerpo de Cristo.<a href='#sin-la-gran-comisi%c3%b3n-no-existe-%c3%admpetu-b%c3%adblico-para-que-las-iglesias-se-reproduzcan-si-la-iglesia-de-jesucristo-fracasa-en-reduplicarse-as%c3%ad-misma-a-trav%c3%a9s-de-un-discipulado-efectivo-las-iglesias-locales-quedaran-vacantes-debido-a-la-falta-de-agregar-nuevos-miembros-al-cuerpo-de-cristo' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h2 id='vi-la-gran-comisión-contiene-tres-partes'>VI. La Gran Comisión contiene tres partes&hellip;<a href='#vi-la-gran-comisi%c3%b3n-contiene-tres-partes' class='anchor'>#</a>
+</h2><!-- raw HTML omitted -->
+<h4 id='1-evangelismomarcos-1615-1-cor-117-hechos-1421'>1. <strong>Evangelismo</strong>&hellip;Marcos 16:15, 1 Cor 1:17, Hechos 14:21<a href='#1-evangelismomarcos-1615-1-cor-117-hechos-1421' class='anchor'>#</a>
+</h4><h4 id='2-discipuladohechos-199-2-timoteo-22'>2. <strong>Discipulado</strong>&hellip;Hechos 19:9, 2 Timoteo 2:2<a href='#2-discipuladohechos-199-2-timoteo-22' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h4 id='3-enseñanzahechos-418-hechos-1910-hechos-62'>3. <strong>Enseñanza</strong>&hellip;Hechos 4:18, Hechos 19:10, Hechos 6:2<a href='#3-ense%c3%b1anzahechos-418-hechos-1910-hechos-62' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h3 id='entonces-podemos-resumir-el-propósito-de-la-iglesia-de-la-siguiente-manera--ir-y-hacer-hacedores-de-discipulos-evangelizamos-para-llegar-a-discipular-a-los-convertidos-para-enseñarles-a-ir-y-hacer-lo-mismo-2-timoteo-22'>Entonces, podemos resumir el propósito de la iglesia de la siguiente manera:  <strong>Ir y Hacer hacedores de discipulos</strong>. Evangelizamos para llegar a discipular a los convertidos para enseñarles a ir y hacer lo mismo. 2 Timoteo 2:2<a href='#entonces-podemos-resumir-el-prop%c3%b3sito-de-la-iglesia-de-la-siguiente-manera--ir-y-hacer-hacedores-de-discipulos-evangelizamos-para-llegar-a-discipular-a-los-convertidos-para-ense%c3%b1arles-a-ir-y-hacer-lo-mismo-2-timoteo-22' class='anchor'>#</a>
+</h3><h3 id='una-iglesia-local-que-discipula-tiene-miembros-firmes-motivados-para-participar-en'>Una iglesia local que discipula tiene miembros firmes, motivados para participar en:<a href='#una-iglesia-local-que-discipula-tiene-miembros-firmes-motivados-para-participar-en' class='anchor'>#</a>
+</h3><h4 id='1-compartir-el-evangelio'>1. Compartir el evangelio.<a href='#1-compartir-el-evangelio' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h4 id='2-discipular-a-otros'>2. Discipular a otros.<a href='#2-discipular-a-otros' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h4 id='3-servir-a-la-iglesia-usando-sus-dones-para-bendecir-al-cuerpo'>3. Servir a la iglesia usando sus dones para bendecir al cuerpo.<a href='#3-servir-a-la-iglesia-usando-sus-dones-para-bendecir-al-cuerpo' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h4 id='4-ser-de-ayuda-social-a-la-comunidad'>4. Ser de ayuda social a la comunidad<a href='#4-ser-de-ayuda-social-a-la-comunidad' class='anchor'>#</a>
+</h4><!-- raw HTML omitted -->
+<h3 id='al-contrariouna-iglesia-local-que-no-discipulamuere'>Al contrario&hellip;una iglesia local que no discipula&hellip;<strong>¡muere!</strong><a href='#al-contrariouna-iglesia-local-que-no-discipulamuere' class='anchor'>#</a>
+</h3><h3 id='porque'>¿Porque?<a href='#porque' class='anchor'>#</a>
+</h3><h3 id='porque-el-discipulado-no-es-meramente-un-curso-antes-de-ser-bautisado-o-las-tradiciones-de-la-iglesia-que-se-pasan-de-generación-en-generación-o-mantener-gente-reunida-en-un-local-sino-que-es-el-entrenamiento-en-el-mensaje-del-evangelio-con-el-propósito-de-que-ellos-puedan-enseñar-también-a-otros-romanos-116-1-corintios-22-2-timoteo-22'>Porque el discipulado no es meramente un curso antes de ser bautisado, o las tradiciones de la iglesia que se pasan de generación en generación o mantener gente reunida en un local, sino que es el entrenamiento en el mensaje del evangelio con el propósito de que ellos puedan enseñar también a otros. Romanos 1:16, 1 Corintios 2:2, 2 Timoteo 2:2<a href='#porque-el-discipulado-no-es-meramente-un-curso-antes-de-ser-bautisado-o-las-tradiciones-de-la-iglesia-que-se-pasan-de-generaci%c3%b3n-en-generaci%c3%b3n-o-mantener-gente-reunida-en-un-local-sino-que-es-el-entrenamiento-en-el-mensaje-del-evangelio-con-el-prop%c3%b3sito-de-que-ellos-puedan-ense%c3%b1ar-tambi%c3%a9n-a-otros-romanos-116-1-corintios-22-2-timoteo-22' class='anchor'>#</a>
+</h3><h3 id='desde-que-cristo-encargo-a-12-hombres-para-establecer-su-iglesia-se-ha-estado-transmitiendo-este-mensaje-de-persona-a-persona-generación-a-generación-jesus-enseño-a-pablo-pablo-a-timoteo-timoteo-a-fieles-y-esos-fieles-a-otros-hasta-llegar-a-nosotros-hoy-1-corintios-151-4-2-timoteo-22'>Desde que Cristo encargo a 12 hombres para establecer Su Iglesia, se ha estado transmitiendo este mensaje de persona a persona, generación a generación. Jesus enseño a Pablo, Pablo a Timoteo, Timoteo a fieles y esos fieles a otros hasta llegar a nosotros hoy. 1 Corintios 15:1-4, 2 Timoteo 2:2<a href='#desde-que-cristo-encargo-a-12-hombres-para-establecer-su-iglesia-se-ha-estado-transmitiendo-este-mensaje-de-persona-a-persona-generaci%c3%b3n-a-generaci%c3%b3n-jesus-ense%c3%b1o-a-pablo-pablo-a-timoteo-timoteo-a-fieles-y-esos-fieles-a-otros-hasta-llegar-a-nosotros-hoy-1-corintios-151-4-2-timoteo-22' class='anchor'>#</a>
+</h3><h3 id='una-iglesia-que-no-discipula-muere-porque-a-diferencia-que-uno-puede-nacer-siendo-budista-o-musulmán-nadie-nace-siendo-cristiano-debe-nacer-de-nuevo-juan-33-1-juan-51-1-pedro-123'>Una iglesia que no discipula muere porque a diferencia que uno puede nacer siendo budista o musulmán, nadie nace siendo cristiano. Debe nacer de nuevo. Juan 3:3, 1 Juan 5:1, 1 Pedro 1:23<a href='#una-iglesia-que-no-discipula-muere-porque-a-diferencia-que-uno-puede-nacer-siendo-budista-o-musulm%c3%a1n-nadie-nace-siendo-cristiano-debe-nacer-de-nuevo-juan-33-1-juan-51-1-pedro-123' class='anchor'>#</a>
+</h3><h3 id='a-traves-de-los-últimos-2000-años-la-iglesia-se-ha-renovado-completamente-al-menos-unas-50-veces'>A traves de los últimos 2000 años, La Iglesia se ha renovado completamente al menos unas 50 veces.<a href='#a-traves-de-los-%c3%baltimos-2000-a%c3%b1os-la-iglesia-se-ha-renovado-completamente-al-menos-unas-50-veces' class='anchor'>#</a>
+</h3><h3 id='que-pasará-con-nuestra-generación-discipularemos-el-claro-evangelio-a-la-siguiente-generación'>¿Que pasará con nuestra generación? ¿Discipularemos el claro evangelio a la siguiente generación?<a href='#que-pasar%c3%a1-con-nuestra-generaci%c3%b3n-discipularemos-el-claro-evangelio-a-la-siguiente-generaci%c3%b3n' class='anchor'>#</a>
+</h3><h2 id='pnbspp-5'><!-- raw HTML omitted --> <!-- raw HTML omitted --><a href='#pnbspp-5' class='anchor'>#</a>
+</h2><h2 id='vii-jesus-quiere-alcanzar-al-mundo-entero-en-nuestra-generación'>VII. ¡Jesus quiere alcanzar al mundo entero en nuestra generación!<a href='#vii-jesus-quiere-alcanzar-al-mundo-entero-en-nuestra-generaci%c3%b3n' class='anchor'>#</a>
+</h2><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<blockquote>
+<p>E indiscutiblemente, grande es el misterio de la piedad: <!-- raw HTML omitted -->Él<!-- raw HTML omitted --> fue <!-- raw HTML omitted -->manifestado<!-- raw HTML omitted --> en la carne, <!-- raw HTML omitted -->Vindicado<!-- raw HTML omitted --> en el Espíritu, <!-- raw HTML omitted -->Contemplado<!-- raw HTML omitted --> por ángeles, <!-- raw HTML omitted -->Proclamado<!-- raw HTML omitted --> entre las naciones, <!-- raw HTML omitted -->Creído<!-- raw HTML omitted --> en el mundo, <!-- raw HTML omitted -->Recibido<!-- raw HTML omitted --> arriba en gloria. 1 Timoteo 3:16</p>
+</blockquote>
+</div><div class="column is-sticky is-paddingless" id="tocWrapper">
   <div class="is-paddingless" id="tocContainer">
     <div class="toc-header">
       <h6 class="toc-title is-marginless">On this page:</h6>
@@ -1386,113 +1463,77 @@
         </li>
         <li><a href="#i-qué-es-la-iglesia"><strong>I. ¿Qué es la Iglesia?</strong></a>
           <ul>
-            <li><a href="#la-palabra-iglesia-en-griego-es-ekklesia--ek-que-significa-fuera-o-fuera-de-y-kaleo-que-significa-llamar-se-utiliza-en-el-nuevo-testamento-para-identificar-la-comunidad-de-creyentes-en-jesucristo">La palabra “Iglesia” en griego es <strong>EKKLESIA</strong>.  EK que significa fuera, o fuera de, y KALEO que significa llamar. Se utiliza en el Nuevo Testamento para identificar la comunidad de creyentes en Jesucristo.</a></li>
+            <li><a href="#la-palabra-iglesia-en-griego-es-ekklesia--ek-que-significa-fuera-o-fuera-de-y-kaleo-significa-llamar-aparece-117-veces-en-el-nuevo-testamento">La palabra “Iglesia” en griego es <strong>EKKLESIA</strong>.  EK que significa fuera, o fuera de, y KALEO significa llamar. Aparece 117 veces en el Nuevo Testamento.</a></li>
             <li><a href="#literalmente-significa-asamblea-congregación-o-reunión-hechos-1939-40">Literalmente significa &ldquo;<strong>asamblea</strong>&rdquo;, &ldquo;<strong>congregación</strong>&rdquo; o &ldquo;<strong>reunión</strong>&rdquo;. Hechos 19:39-40</a></li>
-            <li><a href="#en-el-antiguo-testamento-se-usaba-un-término-similar-para-referirse-a-experiencias-como-el-día-de-la-asamblea-la-congregación-del-señor-o-reunión-delante-del-señor-deuteronomio-910-2-crónicas-78-1-crónicas-134">En el Antiguo Testamento se usaba un término similar para referirse a experiencias como “el día de la asamblea”, “la congregación del Señor” o “reunión delante del Señor”. Deuteronomio 9:10, 2 Crónicas 7:8, 1 Crónicas 13:4</a></li>
-            <li><a href="#así-cuando-jesús-declara-edificaré-mi-iglesia-mateo-1618-no-resultó-algo-desconocido-para-el-oyente-común">Así, cuando Jesús declara: “<em>Edificaré mi iglesia</em>” (Mateo 16:18), no resultó algo desconocido para el oyente común.</a></li>
-            <li><a href="#poco-después-en-el-nuevo-testamento-la-palabra-se-limita-estrictamente-a-referirse-a-la-congregación-de-creyentes-en-jesucristo-hechos-1427">Poco después, en el Nuevo Testamento, la palabra se limita estrictamente a referirse a la congregación de creyentes en Jesucristo. Hechos 14:27</a></li>
-            <li><a href="#en-el-nuevo-testamento-ninguna-sinagoga-templo-capilla-tabernáculo-edificio-o-cualquier-otro-lugar-de-reunión-fue-llamado-la-iglesia-1-corintios-12-2-corintios-11-gálatas-12-filemón-12">En el Nuevo Testamento, ninguna sinagoga, templo, capilla, tabernáculo, edificio o cualquier otro lugar de reunión fue llamado “la iglesia”. 1 Corintios 1:2, 2 Corintios 1:1, Gálatas 1:2, Filemón 1:2</a></li>
+            <li><a href="#en-el-antiguo-testamento-se-usaba-un-término-similar-para-referirse-a-experiencias-como-el-día-de-la-asamblea-la-congregación-o-reunión-deuteronomio-910-2-crónicas-78-salmo-10732">En el Antiguo Testamento se usaba un término similar para referirse a experiencias como “el día de la asamblea”, “la congregación” o “reunión”. Deuteronomio 9:10, 2 Crónicas 7:8, Salmo 107:32</a></li>
+            <li><a href="#así-que-cuando-jesús-declara-edificaré-mi-ekklesia-mateo-1618-no-resultó-algo-desconocido-para-el-oyente-común">Así que, cuando Jesús declara: “<em>Edificaré mi EKKLESIA</em>” (Mateo 16:18), no resultó algo desconocido para el oyente común.</a></li>
+            <li><a href="#poco-después-en-el-nuevo-testamento-la-palabra-con-el-artículo-definido-τεν-ekklesia---la-iglesia-se-limita-estrictamente-a-referirse-a-la-congregación-de-creyentes-en-jesucristo-hechos-1427">Poco después, en el Nuevo Testamento, la palabra con el artículo definido (ΤΕΝ EKKLESIA - la iglesia), se limita estrictamente a referirse a la congregación de creyentes en Jesucristo. Hechos 14:27</a></li>
+            <li><a href="#la-palabra-ekklesia-nunca-se-usa-refiriendose-a-una-sinagoga-templo-capilla-tabernáculo-edificio-o-cualquier-otro-lugar-de-reunión-como-iglesia-1-corintios-12-2-corintios-11-gálatas-12-filemón-12">La palabra EKKLESIA nunca se usa refiriendose a una sinagoga, templo, capilla, tabernáculo, edificio o cualquier otro lugar de reunión como “iglesia”. 1 Corintios 1:2, 2 Corintios 1:1, Gálatas 1:2, Filemón 1:2</a></li>
           </ul>
         </li>
-        <li><a href="#la-naturaleza-de-la-iglesia">La Naturaleza de la Iglesia</a>
+        <li><a href="#ii-la-naturaleza-de-la-iglesia">II. La Naturaleza de la Iglesia</a>
           <ul>
-            <li><a href="#la-iglesia-es-poseción-de-jesucristo-regalo-del-padre-pagado-por-la-sagre-de-cristo-juan-639-hechos-2028">La iglesia es poseción de Jesucristo, regalo del Padre, pagado por la sagre de Cristo. Juan 6:39, Hechos 20:28</a></li>
-            <li><a href="#la-iglesia-es-hecha-hijos-de-dios-1-juan-31">La iglesia es hecha &ldquo;<em>hijos de Dios</em>&rdquo;. 1 Juan 3:1</a></li>
-            <li><a href="#al-hacernos-hijos-suyos-dios-es-nuestro-padre-al-cual-clamamos-abba-mediante-el-espíritu-y-cristo-es-nuestro-hermano-juan-112-gálatas-46-hebreos-211-12">Al hacernos hijos suyos, Dios es nuestro Padre al cual clamamos &ldquo;abba&rdquo; mediante el Espíritu, y Cristo es nuestro hermano. Juan 1:12, Gálatas 4:6, Hebreos 2:11-12</a>
+            <li><a href="#la-iglesia-es-poseción-de-jesucristo-regalo-del-padre-juan-639-comprado-mediante-la-obra-de-cristo-hechos-2028">La iglesia es poseción de Jesucristo, regalo del Padre (Juan 6:39), comprado mediante la obra de Cristo. Hechos 20:28</a></li>
+            <li><a href="#la-iglesia-es-compuesta-de-hijos-de-dios-todo-el-que-cree-en-jesucristo-como-salvador-llega-a-ser-parte-de-la-iglesia--juan-112-1-juan-31">La iglesia es compuesta de &ldquo;<em>hijos de Dios</em>&rdquo;. Todo el que cree en Jesucristo como salvador llega a ser parte de la iglesia.  Juan 1:12, 1 Juan 3:1</a></li>
+            <li><a href="#el-énfasis-de-la-metáfora-cuerpo-de-cristo-está-en-la-unión-de-cristo-y-la-iglesia-y-entre-los-propios-creyentes-algo-indispensable-para-comprender-cómo-funciona-la-iglesia-bajo-la-autoridad-de-jesucristo-1-corintios-1213-juan-1420">El énfasis de la metáfora &ldquo;cuerpo de Cristo&rdquo; está en la unión de Cristo y la iglesia y entre los propios creyentes, algo indispensable para comprender cómo funciona la iglesia bajo la autoridad de Jesucristo. 1 Corintios 12:13, Juan 14:20</a></li>
+          </ul>
+        </li>
+        <li><a href="#iii-cual-es-la-visión-de-cristo-para-su-iglesia"><strong>III. ¿Cual es la visión de Cristo para Su Iglesia?</strong></a>
+          <ul>
+            <li><a href="#jesús-declaró-que-edificar-la-iglesia-seria-algo-que-él-haría-personalmente-él-dijo-edificaré-mi-iglesia-mateo-1618">Jesús declaró que edificar la iglesia seria algo que Él haría personalmente. Él dijo: “<em>Edificaré mi iglesia</em>” (Mateo 16:18).</a>
               <ul>
-                <li><a href="#dios-está-comprometido-a-la-iglesia-como-un-padre-lo-es-a-sus-hijos-2-corintios-13-1-corintios-86-2-corintios-98-hebreos-125-7">Dios está comprometido a la iglesia como un padre lo es a sus hijos. 2 Corintios 1:3, 1 Corintios 8:6, 2 Corintios 9:8, Hebreos 12:5-7</a></li>
-              </ul>
-            </li>
-            <li><a href="#la-iglesia-que-consiste-en-todos-los-creyentes-es-la-morada-de-dios-templo-de-dios-efesios-221-22-y-el-canal-a-través-del-cual-él-vive-y-se-extiende-al-mundo">La iglesia, que consiste en todos los creyentes, es la morada de Dios (<em>templo de Dios</em>, Efesios 2:21-22) y el canal a través del cual Él vive y se extiende al mundo.</a>
-              <ul>
-                <li><a href="#no-solo-el-espíritu-santo-mora-individualmente-dentro-de-cada-miembro-de-la-iglesia-sino-que-todos-los-miembros-juntos-forman-un-cuerpo-cuerpo-de-cristo-unificado-a-través-del-cual-el-espíritu-santo-quiere-afectar-nuestro-mundo-filipenses-127b-22-efesios-44-6">No solo el Espíritu Santo mora individualmente dentro de cada miembro de la iglesia, sino que todos los miembros juntos forman un cuerpo (cuerpo de Cristo) unificado a través del cual el Espíritu Santo quiere afectar nuestro mundo. Filipenses 1:27b, 2:2; Efesios 4:4-6</a></li>
-              </ul>
-            </li>
-            <li><a href="#aunque-una-iglesia-debe-ser-organizada-no-se-trata-de-formas-programas-o-estructuras-materiales-la-iglesia-no-es-una-organización-para-ser-manejada-como-una-empresa-o-negocio">Aunque una iglesia debe ser organizada, no se trata de formas, programas o estructuras materiales. La iglesia no es una organización para ser manejada como una empresa o negocio.</a></li>
-            <li><a href="#la-iglesia-es-un-organismo-vivo-y-es-mejor-entendido-como-una-casa-donde-los-integrantes-son-miembros-de-la-familia-la-cabeza-del-hogar-es-cristo-gálatas-610-efesios-415-colosenses-118">La iglesia es un organismo vivo y es mejor entendido como una casa donde los integrantes son miembros de la familia. La cabeza del hogar es Cristo. Gálatas 6:10, Efesios 4:15, Colosenses 1:18</a>
-              <ul>
-                <li><a href="#por-eso-es-que-los-líderes-de-la-iglesia-local-deben-ser-buenos-hombres-de-familia-tito-16-1-timoteo-312">Por eso es que los líderes de la iglesia local deben ser buenos hombres de familia. Tito 1:6, 1 Timoteo 3:12</a></li>
+                <li><a href="#1-la-visión-de-jesucristo-es-ver-a-su-iglesia---cuerpo-y-esposa-de-cristo---completa-mateo-1618-2819-20-romanos-1125">1. La visión de Jesucristo es ver a Su iglesia - cuerpo y esposa de Cristo - completa. Mateo 16:18, 28:19-20; Romanos 11:25</a></li>
+                <li><a href="#2-el-libro-de-apocalipsis-dice-que-el-cuerpo-de-cristo-no-sólo-se-completará-sino-que-será-compuesto-de-gente-de-toda-tribu-lengua-y-nación-apocalipsis-59">2. El libro de Apocalipsis dice que el cuerpo de Cristo no sólo se completará, sino que será compuesto de gente de toda tribu, lengua, y nación. Apocalipsis 5:9</a></li>
               </ul>
             </li>
           </ul>
         </li>
-        <li><a href="#ii-iglesia-local-vs-iglesia-universal"><strong>II. Iglesia Local vs Iglesia Universal</strong></a>
+        <li><a href="#iv-cuál-es-la-misión-de-la-iglesia"><strong>IV. ¿Cuál es la misión de la Iglesia?</strong></a>
           <ul>
-            <li><a href="#el-primer-sentido-en-el-que-se-utiliza-la-palabra-iglesia-lo-que-llamamos-local-se-define-por-su-entorno-geográfico">El primer sentido en el que se utiliza la palabra “iglesia”, lo que llamamos “<strong>local</strong>”, se define por su entorno geográfico.</a></li>
-            <li><a href="#las-iglesias-en-el-nuevo-testamento-fueron-identificadas-por-el-nombre-de-una-ciudad-nunca-por-el-nombre-de-un-país-o-región">Las iglesias en el Nuevo Testamento fueron identificadas por el nombre de una ciudad, nunca por el nombre de un país o región.</a>
+            <li><a href="#la-responsabilidad-ministerial-de-la-iglesia-local-recae-sobre-los-miembros-en-su-conjunto-a-medida-que-los-miembros-identifican-sus-dones-y-asumen-la-responsabilidad-de-administrarlos-bajo-la-dirección-del-espíritu-santo-la-iglesia-aumenta-su-capacidad-para-bendecir-y-cumplir-su-misión-en-la-tierra-1-pedro-410">La responsabilidad ministerial de la iglesia local recae sobre los miembros en su conjunto. A medida que los miembros identifican sus dones y asumen la responsabilidad de administrarlos bajo la dirección del Espíritu Santo, la iglesia aumenta su capacidad para bendecir y cumplir su misión en la tierra. 1 Pedro 4:10</a></li>
+            <li><a href="#la-vision-de-cristo-es-edificaré-mi-iglesia">La VISION de Cristo es &ldquo;<em>edificaré mi iglesia</em>&rdquo;.</a></li>
+            <li><a href="#la-manera-que-cristo-edifica-su-iglesia-es-la-gran-comisión-mateo-2818-20">La MANERA que Cristo edifica su Iglesia es la Gran Comisión. Mateo 28:18-20</a></li>
+          </ul>
+        </li>
+        <li><a href="#v-la-grán-comisión"><strong>V. La Grán Comisión</strong></a>
+          <ul>
+            <li>
               <ul>
-                <li><a href="#por-ejemplo-se-hablaría-de-las-iglesias-de-galacia-en-plural-porque-galacia-era-una-región-con-muchas-ciudades-y-por-lo-tanto-muchas-iglesias-locales-gálatas-12">Por ejemplo, se hablaría de “<em>las iglesias de Galacia</em>” en plural porque Galacia era una región con muchas ciudades y, por lo tanto, muchas iglesias locales. Gálatas 1:2</a></li>
-                <li><a href="#cuando-se-habla-de-corinto-éfeso-tesalónica-etc-se-utiliza-la-forma-singular-y-el-nombre-de-la-ciudad-identifica-a-la-iglesia-1-corintios-12-efesios-11">Cuando se habla de Corinto, Éfeso, Tesalónica, etc., se utiliza la forma singular y el nombre de la ciudad identifica a la iglesia. 1 Corintios 1:2, Efesios 1:1</a>
-                  <ul>
-                    <li><a href="#cada-una-de-estas-iglesias-estaba-compuesta-por-los-cristianos-residentes-de-una-misma-ciudad">Cada una de estas iglesias estaba compuesta por los cristianos residentes de una misma ciudad.</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <li><a href="#del-nuevo-testamento-observamos-que-las-iglesias-locales-ni-siquiera-erigieron-edificios-simplemente-se-reunían-en-lugares-convenientes-romanos-165-23-colosenses-415">Del Nuevo Testamento, observamos que las iglesias locales ni siquiera erigieron edificios; simplemente se reunían en lugares convenientes. Romanos 16:5, 23, Colosenses 4:15</a></li>
-            <li><a href="#el-segundo-sentido-llamado-universal-se-refiere-al-conjunto-de-creyentes-en-jesucristo-de-todos-los-tiempos-y-lugares-mateo-1618-efesios-122-23-hechos-191-10">El segundo sentido, llamado “<strong>universal</strong>”, se refiere al conjunto de creyentes en Jesucristo de todos los tiempos y lugares. Mateo 16:18, Efesios 1:22-23, Hechos 19:1-10</a>
-              <ul>
-                <li><a href="#la-primera-reunión-de-la-iglesia-universal-ocurrirá-durante-el-arrebatamiento--1-tesalonisenses-416-17">La primera reunión de la iglesia universal ocurrirá durante el arrebatamiento.  1 Tesalonisenses 4:16-17</a></li>
-                <li><a href="#la-iglesia-local-difiere-sólo-en-tamaño-de-la-universal-pero-no-en-esencia-la-naturaleza-de-la-iglesia-local-y-el-compromiso-de-dios-con-ella-son-los-mismos-que-los-de-la-iglesia-universal">La iglesia local difiere sólo en tamaño de la universal, pero no en esencia. La naturaleza de la iglesia local y el compromiso de Dios con ella son los mismos que los de la iglesia universal.</a></li>
+                <li><a href="#el-mayor-desafío-que-la-iglesia-enfrenta-en-cualquier-generación-es-lograr-que-las-personas-participen-en-el-proceso-de-la-replicación-esto-es-especialmente-difícil-en-ciertos-círculos-donde-los-maestros-niegan-que-la-gran-comisión-sea-aplicable-para-hoy">El mayor desafío que la iglesia enfrenta en cualquier generación, es lograr que las personas participen en el proceso de la replicación. Esto es especialmente difícil en ciertos círculos donde los maestros niegan que la Gran Comisión sea aplicable para hoy.</a></li>
+                <li><a href="#sin-la-gran-comisión-no-existe-ímpetu-bíblico-para-que-las-iglesias-se-reproduzcan-si-la-iglesia-de-jesucristo-fracasa-en-reduplicarse-así-misma-a-través-de-un-discipulado-efectivo-las-iglesias-locales-quedaran-vacantes-debido-a-la-falta-de-agregar-nuevos-miembros-al-cuerpo-de-cristo">Sin la Gran Comisión no existe ímpetu bíblico para que las iglesias se reproduzcan. Si la iglesia de Jesucristo fracasa en reduplicarse así misma a través de un discipulado efectivo, las iglesias locales quedaran vacantes debido a la falta de agregar nuevos miembros al cuerpo de Cristo.</a></li>
               </ul>
             </li>
           </ul>
         </li>
-        <li><a href="#iii-quién-construye-la-iglesia"><strong>III. ¿Quién Construye la Iglesia?</strong></a>
+        <li><a href="#vi-la-gran-comisión-contiene-tres-partes">VI. La Gran Comisión contiene tres partes&hellip;</a>
           <ul>
-            <li><a href="#jesús-declaró-que-edificar-o-edificar-la-iglesia-es-algo-que-él-haría-personalmente-él-dijo-edificaré-mi-iglesia-mateo-1618">Jesús declaró que edificar o edificar la iglesia es algo que Él haría personalmente. Él dijo: “<em>Edificaré mi iglesia</em>” (Mateo 16:18).</a></li>
-            <li><a href="#cuando-ascendió-al-padre-envió-a-la-tierra-al-espiritu-santo-hechos-21-3-33">Cuando ascendió al Padre envió a la tierra al Espiritu Santo. Hechos 2:1-3, 33</a></li>
-            <li><a href="#una-de-las-metáforas-más-conocidas-que-se-utilizan-para-referirse-a-la-iglesia-es-el-cuerpo-de-cristo-jesucristo-afirma-que-él-es-la-cabeza-y-que-todos-los-creyentes-forman-su-cuerpo-1-corintios-615">Una de las metáforas más conocidas que se utilizan para referirse a la iglesia es el “<em>cuerpo de Cristo</em>”. Jesucristo afirma que Él es la cabeza y que todos los creyentes forman Su cuerpo. 1 Corintios 6:15</a></li>
-            <li><a href="#el-énfasis-de-la-metáfora-está-en-la-unión-de-cristo-y-la-iglesia-y-entre-los-propios-creyentes-algo-indispensable-para-comprender-cómo-funciona-la-iglesia-bajo-la-autoridad-de-jesucristo-1-corintios-1213-juan-1420">El énfasis de la metáfora está en la unión de Cristo y la iglesia y entre los propios creyentes, algo indispensable para comprender cómo funciona la iglesia bajo la autoridad de Jesucristo. 1 Corintios 12:13, Juan 14:20,</a></li>
-            <li><a href="#según-pablo-cada-creyente-tiene-una-función-en-la-iglesia-así-como-los-diferentes-miembros-de-un-cuerpo-tienen-una-función-específica-hechos-1117-1-corintios-127-romanos-126">Según Pablo, cada creyente tiene una función en la iglesia, así como los diferentes miembros de un cuerpo tienen una función específica. Hechos 11:17, 1 Corintios 12:7, Romanos 12:6</a>
+            <li>
               <ul>
-                <li><a href="#un-creyente-que-se-comporta-como-diótrefes-en-3-juan-que-se-apropia-de-la-iglesia-local-creyéndose-la-máxima-autoridad-usurpa-el-lugar-de-cristo">Un creyente que se comporta como Diótrefes en 3 Juan (que se apropia de la iglesia local, creyéndose la máxima autoridad) usurpa el lugar de Cristo.</a></li>
+                <li><a href="#1-evangelismomarcos-1615-1-cor-117-hechos-1421">1. <strong>Evangelismo</strong>&hellip;Marcos 16:15, 1 Cor 1:17, Hechos 14:21</a></li>
+                <li><a href="#2-discipuladohechos-199-2-timoteo-22">2. <strong>Discipulado</strong>&hellip;Hechos 19:9, 2 Timoteo 2:2</a></li>
+                <li><a href="#3-enseñanzahechos-418-hechos-1910-hechos-62">3. <strong>Enseñanza</strong>&hellip;Hechos 4:18, Hechos 19:10, Hechos 6:2</a></li>
               </ul>
             </li>
-          </ul>
-        </li>
-        <li><a href="#iv-cuál-es-el-papel-de-la-iglesia-local"><strong>IV. ¿Cuál es el papel de la iglesia local?</strong></a>
-          <ul>
-            <li><a href="#la-responsabilidad-ministerial-de-la-iglesia-local-recae-sobre-los-miembros-en-su-conjunto-a-medida-que-los-miembros-identifican-sus-dones-y-asumen-la-responsabilidad-de-administrarlos-bajo-la-dirección-del-espíritu-santo-la-iglesia-aumenta-su-capacidad-para-bendecir-y-cumplir-su-misión-en-la-tierra">La responsabilidad ministerial de la iglesia local recae sobre los miembros en su conjunto. A medida que los miembros identifican sus dones y asumen la responsabilidad de administrarlos bajo la dirección del Espíritu Santo, la iglesia aumenta su capacidad para bendecir y cumplir su misión en la tierra.</a></li>
-            <li><a href="#la-visión-de-cristo-es-edificaré-mi-iglesia-la-manera-que-lo-edifica-es-por-medio-del-discipulado-mateo-2819-20">La visión de Cristo es &ldquo;edificaré mi iglesia&rdquo;. La manera que lo edifica es por medio del discipulado. Mateo 28:19-20</a></li>
-            <li><a href="#no-dijo-en-todas-las-naciones-sino-de-todas-las-naciones-mateo-2819-20">No dijo &ldquo;en&rdquo; todas las naciones, sino &ldquo;de&rdquo; todas las naciones. Mateo 28:19-20.</a></li>
-            <li><a href="#esencialmente-la-iglesia-avanza-la-visión-de-cristo-al-avanzar-en-su-misión-de-ir">Esencialmente la iglesia avanza la visión de Cristo al avanzar en su misión de ir&hellip;.</a>
+            <li><a href="#entonces-podemos-resumir-el-propósito-de-la-iglesia-de-la-siguiente-manera--ir-y-hacer-hacedores-de-discipulos-evangelizamos-para-llegar-a-discipular-a-los-convertidos-para-enseñarles-a-ir-y-hacer-lo-mismo-2-timoteo-22">Entonces, podemos resumir el propósito de la iglesia de la siguiente manera:  <strong>Ir y Hacer hacedores de discipulos</strong>. Evangelizamos para llegar a discipular a los convertidos para enseñarles a ir y hacer lo mismo. 2 Timoteo 2:2</a></li>
+            <li><a href="#una-iglesia-local-que-discipula-tiene-miembros-firmes-motivados-para-participar-en">Una iglesia local que discipula tiene miembros firmes, motivados para participar en:</a>
               <ul>
-                <li><a href="#1-evangelizando">1. Evangelizando&hellip;</a></li>
-                <li><a href="#2-discipulando-">2. Discipulando &hellip;</a></li>
-                <li><a href="#3-enseñando">3. Enseñando</a></li>
+                <li><a href="#1-compartir-el-evangelio">1. Compartir el evangelio.</a></li>
+                <li><a href="#2-discipular-a-otros">2. Discipular a otros.</a></li>
+                <li><a href="#3-servir-a-la-iglesia-usando-sus-dones-para-bendecir-al-cuerpo">3. Servir a la iglesia usando sus dones para bendecir al cuerpo.</a></li>
+                <li><a href="#4-ser-de-ayuda-social-a-la-comunidad">4. Ser de ayuda social a la comunidad</a></li>
               </ul>
             </li>
-            <li><a href="#y-así-edifica-cristo-su-iglesia-mateo-2819-20">&hellip;y así edifica Cristo Su Iglesia. Mateo 28:19-20</a></li>
+            <li><a href="#al-contrariouna-iglesia-local-que-no-discipulamuere">Al contrario&hellip;una iglesia local que no discipula&hellip;<strong>¡muere!</strong></a></li>
+            <li><a href="#porque">¿Porque?</a></li>
+            <li><a href="#porque-el-discipulado-no-es-meramente-un-curso-antes-de-ser-bautisado-o-las-tradiciones-de-la-iglesia-que-se-pasan-de-generación-en-generación-o-mantener-gente-reunida-en-un-local-sino-que-es-el-entrenamiento-en-el-mensaje-del-evangelio-con-el-propósito-de-que-ellos-puedan-enseñar-también-a-otros-romanos-116-1-corintios-22-2-timoteo-22">Porque el discipulado no es meramente un curso antes de ser bautisado, o las tradiciones de la iglesia que se pasan de generación en generación o mantener gente reunida en un local, sino que es el entrenamiento en el mensaje del evangelio con el propósito de que ellos puedan enseñar también a otros. Romanos 1:16, 1 Corintios 2:2, 2 Timoteo 2:2</a></li>
+            <li><a href="#desde-que-cristo-encargo-a-12-hombres-para-establecer-su-iglesia-se-ha-estado-transmitiendo-este-mensaje-de-persona-a-persona-generación-a-generación-jesus-enseño-a-pablo-pablo-a-timoteo-timoteo-a-fieles-y-esos-fieles-a-otros-hasta-llegar-a-nosotros-hoy-1-corintios-151-4-2-timoteo-22">Desde que Cristo encargo a 12 hombres para establecer Su Iglesia, se ha estado transmitiendo este mensaje de persona a persona, generación a generación. Jesus enseño a Pablo, Pablo a Timoteo, Timoteo a fieles y esos fieles a otros hasta llegar a nosotros hoy. 1 Corintios 15:1-4, 2 Timoteo 2:2</a></li>
+            <li><a href="#una-iglesia-que-no-discipula-muere-porque-a-diferencia-que-uno-puede-nacer-siendo-budista-o-musulmán-nadie-nace-siendo-cristiano-debe-nacer-de-nuevo-juan-33-1-juan-51-1-pedro-123">Una iglesia que no discipula muere porque a diferencia que uno puede nacer siendo budista o musulmán, nadie nace siendo cristiano. Debe nacer de nuevo. Juan 3:3, 1 Juan 5:1, 1 Pedro 1:23</a></li>
+            <li><a href="#a-traves-de-los-últimos-2000-años-la-iglesia-se-ha-renovado-completamente-al-menos-unas-50-veces">A traves de los últimos 2000 años, La Iglesia se ha renovado completamente al menos unas 50 veces.</a></li>
+            <li><a href="#que-pasará-con-nuestra-generación-discipularemos-el-claro-evangelio-a-la-siguiente-generación">¿Que pasará con nuestra generación? ¿Discipularemos el claro evangelio a la siguiente generación?</a></li>
           </ul>
         </li>
-        <li><a href="#v-cómo-era-la-iglesia-en-el-nuevo-testamento"><strong>V. ¿Cómo era la iglesia en el Nuevo Testamento?</strong></a>
-          <ul>
-            <li><a href="#la-iglesia-que-vemos-en-el-nuevo-testamento-era-dinámica-nunca-prisionera-de-los-edificios">La iglesia que vemos en el Nuevo Testamento era dinámica. Nunca prisionera de los edificios.</a></li>
-            <li><a href="#vemos-a-la-iglesia-reunirse-en-el-templo-en-una-sinagoga-en-la-calle-junto-al-mar-en-lugares-públicos-y-a-menudo-en-los-hogares">vemos a la iglesia reunirse en el templo, en una sinagoga, en la calle, junto al mar, en lugares públicos y, a menudo, en los hogares.</a></li>
-            <li><a href="#las-iglesias-neotestamentarias-nunca-fueron-activistas-lo-principal-era-la-enseñanza-del-evangelio-de-la-gracia-hechos-528-hebreos-139-colosenses-128">Las iglesias Neotestamentarias nunca fueron activistas. Lo principal era la enseñanza del evangelio de la gracia. Hechos 5:28, Hebreos 13:9, Colosenses 1:28</a></li>
-            <li><a href="#todos-los-días-se-reunían-en-el-templo-y-partían-el-pan-en-casa-en-casa-comieron-su-comida-con-corazones-alegres-y-sinceros-alabando-a-dios-y-gozando-del-favor-de-todo-el-pueblo-cada-día-el-señor-añadía-a-ellos-los-que-se-salvaban-hechos-246-47">“Todos los días se reunían en el templo y partían el pan en casa en casa. Comieron su comida con corazones alegres y sinceros, alabando a Dios y gozando del favor de todo el pueblo. Cada día el Señor añadía a ellos los que se salvaban” (Hechos 2:46-47).</a></li>
-            <li><a href="#parece-que-las-reuniones-eran-diarias-y-ciertamente-no-monótonas-el-culto-la-comunión-fraterna-la-oración-el-trabajo-en-la-edificación-mutua-el-testimonio-de-cristo-y-la-atención-a-las-necesidades-de-los-pobres-no-formaban-parte-de-programas-especiales-sino-de-actividades-cotidianas">Parece que las reuniones eran diarias y ciertamente no monótonas. El culto, la comunión fraterna, la oración, el trabajo en la edificación mutua, el testimonio de Cristo y la atención a las necesidades de los pobres no formaban parte de programas especiales, sino de actividades cotidianas.</a></li>
-          </ul>
-        </li>
-        <li><a href="#vi-cuál-es-el-futuro-de-la-iglesia"><strong>VI. ¿Cuál es el futuro de la iglesia?</strong></a>
-          <ul>
-            <li><a href="#el-futuro-de-la-iglesia-del-señor-es-glorioso-la-iglesia-no-sólo-saldrá-victoriosa-en-el-cielo-sino-también-aquí-en-la-tierra-al-echar-otro-vistazo-a-mateo-1618-vemos-que-se-refiere-a-la-iglesia-cuando-dice-y-las-puertas-del-hades-no-la-dominarán-la-declaración-de-jesús-aquí-no-presenta-un-grupo-pequeño-y-temeroso-de-creyentes-tímidos-al-contrario-muestra-una-iglesia-vigorosa-y-audaz-capaz-de-salir-victoriosa-de-cualquier-circunstancia-incluida-la-muerte">El futuro de la iglesia del Señor es glorioso. La iglesia no sólo saldrá victoriosa en el cielo, sino también aquí en la tierra. Al echar otro vistazo a Mateo 16:18, vemos que se refiere a la iglesia cuando dice &ldquo;y las puertas del Hades no la dominarán&rdquo;. La declaración de Jesús aquí no presenta un grupo pequeño y temeroso de creyentes tímidos. Al contrario, muestra una iglesia vigorosa y audaz, capaz de salir victoriosa de cualquier circunstancia, incluida la muerte.</a></li>
-            <li><a href="#en-efesios-526-27-pablo-declara-que-jesús-se-entregó-a-sí-mismo-por-la-iglesia-para-santificarla-limpiándola-con-el-lavamiento-del-agua-mediante-la-palabra-esto-lo-hizo-para-presentarse-a-sí-mismo-la-iglesia-en-esplendor-sin-mancha-ni-arruga-ni-nada-parecido-sino-santa-e-irreprensible-nuestro-dios-no-ha-fallado-en-ninguno-de-sus-esfuerzos-ni-fallará-en-éste">En Efesios 5:26-27, Pablo declara que Jesús se entregó a sí mismo por la iglesia, “para santificarla, limpiándola con el lavamiento del agua mediante la palabra. Esto lo hizo para presentarse a sí mismo la iglesia en esplendor, sin mancha ni arruga ni nada parecido, sino santa e irreprensible”. Nuestro Dios no ha fallado en ninguno de Sus esfuerzos, ni fallará en éste.</a></li>
-            <li><a href="#la-iglesia-fue-diseñada-para-ser-santa-e-irreprochable-con-esta-meta-cristo-se-entregó-y-con-esta-meta-sus-obreros-deben-realizar-su-trabajo-no-hay-razón-para-creer-que-no-lograremos-este-objetivo-podemos-afirmar-que-el-futuro-de-la-iglesia-será-glorioso">La iglesia fue diseñada para ser santa e irreprochable. Con esta meta Cristo se entregó, y con esta meta sus obreros deben realizar su trabajo. No hay razón para creer que no lograremos este objetivo. Podemos afirmar que el futuro de la iglesia será glorioso.</a></li>
-          </ul>
-        </li>
-        <li><a href="#vii-qué-dice-dios-acerca-de-la-iglesia-actual"><strong>VII. ¿Qué dice Dios acerca de la iglesia actual?</strong></a>
-          <ul>
-            <li><a href="#cuando-decimos-que-el-futuro-de-la-iglesia-es-glorioso-afirmamos-que-lo-mismo-ocurre-en-el-presente">Cuando decimos que el futuro de la iglesia es glorioso, afirmamos que lo mismo ocurre en el presente.</a></li>
-            <li><a href="#hoy-la-iglesia-es-exactamente-lo-que-dios-declaró-la-casa-de-dios-la-columna-y-fundamento-de-la-verdad-el-templo-de-dios-su-cuerpo-un-pueblo-escogido-un-sacerdocio-santo-y-sin-importar-las-circunstancias-que-enfrente-seguirá-siendo-todo-lo-que-dios-dijo-que-es">Hoy, la iglesia es exactamente lo que Dios declaró: la casa de Dios, la columna y fundamento de la verdad, el templo de Dios, Su cuerpo, un pueblo escogido, un sacerdocio santo y, sin importar las circunstancias que enfrente, seguirá siendo todo lo que Dios dijo que es.</a></li>
-            <li><a href="#en-efesios-310-pablo-explica-lo-que-está-sucediendo-actualmente-con-la-iglesia-para-que-ahora-la-multifacética-sabiduría-de-dios-sea-dada-a-conocer-por-medio-de-la-iglesia-a-los-principados-y-potestades-en-los-cielos">En Efesios 3:10, Pablo explica lo que está sucediendo actualmente con la iglesia, “para que ahora la multifacética sabiduría de Dios sea dada a conocer por medio de la iglesia a los principados y potestades en los cielos”.</a></li>
-            <li><a href="#no-podemos-comprender-completamente-la-grandeza-de-la-iglesia-durante-siglos-dios-mantuvo-oculto-este-maravilloso-misterio-lo-que-fue-revelado-a-pablo-y-a-otros-es-tan-extraordinario-que-incluso-los-ángeles-observan-atentamente-lo-que-sucede-el-amor-del-señor-por-su-iglesia-deja-a-todos-boquiabiertos">No podemos comprender completamente la grandeza de la iglesia. Durante siglos, Dios mantuvo oculto este maravilloso misterio. Lo que fue revelado a Pablo y a otros es tan extraordinario que incluso los ángeles observan atentamente lo que sucede. El amor del Señor por Su iglesia deja a todos boquiabiertos.</a></li>
-            <li><a href="#dios-deseaba-unir-a-judíos-y-gentiles-en-un-solo-pueblo-la-iglesia-esto-no-es-fácil-para-aquellos-que-esperan-que-todos-se-unan-bajo-los-judíos-para-acercarse-a-dios-jesucristo-vino-a-la-tierra-y-entregó-su-vida-para-salvarnos">Dios deseaba unir a judíos y gentiles en un solo pueblo: la iglesia. Esto no es fácil para aquellos que esperan que todos se unan bajo los judíos para acercarse a Dios. Jesucristo vino a la tierra y entregó Su vida para salvarnos.</a></li>
-            <li><a href="#esto-debe-ser-admirable-para-los-ángeles-que-vieron-caer-a-una-buena-parte-de-los-suyos-sin-posibilidad-de-redención-desde-el-antiguo-testamento-los-ángeles-han-mostrado-curiosidad-hacia-esta-realidad-pero-sólo-recientemente-y-a-través-de-la-iglesia-dios-ha-instruido-a-todos-y-su-sabiduría-ha-sido-expresada-plenamente">Esto debe ser admirable para los ángeles, que vieron caer a una buena parte de los suyos sin posibilidad de redención. Desde el Antiguo Testamento, los ángeles han mostrado curiosidad hacia esta realidad, pero sólo recientemente, y a través de la iglesia, Dios ha instruido a todos y su sabiduría ha sido expresada plenamente.</a></li>
-            <li><a href="#esta-escena-parece-describir-a-los-ángeles-que-observan-la-expresión-del-amor-divino-hacia-la-iglesia-desde-un-balcón-celestial-y-en-la-admiración-son-capaces-de-comprender-como-nunca-la-sabiduría-de-dios-este-conocimiento-debería-dejarnos-sin-aliento-con-lágrimas-de-agradecimiento-y-una-profunda-sensación-de-admiración-y-humildad-al-vernos-a-nosotros-mismos-como-parte-privilegiada-del-plan-divino-gloria-a-dios-en-la-iglesia-hoy-y-por-toda-la-eternidad">Esta escena parece describir a los ángeles que observan la expresión del amor divino hacia la iglesia desde un balcón celestial y, en la admiración, son capaces de comprender como nunca la sabiduría de Dios. Este conocimiento debería dejarnos sin aliento, con lágrimas de agradecimiento y una profunda sensación de admiración y humildad al vernos a nosotros mismos como parte privilegiada del plan divino. ¡Gloria a Dios en la iglesia hoy y por toda la eternidad!</a></li>
-          </ul>
-        </li>
+        <li><a href="#pnbspp-5"><!-- raw HTML omitted --> <!-- raw HTML omitted --></a></li>
+        <li><a href="#vii-jesus-quiere-alcanzar-al-mundo-entero-en-nuestra-generación">VII. ¡Jesus quiere alcanzar al mundo entero en nuestra generación!</a></li>
       </ul>
     </li>
   </ul>
@@ -1510,7 +1551,7 @@
 </div>
 </div>
 </div><script type='text/javascript'>
-  const baseUrl = 'https:\/\/johnwry.github.io\/page\/';
+  const baseUrl = 'https:\/\/johnwry.github.io\/';
   const codeCopyBefore = 'Copy to clipboard';
   const codeCopyAfter = 'Copied to clipboard';
   const svgDownloadLabel = 'Download as SVG';
@@ -1526,49 +1567,49 @@
 </script>
 <script
       type="module"
-      src="/page/js/theme/modules/const.min.js"
+      src="/js/theme/modules/const.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/modules/helpers.min.js"
+      src="/js/theme/modules/helpers.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/modules/helpersGlobal.min.js"
+      src="/js/theme/modules/helpersGlobal.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/init.min.js"
+      src="/js/theme/init.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/navbar.min.js"
+      src="/js/theme/navbar.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/print.min.js"
+      src="/js/theme/print.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/qrcode.min.js"
+      src="/js/theme/qrcode.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/search.min.js"
+      src="/js/theme/search.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/shortcuts.min.js"
+      src="/js/theme/shortcuts.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/sidebar.min.js"
+      src="/js/theme/sidebar.min.js"
     ></script><script
       type="module"
-      src="/page/js/theme/toc.min.js"
+      src="/js/theme/toc.min.js"
     ></script><script
       type="text/javascript"
-      src="/page/js/theme/browserCompatibility.min.js"
+      src="/js/theme/browserCompatibility.min.js"
     ></script><script
       type="text/javascript"
-      src="/page/js/external/flexsearch/flexsearch.bundle.min.js"
+      src="/js/external/flexsearch/flexsearch.bundle.min.js"
     ></script><script
       type="text/javascript"
-      src="/page/js/external/qrious/qrious.min.js"
+      src="/js/external/qrious/qrious.min.js"
     ></script><script
       type="text/javascript"
-      src="/page/js/external/overlay-scrollbars/overlayscrollbars.min.js"
+      src="/js/external/overlay-scrollbars/overlayscrollbars.min.js"
     ></script>
 </body>
 </html>
