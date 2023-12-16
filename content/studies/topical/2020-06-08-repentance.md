@@ -4,7 +4,7 @@ title: Repentance According to the Bible
 Template: page
 ---
 The term repentance comes with all sorts of different ideas. By doing a simple search on the internet we find it summed up in words like "*remorse*, *contrition*, *contriteness*, *penitence*, *sorrow*, *regret*". 
-![repentance](/blog/media/repentance.png)
+
 Most would agree that this is what is meant when we use *repentance/repent* in our day to day use of the word. Probably the religious association is there for most. 
 What I am tryng to look at in this note is how the Bible uses what we see translated as the word repentance in the English Bible. Why? Because word studies are good, they allow us to focus on how the word was used in Scripture, possibly how it was used during that time period it was written and also because words change their meaning over time. Perhaps the word was never intended as we understand it today. 
 

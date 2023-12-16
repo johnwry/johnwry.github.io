@@ -1,0 +1,79 @@
+#navbar {
+    background: #335c70;
+}
+
+blockquote {
+    font-style: italic;
+    background: rgba(255, 255, 255, 1);
+    margin-left:30px; 
+}
+
+.bible {
+    font-family: 'Cardo';
+    background: rgba(255, 237, 192, 0.2);
+    display: block;
+    border: .5px dotted #118657;
+    padding:15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#content H1 {
+    color:rgb(95, 95, 95);
+    font-size: 8px;
+    font-weight: 300;
+    display: block;
+    margin: 0px;
+    font-weight:100;
+}   
+
+#content H2 {
+    font-size: 12px;
+    margin-left: 15px;
+    text-indent: 0;
+    padding: 0;
+    color:rgb(95, 95, 95);
+    font-weight: 100;
+    
+}
+
+#content H3 {
+    font-size: 12px;
+    text-indent: -150px;
+    color:rgb(95, 95, 95);
+    font-weight: 100;
+    margin-left: 70px;
+    display:block;
+}
+
+#content H4 {
+    font-size: 12px;
+    text-indent: 0;
+    color:rgb(95, 95, 95);
+    display: block;
+    font-weight: 100;
+    margin-left: 90px;
+    
+}
+
+#content H5 {
+    font-size: 12px;
+    text-indent: 0;
+    color:rgb(95, 95, 95);
+    display: block;
+    font-weight: 100;
+    margin-left: 120px;
+    
+}
+
+#content H6 {
+    font-size: 12px;
+    text-indent: 0;
+    color:rgb(95, 95, 95);
+    display: block;
+    font-weight: 100;
+    margin-left: 160px;
+    
+}

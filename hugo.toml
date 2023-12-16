@@ -6,16 +6,19 @@ copyright              = "The MIT License (MIT) Copyright © 2020 BJWry"
 rssLimit = 10
 defaultContentLanguage = "en"
 enableEmoji            = false
-# enableGitInfo          = true
+enableGitInfo          = false
 metaDataFormat         = "yaml"
 publishDir             = "docs"
 title                  = "BJWry"
 theme                  = "shadocs"
-# themesdir              = "../themes"
+themesdir              = "themes"
 custom_css = ["css/custom.css"]
 
-# pygmentsUseClasses=false
-# pygmentsCodeFences=false
+tags = ["Bulma", "Search", "Simple", "Documentation", "Fontawesome", "Intro", "Mermaid", "OpenAPI", "AsyncAPI"]
+features = ["Menu", "Nested sections", "Search", "Shortcuts", "Netlify", "Intro", "Mermaid", "OpenAPI", "AsyncAPI"]
+min_version = "0.112.0"
+pygmentsUseClasses=true
+pygmentsCodeFences=true
 
 [Author]
   name = "BJWry"
@@ -48,7 +51,7 @@ custom_css = ["css/custom.css"]
     startLevel = 1
     endLevel   = 6
   [markup.goldmark.renderer]
-    unsafe = false
+    unsafe = true
 
 
 
@@ -56,7 +59,7 @@ custom_css = ["css/custom.css"]
 # Specific configuration
 #
 [params]
-  logo                    = "images/logo.png"
+  logo                    = "img/bjwry.png"
   logoTouch               = "images/logoTouch.png"
   image404                = "images/404.gif"
   favicon                 = "images/favicon.png"
@@ -64,12 +67,12 @@ custom_css = ["css/custom.css"]
   homeLayout              = "onboarding"
   siteContentOrder        = "weight"
   toc                     = true
-  # globalBanner          = true
+  globalBanner            = false
   currentVersion          = "latest"
   latestVersionUrl        = "https://shadocs.netlify.app/"
 
 
-  # enforceRefrelLinks    = true
+  enforceRefrelLinks    = true
   [params.navbar.shortcuts]
     [params.navbar.shortcuts.example]
       keys     = ["Shift","1"]
@@ -85,14 +88,14 @@ custom_css = ["css/custom.css"]
       icon = "fa-solid fa-table-cells"
     [params.taxonomies.tags]
       icon = "fa-solid fa-tag"
-  #[params.includes]
+  [params.includes]
   #  jsModules = [
   #      "js/shortcuts.js"
   #    ]
   #  js        = []
-  #  css       = [
-  #      "css/shortcuts.css"
-  #    ]
+    css       = [
+        "css/custom.css"
+      ]
   #  sass      = [
   #      "sass/custom/example.sass"
   #  ]
