@@ -8,9 +8,9 @@ Date: 12/10/2022 4:40am
 
 ## Searching what the Scriptures actually teach
 
-### Note: It is not in the scope of this study but we will presume death in the Scriptures means separation not cessation of existence. 
+### It is not in the scope of this study but we presume the reader understands that death in the Scriptures means separation not cessation of existence. 
 
-# Spiritual Separation
+# Spiritual Death (Separation)
 
 ## Man willfully sins, it is not God who makes him sin. 
 
@@ -18,13 +18,12 @@ Date: 12/10/2022 4:40am
 ..."Have you eaten from the tree of which I commanded you not to eat?" Genesis 3:11
 </span>
 
-### Yet, when Adam and Eve did sin, it was God who sought them out to restore fellowship. 
+### When Adam and Eve did sin, it was God who sought them out to restore fellowship. 
 
 <span class='bible'>
 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. Then the LORD God called to the man, and said to him, "Where are you?" Genesis 3:8-9</span>
 
-Notice that the purpose for hiding among the trees was not to hide from the heat or any other reason. They hid themselves *from the presence of the Lord*. 
-
+#### Notice that the purpose for hiding among the trees was not to hide from the heat or any other reason. They hid themselves *from the presence of the Lord*. 
 
 ### Sin resulted in fear of God, a change of perception of self,  and lead to hiding. 
 

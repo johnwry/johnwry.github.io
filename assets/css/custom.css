@@ -5,15 +5,40 @@
 blockquote {
     font-style: italic;
     background: rgba(255, 255, 255, 1);
-    margin-left:30px; 
+    margin-left: 30px; 
 }
-
+pre {
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+  }       
+  
+  code {
+    font-family: 'Times New Roman', Times, serif
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    background:white;
+  
+  }
+  #content code {
+    display: block;
+    padding: 0.5em 1em;
+    border: 1px solid #bebab0;
+  }
 .bible {
     font-family: 'Cardo';
-    background: rgba(255, 237, 192, 0.2);
+    background: rgba(255, 241, 206, 0.2);
     display: block;
     border: .5px dotted #118657;
-    padding:15px;
+    padding: 15px;
     margin-left: 50px;
     margin-right: 50px;
     font-size: 22px;
@@ -21,37 +46,36 @@ blockquote {
 }
 
 #content H1 {
-    color:rgb(95, 95, 95);
-    font-size: 8px;
-    font-weight: 300;
+    color:rgb(128, 128, 128);
+    font-size: 16px;
     display: block;
     margin: 0px;
-    font-weight:100;
+    font-style: normal;
 }   
 
 #content H2 {
-    font-size: 12px;
+    font-size: 16px;
     margin-left: 15px;
     text-indent: 0;
     padding: 0;
-    color:rgb(95, 95, 95);
+    color:rgb(128, 128, 128);
     font-weight: 100;
     
 }
 
 #content H3 {
-    font-size: 12px;
+    font-size: 14px;
     text-indent: -150px;
-    color:rgb(95, 95, 95);
+    color:rgb(128, 128, 128);
     font-weight: 100;
     margin-left: 70px;
     display:block;
 }
 
 #content H4 {
-    font-size: 12px;
+    font-size: 14px;
     text-indent: 0;
-    color:rgb(95, 95, 95);
+    color:rgb(128, 128, 128);
     display: block;
     font-weight: 100;
     margin-left: 90px;
@@ -59,9 +83,9 @@ blockquote {
 }
 
 #content H5 {
-    font-size: 12px;
+    font-size: 14px;
     text-indent: 0;
-    color:rgb(95, 95, 95);
+    color:rgb(128, 128, 128);
     display: block;
     font-weight: 100;
     margin-left: 120px;
@@ -69,9 +93,9 @@ blockquote {
 }
 
 #content H6 {
-    font-size: 12px;
+    font-size: 14px;
     text-indent: 0;
-    color:rgb(95, 95, 95);
+    color:rgb(128, 128, 128);
     display: block;
     font-weight: 100;
     margin-left: 160px;
