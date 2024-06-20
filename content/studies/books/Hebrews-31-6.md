@@ -1,5 +1,5 @@
 ---
-Title: "Hebrews 3:1-6"
+Title: "Hebrews 3:1-6, 4:11-16"
 ---
 
 [**Heb 3:1** ](verseid:58.3.1) Therefore, holy brethren, partakers of a heavenly calling, consider Jesus, the Apostle and High Priest of our confession;
@@ -215,3 +215,107 @@ but Christ *was faithful* as a Son
 ​			of our hope 
 
 ​			firm until the end.
+
+====4:11-16
+
+[**Heb 4:11** ](verseid:58.4.11) Therefore let us be diligent to enter that rest, so that no one will fall, through *following* the same example of disobedience.
+
+[**Heb 4:12** ](verseid:58.4.12) For the word of God is living and active and sharper than any two-edged sword, and piercing as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart.
+
+[**Heb 4:13** ](verseid:58.4.13) And there is no creature hidden from His sight, but all things are open and laid bare to the eyes of Him with whom we have to do.
+
+[**Heb 4:14** ](verseid:58.4.14) Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession.
+
+[**Heb 4:15** ](verseid:58.4.15) For we do not have a high priest who cannot sympathize with our weaknesses, but One who has been tempted in all things as *we are, yet*without sin.
+
+[**Heb 4:16** ](verseid:58.4.16) Therefore let us draw near with confidence to the throne of grace, so that we may receive mercy and find grace to help in time of need.
+
+=====
+
+Therefore let us be diligent to enter that rest, so that no one will fall, through *following* the same example of disobedience.
+
+For the word of God is living and active and sharper than any two-edged sword, and piercing as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart.
+
+And there is no creature hidden from His sight, but all things are open and laid bare to the eyes of Him with whom we have to do.
+
+Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession.
+
+For we do not have a high priest who cannot sympathize with our weaknesses, but One who has been tempted in all things as *we are, yet*without sin.
+
+Therefore let us draw near with confidence to the throne of grace, so that we may receive mercy and find grace to help in time of need.
+
+====
+
+Therefore let us be diligent to enter that rest, 
+so that no one will fall, 
+through *following* the same example of disobedience.
+For the word of God 
+is living 
+and active 
+and sharper 
+than any two-edged sword, 
+and piercing as far as the division 
+of soul and spirit, 
+of both joints and marrow, 
+and able to judge 
+the thoughts 
+and intentions of the heart.
+And there is no creature hidden from His sight, 
+but all things are open 
+and laid bare to the eyes of Him 
+with whom we have to do.
+Therefore, 
+since we have a great high priest 
+who has passed through the heavens, 
+Jesus the Son of God, 
+let us hold fast our confession.
+For we do not have a high priest 
+who cannot sympathize with our weaknesses, 
+but One who has been tempted in all things 
+as *we are, yet*without sin.
+Therefore 
+let us draw near 
+with confidence 
+to the throne of grace, 
+so that we may receive mercy 
+and find grace to help
+in time of need.
+
+===
+````
+Therefore 
+let us be diligent to enter that rest, 
+so that no one will fall, 
+	through *following* the same example of disobedience.
+		For the word of God 
+			is living 
+			and active 
+			and sharper 
+			than any two-edged sword, 
+					and piercing as far as the division 
+					of soul and spirit, 
+					of both joints and marrow, 
+					and able to judge 
+					the thoughts 
+					and intentions of the heart.
+And there is no creature hidden from His sight, 
+but all things are open 
+and laid bare to the eyes of Him 
+with whom we have to do.
+Therefore, 
+since we have a great high priest 
+who has passed through the heavens, 
+Jesus the Son of God, 
+let us hold fast our confession.
+For we do not have a high priest 
+who cannot sympathize with our weaknesses, 
+but One who has been tempted in all things 
+as *we are, yet* without sin.
+Therefore 
+let us draw near 
+with confidence 
+to the throne of grace, 
+so that we may receive mercy 
+and find grace to help
+in time of need.
+````
