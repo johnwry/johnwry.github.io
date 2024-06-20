@@ -1,7 +1,7 @@
 ---
-Title: "Jueces"
-Template: "blog"
-Date: "2022/03/22"
+Title: Jueces
+Template: blog
+Date: 2022/03/22
 
 ---
 

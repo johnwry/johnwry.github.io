@@ -1,8 +1,8 @@
 ---
-Title: "Enemigos de la Observación"
-Template: "blog"
-Date: "2022/03/22"
-Author: "John Wry"
+Title: Enemigos de la Observación
+Template: blog
+Date: 2022/03/22
+Author: John Wry
 ---
 
 

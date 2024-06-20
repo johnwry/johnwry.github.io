@@ -1,7 +1,7 @@
 ---
-Title: "If life ended here"
-Template: "blog"
-Date: "2022/05/11"
+Title: If life ended here
+Template: blog
+Date: 2022/05/11
 ---
 
 # If life ended here…

@@ -1,7 +1,7 @@
 ---
-Title: "Si esto fuera el fin"
-Template: "blog"
-Date: "2022/05/12"
+Title: Si esto fuera el fin
+Template: blog
+Date: 2022/05/12
 
 ---
 

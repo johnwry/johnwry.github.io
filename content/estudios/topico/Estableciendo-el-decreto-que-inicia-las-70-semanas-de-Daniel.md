@@ -1,6 +1,6 @@
 ---
-Title: "Estableciendo el decreto que inicia las 70 semanas de Daniel"
-Template: "index"
+Title: Estableciendo el decreto que inicia las 70 semanas de Daniel
+Template: index
 
 ---
 

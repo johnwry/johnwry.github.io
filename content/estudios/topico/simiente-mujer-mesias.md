@@ -1,6 +1,4 @@
----
-Title: "La Simiente de la mujer"
----
+# La Simiente de la mujer
 
 1. Eva
 2. 

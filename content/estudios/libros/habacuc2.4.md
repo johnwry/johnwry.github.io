@@ -1,6 +1,7 @@
 ---
-Title: "Habacuc 2.4"
-Date: "2022/03/02"
+Title: Habacuc 2:4
+Template: page
+Date:2022/03/02
 ---
 
 

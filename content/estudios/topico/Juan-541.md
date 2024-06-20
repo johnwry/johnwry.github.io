@@ -1,6 +1,6 @@
 ---
-Title: "Juan 5:41"
-Template: "outline"
+Title: Juan 5:41
+Template: outline
 ---
 
 Juan 5:41 No me importan las alabanzas humanas,

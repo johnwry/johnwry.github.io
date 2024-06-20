@@ -1,5 +1,6 @@
 ---
-Title: "Gálatas 5:17-21"
+Title: Gálatas 5:17-21
+Template: outline
 ---
 # Gálatas 5:17-21
 

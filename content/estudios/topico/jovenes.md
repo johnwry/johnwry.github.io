@@ -1,7 +1,7 @@
 ---
-Title: "Jóvenes en la Biblia"
-Template: "blog"
-Date: "2022/02/20"
+Title: Jóvenes en la Biblia
+Template: blog
+Date:2022/02/20
 ---
 
 # Jóvenes en la Biblia

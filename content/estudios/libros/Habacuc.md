@@ -1,6 +1,7 @@
 ---
-Title: "Habacuc"
-Date: "2022/03/12"
+Title: Habacúc
+Template: page
+Date:2022/03/12
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-Title: "Confesión de Pecados"
-Author: "John Wry"
-Template: "outline"
-Date: "2022/03/22"
+Title: Confesión de Pecados
+Author: John Wry
+Template: outline
+Date: 2022/03/22
 ---
 
 # Confesión de Pecados

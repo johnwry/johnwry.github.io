@@ -156,17 +156,9 @@ He was faithful
 >
 > **Adult:** Ex 1:8-14
 >
-> [**Act 7:23** ](verseid:44.7.23) "But when he was approaching the age of forty, it entered his mind to visit his brethren, the sons of Israel.
+> [**Act 7:23-27** ](verseid:44.7.23) "But when he was approaching the age of forty, it entered his mind to visit his brethren, the sons of Israel. "And when he saw one *of them* being treated unjustly, he defended him and took vengeance for the oppressed by striking down the Egyptian. "And he supposed that his brethren understood that God was granting them deliverance through him, but they did not understand.
 >
-> [**Act 7:24** ](verseid:44.7.24) "And when he saw one *of them* being treated unjustly, he defended him and took vengeance for the oppressed by striking down the Egyptian.
->
-> [**Act 7:25** ](verseid:44.7.25) "And he supposed that his brethren understood that God was granting them deliverance through him, but they did not understand.
->
-> [**Heb 11:27** ](verseid:58.11.27) By faith he left Egypt, not fearing the wrath of the king; for he endured, as seeing Him who is unseen.
->
-> [**Heb 11:28** ](verseid:58.11.28) By faith he kept the Passover and the sprinkling of the blood, so that he who destroyed the firstborn would not touch them.
->
-> [**Heb 11:29** ](verseid:58.11.29) By faith they passed through the Red Sea as though *they were passing* through dry land; and the Egyptians, when they attempted it, were drowned.
+> [**Heb 11:27-29** ](verseid:58.11.27) By faith he left Egypt, not fearing the wrath of the king; for he endured, as seeing Him who is unseen. By faith he kept the Passover and the sprinkling of the blood, so that he who destroyed the firstborn would not touch them. By faith they passed through the Red Sea as though *they were passing* through dry land; and the Egyptians, when they attempted it, were drowned.
 >
 > 7 verses in hebrews 11 are dedicated to Moses.
 >
@@ -195,6 +187,18 @@ Now Moses was faithful in all His house
 ​	for a testimony of those things 
 
 ​	which were to be spoken later; 
+
+[**Jhn 1:45** ](verseid:43.1.45) Philip *found Nathanael and *said to him, "We have found Him of whom Moses in the Law and *also* the Prophets wrote—Jesus of Nazareth, the son of Joseph."
+
+[**Jhn 1:46** ](verseid:43.1.46) Nathanael said to him, "Can any good thing come out of Nazareth?" Philip *said to him, "Come and see."
+
+[**Jhn 1:47** ](verseid:43.1.47) Jesus saw Nathanael coming to Him, and *said of him, "Behold, an Israelite indeed, in whom there is no deceit!"
+
+[**Jhn 1:48** ](verseid:43.1.48) Nathanael *said to Him, "How do You know me?" Jesus answered and said to him, "Before Philip called you, when you were under the fig tree, I saw you."
+
+[**Jhn 1:49** ](verseid:43.1.49) Nathanael answered Him, "Rabbi, You are the Son of God; You are the King of Israel."
+
+[**Jhn 1:17** ](verseid:43.1.17) For the Law was given through Moses; grace and truth were realized through Jesus Christ.
 
 but Christ *was faithful* as a Son 
 

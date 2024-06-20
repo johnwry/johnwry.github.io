@@ -1,6 +1,6 @@
 ---
-Title: "La Ley y La Gracia"
-Template: "outline"
+Title: La Ley y La Gracia
+Template: outline
 ---
 
 # La Ley

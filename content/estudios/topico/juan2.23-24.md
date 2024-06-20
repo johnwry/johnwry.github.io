@@ -1,12 +1,8 @@
----
-Title: "Juan 2:23-24"
----
-
 ## Juan 2:23-24
 
 
 
-***Muchos creyeron en su nombre...*** Creyeron que él era el *Mesías prometido* , pero no creen en él para la salvación de sus almas: porque encontramos, del siguiente versículo, que sus corazones no fueron en absoluto *cambiados* , porque nuestro bendito Señor no pudo confiar en ellos. - adam Clark
+***Muchos creyeron en su nombre...\*** Creyeron que él era el *Mesías prometido* , pero no creen en él para la salvación de sus almas: porque encontramos, del siguiente versículo, que sus corazones no fueron en absoluto *cambiados* , porque nuestro bendito Señor no pudo confiar en ellos. - adam Clark
 
 
 

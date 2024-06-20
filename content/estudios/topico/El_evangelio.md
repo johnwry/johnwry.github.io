@@ -1,7 +1,7 @@
 ---
-Title: "El Evangelio"
-Template: "outline"
-Author: "John Wry"
+Title: El Evangelio
+Template: outline
+Author: John Wry
 ---
 # El Evangelio
 

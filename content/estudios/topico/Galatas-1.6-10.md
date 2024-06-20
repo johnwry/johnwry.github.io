@@ -1,6 +1,6 @@
 ---
-Title: "Galatas 1.6-10"
-Template: "outline"
+Title: Galatas 1.6-10
+Template: outline
 ---
 
 # Gálatas 1:6-10

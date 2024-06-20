@@ -1,5 +1,5 @@
 ---
-title: "2 Pedro"
+title: 2 Pedro
 ---
 
 ## Greeting

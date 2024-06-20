@@ -1,7 +1,7 @@
 ---
-Title: "5 Principios para desenmascarar una cosmovisión no-biblica"
-Template: "page"
-Author: "John Wry"
+Title: 5 Principios para desenmascarar una cosmovisión no-biblica
+Template: page
+Author: John Wry
 ---
 
 # 5 Principios para desenmascarar una cosmovisión no-biblica

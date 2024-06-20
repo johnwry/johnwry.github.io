@@ -1,6 +1,6 @@
 ---
-Title: "Adoración Bíblica"
-Template: "outline"
+Title: Adoración Bíblica
+Template: outline
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/johnwry/dm2/main/markdown/adoracion/media/woman.jpeg" data-background-color="white" --> 

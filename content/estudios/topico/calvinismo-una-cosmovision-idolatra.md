@@ -1,7 +1,7 @@
 ---
-Title: "Identificando la Cosmovisión del Calvinismo"
-Template: "page"
-Author: "John Wry"
+Title: Identificando la Cosmovisión del Calvinismo
+Template: page
+Author: John Wry
 ---
 
 # Identificando la Cosmovisión del Calvinismo

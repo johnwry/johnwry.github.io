@@ -1,6 +1,6 @@
 ---
-Title: "El Mismo...nuestra suficiencia"
-Template: "outline"
+Title: El Mismo...nuestra suficiencia
+Template: outline
 ---
 
 # Cristo es la Satisfacción de Dios
