@@ -298,24 +298,24 @@ so that no one will fall,
 					and able to judge 
 					the thoughts 
 					and intentions of the heart.
-And there is no creature hidden from His sight, 
-but all things are open 
-and laid bare to the eyes of Him 
-with whom we have to do.
+			And there is no creature hidden from His sight, 
+			but all things are open 
+			and laid bare to the eyes of Him 
+			with whom we have to do.
 Therefore, 
-since we have a great high priest 
-who has passed through the heavens, 
-Jesus the Son of God, 
-let us hold fast our confession.
-For we do not have a high priest 
-who cannot sympathize with our weaknesses, 
-but One who has been tempted in all things 
-as *we are, yet* without sin.
+	since we have a great high priest 
+		who has passed through the heavens, 
+			Jesus the Son of God, 
+		let us hold fast our confession.
+			For we do not have a high priest 
+				who cannot sympathize with our weaknesses, 
+				but One who has been tempted in all things 
+				as *we are, yet* without sin.
 Therefore 
-let us draw near 
-with confidence 
-to the throne of grace, 
-so that we may receive mercy 
-and find grace to help
-in time of need.
+	let us draw near 
+		with confidence 
+			to the throne of grace, 
+			so that we may receive mercy 
+			and find grace to help
+			in time of need.
 ````
