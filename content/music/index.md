@@ -1,6 +1,6 @@
 ---
 Title: Music
-Template: page
+Template: index
 Author: John Wry
 ---
 

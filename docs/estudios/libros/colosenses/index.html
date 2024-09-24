@@ -1,0 +1,3109 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content="Hugo 0.117.0">
+<meta name="viewport" content="width=device-width, initial-scale=1" /><title> | BJWry</title>
+
+<link
+  rel="icon"
+  href="/images/favicon.png"
+  type="image/x-icon"
+/>
+<link
+    rel="stylesheet"
+    rel="preload"
+    type="text/css"
+    href="/css/main.css"
+  /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/css/external/fontawesome.all.min.css"
+    /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/css/external/overlay-scrollbars/overlayscrollbars.min.css"
+    /><link
+      rel="stylesheet"
+      type="text/css"
+      href="/css/custom.min.css"
+    />
+<style>
+
+body {
+    
+    font-size: larger;
+}
+
+#content h1 {
+    font-size:30px;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#content h2{
+    font-size:25px;
+    text-indent: 30px;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h3{
+    font-size:20px;
+    text-indent: 60px;   
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h4{
+    font-size:20px;
+    text-indent: 90px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h5{
+    font-size:20px;
+    text-indent: 120px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#content h6{
+    font-size:20px;
+    text-indent: 150px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+</style></head>
+  <body onload="browserCompatibility()"><div id="navbarInfo" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box">
+    <div class="card modal-title is-radiusless">
+      <div class="card-header">
+        <p class="card-header-title is-marginless">About</p>
+      </div>
+    </div>
+    <div class="modal-content-container">
+      <div class="modal-content-block is-block">
+</div>
+    </div>
+  </div>
+</div>
+<div id="navbarShortcuts" class="is-hidden modal-container">
+  <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
+        <div class="card-header">
+          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+        </div>
+      </div>
+      <div class="modal-content-container">
+        <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show current page QR code</p>
+  </div><div class="modal-content"><kbd>Escape</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Close modals</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show website information</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Show shortcuts</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to homepage</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Find on website</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the top of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">Print current page</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>1</kbd></div>
+  <div class="modal-content">
+    <p class="has-text-weight-normal">example</p>
+  </div></div>
+      </div></div>
+</div>
+<div id="modalContainer" class="is-hidden modal-container">
+  <div id="modal" class="modal-content-box"></div>
+</div>
+<nav id="navbar" class="navbar" role="navigation" aria-label="main navigation">
+  <div id="navbarItemsContainer" class="navbar-brand"><div id="globalLogoContainer" class="is-flex">
+  <a
+    id="globalLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/"
+  >
+    <img
+      alt="Homepage"
+      src="/img/bjwry.png"
+    />
+  </a>
+  <a
+    id="globalTouchLogo"
+    class="navbar-item navbar-item-standard is-paddingless"
+    href="/"
+  >
+    <img
+      alt="Homepage"
+      src="/images/logoTouch.png"
+    />
+  </a>
+</div>
+<div id="navbarItems" class="is-flex">
+      <div id="navbarItemsStart" class="is-flex">
+        <div id="searchContainer" class="navbar-item"><div class="control has-icons-left">
+  <span id="searchInput" class="autocomplete">
+    <input
+      id="search"
+      autocomplete="off"
+      class="input"
+      type="search"
+      placeholder="Search"
+    />
+  </span>
+  <span class="icon is-left">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </span>
+  <ul id="searchList" class="is-paddingless is-hidden"></ul>
+</div>
+</div>
+      </div>
+      <div id="navbarItemsEnd" class="is-flex is-invisible"><div class="navbar-item">
+  <a
+    id="printButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButton"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfo"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomies"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainer"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelector"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versions"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfo"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div id="navbarExtend" class="navbar-item">
+  <div id="navbarExtendWrapper">
+    <a id="navbarExtendButton" class="button navbar-item-standard">
+      <span class="icon">
+        <i class="fa-solid fa-ellipsis fa-lg"></i>
+      </span>
+    </a>
+    <div id="navbarExtendItemsContainer">
+      <div id="navbarExtendItemsWrapper"><div class="navbar-item">
+  <a
+    id="printButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">Print</span>
+    <span class="icon">
+      <i class="fa-solid fa-print fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="qrCodeButtonExtend"
+    class="button navbar-item-standard"
+  >
+    <span class="icon-text">QR code</span>
+    <span class="icon">
+      <i class="fa-solid fa-qrcode fa-lg"></i>
+    </span>
+  </a>
+</div>
+<div class="navbar-item">
+  <a
+    id="shortcutsInfoExtend"
+    trigger="navbarShortcuts"
+    class="button navbar-item-standard navbar-trigger"
+    title="Keyboard shortcuts"
+  >
+    <span class="icon-text">Shortcuts</span>
+    <span class="icon">
+      <i class="fa-solid fa-keyboard fa-lg"></i>
+    </span>
+  </a>
+</div><div class="navbar-item"><div
+  id="taxonomiesSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="taxonomiesSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Taxonomies</span>
+      <span class="icon">
+        <i class="fa-solid fa-tags fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-taxonomiesExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+              href="/categories/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-table-cells"></i>Categories</a><a
+              href="/tags/"
+              class="dropdown-item has-text-weight-bold"
+            ><i class="fa-solid fa-tag"></i>Tags</a></div>
+  </div>
+</div>
+</div><div class="navbar-item"><div
+  id="versionsSelectorContainerExtend"
+  class="dropdown is-right"
+>
+  <div class="dropdown-trigger">
+    <button
+      id="versionsSelectorExtend"
+      class="button navbar-item-standard"
+      aria-haspopup="true"
+      aria-controls="dropdown-menu"
+    >
+      <span class="icon-text">Versions</span>
+      <span class="icon">
+        <i class="fa-solid fa-arrow-down-9-1 fa-lg"></i>
+      </span>
+    </button>
+  </div>
+  <div
+    id="dropdown-menu-versionsExtend"
+    class="dropdown-menu"
+    role="menu"
+  >
+    <div class="dropdown-content is-paddingless"><a
+          href="https://shadocs.netlify.app/"
+          class="dropdown-item has-text-weight-bold"
+        >latest</a><a
+          href="https://shadocs.netlify.app/404.html"
+          class="dropdown-item has-text-weight-bold"
+        >deprecated version</a></div>
+  </div>
+</div>
+</div><div class="navbar-item">
+  <a
+    id="siteInfoExtend"
+    trigger="navbarInfo"
+    class="button navbar-item-standard navbar-trigger"
+    title="About"
+  >
+    <span class="icon-text">About</span>
+    <span class="icon">
+      <i class="fa-solid fa-circle-question fa-lg"></i>
+    </span>
+  </a>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+  </div>
+</nav>
+<div id="navbarOverlay"></div>
+<div
+      class="columns is-mobile is-paddingless is-marginless"
+      id="mainContainer"
+    ><div
+  id="sidebarContainer"
+  class="column is-narrow is-paddingless is-marginless"
+>
+  <div id="sidebarWrapper" class="is-fixed">
+    <div id="sidebar" class="is-marginless">
+      <aside class="menu is-paddingless is-marginless">
+        <ul class="menu-list is-marginless is-paddingless"><div class="card is-fs-expandable-icon is-sidebar-active"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/estudios/'>
+        <i class='fa-solid fa-ban fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-tree-active is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/estudios/'>
+        <i class='fa-solid fa-ban fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Estudios'>Estudios</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless is-tree-active"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/estudios/topico/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Estudios'>Estudios</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/juan2.23-24/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/matrimonio-arces/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/simiente-mujer-mesias/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/teologia-sistematica/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/5-principios/'
+        class='card-header-title'
+          title='5 Principios para desenmascarar una cosmovisión no-biblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">5 Principios para desenmascarar una cosmovisión no-biblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/adoraci%C3%B3n-b%C3%ADblica/'
+        class='card-header-title'
+          title='Adoración Bíblica'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Adoración Bíblica</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/bautismo/'
+        class='card-header-title'
+          title='Bautismo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Bautismo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/confesion/'
+        class='card-header-title'
+          title='Confesar'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confesar</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/confesion-de-pecado/'
+        class='card-header-title'
+          title='Confesión de Pecados'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confesión de Pecados</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/el-coran-y-la-biblia/'
+        class='card-header-title'
+          title='El Coran y La Biblia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Coran y La Biblia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/el_evangelio/'
+        class='card-header-title'
+          title='El Evangelio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Evangelio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/el-mismo...nuestra-suficiencia/'
+        class='card-header-title'
+          title='El Mismo...nuestra suficiencia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">El Mismo...nuestra suficiencia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/enemigos-de-observacion/'
+        class='card-header-title'
+          title='Enemigos de la Observación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Enemigos de la Observación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
+        class='card-header-title'
+          title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Estableciendo el decreto que inicia las 70 semanas de Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/estudios/topico/familia/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Estudios'>Estudios</p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/galatas-1.6-10/'
+        class='card-header-title'
+          title='Galatas 1.6-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatas 1.6-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/calvinismo-una-cosmovision-idolatra/'
+        class='card-header-title'
+          title='Identificando la Cosmovisión del Calvinismo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Identificando la Cosmovisión del Calvinismo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/jovenes/'
+        class='card-header-title'
+          title='Jóvenes en la Biblia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jóvenes en la Biblia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/juan-541/'
+        class='card-header-title'
+          title='Juan 5:41'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Juan 5:41</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/la-iglesia/'
+        class='card-header-title'
+          title='La Iglesia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Iglesia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/la-ley/'
+        class='card-header-title'
+          title='La Ley y La Gracia'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">La Ley y La Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/estudios/topico/lecciones/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Lecciones'>Lecciones</p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/los-sufrimientos-de-cristo/'
+        class='card-header-title'
+          title='Los Sufrimientos de Cristo'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Los Sufrimientos de Cristo</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/matrimonio/'
+        class='card-header-title'
+          title='Matrimonio es Idea de Dios'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Matrimonio es Idea de Dios</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-expanded"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/estudios/libros/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Libros'>Libros</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-expanded">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card is-sidebar-active"id='sidebarActiveEntry'><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/colosenses/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/filemon/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-juan/'
+        class='card-header-title'
+          title='1 Juan'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Juan</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/2-pedro/'
+        class='card-header-title'
+          title='2 Pedro'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/g%C3%A1latas-517-21/'
+        class='card-header-title'
+          title='Gálatas 5:17-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Gálatas 5:17-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/habacuc/'
+        class='card-header-title'
+          title='Habacúc'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacúc</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/habacuc2.4/'
+        class='card-header-title'
+          title='Habacuc 2.4'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habacuc 2.4</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos/'
+        class='card-header-title'
+          title='Hebreos'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/jueces/'
+        class='card-header-title'
+          title='Jueces'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jueces</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/romanos9-16/'
+        class='card-header-title'
+          title='Romanos 9-16'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romanos 9-16</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/santiago/'
+        class='card-header-title'
+          title='Santiago'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="card is-fs-expandable-icon"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i></div></div>
+      </div><div class="is-expandable">
+      <div class="is-sidebar-list-wrapper"><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/'>
+        <i class='fa-solid fa-bars fa-lg'></i><p class="pt-0 pb-0 pr-2 pl-1" title='Studies'>Studies</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/books/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Books'>Books</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/1-john/'
+        class='card-header-title'
+          title='1 John'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 John</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/1-peter/'
+        class='card-header-title'
+          title='1 Peter'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Peter</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/2-timothy/'
+        class='card-header-title'
+          title='2 Timothy'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Timothy</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/books/archives/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Archives'>Archives</p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/ephesians/'
+        class='card-header-title'
+          title='Ephesians'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Ephesians</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/galatians/'
+        class='card-header-title'
+          title='Galatians'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/galatians-111-24/'
+        class='card-header-title'
+          title='Galatians 1:11-24'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 1:11-24</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/gal-3.21-29/'
+        class='card-header-title'
+          title='Galatians 3:21-29'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Galatians 3:21-29</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/habakkuk/'
+        class='card-header-title'
+          title='Habakuk'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Habakuk</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/hebrews-31-6/'
+        class='card-header-title'
+          title='Hebrews 3:1-6, 4:11-16'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebrews 3:1-6, 4:11-16</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/john-11.1-23/'
+        class='card-header-title'
+          title='John 11:1-23'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:1-23</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/john-11.35-48/'
+        class='card-header-title'
+          title='John 11:35-48'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 11:35-48</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/john-13.21-38/'
+        class='card-header-title'
+          title='John 13:21-38'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 13:21-38</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/john-831-44/'
+        class='card-header-title'
+          title='John 8:31-44'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">John 8:31-44</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/ot-books/'
+        class='card-header-title'
+          title='OT Books'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">OT Books</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/phil-21-2-phrased/'
+        class='card-header-title'
+          title='Phil 2:1-2 phrased'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Phil 2:1-2 phrased</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/romans-1.18-32/'
+        class='card-header-title'
+          title='Romans 1:18-32'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 1:18-32</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/romans-109-10/'
+        class='card-header-title'
+          title='Romans 10:9-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 10:9-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/romans-9-16/'
+        class='card-header-title'
+          title='Romans 9-11'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Romans 9-11</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/zechariah/'
+        class='card-header-title'
+          title='Zechariah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zechariah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/books/zephaniah/'
+        class='card-header-title'
+          title='Zephaniah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Zephaniah</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/discipleship-need/'
+        class='card-header-title'
+          title='Discipleship -&gt; importance'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Discipleship -&gt; importance</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/topical/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title='Topics'>Topics</p></div><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
+                <span class='icon'></span>
+              </a>
+            </div>
+          </div><ul class="is-marginless"><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/topical/2015-03-24-predestination/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class='card-header is-sidebar-disable'>
+      <div class='card-header-title' href='/studies/topical/armageddon/'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/the-day-of-the-lord/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/the-church/'
+        class='card-header-title'
+          title=''>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0"></p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/angels/'
+        class='card-header-title'
+          title='Angels'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Angels</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/armageddon-zech6/'
+        class='card-header-title'
+          title='Armageddon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Armageddon</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/biblical_covenants/'
+        class='card-header-title'
+          title='Biblical Covenants'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Biblical Covenants</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/confession-of-sins/'
+        class='card-header-title'
+          title='Confession of Sins'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Confession of Sins</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2021-07-27-daniel.6.18-28/'
+        class='card-header-title'
+          title='Daniel'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2020-06-08-daniel-31-12/'
+        class='card-header-title'
+          title='Daniel 3:1-12'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Daniel 3:1-12</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/dealing_with_pain/'
+        class='card-header-title'
+          title='Dealing with Pain'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Dealing with Pain</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/discipleship-need/'
+        class='card-header-title'
+          title='Discipleship -&gt; importance'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Discipleship -&gt; importance</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/homiletics/'
+        class='card-header-title'
+          title='Homiletics'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Homiletics</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/'
+        class='card-header-title'
+          title='install Jekyll on MacOS Big Sur'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">install Jekyll on MacOS Big Sur</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/israel-egypt/'
+        class='card-header-title'
+          title='Israel in Egypt'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Israel in Egypt</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/'
+        class='card-header-title'
+          title='Jesus mismo-nuestra propiciación'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Jesus mismo-nuestra propiciación</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/marriage/'
+        class='card-header-title'
+          title='Marriage'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Marriage</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/juda-kings-mothers/'
+        class='card-header-title'
+          title='Mothers of King of Judah'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Mothers of King of Judah</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2015-02-15-obedience-of-faith/'
+        class='card-header-title'
+          title='Obedience of faith'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Obedience of faith</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/ot-books/'
+        class='card-header-title'
+          title='OT Books'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">OT Books</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2020-06-08-repentance/'
+        class='card-header-title'
+          title='Repentance According to the Bible'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Repentance According to the Bible</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/the-blood-of-jesus/'
+        class='card-header-title'
+          title='The blood of Jesus'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The blood of Jesus</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/'
+        class='card-header-title'
+          title='The Warning to Timothy of False Teachers'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">The Warning to Timothy of False Teachers</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/2021-07-21-two-instructors/'
+        class='card-header-title'
+          title='Two Instructors'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Two Instructors</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/studies/topical/i-am-acused-of-teaching-easy-believism/'
+        class='card-header-title'
+          title='You are Teaching &#39;Easy Believism&#39;'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">You are Teaching &#39;Easy Believism&#39;</p></a></div>
+          </div></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul></li>
+      </div>
+    </div></ul>
+      </aside>
+    </div>
+    <div id="sidebarCollapsible" class="is-marginless">
+      <div class="card is-uncollapse-action">
+        <div
+          id="sidebarUncollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-right fa-lg"></i>
+          </a>
+        </div>
+      </div>
+      <div class="card is-collapse-action">
+        <div
+          id="sidebarCollapse"
+          class="card-header is-single-link"
+          title="Collapse/Uncollapse sidebar"
+        >
+          <a class="card-header-title">
+            <i class="fa-solid fa-angles-left fa-lg"></i>
+            <p>Collapse sidebar</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="sidebarMobileWrapper" class="column is-narrow is-hidden-desktop"></div>
+<div class="columns is-mobile is-marginless is-scroll-smooth has-toc" id="contentContainer">
+  <div class="column" id="content"><h2 id='greeting'>Greeting<a href='#greeting' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.1.1"
+    class="is-pretty-link"><strong>Col 1:1</strong> </a
+>
+ Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,</p>
+<p><a
+  href="verseid:51.1.2"
+    class="is-pretty-link"><strong>Col 1:2</strong> </a
+>
+ a los santos y fieles hermanos en Cristo <em>que están</em> en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.</p>
+<h2 id='thanksgiving-and-prayer'>Thanksgiving and Prayer<a href='#thanksgiving-and-prayer' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.1.3"
+    class="is-pretty-link"><strong>Col 1:3</strong> </a
+>
+ Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,</p>
+<p><a
+  href="verseid:51.1.4"
+    class="is-pretty-link"><strong>Col 1:4</strong> </a
+>
+ <em>pues hemos oído</em> de su fe en Cristo Jesús y del amor que tienen por todos los santos,</p>
+<p><a
+  href="verseid:51.1.5"
+    class="is-pretty-link"><strong>Col 1:5</strong> </a
+>
+ a causa de la esperanza reservada para ustedes en los cielos. De esta esperanza ustedes oyeron antes en la palabra de verdad, el evangelio</p>
+<p><a
+  href="verseid:51.1.6"
+    class="is-pretty-link"><strong>Col 1:6</strong> </a
+>
+ que ha llegado hasta ustedes. Así como en todo el mundo está dando fruto constantemente y creciendo, así <em>lo ha estado haciendo</em> también en ustedes, desde el día que oyeron y comprendieron la gracia de Dios en verdad.</p>
+<p><a
+  href="verseid:51.1.7"
+    class="is-pretty-link"><strong>Col 1:7</strong> </a
+>
+ Así ustedes <em>lo</em> aprendieron de Epafras, nuestro amado consiervo, quien es fiel servidor de Cristo de parte nuestra,</p>
+<p><a
+  href="verseid:51.1.8"
+    class="is-pretty-link"><strong>Col 1:8</strong> </a
+>
+ el cual también nos informó acerca del amor de ustedes en el Espíritu.</p>
+<p><a
+  href="verseid:51.1.9"
+    class="is-pretty-link"><strong>Col 1:9</strong> </a
+>
+ Por esta razón, también nosotros, desde el día que <em>lo</em> supimos, no hemos cesado de orar por ustedes, pidiendo que sean llenos del conocimiento de Su voluntad en toda sabiduría y comprensión espiritual,</p>
+<p><a
+  href="verseid:51.1.10"
+    class="is-pretty-link"><strong>Col 1:10</strong> </a
+>
+ para que anden como es digno del Señor, haciendo en todo, lo que <em>le</em>agrada, dando fruto en toda buena obra y creciendo en el conocimiento de Dios.</p>
+<p><a
+  href="verseid:51.1.11"
+    class="is-pretty-link"><strong>Col 1:11</strong> </a
+>
+ Rogamos que ustedes sean fortalecidos con todo poder según la potencia de Su gloria, para obtener toda perseverancia y paciencia, con gozo</p>
+<p><a
+  href="verseid:51.1.12"
+    class="is-pretty-link"><strong>Col 1:12</strong> </a
+>
+ dando gracias al Padre que nos ha capacitado para compartir la herencia de los santos en la Luz.</p>
+<p><a
+  href="verseid:51.1.13"
+    class="is-pretty-link"><strong>Col 1:13</strong> </a
+>
+ Porque Él nos libró del dominio de las tinieblas y nos trasladó al reino de Su Hijo amado,</p>
+<p><a
+  href="verseid:51.1.14"
+    class="is-pretty-link"><strong>Col 1:14</strong> </a
+>
+ en quien tenemos redención: el perdón de los pecados.</p>
+<h2 id='the-preeminence-of-christ'>The Preeminence of Christ<a href='#the-preeminence-of-christ' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.1.15"
+    class="is-pretty-link"><strong>Col 1:15</strong> </a
+>
+ Él es la imagen del Dios invisible, el primogénito de toda creación.</p>
+<p><a
+  href="verseid:51.1.16"
+    class="is-pretty-link"><strong>Col 1:16</strong> </a
+>
+ Porque en Él fueron creadas todas las cosas, <em>tanto</em> en los cielos <em>como</em> en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.</p>
+<p><a
+  href="verseid:51.1.17"
+    class="is-pretty-link"><strong>Col 1:17</strong> </a
+>
+ Y Él es antes de todas las cosas, y en Él todas las cosas permanecen.</p>
+<p><a
+  href="verseid:51.1.18"
+    class="is-pretty-link"><strong>Col 1:18</strong> </a
+>
+ Él es también la cabeza del cuerpo <em>que es</em> la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía.</p>
+<p><a
+  href="verseid:51.1.19"
+    class="is-pretty-link"><strong>Col 1:19</strong> </a
+>
+ Porque agradó <em>al Padre</em> que en Él habitara toda la plenitud,</p>
+<p><a
+  href="verseid:51.1.20"
+    class="is-pretty-link"><strong>Col 1:20</strong> </a
+>
+ y por medio de Él reconciliar todas las cosas consigo, habiendo hecho la paz por medio de la sangre de Su cruz, por medio de Él, <em>repito,</em> ya sean las que están en la tierra o las que están en los cielos.</p>
+<p><a
+  href="verseid:51.1.21"
+    class="is-pretty-link"><strong>Col 1:21</strong> </a
+>
+ Y aunque ustedes antes estaban alejados y <em>eran</em> de ánimo hostil, <em>ocupados</em> en malas obras,</p>
+<p><a
+  href="verseid:51.1.22"
+    class="is-pretty-link"><strong>Col 1:22</strong> </a
+>
+ sin embargo, ahora Dios los ha reconciliado <em>en Cristo</em> en Su cuerpo de carne, mediante Su muerte, a fin de presentarlos santos, sin mancha e irreprensibles delante de Él.</p>
+<p><a
+  href="verseid:51.1.23"
+    class="is-pretty-link"><strong>Col 1:23</strong> </a
+>
+ Esto Él hará si en verdad permanecen en la fe bien cimentados y constantes, sin moverse de la esperanza del evangelio que han oído, que fue proclamado a toda la creación debajo del cielo, y del cual yo, Pablo, fui hecho ministro.</p>
+<h2 id='pauls-ministry-to-the-church'>Paul&rsquo;s Ministry to the Church<a href='#pauls-ministry-to-the-church' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.1.24"
+    class="is-pretty-link"><strong>Col 1:24</strong> </a
+>
+ Ahora me alegro de mis sufrimientos por ustedes, y en mi carne, completando lo que falta de las aflicciones de Cristo, hago mi parte por Su cuerpo, que es la iglesia.</p>
+<p><a
+  href="verseid:51.1.25"
+    class="is-pretty-link"><strong>Col 1:25</strong> </a
+>
+ De <em>esta iglesia</em> fui hecho ministro conforme a la administración de Dios que me fue dada para beneficio de ustedes, a fin de llevar a cabo <em>la predicación de</em> la palabra de Dios,</p>
+<p><a
+  href="verseid:51.1.26"
+    class="is-pretty-link"><strong>Col 1:26</strong> </a
+>
+ <em>es decir,</em> el misterio que ha estado oculto desde los siglos y generaciones, pero que ahora ha sido manifestado a sus santos.</p>
+<p><a
+  href="verseid:51.1.27"
+    class="is-pretty-link"><strong>Col 1:27</strong> </a
+>
+ A estos Dios quiso dar a conocer cuáles son las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en ustedes, la esperanza de la gloria.</p>
+<p><a
+  href="verseid:51.1.28"
+    class="is-pretty-link"><strong>Col 1:28</strong> </a
+>
+ A Él nosotros proclamamos, amonestando a todos los hombres, y enseñando a todos los hombres con toda sabiduría, a fin de poder presentar a todo hombre perfecto en Cristo.</p>
+<p><a
+  href="verseid:51.1.29"
+    class="is-pretty-link"><strong>Col 1:29</strong> </a
+>
+ Con este fin también trabajo, esforzándome según Su poder que obra poderosamente en mí.</p>
+<p><a
+  href="verseid:51.2.1"
+    class="is-pretty-link"><strong>Col 2:1</strong> </a
+>
+ Porque quiero que sepan qué gran lucha tengo por ustedes y por los que están en Laodicea, y por todos los que no me han visto en persona.</p>
+<p><a
+  href="verseid:51.2.2"
+    class="is-pretty-link"><strong>Col 2:2</strong> </a
+>
+ <em>Espero que con esto</em> sean alentados sus corazones, y unidos en amor, <em>alcancen</em> todas las riquezas que <em>proceden</em> de una plena seguridad de comprensión, <em>resultando</em> en un verdadero conocimiento del misterio de Dios, <em>es decir,</em> de Cristo,</p>
+<p><a
+  href="verseid:51.2.3"
+    class="is-pretty-link"><strong>Col 2:3</strong> </a
+>
+ en quien están escondidos todos los tesoros de la sabiduría y del conocimiento.</p>
+<p><a
+  href="verseid:51.2.4"
+    class="is-pretty-link"><strong>Col 2:4</strong> </a
+>
+ Esto lo digo para que nadie los engañe con razonamientos persuasivos.</p>
+<p><a
+  href="verseid:51.2.5"
+    class="is-pretty-link"><strong>Col 2:5</strong> </a
+>
+ Porque aunque estoy ausente en el cuerpo, sin embargo estoy con ustedes en espíritu, regocijándome al ver su buena disciplina y la estabilidad de la fe de ustedes en Cristo.</p>
+<h2 id='alive-in-christ'>Alive in Christ<a href='#alive-in-christ' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.2.6"
+    class="is-pretty-link"><strong>Col 2:6</strong> </a
+>
+ Por tanto, de la manera que recibieron a Cristo Jesús el Señor, <em>así</em> anden en Él;</p>
+<p><a
+  href="verseid:51.2.7"
+    class="is-pretty-link"><strong>Col 2:7</strong> </a
+>
+ firmemente arraigados y edificados en Él y confirmados en su fe, tal como fueron instruidos, rebosando de gratitud.</p>
+<p><a
+  href="verseid:51.2.8"
+    class="is-pretty-link"><strong>Col 2:8</strong> </a
+>
+ Miren que nadie los haga cautivos por medio de <em>su</em> filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo.</p>
+<p><a
+  href="verseid:51.2.9"
+    class="is-pretty-link"><strong>Col 2:9</strong> </a
+>
+ Porque toda la plenitud de la Deidad reside corporalmente en Él,</p>
+<p><a
+  href="verseid:51.2.10"
+    class="is-pretty-link"><strong>Col 2:10</strong> </a
+>
+ y ustedes han sido hechos completos en Él, que es la cabeza sobre todo poder y autoridad.</p>
+<p><a
+  href="verseid:51.2.11"
+    class="is-pretty-link"><strong>Col 2:11</strong> </a
+>
+ También en Él ustedes fueron circuncidados con una circuncisión no hecha por manos, al quitar el cuerpo de la carne mediante la circuncisión de Cristo;</p>
+<p><a
+  href="verseid:51.2.12"
+    class="is-pretty-link"><strong>Col 2:12</strong> </a
+>
+ habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción <em>del poder</em> de Dios, que lo resucitó de entre los muertos.</p>
+<p><a
+  href="verseid:51.2.13"
+    class="is-pretty-link"><strong>Col 2:13</strong> </a
+>
+ Y cuando ustedes estaban muertos en sus delitos y en la incircuncisión de su carne, Dios les dio vida juntamente con Cristo, habiéndonos perdonado todos los delitos,</p>
+<p><a
+  href="verseid:51.2.14"
+    class="is-pretty-link"><strong>Col 2:14</strong> </a
+>
+ habiendo cancelado el documento de deuda que consistía en decretos contra nosotros <em>y</em> que nos era adverso, y lo ha quitado de en medio, clavándolo en la cruz.</p>
+<p><a
+  href="verseid:51.2.15"
+    class="is-pretty-link"><strong>Col 2:15</strong> </a
+>
+ <em>Y</em> habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.</p>
+<h2 id='let-no-one-disqualify-you'>Let No One Disqualify You<a href='#let-no-one-disqualify-you' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.2.16"
+    class="is-pretty-link"><strong>Col 2:16</strong> </a
+>
+ Por tanto, que nadie se constituya en juez de ustedes con respecto a comida o bebida, o en cuanto a día de fiesta, o luna nueva, o día de reposo,</p>
+<p><a
+  href="verseid:51.2.17"
+    class="is-pretty-link"><strong>Col 2:17</strong> </a
+>
+ cosas que <em>solo</em> son sombra de lo que ha de venir, pero el cuerpo pertenece a Cristo.</p>
+<p><a
+  href="verseid:51.2.18"
+    class="is-pretty-link"><strong>Col 2:18</strong> </a
+>
+ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y en la adoración de los ángeles, basándose en las <em>visiones</em> que ha visto, envanecido sin causa por su mente carnal,</p>
+<p><a
+  href="verseid:51.2.19"
+    class="is-pretty-link"><strong>Col 2:19</strong> </a
+>
+ pero no asiéndose a la Cabeza, de la cual todo el cuerpo, nutrido y unido por las coyunturas y ligamentos, crece con un crecimiento <em>que es</em> de Dios.</p>
+<p><a
+  href="verseid:51.2.20"
+    class="is-pretty-link"><strong>Col 2:20</strong> </a
+>
+ Si ustedes han muerto con Cristo a los principios elementales del mundo, ¿por qué, como si <em>aún</em> vivieran en el mundo, se someten a preceptos tales como:</p>
+<p><a
+  href="verseid:51.2.21"
+    class="is-pretty-link"><strong>Col 2:21</strong> </a
+>
+ «no manipules, no gustes, no toques»,</p>
+<p><a
+  href="verseid:51.2.22"
+    class="is-pretty-link"><strong>Col 2:22</strong> </a
+>
+ (todos los cuales <em>se refieren a</em> cosas destinadas a perecer con el uso), según los preceptos y enseñanzas de los hombres?</p>
+<p><a
+  href="verseid:51.2.23"
+    class="is-pretty-link"><strong>Col 2:23</strong> </a
+>
+ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión humana, en la humillación de sí mismo y en el trato severo del cuerpo, <em>pero</em>carecen de valor alguno contra los apetitos de la carne.</p>
+<h2 id='put-on-the-new-self'>Put On the New Self<a href='#put-on-the-new-self' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.3.1"
+    class="is-pretty-link"><strong>Col 3:1</strong> </a
+>
+ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios.</p>
+<p><a
+  href="verseid:51.3.2"
+    class="is-pretty-link"><strong>Col 3:2</strong> </a
+>
+ Pongan la mira en las cosas de arriba, no en las de la tierra.</p>
+<p><a
+  href="verseid:51.3.3"
+    class="is-pretty-link"><strong>Col 3:3</strong> </a
+>
+ Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.</p>
+<p><a
+  href="verseid:51.3.4"
+    class="is-pretty-link"><strong>Col 3:4</strong> </a
+>
+ Cuando Cristo, nuestra vida, sea manifestado, entonces ustedes también serán manifestados con Él en gloria.</p>
+<p><a
+  href="verseid:51.3.5"
+    class="is-pretty-link"><strong>Col 3:5</strong> </a
+>
+<a
+  href="note:51.3.5"
+    class="is-pretty-link"> 📝 </a
+>
+ Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la fornicación, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.</p>
+<p><a
+  href="verseid:51.3.6"
+    class="is-pretty-link"><strong>Col 3:6</strong> </a
+>
+ Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas,</p>
+<p><a
+  href="verseid:51.3.7"
+    class="is-pretty-link"><strong>Col 3:7</strong> </a
+>
+ en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas.</p>
+<p><a
+  href="verseid:51.3.8"
+    class="is-pretty-link"><strong>Col 3:8</strong> </a
+>
+ Pero ahora desechen también todo esto: ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.</p>
+<p><a
+  href="verseid:51.3.9"
+    class="is-pretty-link"><strong>Col 3:9</strong> </a
+>
+ Dejen de mentirse los unos a los otros, puesto que han desechado al viejo hombre con sus <em>malos</em> hábitos,</p>
+<p><a
+  href="verseid:51.3.10"
+    class="is-pretty-link"><strong>Col 3:10</strong> </a
+>
+ y se han vestido del nuevo <em>hombre,</em> el cual se va renovando hacia un verdadero conocimiento, conforme a la imagen de Aquel que lo creó.</p>
+<p><a
+  href="verseid:51.3.11"
+    class="is-pretty-link"><strong>Col 3:11</strong> </a
+>
+ <em>En esta renovación</em> no hay <em>distinción entre</em> griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo <em>o</em> libre, sino que Cristo es todo, y en todos.</p>
+<p><a
+  href="verseid:51.3.12"
+    class="is-pretty-link"><strong>Col 3:12</strong> </a
+>
+ Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna compasión, bondad, humildad, mansedumbre y paciencia;</p>
+<p><a
+  href="verseid:51.3.13"
+    class="is-pretty-link"><strong>Col 3:13</strong> </a
+>
+ soportándose unos a otros y perdonándose unos a otros, si alguien tiene queja contra otro. Como Cristo los perdonó, así también <em>háganlo</em> ustedes.</p>
+<p><a
+  href="verseid:51.3.14"
+    class="is-pretty-link"><strong>Col 3:14</strong> </a
+>
+ Sobre todas estas cosas, <em>vístanse de</em> amor, que es el vínculo de la unidad.</p>
+<p><a
+  href="verseid:51.3.15"
+    class="is-pretty-link"><strong>Col 3:15</strong> </a
+>
+ Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.</p>
+<p><a
+  href="verseid:51.3.16"
+    class="is-pretty-link"><strong>Col 3:16</strong> </a
+>
+ Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos <em>y</em>canciones espirituales, cantando a Dios con acción de gracias en sus corazones.</p>
+<p><a
+  href="verseid:51.3.17"
+    class="is-pretty-link"><strong>Col 3:17</strong> </a
+>
+ Y todo lo que hagan, de palabra o de hecho, <em>háganlo</em> todo en el nombre del Señor Jesús, dando gracias por medio de Él a Dios el Padre.</p>
+<h2 id='rules-for-christian-households'>Rules for Christian Households<a href='#rules-for-christian-households' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.3.18"
+    class="is-pretty-link"><strong>Col 3:18</strong> </a
+>
+ Mujeres, estén sujetas a sus maridos, como conviene en el Señor.</p>
+<p><a
+  href="verseid:51.3.19"
+    class="is-pretty-link"><strong>Col 3:19</strong> </a
+>
+ Maridos, amen a sus mujeres y no sean ásperos con ellas.</p>
+<p><a
+  href="verseid:51.3.20"
+    class="is-pretty-link"><strong>Col 3:20</strong> </a
+>
+ Hijos, sean obedientes a sus padres en todo, porque esto es agradable al Señor.</p>
+<p><a
+  href="verseid:51.3.21"
+    class="is-pretty-link"><strong>Col 3:21</strong> </a
+>
+ Padres, no exasperen a sus hijos, para que no se desalienten.</p>
+<p><a
+  href="verseid:51.3.22"
+    class="is-pretty-link"><strong>Col 3:22</strong> </a
+>
+ Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los que quieren agradar a los hombres, sino con sinceridad de corazón, temiendo al Señor.</p>
+<p><a
+  href="verseid:51.3.23"
+    class="is-pretty-link"><strong>Col 3:23</strong> </a
+>
+ Todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombres,</p>
+<p><a
+  href="verseid:51.3.24"
+    class="is-pretty-link"><strong>Col 3:24</strong> </a
+>
+ sabiendo que del Señor recibirán la recompensa de la herencia. Es a Cristo el Señor a quien sirven.</p>
+<p><a
+  href="verseid:51.3.25"
+    class="is-pretty-link"><strong>Col 3:25</strong> </a
+>
+ Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido, y eso, sin acepción de personas.</p>
+<p><a
+  href="verseid:51.4.1"
+    class="is-pretty-link"><strong>Col 4:1</strong> </a
+>
+ Amos, traten con justicia y equidad a sus siervos, sabiendo que ustedes también tienen un Señor en el cielo.</p>
+<h2 id='further-instructions'>Further Instructions<a href='#further-instructions' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.4.2"
+    class="is-pretty-link"><strong>Col 4:2</strong> </a
+>
+ Perseveren en la oración, velando en ella con acción de gracias.</p>
+<p><a
+  href="verseid:51.4.3"
+    class="is-pretty-link"><strong>Col 4:3</strong> </a
+>
+ Oren al mismo tiempo también por nosotros, para que Dios nos abra una puerta para la palabra, a fin de dar a conocer el misterio de Cristo, por el cual también he sido encarcelado,</p>
+<p><a
+  href="verseid:51.4.4"
+    class="is-pretty-link"><strong>Col 4:4</strong> </a
+>
+ para manifestarlo como debo hacerlo.</p>
+<p><a
+  href="verseid:51.4.5"
+    class="is-pretty-link"><strong>Col 4:5</strong> </a
+>
+ Anden sabiamente para con los de afuera, aprovechando bien el tiempo.</p>
+<p><a
+  href="verseid:51.4.6"
+    class="is-pretty-link"><strong>Col 4:6</strong> </a
+>
+ Que su conversación sea siempre con gracia, sazonada <em>como</em> con sal, para que sepan cómo deben responder a cada persona.</p>
+<h2 id='final-greetings'>Final Greetings<a href='#final-greetings' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:51.4.7"
+    class="is-pretty-link"><strong>Col 4:7</strong> </a
+>
+ En cuanto a todos mis asuntos, les informará Tíquico, <em>nuestro</em> amado hermano, fiel ministro y consiervo en el Señor.</p>
+<p><a
+  href="verseid:51.4.8"
+    class="is-pretty-link"><strong>Col 4:8</strong> </a
+>
+ <em>Porque</em> precisamente para esto lo he enviado a ustedes, para que sepan de nuestras circunstancias y que conforte sus corazones;</p>
+<p><a
+  href="verseid:51.4.9"
+    class="is-pretty-link"><strong>Col 4:9</strong> </a
+>
+ y con él a Onésimo, fiel y amado hermano, que es uno de ustedes. Ellos les informarán acerca de todo lo que aquí pasa.</p>
+<p><a
+  href="verseid:51.4.10"
+    class="is-pretty-link"><strong>Col 4:10</strong> </a
+>
+ Aristarco, mi compañero de prisión, les envía saludos. También Marcos, el primo de Bernabé, (acerca del cual ustedes recibieron instrucciones. Si va a verlos, recíbanlo bien).</p>
+<p><a
+  href="verseid:51.4.11"
+    class="is-pretty-link"><strong>Col 4:11</strong> </a
+>
+ <em>También</em> Jesús, llamado Justo. Estos son los únicos colaboradores <em>conmigo</em>en el reino de Dios que son de la circuncisión, y ellos han resultado ser un estímulo para mí.</p>
+<p><a
+  href="verseid:51.4.12"
+    class="is-pretty-link"><strong>Col 4:12</strong> </a
+>
+ Epafras, que es uno de ustedes, siervo de Jesucristo, les envía saludos, siempre esforzándose intensamente a favor de ustedes en sus oraciones, para que estén firmes, perfectos y completamente seguros en toda la voluntad de Dios.</p>
+<p><a
+  href="verseid:51.4.13"
+    class="is-pretty-link"><strong>Col 4:13</strong> </a
+>
+ Porque de él soy testigo de que tiene profundo interés por ustedes y por los que están en Laodicea y en Hierápolis.</p>
+<p><a
+  href="verseid:51.4.14"
+    class="is-pretty-link"><strong>Col 4:14</strong> </a
+>
+ Lucas, el médico amado, les envía saludos, y <em>también</em> Demas.</p>
+<p><a
+  href="verseid:51.4.15"
+    class="is-pretty-link"><strong>Col 4:15</strong> </a
+>
+ Saluden a los hermanos que están en Laodicea, también a Ninfas y a la iglesia que está en su casa.</p>
+<p><a
+  href="verseid:51.4.16"
+    class="is-pretty-link"><strong>Col 4:16</strong> </a
+>
+ Cuando esta carta se haya leído entre ustedes, háganla leer también en la iglesia de los laodicenses. Ustedes, por su parte, lean la carta <em>que viene</em> de Laodicea.</p>
+<p><a
+  href="verseid:51.4.17"
+    class="is-pretty-link"><strong>Col 4:17</strong> </a
+>
+ Díganle a Arquipo: «Cuida el ministerio que has recibido del Señor, para que lo cumplas».</p>
+<p><a
+  href="verseid:51.4.18"
+    class="is-pretty-link"><strong>Col 4:18</strong> </a
+>
+ Yo, Pablo, escribo este saludo con mi propia mano. Acuérdense de mis cadenas. La gracia sea con ustedes.</p>
+<p>=====</p>
+<p><a
+  href="verseid:51.1.1"
+    class="is-pretty-link"><strong>Col 1:1</strong> </a
+>
+ Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,</p>
+<p><a
+  href="verseid:51.1.2"
+    class="is-pretty-link"><strong>Col 1:2</strong> </a
+>
+ a los santos y fieles hermanos en Cristo <em>que están</em> en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.</p>
+<p><a
+  href="verseid:51.1.3"
+    class="is-pretty-link"><strong>Col 1:3</strong> </a
+>
+ Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,</p>
+<p><a
+  href="verseid:51.1.4"
+    class="is-pretty-link"><strong>Col 1:4</strong> </a
+>
+ <em>pues hemos oído</em> de su fe en Cristo Jesús y del amor que tienen por todos los santos,</p>
+<p><a
+  href="verseid:51.1.5"
+    class="is-pretty-link"><strong>Col 1:5</strong> </a
+>
+ a causa de la esperanza reservada para ustedes en los cielos. De esta esperanza ustedes oyeron antes en la palabra de verdad, el evangelio</p>
+<p><a
+  href="verseid:51.1.6"
+    class="is-pretty-link"><strong>Col 1:6</strong> </a
+>
+ que ha llegado hasta ustedes. Así como en todo el mundo está dando fruto constantemente y creciendo, así <em>lo ha estado haciendo</em> también en ustedes, desde el día que oyeron y comprendieron la gracia de Dios en verdad.</p>
+<p><a
+  href="verseid:51.1.7"
+    class="is-pretty-link"><strong>Col 1:7</strong> </a
+>
+ Así ustedes <em>lo</em> aprendieron de Epafras, nuestro amado consiervo, quien es fiel servidor de Cristo de parte nuestra,</p>
+<p><a
+  href="verseid:51.1.8"
+    class="is-pretty-link"><strong>Col 1:8</strong> </a
+>
+ el cual también nos informó acerca del amor de ustedes en el Espíritu.</p>
+<p><a
+  href="verseid:51.1.9"
+    class="is-pretty-link"><strong>Col 1:9</strong> </a
+>
+ Por esta razón, también nosotros, desde el día que <em>lo</em> supimos, no hemos cesado de orar por ustedes, pidiendo que sean llenos del conocimiento de Su voluntad en toda sabiduría y comprensión espiritual,</p>
+<p><a
+  href="verseid:51.1.10"
+    class="is-pretty-link"><strong>Col 1:10</strong> </a
+>
+ para que anden como es digno del Señor, haciendo en todo, lo que <em>le</em>agrada, dando fruto en toda buena obra y creciendo en el conocimiento de Dios.</p>
+<p><a
+  href="verseid:51.1.11"
+    class="is-pretty-link"><strong>Col 1:11</strong> </a
+>
+ Rogamos que ustedes sean fortalecidos con todo poder según la potencia de Su gloria, para obtener toda perseverancia y paciencia, con gozo</p>
+<p><a
+  href="verseid:51.1.12"
+    class="is-pretty-link"><strong>Col 1:12</strong> </a
+>
+ dando gracias al Padre que nos ha capacitado para compartir la herencia de los santos en la Luz.</p>
+<p><a
+  href="verseid:51.1.13"
+    class="is-pretty-link"><strong>Col 1:13</strong> </a
+>
+ Porque Él nos libró del dominio de las tinieblas y nos trasladó al reino de Su Hijo amado,</p>
+<p><a
+  href="verseid:51.1.14"
+    class="is-pretty-link"><strong>Col 1:14</strong> </a
+>
+ en quien tenemos redención: el perdón de los pecados.</p>
+<p><a
+  href="verseid:51.1.15"
+    class="is-pretty-link"><strong>Col 1:15</strong> </a
+>
+ Él es la imagen del Dios invisible, el primogénito de toda creación.</p>
+<p><a
+  href="verseid:51.1.16"
+    class="is-pretty-link"><strong>Col 1:16</strong> </a
+>
+ Porque en Él fueron creadas todas las cosas, <em>tanto</em> en los cielos <em>como</em> en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.</p>
+<p><a
+  href="verseid:51.1.17"
+    class="is-pretty-link"><strong>Col 1:17</strong> </a
+>
+ Y Él es antes de todas las cosas, y en Él todas las cosas permanecen.</p>
+<p><a
+  href="verseid:51.1.18"
+    class="is-pretty-link"><strong>Col 1:18</strong> </a
+>
+ Él es también la cabeza del cuerpo <em>que es</em> la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía.</p>
+<p><a
+  href="verseid:51.1.19"
+    class="is-pretty-link"><strong>Col 1:19</strong> </a
+>
+ Porque agradó <em>al Padre</em> que en Él habitara toda la plenitud,</p>
+<p><a
+  href="verseid:51.1.20"
+    class="is-pretty-link"><strong>Col 1:20</strong> </a
+>
+ y por medio de Él reconciliar todas las cosas consigo, habiendo hecho la paz por medio de la sangre de Su cruz, por medio de Él, <em>repito,</em> ya sean las que están en la tierra o las que están en los cielos.</p>
+<p><a
+  href="verseid:51.1.21"
+    class="is-pretty-link"><strong>Col 1:21</strong> </a
+>
+ Y aunque ustedes antes estaban alejados y <em>eran</em> de ánimo hostil, <em>ocupados</em> en malas obras,</p>
+<p><a
+  href="verseid:51.1.22"
+    class="is-pretty-link"><strong>Col 1:22</strong> </a
+>
+ sin embargo, ahora Dios los ha reconciliado <em>en Cristo</em> en Su cuerpo de carne, mediante Su muerte, a fin de presentarlos santos, sin mancha e irreprensibles delante de Él.</p>
+<p><a
+  href="verseid:51.1.23"
+    class="is-pretty-link"><strong>Col 1:23</strong> </a
+>
+ Esto Él hará si en verdad permanecen en la fe bien cimentados y constantes, sin moverse de la esperanza del evangelio que han oído, que fue proclamado a toda la creación debajo del cielo, y del cual yo, Pablo, fui hecho ministro.</p>
+<p><a
+  href="verseid:51.1.24"
+    class="is-pretty-link"><strong>Col 1:24</strong> </a
+>
+ Ahora me alegro de mis sufrimientos por ustedes, y en mi carne, completando lo que falta de las aflicciones de Cristo, hago mi parte por Su cuerpo, que es la iglesia.</p>
+<p><a
+  href="verseid:51.1.25"
+    class="is-pretty-link"><strong>Col 1:25</strong> </a
+>
+ De <em>esta iglesia</em> fui hecho ministro conforme a la administración de Dios que me fue dada para beneficio de ustedes, a fin de llevar a cabo <em>la predicación de</em> la palabra de Dios,</p>
+<p><a
+  href="verseid:51.1.26"
+    class="is-pretty-link"><strong>Col 1:26</strong> </a
+>
+ <em>es decir,</em> el misterio que ha estado oculto desde los siglos y generaciones, pero que ahora ha sido manifestado a sus santos.</p>
+<p><a
+  href="verseid:51.1.27"
+    class="is-pretty-link"><strong>Col 1:27</strong> </a
+>
+ A estos Dios quiso dar a conocer cuáles son las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en ustedes, la esperanza de la gloria.</p>
+<p><a
+  href="verseid:51.1.28"
+    class="is-pretty-link"><strong>Col 1:28</strong> </a
+>
+ A Él nosotros proclamamos, amonestando a todos los hombres, y enseñando a todos los hombres con toda sabiduría, a fin de poder presentar a todo hombre perfecto en Cristo.</p>
+<p><a
+  href="verseid:51.1.29"
+    class="is-pretty-link"><strong>Col 1:29</strong> </a
+>
+ Con este fin también trabajo, esforzándome según Su poder que obra poderosamente en mí.</p>
+<p><a
+  href="verseid:51.2.1"
+    class="is-pretty-link"><strong>Col 2:1</strong> </a
+>
+ Porque quiero que sepan qué gran lucha tengo por ustedes y por los que están en Laodicea, y por todos los que no me han visto en persona.</p>
+<p><a
+  href="verseid:51.2.2"
+    class="is-pretty-link"><strong>Col 2:2</strong> </a
+>
+ <em>Espero que con esto</em> sean alentados sus corazones, y unidos en amor, <em>alcancen</em> todas las riquezas que <em>proceden</em> de una plena seguridad de comprensión, <em>resultando</em> en un verdadero conocimiento del misterio de Dios, <em>es decir,</em> de Cristo,</p>
+<p><a
+  href="verseid:51.2.3"
+    class="is-pretty-link"><strong>Col 2:3</strong> </a
+>
+ en quien están escondidos todos los tesoros de la sabiduría y del conocimiento.</p>
+<p><a
+  href="verseid:51.2.4"
+    class="is-pretty-link"><strong>Col 2:4</strong> </a
+>
+ Esto lo digo para que nadie los engañe con razonamientos persuasivos.</p>
+<p><a
+  href="verseid:51.2.5"
+    class="is-pretty-link"><strong>Col 2:5</strong> </a
+>
+ Porque aunque estoy ausente en el cuerpo, sin embargo estoy con ustedes en espíritu, regocijándome al ver su buena disciplina y la estabilidad de la fe de ustedes en Cristo.</p>
+<p><a
+  href="verseid:51.2.6"
+    class="is-pretty-link"><strong>Col 2:6</strong> </a
+>
+ Por tanto, de la manera que recibieron a Cristo Jesús el Señor, <em>así</em> anden en Él;</p>
+<p><a
+  href="verseid:51.2.7"
+    class="is-pretty-link"><strong>Col 2:7</strong> </a
+>
+ firmemente arraigados y edificados en Él y confirmados en su fe, tal como fueron instruidos, rebosando de gratitud.</p>
+<p><a
+  href="verseid:51.2.8"
+    class="is-pretty-link"><strong>Col 2:8</strong> </a
+>
+ Miren que nadie los haga cautivos por medio de <em>su</em> filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo.</p>
+<p><a
+  href="verseid:51.2.9"
+    class="is-pretty-link"><strong>Col 2:9</strong> </a
+>
+ Porque toda la plenitud de la Deidad reside corporalmente en Él,</p>
+<p><a
+  href="verseid:51.2.10"
+    class="is-pretty-link"><strong>Col 2:10</strong> </a
+>
+ y ustedes han sido hechos completos en Él, que es la cabeza sobre todo poder y autoridad.</p>
+<p><a
+  href="verseid:51.2.11"
+    class="is-pretty-link"><strong>Col 2:11</strong> </a
+>
+ También en Él ustedes fueron circuncidados con una circuncisión no hecha por manos, al quitar el cuerpo de la carne mediante la circuncisión de Cristo;</p>
+<p><a
+  href="verseid:51.2.12"
+    class="is-pretty-link"><strong>Col 2:12</strong> </a
+>
+ habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción <em>del poder</em> de Dios, que lo resucitó de entre los muertos.</p>
+<p><a
+  href="verseid:51.2.13"
+    class="is-pretty-link"><strong>Col 2:13</strong> </a
+>
+ Y cuando ustedes estaban muertos en sus delitos y en la incircuncisión de su carne, Dios les dio vida juntamente con Cristo, habiéndonos perdonado todos los delitos,</p>
+<p><a
+  href="verseid:51.2.14"
+    class="is-pretty-link"><strong>Col 2:14</strong> </a
+>
+ habiendo cancelado el documento de deuda que consistía en decretos contra nosotros <em>y</em> que nos era adverso, y lo ha quitado de en medio, clavándolo en la cruz.</p>
+<p><a
+  href="verseid:51.2.15"
+    class="is-pretty-link"><strong>Col 2:15</strong> </a
+>
+ <em>Y</em> habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.</p>
+<p><a
+  href="verseid:51.2.16"
+    class="is-pretty-link"><strong>Col 2:16</strong> </a
+>
+ Por tanto, que nadie se constituya en juez de ustedes con respecto a comida o bebida, o en cuanto a día de fiesta, o luna nueva, o día de reposo,</p>
+<p><a
+  href="verseid:51.2.17"
+    class="is-pretty-link"><strong>Col 2:17</strong> </a
+>
+ cosas que <em>solo</em> son sombra de lo que ha de venir, pero el cuerpo pertenece a Cristo.</p>
+<p><a
+  href="verseid:51.2.18"
+    class="is-pretty-link"><strong>Col 2:18</strong> </a
+>
+ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y en la adoración de los ángeles, basándose en las <em>visiones</em> que ha visto, envanecido sin causa por su mente carnal,</p>
+<p><a
+  href="verseid:51.2.19"
+    class="is-pretty-link"><strong>Col 2:19</strong> </a
+>
+ pero no asiéndose a la Cabeza, de la cual todo el cuerpo, nutrido y unido por las coyunturas y ligamentos, crece con un crecimiento <em>que es</em> de Dios.</p>
+<p><a
+  href="verseid:51.2.20"
+    class="is-pretty-link"><strong>Col 2:20</strong> </a
+>
+ Si ustedes han muerto con Cristo a los principios elementales del mundo, ¿por qué, como si <em>aún</em> vivieran en el mundo, se someten a preceptos tales como:</p>
+<p><a
+  href="verseid:51.2.21"
+    class="is-pretty-link"><strong>Col 2:21</strong> </a
+>
+ «no manipules, no gustes, no toques»,</p>
+<p><a
+  href="verseid:51.2.22"
+    class="is-pretty-link"><strong>Col 2:22</strong> </a
+>
+ (todos los cuales <em>se refieren a</em> cosas destinadas a perecer con el uso), según los preceptos y enseñanzas de los hombres?</p>
+<p><a
+  href="verseid:51.2.23"
+    class="is-pretty-link"><strong>Col 2:23</strong> </a
+>
+ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión humana, en la humillación de sí mismo y en el trato severo del cuerpo, <em>pero</em>carecen de valor alguno contra los apetitos de la carne.</p>
+<p><a
+  href="verseid:51.3.1"
+    class="is-pretty-link"><strong>Col 3:1</strong> </a
+>
+ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios.</p>
+<p><a
+  href="verseid:51.3.2"
+    class="is-pretty-link"><strong>Col 3:2</strong> </a
+>
+ Pongan la mira en las cosas de arriba, no en las de la tierra.</p>
+<p><a
+  href="verseid:51.3.3"
+    class="is-pretty-link"><strong>Col 3:3</strong> </a
+>
+ Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.</p>
+<p><a
+  href="verseid:51.3.4"
+    class="is-pretty-link"><strong>Col 3:4</strong> </a
+>
+ Cuando Cristo, nuestra vida, sea manifestado, entonces ustedes también serán manifestados con Él en gloria.</p>
+<p><a
+  href="verseid:51.3.5"
+    class="is-pretty-link"><strong>Col 3:5</strong> </a
+>
+[ Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la fornicación, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.</p>
+<p><a
+  href="verseid:51.3.6"
+    class="is-pretty-link"><strong>Col 3:6</strong> </a
+>
+ Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas,</p>
+<p><a
+  href="verseid:51.3.7"
+    class="is-pretty-link"><strong>Col 3:7</strong> </a
+>
+ en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas.</p>
+<p><a
+  href="verseid:51.3.8"
+    class="is-pretty-link"><strong>Col 3:8</strong> </a
+>
+ Pero ahora desechen también todo esto: ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.</p>
+<p><a
+  href="verseid:51.3.9"
+    class="is-pretty-link"><strong>Col 3:9</strong> </a
+>
+ Dejen de mentirse los unos a los otros, puesto que han desechado al viejo hombre con sus <em>malos</em> hábitos,</p>
+<p><a
+  href="verseid:51.3.10"
+    class="is-pretty-link"><strong>Col 3:10</strong> </a
+>
+ y se han vestido del nuevo <em>hombre,</em> el cual se va renovando hacia un verdadero conocimiento, conforme a la imagen de Aquel que lo creó.</p>
+<p><a
+  href="verseid:51.3.11"
+    class="is-pretty-link"><strong>Col 3:11</strong> </a
+>
+ <em>En esta renovación</em> no hay <em>distinción entre</em> griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo <em>o</em> libre, sino que Cristo es todo, y en todos.</p>
+<p><a
+  href="verseid:51.3.12"
+    class="is-pretty-link"><strong>Col 3:12</strong> </a
+>
+ Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna compasión, bondad, humildad, mansedumbre y paciencia;</p>
+<p><a
+  href="verseid:51.3.13"
+    class="is-pretty-link"><strong>Col 3:13</strong> </a
+>
+ soportándose unos a otros y perdonándose unos a otros, si alguien tiene queja contra otro. Como Cristo los perdonó, así también <em>háganlo</em> ustedes.</p>
+<p><a
+  href="verseid:51.3.14"
+    class="is-pretty-link"><strong>Col 3:14</strong> </a
+>
+ Sobre todas estas cosas, <em>vístanse de</em> amor, que es el vínculo de la unidad.</p>
+<p><a
+  href="verseid:51.3.15"
+    class="is-pretty-link"><strong>Col 3:15</strong> </a
+>
+ Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.</p>
+<p><a
+  href="verseid:51.3.16"
+    class="is-pretty-link"><strong>Col 3:16</strong> </a
+>
+ Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos <em>y</em>canciones espirituales, cantando a Dios con acción de gracias en sus corazones.</p>
+<p><a
+  href="verseid:51.3.17"
+    class="is-pretty-link"><strong>Col 3:17</strong> </a
+>
+ Y todo lo que hagan, de palabra o de hecho, <em>háganlo</em> todo en el nombre del Señor Jesús, dando gracias por medio de Él a Dios el Padre.</p>
+<p><a
+  href="verseid:51.3.18"
+    class="is-pretty-link"><strong>Col 3:18</strong> </a
+>
+ Mujeres, estén sujetas a sus maridos, como conviene en el Señor.</p>
+<p><a
+  href="verseid:51.3.19"
+    class="is-pretty-link"><strong>Col 3:19</strong> </a
+>
+ Maridos, amen a sus mujeres y no sean ásperos con ellas.</p>
+<p><a
+  href="verseid:51.3.20"
+    class="is-pretty-link"><strong>Col 3:20</strong> </a
+>
+ Hijos, sean obedientes a sus padres en todo, porque esto es agradable al Señor.</p>
+<p><a
+  href="verseid:51.3.21"
+    class="is-pretty-link"><strong>Col 3:21</strong> </a
+>
+ Padres, no exasperen a sus hijos, para que no se desalienten.</p>
+<p><a
+  href="verseid:51.3.22"
+    class="is-pretty-link"><strong>Col 3:22</strong> </a
+>
+ Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los que quieren agradar a los hombres, sino con sinceridad de corazón, temiendo al Señor.</p>
+<p><a
+  href="verseid:51.3.23"
+    class="is-pretty-link"><strong>Col 3:23</strong> </a
+>
+ Todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombres,</p>
+<p><a
+  href="verseid:51.3.24"
+    class="is-pretty-link"><strong>Col 3:24</strong> </a
+>
+ sabiendo que del Señor recibirán la recompensa de la herencia. Es a Cristo el Señor a quien sirven.</p>
+<p><a
+  href="verseid:51.3.25"
+    class="is-pretty-link"><strong>Col 3:25</strong> </a
+>
+ Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido, y eso, sin acepción de personas.</p>
+<p><a
+  href="verseid:51.4.1"
+    class="is-pretty-link"><strong>Col 4:1</strong> </a
+>
+ Amos, traten con justicia y equidad a sus siervos, sabiendo que ustedes también tienen un Señor en el cielo.</p>
+<p><a
+  href="verseid:51.4.2"
+    class="is-pretty-link"><strong>Col 4:2</strong> </a
+>
+ Perseveren en la oración, velando en ella con acción de gracias.</p>
+<p><a
+  href="verseid:51.4.3"
+    class="is-pretty-link"><strong>Col 4:3</strong> </a
+>
+ Oren al mismo tiempo también por nosotros, para que Dios nos abra una puerta para la palabra, a fin de dar a conocer el misterio de Cristo, por el cual también he sido encarcelado,</p>
+<p><a
+  href="verseid:51.4.4"
+    class="is-pretty-link"><strong>Col 4:4</strong> </a
+>
+ para manifestarlo como debo hacerlo.</p>
+<p><a
+  href="verseid:51.4.5"
+    class="is-pretty-link"><strong>Col 4:5</strong> </a
+>
+ Anden sabiamente para con los de afuera, aprovechando bien el tiempo.</p>
+<p><a
+  href="verseid:51.4.6"
+    class="is-pretty-link"><strong>Col 4:6</strong> </a
+>
+ Que su conversación sea siempre con gracia, sazonada <em>como</em> con sal, para que sepan cómo deben responder a cada persona.</p>
+<p><a
+  href="verseid:51.4.7"
+    class="is-pretty-link"><strong>Col 4:7</strong> </a
+>
+ En cuanto a todos mis asuntos, les informará Tíquico, <em>nuestro</em> amado hermano, fiel ministro y consiervo en el Señor.</p>
+<p><a
+  href="verseid:51.4.8"
+    class="is-pretty-link"><strong>Col 4:8</strong> </a
+>
+ <em>Porque</em> precisamente para esto lo he enviado a ustedes, para que sepan de nuestras circunstancias y que conforte sus corazones;</p>
+<p><a
+  href="verseid:51.4.9"
+    class="is-pretty-link"><strong>Col 4:9</strong> </a
+>
+ y con él a Onésimo, fiel y amado hermano, que es uno de ustedes. Ellos les informarán acerca de todo lo que aquí pasa.</p>
+<p><a
+  href="verseid:51.4.10"
+    class="is-pretty-link"><strong>Col 4:10</strong> </a
+>
+ Aristarco, mi compañero de prisión, les envía saludos. También Marcos, el primo de Bernabé, (acerca del cual ustedes recibieron instrucciones. Si va a verlos, recíbanlo bien).</p>
+<p><a
+  href="verseid:51.4.11"
+    class="is-pretty-link"><strong>Col 4:11</strong> </a
+>
+ <em>También</em> Jesús, llamado Justo. Estos son los únicos colaboradores <em>conmigo</em>en el reino de Dios que son de la circuncisión, y ellos han resultado ser un estímulo para mí.</p>
+<p><a
+  href="verseid:51.4.12"
+    class="is-pretty-link"><strong>Col 4:12</strong> </a
+>
+ Epafras, que es uno de ustedes, siervo de Jesucristo, les envía saludos, siempre esforzándose intensamente a favor de ustedes en sus oraciones, para que estén firmes, perfectos y completamente seguros en toda la voluntad de Dios.</p>
+<p><a
+  href="verseid:51.4.13"
+    class="is-pretty-link"><strong>Col 4:13</strong> </a
+>
+ Porque de él soy testigo de que tiene profundo interés por ustedes y por los que están en Laodicea y en Hierápolis.</p>
+<p><a
+  href="verseid:51.4.14"
+    class="is-pretty-link"><strong>Col 4:14</strong> </a
+>
+ Lucas, el médico amado, les envía saludos, y <em>también</em> Demas.</p>
+<p><a
+  href="verseid:51.4.15"
+    class="is-pretty-link"><strong>Col 4:15</strong> </a
+>
+ Saluden a los hermanos que están en Laodicea, también a Ninfas y a la iglesia que está en su casa.</p>
+<p><a
+  href="verseid:51.4.16"
+    class="is-pretty-link"><strong>Col 4:16</strong> </a
+>
+ Cuando esta carta se haya leído entre ustedes, háganla leer también en la iglesia de los laodicenses. Ustedes, por su parte, lean la carta <em>que viene</em> de Laodicea.</p>
+<p><a
+  href="verseid:51.4.17"
+    class="is-pretty-link"><strong>Col 4:17</strong> </a
+>
+ Díganle a Arquipo: «Cuida el ministerio que has recibido del Señor, para que lo cumplas».</p>
+<p><a
+  href="verseid:51.4.18"
+    class="is-pretty-link"><strong>Col 4:18</strong> </a
+>
+ Yo, Pablo, escribo este saludo con mi propia mano. Acuérdense de mis cadenas. La gracia sea con ustedes.</p>
+<p>=====</p>
+<p>Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, a los santos y fieles hermanos en Cristo <em>que están</em> en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre. Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes, <em>pues hemos oído</em> de su fe en Cristo Jesús y del amor que tienen por todos los santos, a causa de la esperanza reservada para ustedes en los cielos. De esta esperanza ustedes oyeron antes en la palabra de verdad, el evangelio que ha llegado hasta ustedes. Así como en todo el mundo está dando fruto constantemente y creciendo, así <em>lo ha estado haciendo</em> también en ustedes, desde el día que oyeron y comprendieron la gracia de Dios en verdad. Así ustedes <em>lo</em> aprendieron de Epafras, nuestro amado consiervo, quien es fiel servidor de Cristo de parte nuestra, el cual también nos informó acerca del amor de ustedes en el Espíritu. Por esta razón, también nosotros, desde el día que <em>lo</em> supimos, no hemos cesado de orar por ustedes, pidiendo que sean llenos del conocimiento de Su voluntad en toda sabiduría y comprensión espiritual, para que anden como es digno del Señor, haciendo en todo, lo que <em>le</em>agrada, dando fruto en toda buena obra y creciendo en el conocimiento de Dios. Rogamos que ustedes sean fortalecidos con todo poder según la potencia de Su gloria, para obtener toda perseverancia y paciencia, con gozo dando gracias al Padre que nos ha capacitado para compartir la herencia de los santos en la Luz. Porque Él nos libró del dominio de las tinieblas y nos trasladó al reino de Su Hijo amado, en quien tenemos redención: el perdón de los pecados. Él es la imagen del Dios invisible, el primogénito de toda creación. Porque en Él fueron creadas todas las cosas, <em>tanto</em> en los cielos <em>como</em> en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él. Y Él es antes de todas las cosas, y en Él todas las cosas permanecen. Él es también la cabeza del cuerpo <em>que es</em> la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía. Porque agradó <em>al Padre</em> que en Él habitara toda la plenitud, y por medio de Él reconciliar todas las cosas consigo, habiendo hecho la paz por medio de la sangre de Su cruz, por medio de Él, <em>repito,</em> ya sean las que están en la tierra o las que están en los cielos. Y aunque ustedes antes estaban alejados y <em>eran</em> de ánimo hostil, <em>ocupados</em> en malas obras, sin embargo, ahora Dios los ha reconciliado <em>en Cristo</em> en Su cuerpo de carne, mediante Su muerte, a fin de presentarlos santos, sin mancha e irreprensibles delante de Él. Esto Él hará si en verdad permanecen en la fe bien cimentados y constantes, sin moverse de la esperanza del evangelio que han oído, que fue proclamado a toda la creación debajo del cielo, y del cual yo, Pablo, fui hecho ministro. Ahora me alegro de mis sufrimientos por ustedes, y en mi carne, completando lo que falta de las aflicciones de Cristo, hago mi parte por Su cuerpo, que es la iglesia. De <em>esta iglesia</em> fui hecho ministro conforme a la administración de Dios que me fue dada para beneficio de ustedes, a fin de llevar a cabo <em>la predicación de</em> la palabra de Dios, <em>es decir,</em> el misterio que ha estado oculto desde los siglos y generaciones, pero que ahora ha sido manifestado a sus santos. A estos Dios quiso dar a conocer cuáles son las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en ustedes, la esperanza de la gloria. A Él nosotros proclamamos, amonestando a todos los hombres, y enseñando a todos los hombres con toda sabiduría, a fin de poder presentar a todo hombre perfecto en Cristo. Con este fin también trabajo, esforzándome según Su poder que obra poderosamente en mí. Porque quiero que sepan qué gran lucha tengo por ustedes y por los que están en Laodicea, y por todos los que no me han visto en persona. <em>Espero que con esto</em> sean alentados sus corazones, y unidos en amor, <em>alcancen</em> todas las riquezas que <em>proceden</em> de una plena seguridad de comprensión, <em>resultando</em> en un verdadero conocimiento del misterio de Dios, <em>es decir,</em> de Cristo, en quien están escondidos todos los tesoros de la sabiduría y del conocimiento. Esto lo digo para que nadie los engañe con razonamientos persuasivos.Porque aunque estoy ausente en el cuerpo, sin embargo estoy con ustedes en espíritu, regocijándome al ver su buena disciplina y la estabilidad de la fe de ustedes en Cristo. Por tanto, de la manera que recibieron a Cristo Jesús el Señor, <em>así</em> anden en Él; firmemente arraigados y edificados en Él y confirmados en su fe, tal como fueron instruidos, rebosando de gratitud. Miren que nadie los haga cautivos por medio de <em>su</em> filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo. Porque toda la plenitud de la Deidad reside corporalmente en Él, y ustedes han sido hechos completos en Él, que es la cabeza sobre todo poder y autoridad. También en Él ustedes fueron circuncidados con una circuncisión no hecha por manos, al quitar el cuerpo de la carne mediante la circuncisión de Cristo; habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción <em>del poder</em> de Dios, que lo resucitó de entre los muertos. Y cuando ustedes estaban muertos en sus delitos y en la incircuncisión de su carne, Dios les dio vida juntamente con Cristo, habiéndonos perdonado todos los delitos, habiendo cancelado el documento de deuda que consistía en decretos contra nosotros <em>y</em> que nos era adverso, y lo ha quitado de en medio, clavándolo en la cruz. <em>Y</em> habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él. Por tanto, que nadie se constituya en juez de ustedes con respecto a comida o bebida, o en cuanto a día de fiesta, o luna nueva, o día de reposo, cosas que <em>solo</em> son sombra de lo que ha de venir, pero el cuerpo pertenece a Cristo. Nadie los defraude de su premio deleitándose en la humillación de sí mismo y en la adoración de los ángeles, basándose en las <em>visiones</em> que ha visto, envanecido sin causa por su mente carnal, pero no asiéndose a la Cabeza, de la cual todo el cuerpo, nutrido y unido por las coyunturas y ligamentos, crece con un crecimiento <em>que es</em> de Dios. Si ustedes han muerto con Cristo a los principios elementales del mundo, ¿por qué, como si <em>aún</em> vivieran en el mundo, se someten a preceptos tales como: «no manipules, no gustes, no toques», (todos los cuales <em>se refieren a</em> cosas destinadas a perecer con el uso), según los preceptos y enseñanzas de los hombres? Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión humana, en la humillación de sí mismo y en el trato severo del cuerpo, <em>pero</em>carecen de valor alguno contra los apetitos de la carne. Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios. Pongan la mira en las cosas de arriba, no en las de la tierra. Porque ustedes han muerto, y su vida está escondida con Cristo en Dios. Cuando Cristo, nuestra vida, sea manifestado, entonces ustedes también serán manifestados con Él en gloria. Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la fornicación, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría. Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas, en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas. Pero ahora desechen también todo esto: ira, enojo, malicia, insultos, lenguaje ofensivo de su boca. Dejen de mentirse los unos a los otros, puesto que han desechado al viejo hombre con sus <em>malos</em> hábitos, y se han vestido del nuevo <em>hombre,</em> el cual se va renovando hacia un verdadero conocimiento, conforme a la imagen de Aquel que lo creó. <em>En esta renovación</em> no hay <em>distinción entre</em> griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo <em>o</em> libre, sino que Cristo es todo, y en todos. Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna compasión, bondad, humildad, mansedumbre y paciencia; soportándose unos a otros y perdonándose unos a otros, si alguien tiene queja contra otro. Como Cristo los perdonó, así también <em>háganlo</em> ustedes. Sobre todas estas cosas, <em>vístanse de</em> amor, que es el vínculo de la unidad. Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos. Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos <em>y</em>canciones espirituales, cantando a Dios con acción de gracias en sus corazones. Y todo lo que hagan, de palabra o de hecho, <em>háganlo</em> todo en el nombre del Señor Jesús, dando gracias por medio de Él a Dios el Padre. Mujeres, estén sujetas a sus maridos, como conviene en el Señor. Maridos, amen a sus mujeres y no sean ásperos con ellas. Hijos, sean obedientes a sus padres en todo, porque esto es agradable al Señor. Padres, no exasperen a sus hijos, para que no se desalienten. Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los que quieren agradar a los hombres, sino con sinceridad de corazón, temiendo al Señor. Todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombres, sabiendo que del Señor recibirán la recompensa de la herencia. Es a Cristo el Señor a quien sirven. Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido, y eso, sin acepción de personas. Amos, traten con justicia y equidad a sus siervos, sabiendo que ustedes también tienen un Señor en el cielo. Perseveren en la oración, velando en ella con acción de gracias. Oren al mismo tiempo también por nosotros, para que Dios nos abra una puerta para la palabra, a fin de dar a conocer el misterio de Cristo, por el cual también he sido encarcelado, para manifestarlo como debo hacerlo. Anden sabiamente para con los de afuera, aprovechando bien el tiempo. Que su conversación sea siempre con gracia, sazonada <em>como</em> con sal, para que sepan cómo deben responder a cada persona. En cuanto a todos mis asuntos, les informará Tíquico, <em>nuestro</em> amado hermano, fiel ministro y consiervo en el Señor. <em>Porque</em> precisamente para esto lo he enviado a ustedes, para que sepan de nuestras circunstancias y que conforte sus corazones; y con él a Onésimo, fiel y amado hermano, que es uno de ustedes. Ellos les informarán acerca de todo lo que aquí pasa. Aristarco, mi compañero de prisión, les envía saludos. También Marcos, el primo de Bernabé, (acerca del cual ustedes recibieron instrucciones. Si va a verlos, recíbanlo bien).<em>También</em> Jesús, llamado Justo. Estos son los únicos colaboradores <em>conmigo</em>en el reino de Dios que son de la circuncisión, y ellos han resultado ser un estímulo para mí. Epafras, que es uno de ustedes, siervo de Jesucristo, les envía saludos, siempre esforzándose intensamente a favor de ustedes en sus oraciones, para que estén firmes, perfectos y completamente seguros en toda la voluntad de Dios. Porque de él soy testigo de que tiene profundo interés por ustedes y por los que están en Laodicea y en Hierápolis. Lucas, el médico amado, les envía saludos, y <em>también</em> Demas. Saluden a los hermanos que están en Laodicea, también a Ninfas y a la iglesia que está en su casa. Cuando esta carta se haya leído entre ustedes, háganla leer también en la iglesia de los laodicenses. Ustedes, por su parte, lean la carta <em>que viene</em> de Laodicea. Díganle a Arquipo: «Cuida el ministerio que has recibido del Señor, para que lo cumplas». Yo, Pablo, escribo este saludo con mi propia mano. Acuérdense de mis cadenas. La gracia sea con ustedes.</p>
+<p>====</p>
+<p>Pablo ,</p>
+<p>​	apóstol de Jesucristo</p>
+<p>​				por la voluntad de Dios,</p>
+<p>y el hermano Timoteo,</p>
+<p>a los santos y fieles hermanos</p>
+<p>​	en Cristo</p>
+<p>​	<em>que están</em> en Colosas:</p>
+<p>Gracia a ustedes y paz</p>
+<pre><code>de parte de Dios nuestro Padre. 
+</code></pre>
+<p>Damos gracias a Dios,</p>
+<pre><code>el Padre de nuestro Señor Jesucristo, 
+</code></pre>
+<p>orando siempre por ustedes,</p>
+<p><em>pues hemos oído</em></p>
+<p>de su fe en Cristo Jesús</p>
+<p>y del amor que tienen</p>
+<pre><code>por todos los santos, 
+
+a causa de la esperanza reservada 
+
+	para ustedes 
+
+	en los cielos. 
+</code></pre>
+<p>De esta esperanza ustedes oyeron</p>
+<pre><code>antes en la palabra de verdad, 
+
+	el evangelio 
+
+		que ha llegado 
+
+		hasta ustedes. 
+</code></pre>
+<p>Así como en todo el mundo</p>
+<p>está dando fruto constantemente y creciendo,</p>
+<p>así <em>lo ha estado haciendo</em> también en ustedes,</p>
+<pre><code>desde el día 
+
+que oyeron y comprendieron 
+
+la gracia de Dios en verdad. 
+</code></pre>
+<p>Así ustedes <em>lo</em> aprendieron de Epafras,</p>
+<p>nuestro amado consiervo,</p>
+<pre><code>quien es fiel servidor de Cristo de parte nuestra, 
+
+	el cual también nos informó 
+
+		acerca del amor de ustedes 
+
+		en el Espíritu. 
+</code></pre>
+<p>Por esta razón, también nosotros,</p>
+<pre><code>desde el día que *lo* supimos, 
+</code></pre>
+<p>no hemos cesado de orar por ustedes,</p>
+<pre><code>pidiendo que sean llenos 
+
+del conocimiento de Su voluntad 
+
+en toda sabiduría 
+
+y comprensión espiritual, 
+
+para que anden como es digno del Señor, 
+
+	haciendo en todo, 
+			
+			lo que *le* agrada, 
+
+			dando fruto en toda buena obra 
+	
+			y creciendo en el conocimiento de Dios. 
+</code></pre>
+<p>Rogamos que ustedes sean fortalecidos</p>
+<pre><code>con todo poder 
+
+según la potencia de Su gloria, 
+
+para obtener toda perseverancia y paciencia, 
+</code></pre>
+<p>con gozo dando gracias al Padre</p>
+<p>que nos ha capacitado</p>
+<pre><code>para compartir la herencia 
+
+de los santos en la Luz. 
+</code></pre>
+<p>Porque Él nos libró</p>
+<p>del dominio de las tinieblas</p>
+<p>y nos trasladó al reino de Su Hijo amado,</p>
+<p>en quien tenemos redención:</p>
+<p>el perdón de los pecados.</p>
+<p>Él es la imagen del Dios invisible,</p>
+<p>el primogénito de toda creación.</p>
+<p>Porque en Él fueron creadas todas las cosas,</p>
+<p><em>tanto</em> en los cielos <em>como</em> en la tierra,</p>
+<p>visibles e invisibles;</p>
+<p>ya sean tronos o dominios o poderes o autoridades;</p>
+<p>todo ha sido creado</p>
+<p>por medio de Él</p>
+<p>y para Él.</p>
+<p>Y Él es antes de todas las cosas,</p>
+<p>y en Él todas las cosas permanecen.</p>
+<p>Él es también la cabeza del cuerpo</p>
+<p><em>que es</em> la iglesia.</p>
+<p>Él es el principio,</p>
+<p>el primogénito de entre los muertos,</p>
+<p>a fin de que Él tenga en todo la primacía.</p>
+<p>Porque agradó <em>al Padre</em></p>
+<p>que en Él habitara toda la plenitud,</p>
+<p>y por medio de Él reconciliar todas las cosas consigo,</p>
+<p>habiendo hecho la paz</p>
+<p>por medio de la sangre de Su cruz,</p>
+<p>por medio de Él,</p>
+<p><em>repito,</em> ya sean las que están en la tierra</p>
+<p>o las que están en los cielos.</p>
+<p>Y aunque ustedes antes estaban alejados</p>
+<p>y <em>eran</em> de ánimo hostil,</p>
+<p><em>ocupados</em> en malas obras,</p>
+<p>sin embargo,</p>
+<p>ahora Dios los ha reconciliado</p>
+<p><em>en Cristo</em> en Su cuerpo de carne,</p>
+<p>mediante Su muerte,</p>
+<p>a fin de presentarlos santos,</p>
+<p>sin mancha e irreprensibles delante de Él.</p>
+<p>Esto Él hará</p>
+<p>si en verdad permanecen en la fe</p>
+<p>bien cimentados y constantes,</p>
+<p>sin moverse de la esperanza del evangelio que han oído,</p>
+<p>que fue proclamado a toda la creación debajo del cielo,</p>
+<p>y del cual yo, Pablo, fui hecho ministro.</p>
+<p>Ahora me alegro de mis sufrimientos por ustedes,</p>
+<p>y en mi carne, completando lo que falta de las aflicciones de Cristo,</p>
+<p>hago mi parte por Su cuerpo,</p>
+<p>que es la iglesia.</p>
+<p>De <em>esta iglesia</em> fui hecho ministro</p>
+<p>conforme a la administración de Dios</p>
+<p>que me fue dada</p>
+<pre><code>para beneficio de ustedes, 
+
+	a fin de llevar a cabo *la predicación de* la palabra de Dios, 
+
+	*es decir,* el misterio 
+
+		que ha estado oculto 
+
+		desde los siglos y generaciones, 
+
+		pero que ahora ha sido manifestado 
+			
+			a sus santos. 
+</code></pre>
+<p>A estos Dios quiso dar a conocer</p>
+<p>cuáles son las riquezas de la gloria de este misterio</p>
+<pre><code>entre los gentiles, 
+
+	que es Cristo en ustedes, 
+
+		la esperanza de la gloria. 
+</code></pre>
+<p>A Él nosotros proclamamos,</p>
+<p>amonestando a todos los hombres,</p>
+<p>y enseñando a todos los hombres con toda sabiduría,</p>
+<p>a fin de poder presentar a todo hombre perfecto en Cristo.</p>
+<p>Con este fin también trabajo,</p>
+<p>esforzándome según Su poder</p>
+<p>que obra poderosamente en mí.</p>
+<p>Porque quiero que sepan</p>
+<p>qué gran lucha tengo por ustedes</p>
+<p>y por los que están en Laodicea,</p>
+<p>y por todos los que no me han visto en persona.</p>
+<p><em>Espero que con esto</em> sean alentados sus corazones,</p>
+<p>y unidos en amor, <em>alcancen</em> todas las riquezas</p>
+<p>que <em>proceden</em> de una plena seguridad de comprensión,</p>
+<p><em>resultando</em> en un verdadero conocimiento del misterio de Dios,</p>
+<p><em>es decir,</em> de Cristo,</p>
+<p>en quien están escondidos todos los tesoros</p>
+<p>de la sabiduría y del conocimiento.</p>
+<p>Esto lo digo</p>
+<p>para que nadie los engañe</p>
+<p>con razonamientos persuasivos.</p>
+<p>Porque aunque estoy ausente en el cuerpo,</p>
+<p>sin embargo estoy con ustedes en espíritu, regocijándome</p>
+<p>al ver su buena disciplina</p>
+<p>y la estabilidad de la fe de ustedes en Cristo.</p>
+<p>Por tanto, de la manera que recibieron a Cristo Jesús el Señor,</p>
+<p><em>así</em> anden en Él;</p>
+<p>firmemente arraigados y edificados en Él y confirmados en su fe,</p>
+<p>tal como fueron instruidos,</p>
+<p>rebosando de gratitud.</p>
+<p>Miren que nadie los haga cautivos</p>
+<p>por medio de <em>su</em> filosofía y vanas sutilezas,</p>
+<p>según la tradición de los hombres,</p>
+<p>conforme a los principios elementales del mundo y no según Cristo.</p>
+<p>Porque toda la plenitud de la Deidad</p>
+<p>reside corporalmente en Él,</p>
+<p>y ustedes han sido hechos completos en Él,</p>
+<p>que es la cabeza sobre todo poder y autoridad.</p>
+<p>También en Él ustedes fueron circuncidados</p>
+<p>con una circuncisión no hecha por manos,</p>
+<p>al quitar el cuerpo de la carne</p>
+<p>mediante la circuncisión de Cristo;</p>
+<p>habiendo sido sepultados con Él en el bautismo,</p>
+<p>en el cual también han resucitado con Él</p>
+<p>por la fe en la acción <em>del poder</em> de Dios,</p>
+<p>que lo resucitó de entre los muertos.</p>
+<p>Y cuando ustedes estaban muertos</p>
+<p>en sus delitos y en la incircuncisión de su carne,</p>
+<p>Dios les dio vida juntamente con Cristo,</p>
+<p>habiéndonos perdonado todos los delitos,</p>
+<p>habiendo cancelado el documento de deuda</p>
+<p>que consistía en decretos contra nosotros <em>y</em> que nos era adverso,</p>
+<p>y lo ha quitado de en medio,</p>
+<p>clavándolo en la cruz.</p>
+<p><em>Y</em> habiendo despojado a los poderes y autoridades,</p>
+<p>hizo de ellos un espectáculo público,</p>
+<p>triunfando sobre ellos por medio de Él.</p>
+<p>Por tanto, que nadie se constituya en juez de ustedes</p>
+<p>con respecto a comida o bebida,</p>
+<p>o en cuanto a día de fiesta,</p>
+<p>o luna nueva,</p>
+<p>o día de reposo,</p>
+<p>cosas que <em>solo</em> son sombra de lo que ha de venir,</p>
+<p>pero el cuerpo pertenece a Cristo.</p>
+<p>Nadie los defraude de su premio</p>
+<p>deleitándose en la humillación de sí mismo</p>
+<p>y en la adoración de los ángeles,</p>
+<p>basándose en las <em>visiones</em> que ha visto,</p>
+<p>envanecido sin causa por su mente carnal,</p>
+<p>pero no asiéndose a la Cabeza,</p>
+<p>de la cual todo el cuerpo,</p>
+<p>nutrido y unido por las coyunturas y ligamentos,</p>
+<p>crece con un crecimiento <em>que es</em> de Dios.</p>
+<p>Si ustedes han muerto con Cristo</p>
+<p>a los principios elementales del mundo,</p>
+<p>¿por qué, como si <em>aún</em> vivieran en el mundo,</p>
+<p>se someten a preceptos tales como:</p>
+<p>«no manipules, no gustes, no toques»,</p>
+<p>(todos los cuales <em>se refieren a</em> cosas destinadas a perecer con el uso),</p>
+<p>según los preceptos y enseñanzas de los hombres?</p>
+<p>Tales cosas tienen a la verdad, la apariencia de sabiduría</p>
+<p>en una religión humana,</p>
+<p>en la humillación de sí mismo y en el trato severo del cuerpo,</p>
+<p><em>pero</em> carecen de valor alguno contra los apetitos de la carne.</p>
+<p>Si ustedes, pues, han resucitado con Cristo,</p>
+<p>busquen las cosas de arriba,</p>
+<p>donde está Cristo sentado a la diestra de Dios.</p>
+<p>Pongan la mira en las cosas de arriba,</p>
+<p>no en las de la tierra.</p>
+<p>Porque ustedes han muerto,</p>
+<p>y su vida está escondida con Cristo en Dios.</p>
+<p>Cuando Cristo,</p>
+<p>nuestra vida, sea manifestado,</p>
+<p>entonces ustedes también serán manifestados con Él en gloria.</p>
+<p>Por tanto, consideren los miembros de su cuerpo terrenal</p>
+<p>como muertos a la fornicación,</p>
+<p>la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.</p>
+<p>Pues la ira de Dios vendrá sobre los hijos de desobediencia</p>
+<p>por causa de estas cosas,</p>
+<p>en las cuales ustedes también anduvieron en otro tiempo</p>
+<p>cuando vivían en ellas.</p>
+<p>Pero ahora desechen también todo esto:</p>
+<p>ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.</p>
+<p>Dejen de mentirse los unos a los otros,</p>
+<p>puesto que han desechado al viejo hombre</p>
+<p>con sus <em>malos</em> hábitos,</p>
+<p>y se han vestido del nuevo <em>hombre,</em></p>
+<p>el cual se va renovando</p>
+<p>hacia un verdadero conocimiento,</p>
+<p>conforme a la imagen de Aquel que lo creó.</p>
+<p><em>En esta renovación</em> no hay *distinción *</p>
+<p><em>entre</em> griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo <em>o</em> libre,</p>
+<p>sino que Cristo es todo, y en todos.</p>
+<p>Entonces, ustedes</p>
+<p>como escogidos de Dios,</p>
+<p>santos y amados,</p>
+<p>revístanse de tierna compasión, bondad, humildad, mansedumbre y paciencia;</p>
+<p>soportándose unos a otros</p>
+<p>y perdonándose unos a otros,</p>
+<p>si alguien tiene queja contra otro.</p>
+<p>Como Cristo los perdonó,</p>
+<p>así también <em>háganlo</em> ustedes.</p>
+<p>Sobre todas estas cosas, <em>vístanse de</em> amor,</p>
+<p>que es el vínculo de la unidad.</p>
+<p>Que la paz de Cristo reine en sus corazones,</p>
+<p>a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.</p>
+<p>Que la palabra de Cristo habite en abundancia en ustedes,</p>
+<p>con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos <em>y</em> canciones espirituales,</p>
+<p>cantando a Dios con acción de gracias en sus corazones.</p>
+<p>Y todo lo que hagan,</p>
+<p>de palabra o de hecho,</p>
+<p><em>háganlo</em> todo en el nombre del Señor Jesús,</p>
+<p>dando gracias por medio de Él a Dios el Padre.</p>
+<p>Mujeres, estén sujetas a sus maridos,</p>
+<p>como conviene en el Señor.</p>
+<p>Maridos, amen a sus mujeres y no sean ásperos con ellas.</p>
+<p>Hijos, sean obedientes a sus padres en todo,</p>
+<p>porque esto es agradable al Señor.</p>
+<p>Padres, no exasperen a sus hijos,</p>
+<p>para que no se desalienten.</p>
+<p>Siervos, obedezcan en todo a sus amos en la tierra,</p>
+<p>no para ser vistos,</p>
+<p>como los que quieren agradar a los hombres,</p>
+<p>sino con sinceridad de corazón,</p>
+<p>temiendo al Señor.</p>
+<p>Todo lo que hagan, háganlo de corazón,</p>
+<p>como para el Señor y no para los hombres,</p>
+<p>sabiendo que del Señor recibirán la recompensa de la herencia.</p>
+<p>Es a Cristo el Señor a quien sirven.</p>
+<p>Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido,</p>
+<p>y eso, sin acepción de personas.</p>
+<p>Amos, traten con justicia y equidad a sus siervos,</p>
+<p>sabiendo que ustedes también tienen un Señor en el cielo.</p>
+<p>Perseveren en la oración,</p>
+<p>velando en ella con acción de gracias.</p>
+<p>Oren al mismo tiempo también por nosotros,</p>
+<p>para que Dios nos abra una puerta para la palabra,</p>
+<p>a fin de dar a conocer el misterio de Cristo,</p>
+<p>por el cual también he sido encarcelado,</p>
+<p>para manifestarlo como debo hacerlo.</p>
+<p>Anden sabiamente para con los de afuera,</p>
+<p>aprovechando bien el tiempo.</p>
+<p>Que su conversación sea siempre con gracia,</p>
+<p>sazonada <em>como</em> con sal,</p>
+<p>para que sepan cómo deben responder a cada persona.</p>
+<p>En cuanto a todos mis asuntos, les informará Tíquico,</p>
+<p><em>nuestro</em> amado hermano,</p>
+<p>fiel ministro y consiervo en el Señor.</p>
+<p><em>Porque</em> precisamente para esto lo he enviado a ustedes,</p>
+<p>para que sepan de nuestras circunstancias y que conforte sus corazones;</p>
+<p>y con él a Onésimo,</p>
+<p>fiel y amado hermano,</p>
+<p>que es uno de ustedes.</p>
+<p>Ellos les informarán acerca de todo lo que aquí pasa.</p>
+<p>Aristarco,</p>
+<p>mi compañero de prisión, les envía saludos.</p>
+<p>También Marcos, el primo de Bernabé,</p>
+<p>(acerca del cual ustedes recibieron instrucciones.</p>
+<p>Si va a verlos, recíbanlo bien).</p>
+<p><em>También</em> Jesús, llamado Justo.</p>
+<p>Estos son los únicos colaboradores <em>conmigo</em> en el reino de Dios</p>
+<p>que son de la circuncisión,</p>
+<p>y ellos han resultado ser un estímulo para mí.</p>
+<p>Epafras,</p>
+<p>que es uno de ustedes,</p>
+<p>siervo de Jesucristo,</p>
+<p>les envía saludos,</p>
+<p>siempre esforzándose intensamente a favor de ustedes en sus oraciones,</p>
+<p>para que estén firmes,</p>
+<p>perfectos y completamente seguros en toda la voluntad de Dios.</p>
+<p>Porque de él soy testigo</p>
+<p>de que tiene profundo interés</p>
+<p>por ustedes</p>
+<p>y por los que están en Laodicea</p>
+<p>y en Hierápolis.</p>
+<p>Lucas,</p>
+<p>el médico amado,</p>
+<p>les envía saludos,</p>
+<p>y <em>también</em> Demas.</p>
+<p>Saluden a los hermanos que están en Laodicea,</p>
+<p>también a Ninfas y a la iglesia que está en su casa.</p>
+<p>Cuando esta carta se haya leído entre ustedes,</p>
+<p>háganla leer también en la iglesia de los laodicenses.</p>
+<p>Ustedes, por su parte,</p>
+<p>lean la carta <em>que viene</em> de Laodicea.</p>
+<p>Díganle a Arquipo:</p>
+<p>«Cuida el ministerio que has recibido del Señor, para que lo cumplas».</p>
+<p>Yo, Pablo,</p>
+<p>escribo este saludo con mi propia mano.</p>
+<p>Acuérdense de mis cadenas.</p>
+<p>La gracia sea con ustedes.</p>
+<p>===================================</p>
+<p>Pablo,</p>
+<p>​	apóstol de Jesucristo</p>
+<blockquote>
+<p>Apostol es enviado</p>
+</blockquote>
+<p>​			por la voluntad de Dios,</p>
+<p>y el hermano Timoteo,</p>
+<p>a los santos y fieles hermanos</p>
+<p>​	en Cristo</p>
+<p>​	<em>que están</em> en Colosas:</p>
+<p>​		Gracia a ustedes y paz</p>
+<p>​			de parte de Dios nuestro Padre.</p>
+<p>​	Damos gracias a Dios, {{no solo Pablo dió gracias}}</p>
+<p>​		el Padre de nuestro Señor Jesucristo,</p>
+<p>​		orando siempre por ustedes,</p>
+<p>​		<em>pues hemos oído</em></p>
+<p>​		de su fe en Cristo Jesús</p>
+<p>​		y del amor que tienen</p>
+<p>​			por todos los santos,</p>
+<p>​				a causa de la esperanza reservada</p>
+<p>​				para ustedes en los cielos.</p>
+<p>​			De esta esperanza ustedes oyeron</p>
+<p>​			antes en la palabra de verdad,</p>
+<p>​			el evangelio</p>
+<p>​			que ha llegado</p>
+<p>​			hasta ustedes.</p>
+<p>​				Así como en todo el mundo</p>
+<p>​				está dando fruto constantemente y creciendo,</p>
+<p>​				así <em>lo ha estado haciendo</em> también en ustedes,</p>
+<p>​				desde el día</p>
+<p>​				que oyeron y comprendieron</p>
+<p>​				la gracia de Dios en verdad.</p>
+<p>​				Así ustedes <em>lo</em> aprendieron de Epafras,</p>
+<p>​					nuestro amado consiervo,</p>
+<p>​					quien es fiel servidor de Cristo de parte nuestra,</p>
+<p>​					el cual también nos informó</p>
+<p>​					acerca del amor de ustedes en el Espíritu.</p>
+<p>Por esta razón, también nosotros,</p>
+<p>​	desde el día que <em>lo</em> supimos,</p>
+<p>no hemos cesado de orar por ustedes,</p>
+<p>​	pidiendo que sean llenos</p>
+<p>​		del conocimiento de Su voluntad</p>
+<p>​			en toda sabiduría</p>
+<p>​			y comprensión espiritual,</p>
+<p>​				para que anden como es digno del Señor,</p>
+<p>​					haciendo en todo, lo que <em>le</em> agrada,</p>
+<p>​					dando fruto en toda buena obra y creciendo</p>
+<p>​					en el conocimiento de Dios.</p>
+<p>​	Rogamos que ustedes sean fortalecidos</p>
+<p>​		con todo poder</p>
+<p>​			según la potencia de Su gloria,</p>
+<p>​			para obtener toda perseverancia y paciencia,</p>
+<p>​		con gozo dando gracias al Padre</p>
+<p>​			que nos ha capacitado</p>
+<p>​				para compartir la herencia</p>
+<p>​				de los santos en la Luz.</p>
+<p>​	Porque Él nos libró</p>
+<p>​		del dominio de las tinieblas</p>
+<p>​			y nos trasladó al reino de Su Hijo amado,</p>
+<p>​				en quien tenemos redención:</p>
+<p>​				el perdón de los pecados.</p>
+<p>​		Él es la imagen del Dios invisible,</p>
+<p>​		el primogénito de toda creación.</p>
+<p>​		Porque en Él fueron creadas todas las cosas,</p>
+<p>​			<em>tanto</em> en los cielos <em>como</em> en la tierra,</p>
+<p>​			visibles e invisibles;</p>
+<p>​				ya sean tronos o dominios o poderes o autoridades;</p>
+<p>​				todo ha sido creado</p>
+<p>​					por medio de Él</p>
+<p>​					y para Él.</p>
+<p>Y Él es antes de todas las cosas,</p>
+<p>y en Él todas las cosas permanecen.</p>
+<p>Él es también la cabeza del cuerpo</p>
+<pre><code>*que es* la iglesia. 
+</code></pre>
+<p>Él es el principio,</p>
+<p>el primogénito de entre los muertos,</p>
+<p>a fin de que Él tenga en todo la primacía.</p>
+<pre><code>Porque agradó *al Padre* 
+
+	que en Él habitara toda la plenitud, 
+
+	y por medio de Él reconciliar todas las cosas consigo, 
+</code></pre>
+<p>habiendo hecho la paz</p>
+<p>por medio de la sangre de Su cruz,</p>
+<p>por medio de Él,</p>
+<p><em>repito,</em> ya sean las que están en la tierra</p>
+<p>o las que están en los cielos.</p>
+<p>Y aunque ustedes antes estaban alejados</p>
+<p>y <em>eran</em> de ánimo hostil,</p>
+<p><em>ocupados</em> en malas obras,</p>
+<p>sin embargo,</p>
+<p>ahora Dios los ha reconciliado</p>
+<p><em>en Cristo</em> en Su cuerpo de carne,</p>
+<p>mediante Su muerte,</p>
+<p>a fin de presentarlos santos,</p>
+<p>sin mancha e irreprensibles delante de Él.</p>
+<p>Esto Él hará</p>
+<p>si en verdad permanecen en la fe</p>
+<p>bien cimentados y constantes,</p>
+<p>sin moverse de la esperanza del evangelio que han oído,</p>
+<p>que fue proclamado a toda la creación debajo del cielo,</p>
+<p>y del cual yo, Pablo, fui hecho ministro.</p>
+<p>Ahora me alegro de mis sufrimientos por ustedes,</p>
+<p>y en mi carne, completando lo que falta de las aflicciones de Cristo,</p>
+<p>hago mi parte por Su cuerpo,</p>
+<p>que es la iglesia.</p>
+<p>De <em>esta iglesia</em> fui hecho ministro</p>
+<p>conforme a la administración de Dios</p>
+<p>que me fue dada</p>
+<p>para beneficio de ustedes,</p>
+<p>a fin de llevar a cabo <em>la predicación de</em> la palabra de Dios,</p>
+<p><em>es decir,</em> el misterio</p>
+<p>que ha estado oculto</p>
+<p>desde los siglos y generaciones,</p>
+<p>pero que ahora ha sido manifestado a sus santos.</p>
+<p>A estos Dios quiso dar a conocer</p>
+<p>cuáles son las riquezas de la gloria de este misterio</p>
+<p>entre los gentiles,</p>
+<p>que es Cristo en ustedes,</p>
+<p>la esperanza de la gloria.</p>
+<p>A Él nosotros proclamamos,</p>
+<p>amonestando a todos los hombres,</p>
+<p>y enseñando a todos los hombres con toda sabiduría,</p>
+<p>a fin de poder presentar a todo hombre perfecto en Cristo.</p>
+<p>Con este fin también trabajo,</p>
+<p>esforzándome según Su poder</p>
+<p>que obra poderosamente en mí.</p>
+<p>Porque quiero que sepan</p>
+<p>qué gran lucha tengo por ustedes</p>
+<p>y por los que están en Laodicea,</p>
+<p>y por todos los que no me han visto en persona.</p>
+<p><em>Espero que con esto</em> sean alentados sus corazones,</p>
+<p>y unidos en amor, <em>alcancen</em> todas las riquezas</p>
+<p>que <em>proceden</em> de una plena seguridad de comprensión,</p>
+<p><em>resultando</em> en un verdadero conocimiento del misterio de Dios,</p>
+<p><em>es decir,</em> de Cristo,</p>
+<p>en quien están escondidos todos los tesoros</p>
+<p>de la sabiduría y del conocimiento.</p>
+<p>Esto lo digo</p>
+<p>para que nadie los engañe</p>
+<p>con razonamientos persuasivos.</p>
+<p>Porque aunque estoy ausente en el cuerpo,</p>
+<p>sin embargo estoy con ustedes en espíritu, regocijándome</p>
+<p>al ver su buena disciplina</p>
+<p>y la estabilidad de la fe de ustedes en Cristo.</p>
+<p>Por tanto, de la manera que recibieron a Cristo Jesús el Señor,</p>
+<p><em>así</em> anden en Él;</p>
+<p>firmemente arraigados y edificados en Él y confirmados en su fe,</p>
+<p>tal como fueron instruidos,</p>
+<p>rebosando de gratitud.</p>
+<p>Miren que nadie los haga cautivos</p>
+<p>por medio de <em>su</em> filosofía y vanas sutilezas,</p>
+<p>según la tradición de los hombres,</p>
+<p>conforme a los principios elementales del mundo y no según Cristo.</p>
+<p>Porque toda la plenitud de la Deidad</p>
+<p>reside corporalmente en Él,</p>
+<p>y ustedes han sido hechos completos en Él,</p>
+<p>que es la cabeza sobre todo poder y autoridad.</p>
+<p>También en Él ustedes fueron circuncidados</p>
+<p>con una circuncisión no hecha por manos,</p>
+<p>al quitar el cuerpo de la carne</p>
+<p>mediante la circuncisión de Cristo;</p>
+<p>habiendo sido sepultados con Él en el bautismo,</p>
+<p>en el cual también han resucitado con Él</p>
+<p>por la fe en la acción <em>del poder</em> de Dios,</p>
+<p>que lo resucitó de entre los muertos.</p>
+<p>Y cuando ustedes estaban muertos</p>
+<p>en sus delitos y en la incircuncisión de su carne,</p>
+<p>Dios les dio vida juntamente con Cristo,</p>
+<p>habiéndonos perdonado todos los delitos,</p>
+<p>habiendo cancelado el documento de deuda</p>
+<p>que consistía en decretos contra nosotros <em>y</em> que nos era adverso,</p>
+<p>y lo ha quitado de en medio,</p>
+<p>clavándolo en la cruz.</p>
+<p><em>Y</em> habiendo despojado a los poderes y autoridades,</p>
+<p>hizo de ellos un espectáculo público,</p>
+<p>triunfando sobre ellos por medio de Él.</p>
+<p>Por tanto, que nadie se constituya en juez de ustedes</p>
+<p>con respecto a comida o bebida,</p>
+<p>o en cuanto a día de fiesta,</p>
+<p>o luna nueva,</p>
+<p>o día de reposo,</p>
+<p>cosas que <em>solo</em> son sombra de lo que ha de venir,</p>
+<p>pero el cuerpo pertenece a Cristo.</p>
+<p>Nadie los defraude de su premio</p>
+<p>deleitándose en la humillación de sí mismo</p>
+<p>y en la adoración de los ángeles,</p>
+<p>basándose en las <em>visiones</em> que ha visto,</p>
+<p>envanecido sin causa por su mente carnal,</p>
+<p>pero no asiéndose a la Cabeza,</p>
+<p>de la cual todo el cuerpo,</p>
+<p>nutrido y unido por las coyunturas y ligamentos,</p>
+<p>crece con un crecimiento <em>que es</em> de Dios.</p>
+<p>Si ustedes han muerto con Cristo</p>
+<p>a los principios elementales del mundo,</p>
+<p>¿por qué, como si <em>aún</em> vivieran en el mundo,</p>
+<p>se someten a preceptos tales como:</p>
+<p>«no manipules, no gustes, no toques»,</p>
+<p>(todos los cuales <em>se refieren a</em> cosas destinadas a perecer con el uso),</p>
+<p>según los preceptos y enseñanzas de los hombres?</p>
+<p>Tales cosas tienen a la verdad, la apariencia de sabiduría</p>
+<p>en una religión humana,</p>
+<p>en la humillación de sí mismo y en el trato severo del cuerpo,</p>
+<p><em>pero</em> carecen de valor alguno contra los apetitos de la carne.</p>
+<p>Si ustedes, pues, han resucitado con Cristo,</p>
+<p>busquen las cosas de arriba,</p>
+<p>donde está Cristo sentado a la diestra de Dios.</p>
+<p>Pongan la mira en las cosas de arriba,</p>
+<p>no en las de la tierra.</p>
+<p>Porque ustedes han muerto,</p>
+<p>y su vida está escondida con Cristo en Dios.</p>
+<p>Cuando Cristo,</p>
+<p>nuestra vida, sea manifestado,</p>
+<p>entonces ustedes también serán manifestados con Él en gloria.</p>
+<p>Por tanto, consideren los miembros de su cuerpo terrenal</p>
+<p>como muertos a la fornicación,</p>
+<p>la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.</p>
+<p>Pues la ira de Dios vendrá sobre los hijos de desobediencia</p>
+<p>por causa de estas cosas,</p>
+<p>en las cuales ustedes también anduvieron en otro tiempo</p>
+<p>cuando vivían en ellas.</p>
+<p>Pero ahora desechen también todo esto:</p>
+<p>ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.</p>
+<p>Dejen de mentirse los unos a los otros,</p>
+<p>puesto que han desechado al viejo hombre</p>
+<p>con sus <em>malos</em> hábitos,</p>
+<p>y se han vestido del nuevo <em>hombre,</em></p>
+<p>el cual se va renovando</p>
+<p>hacia un verdadero conocimiento,</p>
+<p>conforme a la imagen de Aquel que lo creó.</p>
+<p><em>En esta renovación</em> no hay *distinción *</p>
+<p><em>entre</em> griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo <em>o</em> libre,</p>
+<p>sino que Cristo es todo, y en todos.</p>
+<p>Entonces, ustedes</p>
+<p>como escogidos de Dios,</p>
+<p>santos y amados,</p>
+<p>revístanse de tierna compasión, bondad, humildad, mansedumbre y paciencia;</p>
+<p>soportándose unos a otros</p>
+<p>y perdonándose unos a otros,</p>
+<p>si alguien tiene queja contra otro.</p>
+<p>Como Cristo los perdonó,</p>
+<p>así también <em>háganlo</em> ustedes.</p>
+<p>Sobre todas estas cosas, <em>vístanse de</em> amor,</p>
+<p>que es el vínculo de la unidad.</p>
+<p>Que la paz de Cristo reine en sus corazones,</p>
+<p>a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.</p>
+<p>Que la palabra de Cristo habite en abundancia en ustedes,</p>
+<p>con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos <em>y</em> canciones espirituales,</p>
+<p>cantando a Dios con acción de gracias en sus corazones.</p>
+<p>Y todo lo que hagan,</p>
+<p>de palabra o de hecho,</p>
+<p><em>háganlo</em> todo en el nombre del Señor Jesús,</p>
+<p>dando gracias por medio de Él a Dios el Padre.</p>
+<p>Mujeres, estén sujetas a sus maridos,</p>
+<p>como conviene en el Señor.</p>
+<p>Maridos, amen a sus mujeres y no sean ásperos con ellas.</p>
+<p>Hijos, sean obedientes a sus padres en todo,</p>
+<p>porque esto es agradable al Señor.</p>
+<p>Padres, no exasperen a sus hijos,</p>
+<p>para que no se desalienten.</p>
+<p>Siervos, obedezcan en todo a sus amos en la tierra,</p>
+<p>no para ser vistos,</p>
+<p>como los que quieren agradar a los hombres,</p>
+<p>sino con sinceridad de corazón,</p>
+<p>temiendo al Señor.</p>
+<p>Todo lo que hagan, háganlo de corazón,</p>
+<p>como para el Señor y no para los hombres,</p>
+<p>sabiendo que del Señor recibirán la recompensa de la herencia.</p>
+<p>Es a Cristo el Señor a quien sirven.</p>
+<p>Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido,</p>
+<p>y eso, sin acepción de personas.</p>
+<p>Amos, traten con justicia y equidad a sus siervos,</p>
+<p>sabiendo que ustedes también tienen un Señor en el cielo.</p>
+<p>Perseveren en la oración,</p>
+<p>velando en ella con acción de gracias.</p>
+<p>Oren al mismo tiempo también por nosotros,</p>
+<p>para que Dios nos abra una puerta para la palabra,</p>
+<p>a fin de dar a conocer el misterio de Cristo,</p>
+<p>por el cual también he sido encarcelado,</p>
+<p>para manifestarlo como debo hacerlo.</p>
+<p>Anden sabiamente para con los de afuera,</p>
+<p>aprovechando bien el tiempo.</p>
+<p>Que su conversación sea siempre con gracia,</p>
+<p>sazonada <em>como</em> con sal,</p>
+<p>para que sepan cómo deben responder a cada persona.</p>
+<p>En cuanto a todos mis asuntos, les informará Tíquico,</p>
+<p><em>nuestro</em> amado hermano,</p>
+<p>fiel ministro y consiervo en el Señor.</p>
+<p><em>Porque</em> precisamente para esto lo he enviado a ustedes,</p>
+<p>para que sepan de nuestras circunstancias y que conforte sus corazones;</p>
+<p>y con él a Onésimo,</p>
+<p>fiel y amado hermano,</p>
+<p>que es uno de ustedes.</p>
+<p>Ellos les informarán acerca de todo lo que aquí pasa.</p>
+<p>Aristarco,</p>
+<p>mi compañero de prisión, les envía saludos.</p>
+<p>También Marcos, el primo de Bernabé,</p>
+<p>(acerca del cual ustedes recibieron instrucciones.</p>
+<p>Si va a verlos, recíbanlo bien).</p>
+<p><em>También</em> Jesús, llamado Justo.</p>
+<p>Estos son los únicos colaboradores <em>conmigo</em> en el reino de Dios</p>
+<p>que son de la circuncisión,</p>
+<p>y ellos han resultado ser un estímulo para mí.</p>
+<p>Epafras,</p>
+<p>que es uno de ustedes,</p>
+<p>siervo de Jesucristo,</p>
+<p>les envía saludos,</p>
+<p>siempre esforzándose intensamente a favor de ustedes en sus oraciones,</p>
+<p>para que estén firmes,</p>
+<p>perfectos y completamente seguros en toda la voluntad de Dios.</p>
+<p>Porque de él soy testigo</p>
+<p>de que tiene profundo interés</p>
+<p>por ustedes</p>
+<p>y por los que están en Laodicea</p>
+<p>y en Hierápolis.</p>
+<p>Lucas,</p>
+<p>el médico amado,</p>
+<p>les envía saludos,</p>
+<p>y <em>también</em> Demas.</p>
+<p>Saluden a los hermanos que están en Laodicea,</p>
+<p>también a Ninfas y a la iglesia que está en su casa.</p>
+<p>Cuando esta carta se haya leído entre ustedes,</p>
+<p>háganla leer también en la iglesia de los laodicenses.</p>
+<p>Ustedes, por su parte,</p>
+<p>lean la carta <em>que viene</em> de Laodicea.</p>
+<p>Díganle a Arquipo:</p>
+<p>«Cuida el ministerio que has recibido del Señor, para que lo cumplas».</p>
+<p>Yo, Pablo,</p>
+<p>escribo este saludo con mi propia mano.</p>
+<p>Acuérdense de mis cadenas.</p>
+<p>La gracia sea con ustedes.</p>
+</div><div class="column is-sticky is-paddingless" id="tocWrapper">
+  <div class="is-paddingless" id="tocContainer">
+    <div class="toc-header">
+      <h6 class="toc-title is-marginless">On this page:</h6>
+      <i
+        title="Back to top"
+        id="tocBackToTop"
+        class="fa-solid fa-circle-arrow-up"
+      ></i>
+    </div>
+    <div id="tocContent">
+      <div id="toc"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#greeting">Greeting</a></li>
+        <li><a href="#thanksgiving-and-prayer">Thanksgiving and Prayer</a></li>
+        <li><a href="#the-preeminence-of-christ">The Preeminence of Christ</a></li>
+        <li><a href="#pauls-ministry-to-the-church">Paul&rsquo;s Ministry to the Church</a></li>
+        <li><a href="#alive-in-christ">Alive in Christ</a></li>
+        <li><a href="#let-no-one-disqualify-you">Let No One Disqualify You</a></li>
+        <li><a href="#put-on-the-new-self">Put On the New Self</a></li>
+        <li><a href="#rules-for-christian-households">Rules for Christian Households</a></li>
+        <li><a href="#further-instructions">Further Instructions</a></li>
+        <li><a href="#final-greetings">Final Greetings</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+      <div id="taxonomies"><div class="taxonomy-wrapper"></div><div class="taxonomy-wrapper"></div></div>
+    </div>
+  </div>
+  <div
+    class="is-paddingless"
+    id="tocCollapsible"
+    title="Collapse/Uncollapse table of contents"
+  >
+    <i class="fa-solid fa-angles-right fa-lg"></i>
+  </div>
+</div>
+</div>
+</div><script type='text/javascript'>
+  const baseUrl = 'https:\/\/johnwry.github.io\/';
+  const codeCopyBefore = 'Copy to clipboard';
+  const codeCopyAfter = 'Copied to clipboard';
+  const svgDownloadLabel = 'Download as SVG';
+  const helperLoadingLabel = 'Loading';
+  const searchNoResults = 'No result found';
+  const introNextLabel = 'Next';
+  const introPrevLabel = 'Previous';
+  const introSkipLabel = '✗';
+  const introDoneLabel = 'Done';
+  const printLabel = 'Print current page';
+  const qrCodeLabel = 'Show current page QR code';
+  const naCommonLabel = 'Not available';
+</script>
+<script
+      type="module"
+      src="/js/theme/modules/const.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/modules/helpers.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/modules/helpersGlobal.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/init.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/navbar.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/print.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/qrcode.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/search.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/shortcuts.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/sidebar.min.js"
+    ></script><script
+      type="module"
+      src="/js/theme/toc.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/js/theme/browserCompatibility.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/js/external/flexsearch/flexsearch.bundle.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/js/external/qrious/qrious.min.js"
+    ></script><script
+      type="text/javascript"
+      src="/js/external/overlay-scrollbars/overlayscrollbars.min.js"
+    ></script>
+</body>
+</html>

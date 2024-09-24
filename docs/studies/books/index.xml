@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book Studies on BJWry</title>
+    <title>Books on BJWry</title>
     <link>https://johnwry.github.io/studies/books/</link>
-    <description>Recent content in Book Studies on BJWry</description>
+    <description>Recent content in Books on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
@@ -15,7 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
       <guid>https://johnwry.github.io/studies/books/1-john/</guid>
-      <description>====== What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life— and the life was manifested, and we have seen and testify and proclaim to you the eternal life, which was with the Father and was manifested to us— what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ.</description>
+      <description>What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life— and the life was manifested, and we have seen and testify and proclaim to you the eternal life, which was with the Father and was manifested to us— what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ.</description>
     </item>
     
     <item>
@@ -36,6 +36,15 @@
       <description>2 Timothy# Greeting# 2Ti 1:1 Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,
 2Ti 1:2 To Timothy, my beloved son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.
 Guard the Deposit Entrusted to You# 2Ti 1:3 I thank God, whom I serve with a clear conscience the way my forefathers did, as I constantly remember you in my prayers night and day,</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://johnwry.github.io/studies/books/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>https://johnwry.github.io/studies/books/archives/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -62,6 +71,17 @@ The compelling argument of the judaizing-missionaries to Galatia was to become j
     </item>
     
     <item>
+      <title>Galatians 1:11-24</title>
+      <link>https://johnwry.github.io/studies/books/galatians-111-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>https://johnwry.github.io/studies/books/galatians-111-24/</guid>
+      <description>Gal 1:11 For I would have you know, brethren, that the gospel which was preached by me is not according to man.
+Gal 1:12 For I neither received it from man, nor was I taught it, but I received it through a revelation of Jesus Christ.
+Gal 1:13 For you have heard of my former manner of life in Judaism, how I used to persecute the church of God beyond measure and tried to destroy it;</description>
+    </item>
+    
+    <item>
       <title>Galatians 3:21-29</title>
       <link>https://johnwry.github.io/studies/books/gal-3.21-29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -80,7 +100,7 @@ The compelling argument of the judaizing-missionaries to Galatia was to become j
     </item>
     
     <item>
-      <title>Hebrews 3:1-6</title>
+      <title>Hebrews 3:1-6, 4:11-16</title>
       <link>https://johnwry.github.io/studies/books/hebrews-31-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
@@ -89,63 +109,6 @@ The compelling argument of the judaizing-missionaries to Galatia was to become j
 Heb 3:2 He was faithful to Him who appointed Him, as Moses also was in all His house.
 Heb 3:3 For He has been counted worthy of more glory than Moses, by just so much as the builder of the house has more honor than the house.
 Heb 3:4 For every house is built by someone, but the builder of all things is God.</description>
-    </item>
-    
-    <item>
-      <title>OT Books</title>
-      <link>https://johnwry.github.io/studies/books/ot-books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/studies/books/ot-books/</guid>
-      <description>OT Books# Genesis/Beginnings,
-Job/undeserved suffering,
-Exodus/Redemption,
-Leviticus/holiness,
-Numbers/wandering,
-Deuteronomy/repletion,
-Joshua/conquest,
-Judges/failure,
-Ruth/beauty,
-1 Samuel/transition,
-2 Samuel/David’s reign,
-Psalms/Praise,
-1 Chronicles/Judah,
-1 Kings/Division,
-Proverbs/Wisdom,
-Ecclesiastes/vanity,
-Song of Solomon/marital love,
-2 Kings/Captivity,
-2 Chronicles/Judah,
-Obadiah/Edom’s doom,
-Joel/Judah’s judgement,
-Jonah/hardheadedness,
-Amos/Israel’s judgement,
-Hosea/loyal love,
-Micah/Judah’s judgement,
-Isaiah/God’s servant,
-Nahum/Nineveh’s doom,
-Zephaniah/God’s judgement ,
-Habakkuk/Faith perspective,
-Jeremiah/final warning,
-Lamentations/mourning,
-Daniel/prophecy,
-Ezekiel/visions,
-Ezra/return,
-Haggai/procrastination,
-Zechariah/Messiah ,
-Esther/providence,
-Nehemiah/rebuilding,
-Malachi/backsliding</description>
-    </item>
-    
-    <item>
-      <title>Romans 9-11</title>
-      <link>https://johnwry.github.io/studies/books/romans-9-16/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/studies/books/romans-9-16/</guid>
-      <description>In God&amp;rsquo;s Sovereignty, God is always just
-Rom 9:1 I am telling the truth in Christ, I am not lying, my conscience testifies with me in the Holy Spirit, Rom 9:2 that I have great sorrow and unceasing grief in my heart. Rom 9:3 For I could wish that I myself were accursed, separated from Christ for the sake of my brethren, my kinsmen according to the flesh, Rom 9:4 who are Israelites, to whom belongs the adoption as sons, and the glory and the covenants and the giving of the Law and the temple service and the promises, Rom 9:5 whose are the fathers, and from whom is the Christ according to the flesh, who is over all, God blessed forever.</description>
     </item>
     
   </channel>
