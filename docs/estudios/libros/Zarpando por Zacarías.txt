@@ -1,7 +1,7 @@
 ---
-Title: "Zarpando por Zacarías"
-Template: "blog"
-Date: "12/10/2022 4:40am"
+Title: Zarpando por Zacarías
+Template: blog
+Date: 12/10/2022 4:40am
 ---
 
 

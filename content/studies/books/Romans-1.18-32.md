@@ -1,5 +1,7 @@
 ---
 title: Romans 1:18-32
+Template: page
+Date: 23/09/2024 8:10pm
 ---
 
 > [**Rom 1:24** ](verseid:45.1.24) Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them.

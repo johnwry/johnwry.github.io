@@ -1,11 +1,8 @@
 ---
 Title: Habacúc
 Template: page
-Date:2022/03/12
+Date: 12/03/2022 12:00am
 ---
-
-
-
 # Habacúc - un profeta frustrado conversa con Dios 
 
 ## Introducción 

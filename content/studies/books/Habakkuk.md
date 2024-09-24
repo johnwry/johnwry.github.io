@@ -2,10 +2,7 @@
 Title: Habakuk
 Template: page
 Date: 12/10/2022 4:40am
-
 ---
-
-
 # OUTLINE
 
 ## [Habakkuk complains to God (Hab 1:2-4)](#hI)

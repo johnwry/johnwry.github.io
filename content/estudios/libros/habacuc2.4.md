@@ -1,11 +1,8 @@
 ---
-Title: Habacuc 2:4
+Title: Habacuc 2.4
 Template: page
-Date:2022/03/02
+Date: 2022/03/02
 ---
-
-
-
 # Habacuc 2:4
 
 "El justo por su fe vivirá"

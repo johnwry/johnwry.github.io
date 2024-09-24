@@ -1,9 +1,8 @@
 ---
 Title: Jóvenes en la Biblia
 Template: blog
-Date:2022/02/20
+Date: 20/02/2022
 ---
-
 # Jóvenes en la Biblia
 
 ## Algunos destacados
