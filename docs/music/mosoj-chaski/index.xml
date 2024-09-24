@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mosoj Chaski on BJWry</title>
+    <link>https://johnwry.github.io/music/mosoj-chaski/</link>
+    <description>Recent content in Mosoj Chaski on BJWry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
+    <webMaster>johnwry@gmail.com (BJWry)</webMaster>
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/music/mosoj-chaski/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
