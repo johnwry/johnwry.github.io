@@ -1,3 +1,7 @@
+---
+Title: The Church
+---
+
 https://www.biblestudytools.com/bible-study/topical-studies/what-is-the-church-according-to-the-bible.html
 
 What Is the Church? It's Role and Purpose According to the Bible

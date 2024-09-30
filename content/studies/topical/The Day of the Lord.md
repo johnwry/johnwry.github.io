@@ -1,3 +1,7 @@
+---
+Title: "The Day of the Lord"
+---
+
 # The Day of the Lord
 
 ## Order of events
