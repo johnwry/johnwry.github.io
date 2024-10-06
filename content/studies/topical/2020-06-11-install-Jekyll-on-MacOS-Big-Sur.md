@@ -1,7 +1,8 @@
 ---
 Title: install Jekyll on MacOS Big Sur
-Layout: post
-Template: page
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 ## Don't use the THIS for ruby. Go to step 2 first!

@@ -1,8 +1,8 @@
 ---
 Title: Angels
-Template: page
-Date: 2022/03/22
-Access: admin
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Angels

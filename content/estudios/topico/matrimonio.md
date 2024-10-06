@@ -1,5 +1,7 @@
 ---
 Title: "Matrimonio es Idea de Dios"
+Template: outline
+Author: John Wry
 ---
 # El Matrimonio es Idea de Dios
 

@@ -1,3 +1,9 @@
+---
+Title: "I'd Need a Savior - Among the Thirsty"
+Author: "John Wry"
+titleIcon: "far fa-file-audio"
+Template: page
+---
 How many names
 Can I use to explain
 The love of my Jesus

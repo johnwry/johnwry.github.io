@@ -1,6 +1,8 @@
 ---
 Title: "Ephesians"
-type: "outline"
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 [Go to Phrased](#ephesians)
 

@@ -1,3 +1,12 @@
+---
+Title: "Jesus Buen Pastor"
+Author: "John Wry"
+titleIcon: "far fa-file-audio"
+Template: page
+---
+
+
+
 [VERSE1]
 Pues yo
 No he llegado a comprender

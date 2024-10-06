@@ -1,7 +1,7 @@
 ---
 Title: Jóvenes en la Biblia
-Template: blog
-Date: 20/02/2022
+Template: outline
+Author: John Wry
 ---
 # Jóvenes en la Biblia
 

@@ -1,25 +1,12 @@
 ---
 Title: "Fuerza para Vencer"
-titleIcon: "fa-solid fa-bars"
+Author: "John Wry"
+titleIcon: "fas fa-record-vinyl"
+Template: index
 ---
 # Fuerza Para Vencer (John Wry)
 
-## 1. Whatever happened to Love
-## 2. Pasare los días
-## 3. Carry me Through
-## 4. Wandering in Circles
-## 5. Livin' on the Run
-## 6. Fuerza para Vencer
-## 7. A Tus Ojos
-## 8. Angels
-## 9. Cantando a Cristo
-## 10. Solo te Quiero Mirar
-## 11. Ven a Mi
-## 12. Cerca de Ti
-
-
-
-# Whatever happened to love
+## Whatever happened to love
 
 It used to be
 
@@ -93,7 +80,7 @@ Love anyway?
 
 
 
-# Pasare los días
+## Pasare los días
 
 Pasare los días
 
@@ -171,7 +158,7 @@ porque se, que Tu siempre estarás junto a mi.
 
 
 
-# Carry me through
+## Carry me through
 
 Sometimes, I feel like i'm falling, drowning into a see of my mistakes
 
@@ -237,7 +224,7 @@ Please come and help me.
 
 
 
-# Wandering in circles
+## Wandering in circles
 
 So here I go again,
 
@@ -347,7 +334,7 @@ Ohhhh...Ohhhhh....
 
 
 
-# Livin' on the run
+## Livin' on the run
 
 I can hear You 
 
@@ -441,7 +428,7 @@ And is to come....yeah yeah yeah....
 
 
 
-# Fuerza para Vencer
+## Fuerza para Vencer
 
 No tengo mucho que ofrecer
 
@@ -511,7 +498,7 @@ Confiando plenamente en Cristo Jesus.
 
 
 
-# A Tus Ojos
+## A Tus Ojos
 
 No cabe en mi cabeza
 
@@ -599,7 +586,7 @@ Ya tengo un nombre para Ti.
 
 
 
-# Angels
+## Angels
 
 There's a young man,
 
@@ -725,7 +712,7 @@ The angels!
 
 
 
-# Cantando a Cristo
+## Cantando a Cristo
 
 Unos dicen que yo canto mal
 
@@ -741,7 +728,7 @@ Cantando a Cristo!
 
 
 
-# Solo Te Quiero Mirar
+## Solo Te Quiero Mirar
 
 Hoy el aire
 
@@ -811,7 +798,7 @@ Hoy solo te quiero mirar...
 
 
 
-# Ven a Mi
+## Ven a Mi
 
 Dulces presentimientos
 
@@ -891,4 +878,4 @@ Altos sentimientos
 
 
 
-# Cerca de Ti
+## Cerca de Ti

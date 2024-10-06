@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Repentance According to the Bible
-Template: page
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 The term repentance comes with all sorts of different ideas. By doing a simple search on the internet we find it summed up in words like "*remorse*, *contrition*, *contriteness*, *penitence*, *sorrow*, *regret*". 
 

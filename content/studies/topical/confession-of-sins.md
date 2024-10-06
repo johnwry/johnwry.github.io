@@ -1,7 +1,8 @@
 ---
 Title: Confession of Sins
 Template: outline
-Date: 12/10/2022 4:40am
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Confession of Sins

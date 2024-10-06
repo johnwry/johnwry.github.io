@@ -1,6 +1,8 @@
 ---
 Title: Jesus mismo-nuestra propiciación
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 Dios exigió la expiación y la proveyó”. Fue “por la gracia de Dios, Él pudo gustar la muerte por todos” (Heb. 2:9).

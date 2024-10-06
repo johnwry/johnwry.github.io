@@ -1,7 +1,17 @@
 ---
 Title: Zechariah
-Template: blog
-Author: John Wry
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+categories:
+- Books
+- Zechariah
+series: Eschotology, End times
+tags:
+- spirit
+- return
+- grace
+- Old Testament
 ---
 
 
@@ -3243,17 +3253,11 @@ Table of Contents
 
 ##### The people were consulting demons or learning doctrines of demons and being 'guided' by this. They were wandering aimlessly. 
 
-
-
 ##### Saul lost his kingdom because he consulted mediums. 
 
 #### Zechariah 10:2c *because there is no shepherd.* It does not say there was no religious leader. There was no one who cared for the flock. 
 
-
-
 ##### Sheep aimlessly wander without a shepherd. A shepherd leads to water, leads to grass for food. A shepherd protects and keep the sheep safe. Psalm 23
-
-
 
 ##### Just like sheep without a shepherd are sheep lying in wait to be preyed on, so too the nation of Israel was open season for tragedy. 
 
@@ -3263,15 +3267,10 @@ Table of Contents
 
 #### Zechariah 10:3a *"My anger is kindled against the shepherds, And I will punish the male goats;* Ezekiel 34:17
 
-
-
 ##### Instead of being shepherds, the leaders are likened to male goats, who are worthy of blame for what has occurred. They are hired hands and don’t care for the sheep. Ezekiel 34:1-10; 1 Samuel 28:3-7; 1 Kings 16:31, 22:6-12; 2 Kings 1:2, 16:15, 21:6, John 10:1, 10, 12-13
 
 
-
 #### Zechariah 10:3b *For the LORD of hosts has visited His flock, the house of Judah,* 
-
-
 
 ##### As sheep become restless, they wander, now the Lord of Hosts has come. He will comfort the flock. John 10:11, 
 
@@ -3281,33 +3280,19 @@ Table of Contents
 
 ##### God is into the recycling business. He takes things that are of no use and gives them a wonderful purpose.
 
-
-
 ####  Zechariah 10:4a *"From them will come the cornerstone,* the leader (Messiah) who would stabilize the nation would come from the house of Judah. Judges 20:2, 1 Samuel 14:38, Isaiah 19:13, 1 Corinthians 3:11, Isaiah 28:16, Zechariah 3:9
-
-
 
 ####  Zechariah 10:4b *From them the tent peg,* out of Judah comes one that will serve like a nail on the wall of a tent. 
 
-
-
 ##### The tent peg refers to the large peg in an Oriental tent on which were hung many valuables.[[48\]](#_ftn50)
-
-
 
 ##### On Christ people can confidently hang their hope. Isaiah 22:23-24, John 10:28-29, Luke 19:48
 
 ####  Zechariah 10:4c *From them the bow of battle,* Israel will be made into a bow in His hands. Messiah is a mighty warrior; He will never lose a battle. Exodus 15:3-4, Isaiah 63:1-6
 
-
-
 ####  Zechariah 10:4d *From them every ruler, all of them together.* Psalm 45:4-5, Psalm 2
 
-
-
 #### Zechariah 10:5a *"They will be as mighty men,* *Treading down the enemy in the mire of the streets in battle;* *And they will fight, for the LORD will be with them;* What a contrast between Israel under the leadership of fleecing shepherds and God. They go from being useless and purposeless to being firmly established. Psalm 1
-
-
 
 ##### First, He makes them like adorned horses for battle, then he turns them into His bow and then makes them mighty men of battle. 
 
@@ -4223,9 +4208,7 @@ Table of Contents
 
 ## Zechariah 12:10 - A Day of Mourning
 
-
-
-### Zech title
+### Zech title?
 
 #### Zechariah 12:10a *"I will pour out on the house of David and on the inhabitants of Jerusalem, the Spirit of grace and of supplication,* only when Israel comes back will God pour out His Spirit. Ezekiel 36:24-25, Joel 2:28
 
@@ -4265,15 +4248,9 @@ Table of Contents
 
 ##### John confirms the fulfillment of this prophecy as he stood from afar and watched Jesus being crucified and pierced through with a spear. John 19:34-37
 
-
-
 ##### Typically, Jews killed people by stoning. John 8:58-59
 
-
-
 ##### However, Zechariah foretells the Jews pierced Him. Psalm 22 predicts the crucifixion 1000 years in advance. Isaiah 53:5 is a prophecy 700 years in advance of the cross. But Zechariah’s prophecy is 3000 years ahead of its fulfillment. 
-
-
 
 ##### This is the moment when all of heaven (and a few from earth) have been waiting for in this nail-biting series.
 
@@ -4645,7 +4622,7 @@ Table of Contents
 
 
 
-####  Zechariah 13:9d ***I\*** *will say, 'They are My people,'* God has returned to them because they had returned to Him in faith.
+####  Zechariah 13:9d *will say, 'They are My people,'* God has returned to them because they had returned to Him in faith.
 
 
 
@@ -4661,11 +4638,7 @@ Table of Contents
 
 #### The naval is set in the center of the human body, so the land is the naval of the world, situated in the center of the world in Jerusalem. Jerusalem in the center of the land of Israel. And the sanctuary in the center of Jerusalem. The holy place in the center of the sanctuary, and the ark of the covenant in the center of the holy place, and the foundation stone before the holy place because from it the world was founded. [[66\]](#_ftn68)
 
-
-
 #### A thirteenth-century crusader [map](https://cloud.cc3d.org/index.php/s/oKJPrS29NwFbpkw/preview) places Jerusalem at the center of the earth...the map depicts the earth as a three-leaf clover, each leaf being a continent: Europe, Asia, and Africa. The three are drawn together by a ring encircling a single city; that city is Jerusalem.[[67\]](#_ftn69)
-
-
 
 #### Verse 12 tells of Jehovah smiting his enemies and their “flesh” being consumed. Again, this cannot refer to a period after the literal return of Christ; the Coming of the Lord will signal “the end,” at which point the dead will be raised, and the living - in a moment, in the twinkling of an eye - will be changed from flesh to a new, spiritual essence. We will pass from corruption to incorruption, from mortality to immortality (1 Cor. 15:23-24,51-53).
 
@@ -4741,10 +4714,7 @@ Table of Contents
 
 #### Zechariah 14:2b *the houses plundered, the women ravished and half of the city exiled,* The people inside Jerusalem will take a beating. For a time, the city will be captured. 2/3 of the nation will be destroyed. 
 
-If Israel is Gods chosen why were 2/3 killed? Shouldn't all be saved?
-Election has to do with Gods choice for purpose, not destiny. God chose Israel to be a light, to be the ethnicity of the Savior, to be the keeper of the Old Testament Scriptures, and so much more.
-An Israelite must believe to be delivered from hell.
-God didn’t choose the whole only 1/3. This is saying God made them believe. He does not do that however he did know they would since he knows all things.
+>If Israel is Gods chosen why were 2/3 killed? Shouldn't all be saved? Election has to do with Gods choice for purpose, not destiny. God chose Israel to be a light, to be the ethnicity of the Savior, to be the keeper of the Old Testament Scriptures, and so much more. An Israelite must believe to be delivered from hell. God didn’t choose the whole only 1/3. This is saying God made them believe. He does not do that however he did know they would since he knows all things.
 
 #### Zechariah 14:2c *but the rest of the people will not be cut off from the city.* The people outside of the city will not have access to help. 
 
@@ -4871,8 +4841,6 @@ God didn’t choose the whole only 1/3. This is saying God made them believe. He
 ### We must be careful to distinguish the Millennial age from the Eternal state. 
 
 #### The Messianic Reign is Eternal but 1000 years of it is transitional
-
-
 
 | **Millennium Age**        | **Eternal State**             |
 | ------------------------- | ----------------------------- |
@@ -5033,7 +5001,7 @@ God didn’t choose the whole only 1/3. This is saying God made them believe. He
 | Past         | Present    | Future            |
 | First Coming | Now Seated | Messianic Kingdom |
 
-##### Isa 65:25
+##### Isaiah 65:25
 
 ##### King Jesus is not reigning yet. This is still future. Just like David was anointed but never actually reigned until Saul was deposed, so too Messiah has been anointed and waiting the time set by God the Father to reign upon His own earthly throne. 1 Samuel 16, 2 Samuel 2, 2 Samuel 5
 
@@ -5078,24 +5046,24 @@ God didn’t choose the whole only 1/3. This is saying God made them believe. He
 
 
 
-| **Millennium**                      | **Eternal State**                |
-| ----------------------------------- | -------------------------------- |
-| limited time (1000 years)           | never ending                     |
-| Rebellion at the end                | No evil                          |
-|                                     |                                  |
-| Sin restrained                      | Sin removed                      |
-| Curse restrained                    | Curse Removed                    |
-| Still death                         | No death                         |
-| Both mortals and resurrected people | Only Resurrected people          |
-| Still preach gospel                 | Destiny is sealed                |
-| Renovation of earth                 | New Creation                     |
-| Transitional                        | Non-transitional (lasts forever) |
-| Luminaries (Sun moon and stars)     | No luminaries                    |
-| Satanic activity (at en         | Satan is removed                 |
-| 4th Temple                          | No Temple                        |
-|                                     |                                  |
+| **Millennium**    | **Eternal State**                |
+| ------------------- | ---------------------------- |
+| limited time (1000 years)           | never ending          |
+| Rebellion at the end                | No evil         |
+|                                     |                        |
+| Sin restrained                      | Sin removed            |
+| Curse restrained                    | Curse Removed        |
+| Still death                         | No death           |
+| Both mortals and resurrected people | Only Resurrected people|
+| Still preach gospel                 | Destiny is sealed    |
+| Renovation of earth                 | New Creation        |
+| Transitional        | Non-transitional (lasts forever) |
+| Luminaries (Sun moon and stars)     | No luminaries       |
+| Satanic activity (at en         | Satan is removed      |
+| 4th Temple                          | No Temple        |
+|                     |                                  |
 
-\**Zechariah 14:17-19 Conditions of Kingdom Law to the nations**
+**Zechariah 14:17-19 Conditions of Kingdom Law to the nations**
 
 ####  Zechariah 14:17a *And it will be that whichever of the families of the earth does not go up to Jerusalem* Clearly Jerusalem is a literal city. The families of the earth are the remaining people of the nations of the world.
 
@@ -5169,13 +5137,6 @@ God knows whay we need when we’re sick.
 Feast of booths levels all classes of life.
 
 
-
- 
-
- 
-
-
-
 # VI.Doctrines in Zechariah
 
 \ The Day of the Lord – an eschatological period of time that starts some point after the rapture and ends at the end of the Millennium. 
@@ -5191,9 +5152,6 @@ Feast of booths levels all classes of life.
 \ New Covenant - It is commonly understood that the New Covenant is now, for the church. That cannot be for several reasons: The New Covenant was promised to the house of Judah and the house of Israel. Jeremiah 31:31. The New Covenant conditions have not been met. The New Covenant promises have not been fulfilled. The Church program has not replaced God's program for Israel. God's promises must be fulfilled with the nation of Israel in order to fulfill the many prophecies and, "then you will know I am the Lord". 
 
  
-
- 
-
 #### The units of volume mentioned in the Bible are the following:
 
 ##### homer. Lev. 27:16, Isa. 5:10, Ezek. 45:11 13:14; Hos. 3:2
@@ -5240,9 +5198,9 @@ Feast of booths levels all classes of life.
 
 
 
-|                 | Homer kor | letekh | ephah bath | seʾah | hin  | omer – ʿissaron | qav  | log  |
-| --------------- | --------- | ------ | ---------- | ----- | ---- | --------------- | ---- | ---- |
-| homer – kor     | 1         |        |            |       |      |                 |      |      |
+|  | Homer kor | letekh | ephah bath | seʾah | hin  | omerʿissaron | qav  | log  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| homer – kor     | 1   |  |            |       |      |                 |      |      |
 | letekh          | 2         | 1      |            |       |      |                 |      |      |
 | ephah – bath    | 10        | 5      | 1          |       |      |                 |      |      |
 | seʾah           | 30        | 15     | 3          | 1     |      |                 |      |      |
@@ -5251,13 +5209,6 @@ Feast of booths levels all classes of life.
 | qav             | 180       | 90     | 18         | 6     | 3    | 1.8             | 1    |      |
 | log             | 720       | 360    | 72         | 24    | 12   | 7.2             | 4    | 1    |
 |                 |           |        |            |       |      |                 |      |      |
-
-
-
-
-
- 
-
 
 
 ------

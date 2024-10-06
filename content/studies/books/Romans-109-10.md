@@ -1,6 +1,8 @@
 ---
 Title: Romans 10:9-10
-Template: Outline
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Romans 10:9-10

@@ -1,5 +1,8 @@
 ---
 Title: Galatians 3:21-29
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 Gal 3:21  Is the Law then contrary to the promises of God? May it never be! For if a law had been given which was able to impart life, then righteousness would indeed have been based on law.

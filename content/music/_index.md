@@ -2,6 +2,7 @@
 Title: Music
 Template: index
 Author: John Wry
+titleIcon: "fa-solid fa-bars"
 ---
 
 # Music

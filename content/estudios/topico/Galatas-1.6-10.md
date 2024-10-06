@@ -1,6 +1,7 @@
 ---
 Title: Galatas 1.6-10
 Template: outline
+Author: John Wry
 ---
 
 # Gálatas 1:6-10

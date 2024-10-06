@@ -1,7 +1,8 @@
 ---
 Title: Biblical Covenants
 Template: outline
-Date: 2022/03/22
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Biblical Convenants

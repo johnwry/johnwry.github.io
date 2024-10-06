@@ -1,6 +1,8 @@
 ---
 Title: Cabe de Pala
-Template: page
+Author: "John Wry"
+titleIcon: "fas fa-record-vinyl"
+Template: index
 ---
 
 # Cabe de Pala

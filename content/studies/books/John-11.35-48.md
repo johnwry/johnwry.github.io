@@ -1,6 +1,8 @@
 ---
 Title: John 11:35-48
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 Joh 11:35  Jesus wept.

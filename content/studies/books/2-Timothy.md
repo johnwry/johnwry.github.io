@@ -1,6 +1,8 @@
 ---
 Title: 2 Timothy
-Template: page
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 # 2 Timothy
 

@@ -1,6 +1,7 @@
 ---
 Title: El Mismo...nuestra suficiencia
 Template: outline
+Author: John Wry
 ---
 
 # Cristo es la Satisfacción de Dios

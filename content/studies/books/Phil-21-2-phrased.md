@@ -1,6 +1,8 @@
 ---
 Title: Phil 2:1-2 phrased
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 # ===== Verses
 

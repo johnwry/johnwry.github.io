@@ -1,7 +1,8 @@
 ---
 Title: Dealing with Pain
-Template: page
-Date: 2022/03/22
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Learning from Grief

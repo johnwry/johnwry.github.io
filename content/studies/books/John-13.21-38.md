@@ -1,6 +1,8 @@
 ---
 Title: John 13:21-38
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 [**Joh 13:21** ](verseid:43.13.21) When Jesus had said this, He became troubled in spirit, and testified and said, "Truly, truly, I say to you, that one of you will betray Me."

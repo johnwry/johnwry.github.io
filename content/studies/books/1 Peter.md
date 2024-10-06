@@ -1,6 +1,8 @@
 ---
 title: 1 Peter
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 1Pe 1:1  Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen

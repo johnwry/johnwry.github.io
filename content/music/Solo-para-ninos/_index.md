@@ -1,6 +1,8 @@
 ---
 Title: Solo Para Niños
-Template: page
+Author: "John Wry"
+titleIcon: "fas fa-record-vinyl"
+Template: index
 ---
 
 # Solo para Niños

@@ -1,6 +1,8 @@
 ---
 Title: Billy's Fish
-Template: page
+Author: "John Wry"
+titleIcon: "fas fa-record-vinyl"
+Template: index
 ---
 
 # Billy's Fish

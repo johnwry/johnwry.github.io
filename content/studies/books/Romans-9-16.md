@@ -1,6 +1,8 @@
 ---
-Title: Romans 9-11
+Title: Romans 9-16
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 In God's Sovereignty, God is always just
 

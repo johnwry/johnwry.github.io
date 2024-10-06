@@ -1,8 +1,8 @@
 ---
 Title: Armageddon
-Theme: page
-Author: John Wry
-Hidden: true
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # My notes on Armageddon

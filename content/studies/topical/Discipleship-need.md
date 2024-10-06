@@ -1,9 +1,8 @@
 ---
-
 Title: Discipleship -> importance
-
-Template: page
-
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Discipleship

@@ -1,3 +1,9 @@
+---
+Title: Juan 2:23-24
+Template: outline
+Author: John Wry
+---
+
 ## Juan 2:23-24
 
 

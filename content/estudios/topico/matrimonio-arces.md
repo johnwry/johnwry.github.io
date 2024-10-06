@@ -1,3 +1,11 @@
+---
+Title: Ceremonia de Bodas
+Template: outline
+Author: John Wry
+---
+
+
+
 **Boda 25 Años**
 
 Esta noche estamos aqui para celebrar junto a marco y Sandra 25 años de matrimonio.

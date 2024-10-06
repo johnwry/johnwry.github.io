@@ -1,5 +1,8 @@
 ---
 Title: Romans 8:1
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 ## Textus Receptus

@@ -1,6 +1,8 @@
 ---
 Title: "In the Studio"
-titleIcon: "fa-solid fa-bars"
+Author: "John Wry"
+titleIcon: "fas fa-record-vinyl"
+Template: index
 ---
 
 

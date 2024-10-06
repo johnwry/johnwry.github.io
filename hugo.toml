@@ -54,7 +54,6 @@ pygmentsCodeFences=true
     unsafe = true
 
 
-
 #
 # Specific configuration
 #
@@ -73,33 +72,30 @@ pygmentsCodeFences=true
 
 
   enforceRefrelLinks    = true
-  [params.navbar.shortcuts]
-    [params.navbar.shortcuts.example]
-      keys     = ["Shift","1"]
-      function = "scExample"
-  [[params.navbar.versions]]
-    name = 'latest'
-    url  = 'https://shadocs.netlify.app/'
-  [[params.navbar.versions]]
-    name = 'deprecated version'
-    url  = 'https://shadocs.netlify.app/404.html'
+ #  function = "scExample"
+ #[[params.navbar.versions]]
+ #   name = 'latest'
+ #   url  = 'https://shadocs.netlify.app/'
+ # [[params.navbar.versions]]
+ #   name = 'deprecated version'
+#    url  = 'https://shadocs.netlify.app/404.html'
   [params.taxonomies]
     [params.taxonomies.categories]
       icon = "fa-solid fa-table-cells"
     [params.taxonomies.tags]
       icon = "fa-solid fa-tag"
-  [params.includes]
+  #[params.includes]
   #  jsModules = [
   #      "js/shortcuts.js"
   #    ]
   #  js        = []
-    css       = [
-        "css/custom.css"
-      ]
+  #  css       = [
+  #      "css/custom.css"
+  #    ]
   #  sass      = [
   #      "sass/custom/example.sass"
   #  ]
 
-  [params.versions]
-    hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
-    bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"
+#  [params.versions]
+#    hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
+#    bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"

@@ -1,6 +1,8 @@
 ---
 Title: Galatians
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # The Book of Galatians

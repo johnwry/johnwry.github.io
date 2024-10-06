@@ -1,5 +1,8 @@
 ---
-title: Imperative verbs in Romans
+Title: Imperative verbs in Romans
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Romans 1-8

@@ -1,5 +1,7 @@
 ---
 Title: Confesar
+Template: outline
+Author: John Wry
 ---
 
 # Confesar en la biblia

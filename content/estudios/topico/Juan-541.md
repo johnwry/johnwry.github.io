@@ -1,6 +1,7 @@
 ---
 Title: Juan 5:41
 Template: outline
+Author: John Wry
 ---
 
 Juan 5:41 No me importan las alabanzas humanas,

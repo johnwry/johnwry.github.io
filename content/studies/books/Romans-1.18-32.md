@@ -1,7 +1,8 @@
 ---
 Title: Romans 1:18-32
-Template: Outline
-Date: 23/09/2024 8:10pm
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 >Rom 1:18  For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness,
 

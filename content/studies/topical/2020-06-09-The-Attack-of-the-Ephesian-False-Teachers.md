@@ -1,7 +1,8 @@
 ---
 title: The Warning to Timothy of False Teachers
-layout: post
-Template: page
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 > But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons, by means of the hypocrisy of liars seared in their own conscience as with a branding iron,men who forbid marriage and advocate abstaining from foods which God has created to be gratefully shared in by those who believe and know the truth. 1 Timothy 4:1-3

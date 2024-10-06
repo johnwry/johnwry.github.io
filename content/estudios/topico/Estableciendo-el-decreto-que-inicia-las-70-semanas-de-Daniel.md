@@ -1,7 +1,7 @@
 ---
 Title: Estableciendo el decreto que inicia las 70 semanas de Daniel
-Template: index
-
+Template: outline
+Author: John Wry
 ---
 
 # Estableciendo el decreto y la fecha que inícia las 70 semanas de Daniel

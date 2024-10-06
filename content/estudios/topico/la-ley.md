@@ -1,6 +1,7 @@
 ---
 Title: La Ley y La Gracia
 Template: outline
+Author: John Wry
 ---
 
 # La Ley

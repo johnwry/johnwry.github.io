@@ -1,9 +1,8 @@
 ---
 title: Two Instructors
-layout: post
-category: bible
-tags: law, grace, titus, colossians, paul, my background
-Template: page
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 

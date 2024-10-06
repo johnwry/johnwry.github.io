@@ -1,5 +1,7 @@
 ---
 Title: El Coran y La Biblia
+Template: outline
+Author: John Wry
 ---
 
 Asi nació el Coran: 

@@ -1,6 +1,8 @@
 ---
 Title: Entregados
-Template: page
+Author: "John Wry"
+titleIcon: "fas fa-record-vinyl"
+Template: index
 ---
 
 # Entregados

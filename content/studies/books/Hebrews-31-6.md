@@ -1,5 +1,8 @@
 ---
 Title: "Hebrews 3:1-6, 4:11-16"
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 [**Heb 3:1** ](verseid:58.3.1) Therefore, holy brethren, partakers of a heavenly calling, consider Jesus, the Apostle and High Priest of our confession;

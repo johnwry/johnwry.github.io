@@ -1,3 +1,11 @@
+---
+Title: Teologia Sistematica
+Template: outline
+Author: John Wry
+---
+
+
+
 # Teologia Sistematica
 
 

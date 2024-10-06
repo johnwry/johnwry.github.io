@@ -1,6 +1,8 @@
 ---
 title: Galatians 1:11-24
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 [**Gal 1:11** ](verseid:48.1.11) For I would have you know, brethren, that the gospel which was preached by me is not according to man.

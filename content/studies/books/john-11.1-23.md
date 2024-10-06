@@ -1,6 +1,8 @@
 ---
 Title: John 11:1-23
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 Joh 11:1  Now a certain man was sick, Lazarus of Bethany, the village of Mary and her sister Martha.
 Joh 11:2  It was the Mary who anointed the Lord with ointment, and wiped His feet with her hair, whose brother Lazarus was sick.
