@@ -1,5 +1,18 @@
 ---
 Title: Linaje de Jesús
+Template: outline
+Author: John Wry
+titleIcon: "far fa-file-alt"
+categories:
+- Topico
+- Zechariah
+series: Conociendo a Jesus
+tags:
+- Jesus
+- linaje
+- lineage
+- jeconias
+- jeconia
 ---
 
 # Linaje de Jesús
