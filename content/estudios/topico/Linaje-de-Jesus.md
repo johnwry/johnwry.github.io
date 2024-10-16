@@ -1,5 +1,5 @@
 ---
-Title: Linaje de Jesús
+Title: Linaje de Jesus
 Template: outline
 Author: John Wry
 titleIcon: "far fa-file-alt"
