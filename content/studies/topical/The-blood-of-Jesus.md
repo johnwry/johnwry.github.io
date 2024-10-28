@@ -1,7 +1,9 @@
 ---
 title: The blood of Jesus
-Template: page
 Date: 12/10/2022 4:40am
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # The blood of Jesus
