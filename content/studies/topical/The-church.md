@@ -1,5 +1,9 @@
 ---
 Title: The Church
+Date: 12/10/2022 4:40am
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 https://www.biblestudytools.com/bible-study/topical-studies/what-is-the-church-according-to-the-bible.html

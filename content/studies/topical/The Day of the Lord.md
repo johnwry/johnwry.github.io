@@ -1,5 +1,9 @@
 ---
 Title: "The Day of the Lord"
+Date: 12/10/2022 4:40am
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # The Day of the Lord

@@ -1,5 +1,9 @@
 ---
 Title: Ekklesia in the Bible
+Date: 12/10/2022 4:40am
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 EKKLESIA = called out, called

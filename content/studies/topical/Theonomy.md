@@ -10,8 +10,8 @@ Date: 28/10/2024 4:40am
 
 What is theonomy? 
 
-> **the•on•o•my** \-mē\ *noun*
-> [German *Theonomie*, from *theo-* the- (from Latin) + *-nomie* -nomy] 1890**:** the state of being theonomous**:** government by God [^1]
+> **theonomy** \-mē\ *noun*
+> [German *Theonomie*, from *theo-* the- (from Latin) + *-nomie* -nomy] 1890:the state of being theonomous: government by God [^1]
 
 While Merriam-Webster's definition seems simple enough, it does not define modern theonomy.
 
@@ -34,10 +34,6 @@ Constable states:
 
 ## Verses to consider
 
-In the church, grace is to reign not law:
-
-
-
 
 
 ### **Verses to Explain**
@@ -50,8 +46,10 @@ So, there is an appropriate use of the law and that is for the unjust. I suppose
 
 ### **Verses that Clarify the Church in regards to Theonomy**
 
+Jesus never encouraged His disciples to take civil action in His defense.
 John 18:36 *Jesus answered, "My kingdom is not of this world. If My kingdom were of this world, then **My servants would be fighting so that I would not be handed over to the Jews**; but as it is, My kingdom is not of this realm."*
 
+In the church, grace is to reign not law:
 Romans 5:20-21  *The Law came in so that the transgression would increase; but where sin increased, grace abounded all the more, so that, as sin reigned* [through the law] *in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord.*
 
 1 Corinthians 5:12 *For what have I to do with judging outsiders? Do you not judge those who are within the church?*
