@@ -25,8 +25,6 @@ tags:
 
 
 
- 
-
 Now if their transgression is riches for the world and their failure is riches for the Gentiles, how much more will their fulfillment be...for if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead? Romans 11:12, 15 
 
 We know there are certain books in the Bible that are not as popular as others. Quite possibly however, the most underestimated of them all lies tucked away between the major prophets and the gospels. It lies quietly, just waiting to be explored. 
@@ -196,14 +194,14 @@ Table of Contents
 
 ## General Information
 
-| **Division of the book of Zechariah** |                                                              |
-| ------------------------------------- | ------------------------------------------------------------ |
-| **Zechariah 1:1-6**                   | **The first  message: Theme of the book**                    |
-| **Zechariah 1:7-6**                   | **The second  message: eight night visions**                 |
-|                                       | 1. The horseman -  Taking the temperament of the nations     |
-|                                       | 2. 4 horns -  Oppressing powers kept at bay                  |
-|                                       | 3. Measuring  Jerusalem - The city rebuilt and protected     |
-|                                       | 4. Joshua - A  sinless Priest who removes all si        |
+| **Division of the book of Zechariah** |                |
+| ----------------- | ---------------------------------- |
+| **Zechariah 1:1-6**  | **The first  message: Theme of the book**    |
+| **Zechariah 1:7-6**   | **The second  message: eight night visions**  |
+|        | 1. The horseman -  Taking the temperament of the nations     |
+|     | 2. 4 horns -  Oppressing powers kept at bay |
+|     | 3. Measuring  Jerusalem - The city rebuilt and protected     |
+|    | 4. Joshua - A  sinless Priest who removes all si        |
 |                                       | 5. Zerubbabel - A  King that gives light                     |
 |                                       | 6. Flying Scroll -  Israel's trouble, judgment on the nations |
 |                                       | 7. Ephod -  wickedness removed from the land                 |
