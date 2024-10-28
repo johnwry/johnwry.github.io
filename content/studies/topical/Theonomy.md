@@ -60,8 +60,8 @@ Romans 5:20-21  *The Law came in so that the transgression would increase; but w
 
 
 
-[1^]: Inc Merriam-Webster, [*Merriam-Webster’s Collegiate Dictionary.*](https://ref.ly/logosres/mwdict11?hw=Theonomy) (Springfield, MA: Merriam-Webster, Inc., 2003).
+[^1]: Inc Merriam-Webster, [*Merriam-Webster’s Collegiate Dictionary.*](https://ref.ly/logosres/mwdict11?hw=Theonomy) (Springfield, MA: Merriam-Webster, Inc., 2003).
 
-[2^]: Charles Caldwell Ryrie, [*Basic Theology: A Popular Systematic Guide to Understanding Biblical Truth*](https://ref.ly/logosres/basictheol?ref=Page.p+460&off=582&ctx=+ ~I.+THE+RELATION+OF+THE+CHURCH+TO+THE+K) (Chicago, IL: Moody Press, 1999), 460.
+[^2]: Charles Caldwell Ryrie, [*Basic Theology: A Popular Systematic Guide to Understanding Biblical Truth*](https://ref.ly/logosres/basictheol?ref=Page.p+460&off=582&ctx=+ ~I.+THE+RELATION+OF+THE+CHURCH+TO+THE+K) (Chicago, IL: Moody Press, 1999), 460.
 
-[3^]: Charles Caldwell Ryrie, Basic Theology: A Popular Systematic Guide to Understanding Biblical Truth (Chicago, IL: Moody Press, 1999), 515.
+[^3]: Charles Caldwell Ryrie, Basic Theology: A Popular Systematic Guide to Understanding Biblical Truth (Chicago, IL: Moody Press, 1999), 515.
