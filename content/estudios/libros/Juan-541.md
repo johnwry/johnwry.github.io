@@ -1,7 +1,9 @@
 ---
 Title: Juan 5:41
 Template: outline
-Author: John Wry
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 Juan 5:41 No me importan las alabanzas humanas,

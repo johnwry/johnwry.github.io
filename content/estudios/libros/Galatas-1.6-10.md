@@ -1,7 +1,9 @@
 ---
 Title: Galatas 1.6-10
 Template: outline
-Author: John Wry
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # Gálatas 1:6-10

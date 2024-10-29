@@ -1,5 +1,9 @@
 ---
 Title: 1 Timoteo 2:1-8
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 [**1Ti 2:1** ](verseid:54.2.1) Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones *y* acciones de gracias por todos los hombres,

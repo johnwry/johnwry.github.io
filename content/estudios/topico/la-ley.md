@@ -1,7 +1,9 @@
 ---
 Title: La Ley y La Gracia
 Template: outline
-Author: John Wry
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # La Ley

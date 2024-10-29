@@ -1,7 +1,9 @@
 ---
 Title: 5 Principios para desenmascarar una cosmovisión no-biblica
 Template: outline
-Author: John Wry
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # 5 Principios para desenmascarar una cosmovisión no-biblica

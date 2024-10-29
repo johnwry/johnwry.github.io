@@ -36,7 +36,9 @@ pygmentsCodeFences=true
   [[module.mounts]]
     source = 'openapi'
     target = 'static/openapi'
-
+  [[module.mounts]]
+    source = 'img'
+    target = 'static/img'
 #[taxonomies]
 #  category = "categories"
 #  tag = "tags"

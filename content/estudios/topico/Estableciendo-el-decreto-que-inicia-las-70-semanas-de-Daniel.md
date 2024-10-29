@@ -1,7 +1,9 @@
 ---
 Title: Estableciendo el decreto que inicia las 70 semanas de Daniel
 Template: outline
-Author: John Wry
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # Estableciendo el decreto y la fecha que inícia las 70 semanas de Daniel

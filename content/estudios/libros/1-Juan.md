@@ -1,7 +1,11 @@
 ---
 Title: 1 Juan
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
-
+# 1 Juan
 =====
 1Jn 1:1  Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que hemos contemplado y lo que han tocado nuestras manos, esto escribimos acerca del Verbo de vida.
 1Jn 1:2  Y la vida se manifestó. Nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna que estaba con el Padre y se manifestó a nosotros.
@@ -136,19 +140,21 @@ That You May Know
 1Jn 5:21  Hijos, aléjense de los ídolos.
 
 ======
-
+## Datos de 1 Juan
 **Fecha de escritura**: Es posible que 1, 2 y 3 Juan fueron escritos (sin saber el orden) alrededor del año [65d.C.](http://www.datingthenewtestament.com/John.htm). 
 Lo anonimo de 1,2 y 3 Juan apelan a una escritura bajo persecución, el cual empezó después que Esteban fue apedreado. 
 **propósito de escribir**: 1 John 5:13 - Estas cosas he escrito a los que creen para que sepan que tienen vida eterna. 
 **datos de interés**: 2469 palabras
-Primary
-Keywords	Frequency
- 
-que	161
-dios	66
-porque	36
-nosotros	30
-ustedes	28
+
+![1 Juan nuve de palabras](https://johnwry.github.io/img/1jnword-count.png)
+## Frecuencia de Palabras en 1 Juan
+|**Palabra**|	**Frecuencia**|
+|------|------|
+|que	|161|
+|dios|	66|
+|porque|	36|
+|nosotros	|30|
+|ustedes	|28|
 los	24
 mundo	23
 nos	23

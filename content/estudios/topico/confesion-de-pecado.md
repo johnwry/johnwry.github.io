@@ -1,8 +1,9 @@
 ---
 Title: Confesión de Pecados
-Author: John Wry
 Template: outline
-Date: 2022/03/22
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # Confesión de Pecados

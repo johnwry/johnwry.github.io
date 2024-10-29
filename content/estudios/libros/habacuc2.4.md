@@ -1,7 +1,9 @@
 ---
 Title: Habacuc 2.4
-Template: page
-Date: 2022/03/02
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 # Habacuc 2:4
 

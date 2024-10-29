@@ -1,7 +1,9 @@
 ---
 Title: Habacúc
-Template: page
-Date: 12/03/2022 12:00am
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 # Habacúc - un profeta frustrado conversa con Dios 
 

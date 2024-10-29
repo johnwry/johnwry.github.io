@@ -1,6 +1,9 @@
 ---
 Title: Gálatas 5:17-21
 Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 # Gálatas 5:17-21
 

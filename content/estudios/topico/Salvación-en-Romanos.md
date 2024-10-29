@@ -1,5 +1,9 @@
 ---
 Title: Salvación en Romanos
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # Salvación en Romanos

@@ -1,7 +1,9 @@
 ---
 Title: Identificando la Cosmovisión del Calvinismo
-Template: page
-Author: John Wry
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # Identificando la Cosmovisión del Calvinismo

@@ -1,5 +1,9 @@
 ---
 Title: Hebreos
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 # HEBREOS 6:4-8

@@ -1,7 +1,9 @@
 ---
 Title: Ceremonia de Bodas
 Template: outline
-Author: John Wry
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 

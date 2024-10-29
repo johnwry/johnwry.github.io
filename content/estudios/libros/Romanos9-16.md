@@ -1,5 +1,9 @@
 ---
 title: Romanos 9-16
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 
 [**Rom 9:1** ](verseid:45.9.1) Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,
@@ -493,7 +497,7 @@ Porque no todos los descendientes de Israel son Israel;
 > Abraham tuvo muchos descendientes. 
 > (Hagar) Ismael - Ismaelitas, naciones arabes
 > (Cetura) Zimram, Jocsán, Medán, Madián, Isbac y Súa. Genesis 25:1-4
- 
+
 
 ni son todos hijos por ser descendientes de Abraham, 
 sino que 

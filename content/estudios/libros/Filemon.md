@@ -1,6 +1,10 @@
-—-
+---
 Title: Filemón 
-—-
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
+---
 # Filemón
 Phm 1:1  Pablo , prisionero de Cristo Jesús, y el hermano Timoteo: A Filemón nuestro amado hermano y colaborador,
 Phm 1:2  y a la hermana Apia, y a Arquipo, nuestro compañero de lucha, y a la iglesia que está en tu casa:

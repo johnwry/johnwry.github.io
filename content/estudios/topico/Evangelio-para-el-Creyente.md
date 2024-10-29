@@ -1,5 +1,9 @@
 ---
 Title: Evangelio para el Creyente
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
+Date: 28/10/2024 4:40am
 ---
 ___-___
 # El Evangelio debe ser Enseñado a la Iglesia
