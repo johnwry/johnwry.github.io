@@ -1,0 +1,105 @@
+#navbar {
+    background: #04634f;
+}
+
+blockquote {
+    border-left: .25rem solid #01101b;
+    padding: .5rem 1rem;
+    background: #833b3b;
+    position: relative;
+}
+pre {
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+  }       
+  
+  code {
+    font-family: 'Times New Roman', Times, serif
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    background: #ffffff;
+
+  }
+
+  #content code {
+    display: block;
+    padding: 0.5em 1em;
+    border: 1px solid #ffffff;
+  }
+.bible {
+    font-family: 'Cardo';
+    background: rgba(255, 255, 255, 0.2);
+    display: block;
+    border: .5px dotted #118657;
+    padding: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#content H1 {
+    color:rgb(155, 14, 14);
+    font-size: 2.2rem;
+    display: block;
+    margin: 0px;
+    font-style: normal;
+}   
+
+#content H2 {
+    font-size: 1.2rem;
+    margin-left: 15px;
+    text-indent: 0;
+    padding: 0;
+    color:rgb(79, 79, 79);
+    font-weight: 100;
+    
+}
+
+#content H3 {
+    font-size: 1.2rem;
+    text-indent: -150px;
+    color:rgb(79, 79, 79);
+    font-weight: 100;
+    margin-left: 70px;
+    display:block;
+}
+
+#content H4 {
+    font-size: 1.2rem;
+    text-indent: 0;
+    color:rgb(79, 79, 79);
+    display: block;
+    font-weight: 100;
+    margin-left: 90px;
+    
+}
+
+#content H5 {
+    font-size: 1.2rem;
+    text-indent: 0;
+    color:rgb(79, 79, 79);
+    display: block;
+    font-weight: 100;
+    margin-left: 120px;
+    
+}
+
+#content H6 {
+    font-size: 1.2rem;
+    text-indent: 0;
+    color:rgb(79, 79, 79);
+    display: block;
+    font-weight: 100;
+    margin-left: 160px;
+    
+}

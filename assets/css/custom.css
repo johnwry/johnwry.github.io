@@ -1,103 +1,100 @@
 #navbar {
-    background: #335c70;
+    background: #952529;
 }
+#content {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-style: normal;
+  }
 
+#content em {
+    color:#000000;
+    font-weight: 100;
+}
 blockquote {
-    font-style: italic;
-    background: rgba(255, 255, 255, 1);
-    margin-left: 30px; 
+    border: .05rem dotted #8a9d9d;
+    padding: 0px;
+    background: #fffffa;
+    position: relative;
 }
 pre {
-    font-family: "Courier 10 Pitch", Courier, monospace;
-    font-size: 95%;
-    line-height: 140%;
-    white-space: pre;
-    white-space: pre-wrap;
-    white-space: -moz-pre-wrap;
-    white-space: -o-pre-wrap;
+    font-family:Arial, Helvetica, sans-serif;
+    border: .05rem dotted #8a9d9d;
   }       
   
   code {
-    font-family: 'Times New Roman', Times, serif
-    font-size: 95%;
-    line-height: 140%;
+    font-family: 'Times New Roman', Times, serif;
     white-space: pre;
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
-    background:white;
-  
+    background-color:#fffffa;
+    border: .05rem dotted #8a9d9d;
   }
   #content code {
     display: block;
-    padding: 0.5em 1em;
-    border: 1px solid #bebab0;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid #d2d2d2;
+    background-color:#fffffa;
+    color:rgb(78, 77, 77);
   }
-.bible {
-    font-family: 'Cardo';
-    background: rgba(255, 241, 206, 0.2);
-    display: block;
-    border: .5px dotted #118657;
-    padding: 15px;
-    margin-left: 50px;
-    margin-right: 50px;
-    font-size: 22px;
-    font-weight: 500;
-}
 
 #content H1 {
-    color:rgb(128, 128, 128);
-    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(38, 38, 38);
+    font-size: 1.6 em;
     display: block;
     margin: 0px;
-    font-style: normal;
+    font-weight: 100;
 }   
 
 #content H2 {
-    font-size: 16px;
-    margin-left: 15px;
+    font-size: 1.5 em;
+    margin-left: 30px;
     text-indent: 0;
     padding: 0;
-    color:rgb(128, 128, 128);
+    color:rgb(38, 38, 38);
     font-weight: 100;
-    
 }
 
 #content H3 {
-    font-size: 14px;
-    text-indent: -150px;
-    color:rgb(128, 128, 128);
-    font-weight: 100;
+    font-size: 1.4 em;
+    text-indent: 0;
+    color:rgb(72, 72, 72);
+    font-weight: lighter;
     margin-left: 70px;
     display:block;
 }
 
 #content H4 {
-    font-size: 14px;
+    font-size: 1.4 em;
     text-indent: 0;
-    color:rgb(128, 128, 128);
+    color:rgb(72, 72, 72);
+    font-weight: normal;
     display: block;
-    font-weight: 100;
     margin-left: 90px;
     
 }
 
 #content H5 {
-    font-size: 14px;
+    font-size: 1.4 em;
     text-indent: 0;
-    color:rgb(128, 128, 128);
+    color:rgb(72, 72, 72);
+    font-weight: normal;
     display: block;
-    font-weight: 100;
     margin-left: 120px;
     
 }
 
 #content H6 {
-    font-size: 14px;
+    font-size: 1.4 em;
     text-indent: 0;
-    color:rgb(128, 128, 128);
+    color:rgb(72, 72, 72);
+    font-weight: normal;
     display: block;
-    font-weight: 100;
     margin-left: 160px;
     
 }

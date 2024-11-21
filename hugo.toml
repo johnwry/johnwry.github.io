@@ -12,7 +12,6 @@ publishDir             = "docs"
 title                  = "BJWry"
 theme                  = "shadocs"
 themesdir              = "themes"
-custom_css = ["css/custom.css"]
 
 tags = ["Bulma", "Search", "Simple", "Documentation", "Fontawesome", "Intro", "Mermaid", "OpenAPI", "AsyncAPI"]
 features = ["Menu", "Nested sections", "Search", "Shortcuts", "Netlify", "Intro", "Mermaid", "OpenAPI", "AsyncAPI"]
@@ -86,18 +85,18 @@ pygmentsCodeFences=true
       icon = "fa-solid fa-table-cells"
     [params.taxonomies.tags]
       icon = "fa-solid fa-tag"
-  #[params.includes]
+[params.includes]
   #  jsModules = [
   #      "js/shortcuts.js"
   #    ]
   #  js        = []
-  #  css       = [
-  #      "css/custom.css"
-  #    ]
+    css       = [
+        "css/custom.css"
+      ]
   #  sass      = [
   #      "sass/custom/example.sass"
   #  ]
 
-#  [params.versions]
-#    hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
-#    bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"
+  [params.versions]
+    hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
+    bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"
