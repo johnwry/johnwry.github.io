@@ -245,7 +245,8 @@ At the same time also prepare me a lodging, for I hope that through your prayers
 
 
 # I. Philemon Outlined
-## A. Introduction
+
+# A. Introduction
 
 ### 1. The letter of Philemon is short but the content of this short letter is very profound.  
 
@@ -285,7 +286,7 @@ Philemon is encouraged to willingly forgive Onesimus.
 
 #### b. Onesimus. Onesimus became a believer and was discipled by Paul. 
 
-## B. Philemon 1:1-7  Greetings
+# B. Philemon 1:1-7  Greetings
 
 ### 1. Philemon 1:1 *Paul,* *a prisoner of Christ Jesus,* Paul considered himself a slave, apostle and prisoner of Jesus Christ. 
 
@@ -367,7 +368,7 @@ Philemon 1: *in your love,*
 
 Philemon 1: *through you, brother.* 
 
-## Philemon 1:8-22 Body of the letter - an appeal for Onesimus
+# Philemon 1:8-22 Body of the letter - an appeal for Onesimus
 
 Philemon 1: *Therefore, though I have enough confidence in Christ* 
 
@@ -441,7 +442,7 @@ Philemon 1: *I write to you,*
 
 Philemon 1: *since I know that you will do even more than what I say.* 
 
-## Philemon 1:22-25 Farewell
+# Philemon 1:22-25 Farewell
 
 Philemon 1: *At the same time also prepare me a lodging,* 
 
