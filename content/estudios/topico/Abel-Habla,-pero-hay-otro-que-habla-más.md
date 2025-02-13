@@ -12,11 +12,7 @@ titleIcon: "far fa-file-alt"
 
 "*y por la fe, estando muerto, todavía habla.*" Hebreos 11:4
 
-Gen 4:1  Y el hombre se unió a Eva, su mujer, y ella concibió y dio a luz a Caín, y dijo: «He adquirido varón con la ayuda del SEÑOR».
-Gen 4:2  Después dio a luz a Abel su hermano. Y Abel fue pastor de ovejas y Caín fue labrador de la tierra.
-Gen 4:3  Al transcurrir el tiempo, Caín trajo al SEÑOR una ofrenda del fruto de la tierra.
-Gen 4:4  También Abel, por su parte, trajo de los primogénitos de sus ovejas y de la grasa de los mismos. El SEÑOR **miró con agrado a Abel y su ofrenda**,
-Gen 4:5  pero no miró con agrado a Caín y su ofrenda. Caín se enojó mucho y su semblante se demudó.
+Gen 4:1-5  Y el hombre se unió a Eva, su mujer, y ella concibió y dio a luz a Caín, y dijo: «He adquirido varón con la ayuda del SEÑOR». Después dio a luz a Abel su hermano. Y Abel fue pastor de ovejas y Caín fue labrador de la tierra. Al transcurrir el tiempo, Caín trajo al SEÑOR una ofrenda del fruto de la tierra. También Abel, por su parte, trajo de los primogénitos de sus ovejas y de la grasa de los mismos. El SEÑOR **miró con agrado a Abel y su ofrenda**, pero no miró con agrado a Caín y su ofrenda. Caín se enojó mucho y su semblante se demudó.
 
 ## Que hizo Abel por la fe? 
 
@@ -34,27 +30,7 @@ Gen 4:5  pero no miró con agrado a Caín y su ofrenda. Caín se enojó mucho y 
 
 ## No cualquier sacrificio es aceptable ante Dios:
 
-[**Isa 1:13** ](verseid:23.1.13) No traigan más sus vanas ofrendas, El incienso me es abominación. Luna nueva y día de reposo, el convocar asambleas: ¡No tolero iniquidad y asamblea solemne!
-
-[**Isa 1:14** ](verseid:23.1.14) Sus lunas nuevas y sus fiestas señaladas las aborrece Mi alma. Se han vuelto una carga para Mí, Estoy cansado de soportar*las*.
-
-[**Isa 1:15** ](verseid:23.1.15) Cuando extiendan sus manos, Esconderé Mis ojos de ustedes. Sí, aunque multipliquen las oraciones, No escucharé. Sus manos están llenas de sangre.
-
-[**Isa 1:16** ](verseid:23.1.16) »Lávense, límpiense, Quiten la maldad de sus obras de delante de Mis ojos. Cesen de hacer el mal.
-
-[**Isa 1:17** ](verseid:23.1.17) Aprendan a hacer el bien, Busquen la justicia, Reprendan al opresor, Defiendan al huérfano, Aboguen por la viuda.
-
-[**Isa 1:18** ](verseid:23.1.18) »Vengan ahora, y razonemos», Dice el SEÑOR, «Aunque sus pecados sean como la grana, Como la nieve serán emblanquecidos. Aunque sean rojos como el carmesí, Como *blanca* lana quedarán.
-
-[**Isa 1:19** ](verseid:23.1.19) Si ustedes quieren y obedecen, Comerán lo mejor de la tierra.
-
-[**Isa 1:20** ](verseid:23.1.20) Pero si rehúsan y se rebelan, Por la espada serán devorados». Ciertamente, la boca del SEÑOR ha hablado.
-
-[**Isa 1:21** ](verseid:23.1.21) ¡Cómo se ha convertido en ramera la ciudad fiel, La *que* estaba llena de justicia! Moraba en ella la rectitud, Pero ahora, asesinos.
-
-[**Isa 1:22** ](verseid:23.1.22) Tu plata se ha vuelto escoria, Tu vino está mezclado con agua.
-
-[**Isa 1:23** ](verseid:23.1.23) Tus gobernantes son rebeldes Y compañeros de ladrones; Cada uno ama el soborno Y corre tras las dádivas. No defienden al huérfano, Ni llega a ellos la causa de la viuda.
+[**Isa 1:13-23** ](verseid:23.1.13) No traigan más sus vanas ofrendas, El incienso me es abominación. Luna nueva y día de reposo, el convocar asambleas: ¡No tolero iniquidad y asamblea solemne! Sus lunas nuevas y sus fiestas señaladas las aborrece Mi alma. Se han vuelto una carga para Mí, Estoy cansado de soportar*las*. Cuando extiendan sus manos, Esconderé Mis ojos de ustedes. Sí, aunque multipliquen las oraciones, No escucharé. Sus manos están llenas de sangre. »Lávense, límpiense, Quiten la maldad de sus obras de delante de Mis ojos. Cesen de hacer el mal. Aprendan a hacer el bien, Busquen la justicia, Reprendan al opresor, Defiendan al huérfano, Aboguen por la viuda. »Vengan ahora, y razonemos», Dice el SEÑOR, «Aunque sus pecados sean como la grana, Como la nieve serán emblanquecidos. Aunque sean rojos como el carmesí, Como *blanca* lana quedarán. Si ustedes quieren y obedecen, Comerán lo mejor de la tierra. Pero si rehúsan y se rebelan, Por la espada serán devorados». Ciertamente, la boca del SEÑOR ha hablado. ¡Cómo se ha convertido en ramera la ciudad fiel, La *que* estaba llena de justicia! Moraba en ella la rectitud, Pero ahora, asesinos. Tu plata se ha vuelto escoria, Tu vino está mezclado con agua. Tus gobernantes son rebeldes Y compañeros de ladrones; Cada uno ama el soborno Y corre tras las dádivas. No defienden al huérfano, Ni llega a ellos la causa de la viuda.
 
 
 
@@ -86,9 +62,7 @@ Gen 4:5  pero no miró con agrado a Caín y su ofrenda. Caín se enojó mucho y 
    >
    > Hebreos 11:4d – Y muerto, aún habla por ella. Aunque Abel fue asesinado hace mucho tiempo, aún hoy continuamos aprendiendo de su fe como se registra para nosotros en las Escrituras. 2 Timoteo 3:16 - DM2 www.dm2usa.org
 
-[**Rom 5:1** ](verseid:45.5.1) Por tanto, habiendo sido justificados por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo,
-
-[**Rom 5:2** ](verseid:45.5.2) por medio de quien también hemos obtenido entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.
+[**Rom 5:1-2** ](verseid:45.5.1) Por tanto, habiendo sido justificados por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo, por medio de quien también hemos obtenido entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.
 
 Rom 5:**9** Entonces mucho más, habiendo sido ahora justificados por Su sangre, seremos salvos de la ira *de Dios* por medio de Él.
 
