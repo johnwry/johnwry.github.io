@@ -1,5 +1,5 @@
 ---
-Titulo: ¿215, 400 o 430 años?
+Title: ¿215, 400 o 430 años?
 Tags: 400, 270, 430, slavery, esclavitud
 Template: outline
 Author: "John Wry"
