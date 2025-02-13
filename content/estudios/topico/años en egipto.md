@@ -1,6 +1,5 @@
 ---
 Title: ¿215, 400 o 430 años?
-Tags: 400, 270, 430, slavery, esclavitud
 Template: outline
 Author: "John Wry"
 titleIcon: "far fa-file-alt"
@@ -8,7 +7,7 @@ Date: 2025/02/13
 taxonomies:
   Category: Genesis
   series: Antiguo Testamento
-  tag: Israel, Egipto, 400, esclavitud, 430 
+  Tags: Israel, Egipto, 400, esclavitud, 430 
 ---
 
 # ¿Cuantos años estuvo Israel en Egipto?

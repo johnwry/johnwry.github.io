@@ -3,8 +3,9 @@ Title: Abel nos Habla Hoy
 taxonomies:
   category: Genesis
   series: Antiguo Testamento
-  tag: Abel, cain, fe, sacrificio, justo
+  Tags: Abel, cain, fe, sacrificio, justo
 Date: 2025/02/13
+titleIcon: "far fa-file-alt"
 ---
 
 # Abel Habla
