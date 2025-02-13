@@ -41,3 +41,7 @@ titleIcon: "far fa-file-alt"
 
 #### By walking in the Light, we are revealed our sins, we confess our sins and are cleansed in our fellowship with one another. 
 >1Jn 1:9  If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.
+
+## Removal of guilt vs forgiveness of sins
+
+> Hosea 10:2 Their heart is faithless; Now they must **bear their guilt.** The LORD will break down their altars *And* destroy their *sacred* pillars.

@@ -240,13 +240,20 @@ At the same time also prepare me a lodging, for I hope that through your prayers
 ​	*be with your spirit.*
 
 
-
 ===
 
 
 # I. Philemon Outlined
 
 # A. Introduction
+
+## Main Characters
+
+### Paul - Never been to Colossae but Philemon was probably a disciple from the school of Tyrannus in Ephesus. 3 months + 2 years. acts 19:8-10
+
+### Philemon - only mentioned in this book. Slave owner. Believers met in his house so we conclude he was probably wealthy. Model Christian and a great blessing to Paul. 
+
+### Onesimus - 1 Corinthians 7:21-24 
 
 ### 1. The letter of Philemon is short but the content of this short letter is very profound.  
 
