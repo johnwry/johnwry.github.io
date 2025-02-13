@@ -1,5 +1,10 @@
 ---
 Title: Abel nos Habla Hoy
+taxonomies:
+  category: tópico
+  series: Antiguo Testamento
+  tag: Abel, cain, fe, sacrificio, justo
+Date: 2025/02/13
 ---
 
 # Abel Habla
