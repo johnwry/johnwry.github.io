@@ -4,10 +4,13 @@ Template: outline
 Author: "John Wry"
 titleIcon: "far fa-file-alt"
 Date: 2025/02/13
-taxonomies:
-  Category: Genesis
-  series: Antiguo Testamento
-  Tags: Israel, Egipto, 400, esclavitud, 430 
+categories:
+- Topico
+series: Genesis
+tags:
+- esclavitud
+- Egipto
+- Israel
 ---
 
 # ¿Cuantos años estuvo Israel en Egipto?
