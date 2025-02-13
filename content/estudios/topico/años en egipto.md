@@ -6,7 +6,7 @@ Author: "John Wry"
 titleIcon: "far fa-file-alt"
 Date: 2025/02/13
 taxonomies:
-  category: tópico
+  Category: Genesis
   series: Antiguo Testamento
   tag: Israel, Egipto, 400, esclavitud, 430 
 ---
