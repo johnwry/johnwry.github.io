@@ -46,17 +46,17 @@ para *seguir*
 
 ​					no es otro 
 
-​							*evangelio,* 
+​							*evangelio,* `Pablo considera la verdad vs la mentir`
 
 sino que hay 
 
 ​				algunos 
 
-​						que los perturban `perturban:ταράσσω, atemorizar,agitar,batir hasta agitar, causar una conmoción interna, quitarle la calma mental, perturbar su ecuanimidad    `
+​						que los perturban `perturban:ταράσσω, atemorizar,agitar,batir hasta agitar, causar una conmoción interna, quitarle la calma mental, perturbar su ecuanimidad. Distraer, hacer que dejes de mirar algo`    `
 
 ​							a ustedes 
 
-​							y quieren pervertir `pervertir: μεταστρέφω, corromper,distorcionar `
+​							y quieren pervertir `pervertir: μεταστρέφω, corromper,distorcionar. Pervertir es cambiar. Es otro mensaje.`
 
 ​						el evangelio de Cristo. `No es que negaban la obra de Cristo, pero negaban la suficienca de la obra de Cristo. Decian que Cristo habia hecho su parte y ahora era necesario que ellos hicieran su parte. Al hacerlo se separaron de Dios. Si, Aquel Dios que tan fervientemente predicaban.`
 
@@ -88,17 +88,17 @@ también repito
 
 ​			ahora: 
 
-Si alguien (cualquiera)
+Si alguien (cualquiera) `no estamos excemptos a este error`
 
 ​	les anuncia 
 
-​			un evangelio 
+​			un evangelio  `una buena noticia` 
 
 ​			contrario `contrario: παρά,en contra,desviado, en violación a,   ` `o posiblemente más que han recibido`
 
 ​				al que recibieron, `habian oido el evangelio claro para ser salvos.`
 
-​		sea anatema. `anatema:ἀνάθεμα `
+​		sea anatema. `anatema: ἀνάθεμα. 1 Corintios 16:22 RVR60, Romanos 9:3 RVR60`
 
 Porque 
 
@@ -126,4 +126,26 @@ Si yo
 
 ​		(yo) no sería siervo 
 
-​					de Cristo. `1 Tes 2:4, 6, 1 Cor 2:4`
+​					de Cristo. `1 Tesalonicenses 2:4 RVR60, 6, 1 Corintios 2:4 RVR60`
+
+## Verdad vs Mentira
+
+
+
+[Gal 2:5](verseid:48.2.5) A los cuales [G3739](num:G3739)  ni [G3761](num:G3761)  aun por [G4314](num:G4314)  una hora [G5610](num:G5610)  cedimos [G1502](num:G1502)  sujetándonos [G5292](num:G5292) , para que [G2443](num:G2443)  la [G3588](num:G3588)  **verdad G225**  del [G3588](num:G3588)  evangelio [G2098](num:G2098)  permaneciese [G1265](num:G1265)  con [G4314](num:G4314)  vosotros [G5209](num:G5209) .
+
+[Gal 2:14](verseid:48.2.14) Mas [G235](num:G235)  cuando [G3753](num:G3753)  vi [G1492](num:G1492)  que [G3754](num:G3754)  no [G3756](num:G3756)  andaban derechamente [G3716](num:G3716)  conforme [G4314](num:G4314)  á la [G3588](num:G3588)  **verdad G225**  del [G3588](num:G3588)  evangelio [G2098](num:G2098) , dije [G2036](num:G2036)  á Pedro [G1565](num:G1565)  delante [G1715](num:G1715)  de todos [G3956](num:G3956) : Si [G1487](num:G1487)  tú [G4771](num:G4771) , siendo [G5225](num:G5225)  Judío [G2453](num:G2453) , vives [G2198](num:G2198)  como los Gentiles [G1483](num:G1483)  y [G2532](num:G2532)  no [G3756](num:G3756)  como Judío [G2453](num:G2453) , ¿por qué [G5101](num:G5101)  constriñes [G315](num:G315)  á los [G3588](num:G3588)  Gentiles [G1483](num:G1483)  á judaizar [G2450](num:G2450) ?
+
+[Gal 3:1](verseid:48.3.1) ¡OH [G5599](num:G5599)  Gálatas [G1052](num:G1052)  insensatos [G453](num:G453) ! ¿quién [G5101](num:G5101)  os [G5209](num:G5209)  fascinó [G940](num:G940) , para no [G3361](num:G3361)  obedecer [G3982](num:G3982)  á **la verdad G225** , ante [G2596](num:G2596)  cuyos ojos [G3788](num:G3788)  Jesucristo [G2424](num:G2424)[G5547](num:G5547)  fué ya descrito [G4270](num:G4270)  *como* crucificado [G4717](num:G4717)  entre [G1722](num:G1722)  vosotros [G3739](num:G3739) ?
+
+[Gal 4:16](verseid:48.4.16) ¿Heme pues [G5620](num:G5620)  hecho [G1096](num:G1096)  vuestro [G5216](num:G5216)  enemigo [G2190](num:G2190) , diciéndoos [G5213](num:G5213)  **la verdad G226** ?
+
+[Gal 5:7](verseid:48.5.7) Vosotros corríais [G5143](num:G5143)  bien [G2573](num:G2573) : ¿quién [G5101](num:G5101)  os [G5209](num:G5209)  embarazó [G1465](num:G1465) [G348](num:G348)  para no [G3361](num:G3361)  obedecer [G3982](num:G3982)  á **la [G3588](num:G3588)  verdad G225** ?
+
+
+
+===
+
+agregar al evangelio hace que no valga lo que vale. 
+
+**aumentar algo no mejora el evangelio, lo cambia.** 

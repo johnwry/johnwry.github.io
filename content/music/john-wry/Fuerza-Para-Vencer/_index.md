@@ -4,6 +4,12 @@ Author: "John Wry"
 titleIcon: "fas fa-record-vinyl"
 Template: index
 ---
+[A Tus Ojos](https://open.spotify.com/track/23lVwAblqGwfnFOxYGrHB2)
+[Pasaré los Días](https://open.spotify.com/track/0Y3UFhv7HnK3LlBPNA2StC)
+[Cantado a Cristo](https://open.spotify.com/track/3M7XYneVQHZtpkoDiFjbY2)
+[Whatever Happened to Love](https://open.spotify.com/track/1mycAxftAB5Z8cPiil8NCQ)
+[Fuerza para Vencer](https://open.spotify.com/track/4pJEUNzZWJ4uftf1464Wcm)
+
 # Fuerza Para Vencer (John Wry)
 
 ## Whatever happened to love
