@@ -2,384 +2,400 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://johnwry.github.io/posts/</loc>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/posts/test/</loc>
+    <loc>/posts/test/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/colosenses/</loc>
+    <loc>/estudios/libros/colosenses/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/carne.debil/</loc>
+    <loc>/estudios/libros/untitled/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/santidad-en-la-cena/</loc>
+    <loc>/estudios/topico/carne.debil/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/whatever-happened-to-love/</loc>
+    <loc>/estudios/topico/santidad-en-la-cena/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/2015-03-24-predestination/</loc>
+    <loc>/music/john-wry/whatever-happened-to-love/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/sanctification/</loc>
+    <loc>/studies/topical/2015-03-24-predestination/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/theology/</loc>
+    <loc>/studies/topical/sanctification/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/anos-en-egipto/</loc>
+    <loc>/studies/topical/theology/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/1-john/</loc>
+    <loc>/estudios/topico/anos-en-egipto/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/1-juan/</loc>
+    <loc>/studies/books/1-john/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/1-peter/</loc>
+    <loc>/estudios/libros/1-juan/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/1-timoteo-2.1-8/</loc>
+    <loc>/studies/books/1-peter/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/2-pedro/</loc>
+    <loc>/estudios/libros/1-timoteo-2.1-8/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/2-timothy/</loc>
+    <loc>/estudios/libros/2-pedro/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/400/</loc>
+    <loc>/studies/books/2-timothy/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/430/</loc>
+    <loc>/tags/400/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/5-principios/</loc>
+    <loc>/tags/430/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/abel-habla-pero-hay-otro-que-habla-mas/</loc>
+    <loc>/estudios/topico/5-principios/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/adoracion-biblica/</loc>
+    <loc>/estudios/topico/abel-habla-pero-hay-otro-que-habla-mas/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/angels/</loc>
+    <loc>/estudios/topico/adoracion-biblica/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/</loc>
+    <loc>/studies/topical/angels/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/armageddon-zech6/</loc>
+    <loc>/studies/books/archives/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/bautismo/</loc>
+    <loc>/studies/topical/armageddon-zech6/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/biblical_covenants/</loc>
+    <loc>/estudios/topico/bautismo/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/billys-fish/</loc>
+    <loc>/studies/topical/biblical_covenants/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/</loc>
+    <loc>/music/billys-fish/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/categories/books/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/</loc>
+    <loc>/categories/books/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/cabe-de-pala/</loc>
+    <loc>/studies/books/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/entregados/cada-paso-que-yo-doy/</loc>
+    <loc>/music/cabe-de-pala/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/calvinismo/</loc>
+    <loc>/music/entregados/cada-paso-que-yo-doy/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/entregados/camino-al-cielo/</loc>
+    <loc>/estudios/topico/calvinismo/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/categories/</loc>
+    <loc>/music/entregados/camino-al-cielo/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/matrimonio-arces/</loc>
+    <loc>/tags/carne/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/christmas-kingbirth/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/confesion/</loc>
+    <loc>/estudios/topico/matrimonio-arces/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/confesion-de-pecado/</loc>
+    <loc>/studies/topical/christmas-kingbirth/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/confession-of-sins/</loc>
+    <loc>/estudios/topico/confesion/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/conocer-el-amor/</loc>
+    <loc>/estudios/topico/confesion-de-pecado/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/content-management/</loc>
+    <loc>/studies/topical/confession-of-sins/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/lordship/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/conocer-el-amor/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/2021-07-27-daniel.6.18-28/</loc>
+    <loc>/tags/content-management/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/2020-06-08-daniel-31-12/</loc>
+    <loc>/studies/topical/lordship/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/dealing_with_pain/</loc>
+    <loc>/studies/books/2021-07-27-daniel.6.18-28/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/posts/demo/</loc>
+    <loc>/studies/books/2020-06-08-daniel-31-12/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/por-gracia/dios-es-nuestro-refugio/</loc>
+    <loc>/studies/topical/dealing_with_pain/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/discipleship-need/</loc>
+    <loc>/posts/demo/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/dos-evangelios/</loc>
+    <loc>/music/por-gracia/dios-es-nuestro-refugio/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/egipto/</loc>
+    <loc>/studies/topical/discipleship-need/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/ekklesia-in-the-bible/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/dos-evangelios/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/el-coran-y-la-biblia/</loc>
+    <loc>/tags/egipto/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/el_evangelio/</loc>
+    <loc>/studies/topical/ekklesia-in-the-bible/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/el-mismo...nuestra-suficiencia/</loc>
+    <loc>/estudios/topico/el-coran-y-la-biblia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/enemigos-de-observacion/</loc>
+    <loc>/estudios/topico/el_evangelio/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/entregados/</loc>
+    <loc>/estudios/topico/el-mismo...nuestra-suficiencia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/ephesians/</loc>
+    <loc>/estudios/topico/enemigos-de-observacion/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/esclavitud/</loc>
+    <loc>/music/entregados/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/</loc>
+    <loc>/studies/books/ephesians/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/</loc>
+    <loc>/tags/esclavitud/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/</loc>
+    <loc>/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/familia/</loc>
+    <loc>/estudios/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/evangelio-para-el-creyente/</loc>
+    <loc>/estudios/topico/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/filemon/</loc>
+    <loc>/estudios/topico/familia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/fuerza-para-vencer/</loc>
+    <loc>/estudios/topico/evangelio-para-el-creyente/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/fuerza-para-vencer/</loc>
+    <loc>/estudios/libros/filemon/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/categories/functionalities/</loc>
+    <loc>/music/john-wry/fuerza-para-vencer/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/galatas-1.6-10/</loc>
+    <loc>/music/john-wry/fuerza-para-vencer/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/g%C3%A1latas-517-21/</loc>
+    <loc>/categories/functionalities/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/galatians/</loc>
+    <loc>/estudios/libros/galatas-1.6-10/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/galatians-111-24/</loc>
+    <loc>/estudios/libros/g%C3%A1latas-517-21/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/gal-3.21-29/</loc>
+    <loc>/studies/books/galatians/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/globalist-theology/</loc>
+    <loc>/studies/books/galatians-111-24/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/billys-fish/good-news-tour/</loc>
+    <loc>/studies/books/gal-3.21-29/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/grace/</loc>
+    <loc>/studies/topical/globalist-theology/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/</loc>
+    <loc>/music/billys-fish/good-news-tour/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/habacuc/</loc>
+    <loc>/tags/grace/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/habacuc2.4/</loc>
+    <loc>/tags/gracia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/entregados/habacuc_3.17-19/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/habakkuk/</loc>
+    <loc>/estudios/topico/gracia-es-solo-para-inmerecedores/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/hebreos/</loc>
+    <loc>/estudios/libros/habacuc/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/hebrews-12.1-2/</loc>
+    <loc>/estudios/libros/habacuc2.4/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/hebrews-31-6/</loc>
+    <loc>/music/entregados/habacuc_3.17-19/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/himnos-selectos/</loc>
+    <loc>/studies/books/habakkuk/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/homiletics/</loc>
+    <loc>/estudios/libros/hebreos/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/hugo/</loc>
+    <loc>/studies/books/hebrews-12.1-2/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/how-many-names/</loc>
+    <loc>/studies/books/hebrews-31-6/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/calvinismo-una-cosmovision-idolatra/</loc>
+    <loc>/music/himnos-selectos/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/imperative-verbs-in-romans-1-8/</loc>
+    <loc>/studies/topical/homiletics/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/in-the-studio/</loc>
+    <loc>/tags/hugo/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
+    <loc>/music/how-many-names/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
+    <loc>/estudios/topico/calvinismo-una-cosmovision-idolatra/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</loc>
+    <loc>/studies/topical/imperative-verbs-in-romans-1-8/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/islam/</loc>
+    <loc>/music/john-wry/in-the-studio/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/israel/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/israel-egypt/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/jeconia/</loc>
+    <loc>/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/jeconias/</loc>
+    <loc>/studies/topical/islam/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/jesus/</loc>
+    <loc>/tags/israel/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/jesus-buen-pastor/</loc>
+    <loc>/studies/topical/israel-egypt/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</loc>
+    <loc>/tags/jeconia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/john/</loc>
+    <loc>/tags/jeconias/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/john-11.1-23/</loc>
+    <loc>/tags/jesus/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/john-11.35-48/</loc>
+    <loc>/music/jesus-buen-pastor/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/john-13.21-38/</loc>
+    <loc>/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/john-831-44/</loc>
+    <loc>/tags/john/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/</loc>
+    <loc>/studies/books/john-11.1-23/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/</loc>
+    <loc>/studies/books/john-11.35-48/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/jovenes/</loc>
+    <loc>/studies/books/john-13.21-38/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/juan2.23-24/</loc>
+    <loc>/studies/books/john-831-44/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/juan-541/</loc>
+    <loc>/music/john-wry/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/judas/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/jueces/</loc>
+    <loc>/estudios/topico/jovenes/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/la-fe-convencional/</loc>
+    <loc>/estudios/libros/juan2.23-24/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/la-gracia-de-dios/</loc>
+    <loc>/estudios/libros/juan-541/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/la-iglesia/</loc>
+    <loc>/estudios/libros/judas/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/la-ley/</loc>
+    <loc>/estudios/libros/jueces/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/simiente-mujer-mesias/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/la-fe-convencional/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/lecciones/</loc>
+    <loc>/estudios/topico/la-gracia-de-dios/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/entregados/lentamente/</loc>
+    <loc>/estudios/topico/la-iglesia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/</loc>
+    <loc>/estudios/topico/la-ley/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/linaje/</loc>
+    <loc>/estudios/topico/simiente-mujer-mesias/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/linaje-de-jesus/</loc>
+    <loc>/estudios/topico/lecciones/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/lineage/</loc>
+    <loc>/music/entregados/lentamente/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/los-sufrimientos-de-cristo/</loc>
+    <loc>/categories/libros/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/luz-a-los-gentiles/</loc>
+    <loc>/estudios/libros/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/marriage/</loc>
+    <loc>/tags/linaje/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/matrimonio/</loc>
+    <loc>/estudios/topico/linaje-de-jesus/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/mi-canto-es-tu-gracia/</loc>
+    <loc>/tags/lineage/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/mosoj-chaski/</loc>
+    <loc>/estudios/topico/los-sufrimientos-de-cristo/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/juda-kings-mothers/</loc>
+    <loc>/estudios/topico/luz-a-los-gentiles/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/</loc>
+    <loc>/tags/malos-entendidos/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/por-gracia/no-a-nosotros/</loc>
+    <loc>/studies/topical/marriage/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/2015-02-15-obedience-of-faith/</loc>
+    <loc>/estudios/topico/matrimonio/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/oh-que-completa-es/</loc>
+    <loc>/music/john-wry/mi-canto-es-tu-gracia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/old-testament/</loc>
+    <loc>/music/mosoj-chaski/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/ot-books/</loc>
+    <loc>/studies/topical/juda-kings-mothers/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/ot-books/</loc>
+    <loc>/music/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/pasare-los-dias/</loc>
+    <loc>/music/por-gracia/no-a-nosotros/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/phil-21-2-phrased/</loc>
+    <loc>/studies/topical/2015-02-15-obedience-of-faith/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/philemon/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/oh-que-completa-es/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/por-gracia/</loc>
+    <loc>/tags/old-testament/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/por-gracia/por-gracia/</loc>
+    <loc>/studies/books/ot-books/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/psalm2/</loc>
+    <loc>/studies/topical/ot-books/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/psalm-32/</loc>
+    <loc>/music/john-wry/pasare-los-dias/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/psalm-36/</loc>
+    <loc>/studies/books/phil-21-2-phrased/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/quotes/</loc>
+    <loc>/studies/books/philemon/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/2020-06-08-repentance/</loc>
+    <loc>/music/por-gracia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/return/</loc>
+    <loc>/music/por-gracia/por-gracia/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/return-to-god/</loc>
+    <loc>/studies/books/psalm2/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/romanos1-7/</loc>
+    <loc>/studies/books/psalm-32/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/romanos9-16/</loc>
+    <loc>/studies/books/psalm-36/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/romans-1.18-32/</loc>
+    <loc>/studies/topical/quotes/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/romans-109-10/</loc>
+    <loc>/studies/topical/2020-06-08-repentance/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/romans-81/</loc>
+    <loc>/tags/return/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/romans-81-4/</loc>
+    <loc>/studies/topical/return-to-god/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/romans-818-28/</loc>
+    <loc>/estudios/libros/romanos1-7/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/romans-9-16/</loc>
+    <loc>/estudios/libros/romanos9-16/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/cabe-de-pala/crea-en-mi/</loc>
+    <loc>/studies/books/romans-1.18-32/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/cabe-de-pala/salmo-51/</loc>
+    <loc>/studies/books/romans-109-10/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/salvacio%CC%81n-en-romanos/</loc>
+    <loc>/studies/books/romans-81/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/libros/santiago/</loc>
+    <loc>/studies/books/romans-81-4/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/solo-para-ninos/</loc>
+    <loc>/studies/books/romans-818-28/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/spirit/</loc>
+    <loc>/studies/books/romans-9-16/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/</loc>
+    <loc>/music/cabe-de-pala/crea-en-mi/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/tags/</loc>
+    <loc>/music/cabe-de-pala/salmo-51/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/estudios/topico/teologia-sistematica/</loc>
+    <loc>/estudios/libros/salmo-99/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/the-blood-of-jesus/</loc>
+    <loc>/estudios/topico/salvacio%CC%81n-en-romanos/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/the-church/</loc>
+    <loc>/estudios/libros/santiago/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/the-day-of-the-lord/</loc>
+    <loc>/estudios/libros/santiago-112-18/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/the-gospel-to-the-believer/</loc>
+    <loc>/music/solo-para-ninos/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/grace-unmerited/</loc>
+    <loc>/tags/spirit/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</loc>
+    <loc>/studies/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/theonomy/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/titeres/</loc>
+    <loc>/estudios/topico/teologia-sistematica/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/categories/topico/</loc>
+    <loc>/studies/topical/the-blood-of-jesus/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/</loc>
+    <loc>/studies/topical/the-church/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/2021-07-21-two-instructors/</loc>
+    <loc>/studies/topical/the-day-of-the-lord/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/music/john-wry/inteligencia-artificial/yo-era-un-hombre/</loc>
+    <loc>/studies/topical/the-gospel-to-the-believer/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/topical/i-am-acused-of-teaching-easy-believism/</loc>
+    <loc>/studies/topical/grace-unmerited/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/categories/zechariah/</loc>
+    <loc>/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/zechariah-old/</loc>
+    <loc>/studies/topical/theonomy/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/zechariah-orig/</loc>
+    <loc>/music/titeres/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/zechariah-orig.md/</loc>
+    <loc>/categories/topico/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/zechariah/</loc>
+    <loc>/studies/topical/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/zechariah_notes/</loc>
+    <loc>/studies/topical/2021-07-21-two-instructors/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/zechariah_notes2/</loc>
+    <loc>/music/john-wry/inteligencia-artificial/yo-era-un-hombre/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/archives/zechariah_old/</loc>
+    <loc>/studies/topical/i-am-acused-of-teaching-easy-believism/</loc>
   </url><url>
-    <loc>https://johnwry.github.io/studies/books/zephaniah/</loc>
+    <loc>/categories/zechariah/</loc>
+  </url><url>
+    <loc>/studies/books/archives/zechariah-old/</loc>
+  </url><url>
+    <loc>/studies/books/archives/zechariah-orig/</loc>
+  </url><url>
+    <loc>/studies/books/archives/zechariah-orig.md/</loc>
+  </url><url>
+    <loc>/studies/books/zechariah/</loc>
+  </url><url>
+    <loc>/studies/books/archives/zechariah_notes/</loc>
+  </url><url>
+    <loc>/studies/books/archives/zechariah_notes2/</loc>
+  </url><url>
+    <loc>/studies/books/archives/zechariah_old/</loc>
+  </url><url>
+    <loc>/studies/books/zephaniah/</loc>
   </url>
 </urlset>

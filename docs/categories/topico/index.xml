@@ -2,30 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topico on BJWry</title>
-    <link>https://johnwry.github.io/categories/topico/</link>
+    <link>/categories/topico/</link>
     <description>Recent content in Topico on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/categories/topico/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/categories/topico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿215, 400 o 430 años?</title>
-      <link>https://johnwry.github.io/estudios/topico/anos-en-egipto/</link>
+      <link>/estudios/topico/anos-en-egipto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/topico/anos-en-egipto/</guid>
+      <guid>/estudios/topico/anos-en-egipto/</guid>
       <description>¿Cuantos años estuvo Israel en Egipto?# Gen 15:13 Y Dios dijo a Abram: «Ten por cierto que tus descendientes serán extranjeros en una tierra que no es suya, donde serán esclavizados y oprimidos durante 400 años.
 Exo 12:40-41 El tiempo que los israelitas vivieron en Egipto fue de 430 años. Y después de los 430 años, en aquel mismo día, todos los ejércitos del SEÑOR salieron de la tierra de Egipto.</description>
     </item>
     
     <item>
       <title>Linaje de Jesus</title>
-      <link>https://johnwry.github.io/estudios/topico/linaje-de-jesus/</link>
+      <link>/estudios/topico/linaje-de-jesus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/topico/linaje-de-jesus/</guid>
+      <guid>/estudios/topico/linaje-de-jesus/</guid>
       <description>Linaje de Jesús# Tratando con la maldición de Jeconias (Conías)# Jeremias 22 trata con esta maldición# Jeremias 22:24-30 »Vivo Yo», declara el SEÑOR, «aunque Conías, hijo de Joacim, rey de Judá, fuera un anillo en Mi mano derecha, aun de allí lo arrancaría. Te entregaré en manos de los que buscan tu vida, sí, en manos de los que temes: en manos de Nabucodonosor, rey de Babilonia, y en manos de los caldeos.</description>
+    </item>
+    
+    <item>
+      <title>Santiago 1:12-18</title>
+      <link>/estudios/libros/santiago-112-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>/estudios/libros/santiago-112-18/</guid>
+      <description>Santiago 1:12-18# Jas 1:12 Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida, que Dios ha prometido a los que le aman.
+Jas 1:13 Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie;
+Jas 1:14 sino que cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido.</description>
     </item>
     
   </channel>

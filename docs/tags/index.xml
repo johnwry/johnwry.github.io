@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BJWry</title>
-    <link>https://johnwry.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>400</title>
-      <link>https://johnwry.github.io/tags/400/</link>
+      <link>/tags/400/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/400/</guid>
+      <guid>/tags/400/</guid>
       <description></description>
     </item>
     
     <item>
       <title>430</title>
-      <link>https://johnwry.github.io/tags/430/</link>
+      <link>/tags/430/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/430/</guid>
+      <guid>/tags/430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carne</title>
+      <link>/tags/carne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>/tags/carne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content management</title>
-      <link>https://johnwry.github.io/tags/content-management/</link>
+      <link>/tags/content-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/content-management/</guid>
+      <guid>/tags/content-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Egipto</title>
-      <link>https://johnwry.github.io/tags/egipto/</link>
+      <link>/tags/egipto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/egipto/</guid>
+      <guid>/tags/egipto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>esclavitud</title>
-      <link>https://johnwry.github.io/tags/esclavitud/</link>
+      <link>/tags/esclavitud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/esclavitud/</guid>
+      <guid>/tags/esclavitud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grace</title>
-      <link>https://johnwry.github.io/tags/grace/</link>
+      <link>/tags/grace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/grace/</guid>
+      <guid>/tags/grace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gracia</title>
+      <link>/tags/gracia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>/tags/gracia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://johnwry.github.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Israel</title>
-      <link>https://johnwry.github.io/tags/israel/</link>
+      <link>/tags/israel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/israel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jeconia</title>
-      <link>https://johnwry.github.io/tags/jeconia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/jeconia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jeconias</title>
-      <link>https://johnwry.github.io/tags/jeconias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/tags/jeconias/</guid>
+      <guid>/tags/israel/</guid>
       <description></description>
     </item>
     

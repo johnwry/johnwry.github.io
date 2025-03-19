@@ -1,7 +1,7 @@
 #
 # Standard configuration
 #
-baseURL                = "https://johnwry.github.io/"
+baseURL                = ""
 copyright              = "The MIT License (MIT) Copyright © 2020 BJWry"
 rssLimit = 10
 defaultContentLanguage = "en"

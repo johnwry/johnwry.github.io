@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libros on BJWry</title>
-    <link>https://johnwry.github.io/estudios/libros/</link>
+    <link>/estudios/libros/</link>
     <description>Recent content in Libros on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/estudios/libros/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/estudios/libros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://johnwry.github.io/estudios/libros/colosenses/</link>
+      <link>/estudios/libros/colosenses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/colosenses/</guid>
+      <guid>/estudios/libros/colosenses/</guid>
       <description>Greeting# Col 1:1 Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 Col 1:2 a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.
 Thanksgiving and Prayer# Col 1:3 Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,
@@ -22,20 +22,29 @@ Col 1:4 pues hemos oído de su fe en Cristo Jesús y del amor que tienen por tod
     </item>
     
     <item>
-      <title>1 Juan</title>
-      <link>https://johnwry.github.io/estudios/libros/1-juan/</link>
+      <title></title>
+      <link>/estudios/libros/untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/1-juan/</guid>
+      <guid>/estudios/libros/untitled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Juan</title>
+      <link>/estudios/libros/1-juan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>/estudios/libros/1-juan/</guid>
       <description>1 Juan# ===== 1Jn 1:1 Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que hemos contemplado y lo que han tocado nuestras manos, esto escribimos acerca del Verbo de vida. 1Jn 1:2 Y la vida se manifestó. Nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna que estaba con el Padre y se manifestó a nosotros.</description>
     </item>
     
     <item>
       <title>1 Timoteo 2:1-8</title>
-      <link>https://johnwry.github.io/estudios/libros/1-timoteo-2.1-8/</link>
+      <link>/estudios/libros/1-timoteo-2.1-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/1-timoteo-2.1-8/</guid>
+      <guid>/estudios/libros/1-timoteo-2.1-8/</guid>
       <description>1Ti 2:1 Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,
 1Ti 2:2 por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.
 1Ti 2:3 Porque esto es bueno y agradable delante de Dios nuestro Salvador,
@@ -44,10 +53,10 @@ Col 1:4 pues hemos oído de su fe en Cristo Jesús y del amor que tienen por tod
     
     <item>
       <title>2 Pedro</title>
-      <link>https://johnwry.github.io/estudios/libros/2-pedro/</link>
+      <link>/estudios/libros/2-pedro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/2-pedro/</guid>
+      <guid>/estudios/libros/2-pedro/</guid>
       <description>Greeting# 2Pe 1:1 Simón Pedro, siervo y apóstol de Jesucristo, a los que han recibido una fe como la nuestra, mediante la justicia de nuestro Dios y Salvador, Jesucristo:
 2Pe 1:2 Gracia y paz les sean multiplicadas a ustedes en el conocimiento de Dios y de Jesús nuestro Señor.
 Confirm Your Calling and Election# 2Pe 1:3 Pues Su divino poder nos ha concedido todo cuanto concierne a la vida y a la piedad, mediante el verdadero conocimiento de Aquel que nos llamó por Su gloria y excelencia.</description>
@@ -55,19 +64,19 @@ Confirm Your Calling and Election# 2Pe 1:3 Pues Su divino poder nos ha concedido
     
     <item>
       <title>Filemón</title>
-      <link>https://johnwry.github.io/estudios/libros/filemon/</link>
+      <link>/estudios/libros/filemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/filemon/</guid>
+      <guid>/estudios/libros/filemon/</guid>
       <description>Filemón# Phm 1:1 Pablo , prisionero de Cristo Jesús, y el hermano Timoteo: A Filemón nuestro amado hermano y colaborador, Phm 1:2 y a la hermana Apia, y a Arquipo, nuestro compañero de lucha, y a la iglesia que está en tu casa: Phm 1:3 Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo. Philemon&amp;rsquo;s Love and Faith Phm 1:4 Doy gracias a mi Dios siempre, haciendo mención de ti en mis oraciones, Phm 1:5 porque oigo de tu amor y de la fe que tienes hacia el Señor Jesús y hacia todos los santos.</description>
     </item>
     
     <item>
       <title>Galatas 1.6-10</title>
-      <link>https://johnwry.github.io/estudios/libros/galatas-1.6-10/</link>
+      <link>/estudios/libros/galatas-1.6-10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/galatas-1.6-10/</guid>
+      <guid>/estudios/libros/galatas-1.6-10/</guid>
       <description>Gálatas 1:6-10# Gal 1:6 Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente,
 Gal 1:7 que en realidad no es otro evangelio, sino que hay algunos que los perturban a ustedes y quieren pervertir el evangelio de Cristo.
 Gal 1:8 Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.</description>
@@ -75,28 +84,28 @@ Gal 1:8 Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangeli
     
     <item>
       <title>Gálatas 5:17-21</title>
-      <link>https://johnwry.github.io/estudios/libros/g%C3%A1latas-517-21/</link>
+      <link>/estudios/libros/g%C3%A1latas-517-21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/g%C3%A1latas-517-21/</guid>
+      <guid>/estudios/libros/g%C3%A1latas-517-21/</guid>
       <description>Gálatas 5:17-21# Gal 5:16 Digo, pues: anden por el Espíritu, y no cumplirán el deseo de la carne. Gal 5:17 Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne, pues estos se oponen el uno al otro, de manera que ustedes no pueden hacer lo que deseen. Gal 5:18 Pero si son guiados por el Espíritu, no están bajo la ley. Gal 5:19 Ahora bien, las obras de la carne son evidentes, las cuales son: inmoralidad, impureza, sensualidad, Gal 5:20 idolatría, hechicería, enemistades, pleitos, celos, enojos, rivalidades, disensiones, herejías, Gal 5:21 envidias, borracheras, orgías y cosas semejantes, contra las cuales les advierto, como ya se lo he dicho antes, que los que practican tales cosas no heredarán el reino de Dios.</description>
     </item>
     
     <item>
       <title>Habacúc</title>
-      <link>https://johnwry.github.io/estudios/libros/habacuc/</link>
+      <link>/estudios/libros/habacuc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/habacuc/</guid>
+      <guid>/estudios/libros/habacuc/</guid>
       <description>Habacúc - un profeta frustrado conversa con Dios# Introducción# Año de escritura: 607 A.C.# El rey del profeta Habacúc: Probablemente un sucesor a al rey Josías. A diferencia que Josías escuchaba a los profetas y sumo sacerdote, el rey durante el tiempo de Habacúc no.# El rey es probablemente Joacim, un vasallo del rey Egípcio. 608-598 A.C.# Era un rey malo puesto por los egipcios. 2 Rey 23:34-37# Hizo matar a muchos inocentes 2 Rey 24:4 Rápidamente destruyó todo lo que hizo Josías# Durante su reinado, Jeremí­as pidió a Baruc, su ayudante, que pusiera por escrito y leyera públicamente una profecí­a que predecí­a la inevitable suerte de Judá.</description>
     </item>
     
     <item>
       <title>Habacuc 2.4</title>
-      <link>https://johnwry.github.io/estudios/libros/habacuc2.4/</link>
+      <link>/estudios/libros/habacuc2.4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/habacuc2.4/</guid>
+      <guid>/estudios/libros/habacuc2.4/</guid>
       <description>Habacuc 2:4# &amp;ldquo;El justo por su fe vivirá&amp;rdquo;
 Justo: aquel que ha sido declarado justo por Dios. Rom 4:3
 fe: ¿fe en que, o en quien? La fe es contrastado al orgulloso.
@@ -104,17 +113,6 @@ I. El orgullo está en todas partes y toma todo tipo de formas.
 • Aquí está el rico, orgulloso de lo que tiene
 • Está el pobre, orgulloso de su “honra” al tener menos
 • Aquí está el hombre talentoso, orgulloso de lo que puede hacer</description>
-    </item>
-    
-    <item>
-      <title>Hebreos</title>
-      <link>https://johnwry.github.io/estudios/libros/hebreos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/hebreos/</guid>
-      <description>HEBREOS 6:4-8# Heb 6:4 Porque en el caso de los que fueron una vez iluminados, que probaron del don celestial y fueron hechos partícipes del Espíritu Santo,
-Heb 6:5 que gustaron la buena palabra de Dios y los poderes del siglo venidero,
-Heb 6:6 pero después cayeron, es imposible renovarlos otra vez para arrepentimiento, puesto que de nuevo crucifican para sí mismos al Hijo de Dios y lo exponen a la ignominia pública.</description>
     </item>
     
   </channel>

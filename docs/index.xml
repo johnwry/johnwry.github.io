@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BJWry</title>
-    <link>https://johnwry.github.io/</link>
+    <link>/</link>
     <description>Recent content on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://johnwry.github.io/posts/test/</link>
+      <link>/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/posts/test/</guid>
+      <guid>/posts/test/</guid>
       <description>This is just a test file to see featured&amp;hellip;# </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/estudios/libros/colosenses/</link>
+      <link>/estudios/libros/colosenses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/libros/colosenses/</guid>
+      <guid>/estudios/libros/colosenses/</guid>
       <description>Greeting# Col 1:1 Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 Col 1:2 a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.
 Thanksgiving and Prayer# Col 1:3 Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,
@@ -32,76 +32,76 @@ Col 1:4 pues hemos oído de su fe en Cristo Jesús y del amor que tienen por tod
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/estudios/topico/carne.debil/</link>
+      <link>/estudios/libros/untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/topico/carne.debil/</guid>
+      <guid>/estudios/libros/untitled/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/estudios/topico/santidad-en-la-cena/</link>
+      <link>/estudios/topico/carne.debil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/topico/santidad-en-la-cena/</guid>
+      <guid>/estudios/topico/carne.debil/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/music/john-wry/whatever-happened-to-love/</link>
+      <link>/estudios/topico/santidad-en-la-cena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/music/john-wry/whatever-happened-to-love/</guid>
+      <guid>/estudios/topico/santidad-en-la-cena/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/studies/topical/2015-03-24-predestination/</link>
+      <link>/music/john-wry/whatever-happened-to-love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/studies/topical/2015-03-24-predestination/</guid>
+      <guid>/music/john-wry/whatever-happened-to-love/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/studies/topical/sanctification/</link>
+      <link>/studies/topical/2015-03-24-predestination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/studies/topical/sanctification/</guid>
+      <guid>/studies/topical/2015-03-24-predestination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/studies/topical/sanctification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>/studies/topical/sanctification/</guid>
       <description>Sanctification is the process of being set apart for God’s purpose and becoming more like Christ. It is a fundamental aspect of the Christian life, and it is empowered by the gospel.
 The Gospel is about redemption: The Gospel is the means by which God justifies us. The Gospel is the foundation of Sanctification: The Gospel is the foundation of sanctification because by the power of the Gospel we are declared righteous.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://johnwry.github.io/studies/topical/theology/</link>
+      <link>/studies/topical/theology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/studies/topical/theology/</guid>
+      <guid>/studies/topical/theology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿215, 400 o 430 años?</title>
-      <link>https://johnwry.github.io/estudios/topico/anos-en-egipto/</link>
+      <link>/estudios/topico/anos-en-egipto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/estudios/topico/anos-en-egipto/</guid>
+      <guid>/estudios/topico/anos-en-egipto/</guid>
       <description>¿Cuantos años estuvo Israel en Egipto?# Gen 15:13 Y Dios dijo a Abram: «Ten por cierto que tus descendientes serán extranjeros en una tierra que no es suya, donde serán esclavizados y oprimidos durante 400 años.
 Exo 12:40-41 El tiempo que los israelitas vivieron en Egipto fue de 430 años. Y después de los 430 años, en aquel mismo día, todos los ejércitos del SEÑOR salieron de la tierra de Egipto.</description>
-    </item>
-    
-    <item>
-      <title>1 John</title>
-      <link>https://johnwry.github.io/studies/books/1-john/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/studies/books/1-john/</guid>
-      <description>What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life—and the life was manifested, and we have seen and testify and proclaim to you the eternal life, which was with the Father and was manifested to us—what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ.</description>
     </item>
     
   </channel>

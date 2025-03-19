@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on BJWry</title>
-    <link>https://johnwry.github.io/tags/hugo/</link>
+    <link>/tags/hugo/</link>
     <description>Recent content in hugo on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://johnwry.github.io/posts/test/</link>
+      <link>/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/posts/test/</guid>
+      <guid>/posts/test/</guid>
       <description>This is just a test file to see featured&amp;hellip;# </description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://johnwry.github.io/posts/demo/</link>
+      <link>/posts/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/posts/demo/</guid>
+      <guid>/posts/demo/</guid>
       <description>This is another test file# </description>
     </item>
     

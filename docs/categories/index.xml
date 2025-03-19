@@ -2,46 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BJWry</title>
-    <link>https://johnwry.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="https://johnwry.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>https://johnwry.github.io/categories/books/</link>
+      <link>/categories/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/categories/books/</guid>
+      <guid>/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functionalities</title>
-      <link>https://johnwry.github.io/categories/functionalities/</link>
+      <link>/categories/functionalities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/categories/functionalities/</guid>
+      <guid>/categories/functionalities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libros</title>
+      <link>/categories/libros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>/categories/libros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topico</title>
-      <link>https://johnwry.github.io/categories/topico/</link>
+      <link>/categories/topico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/categories/topico/</guid>
+      <guid>/categories/topico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zechariah</title>
-      <link>https://johnwry.github.io/categories/zechariah/</link>
+      <link>/categories/zechariah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>https://johnwry.github.io/categories/zechariah/</guid>
+      <guid>/categories/zechariah/</guid>
       <description></description>
     </item>
     
