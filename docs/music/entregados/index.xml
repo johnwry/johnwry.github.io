@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entregados on BJWry</title>
-    <link>/music/entregados/</link>
+    <link>http://localhost:1313/music/entregados/</link>
     <description>Recent content in Entregados on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/music/entregados/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/entregados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cada Paso que yo Doy</title>
-      <link>/music/entregados/cada-paso-que-yo-doy/</link>
+      <link>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/entregados/cada-paso-que-yo-doy/</guid>
+      <guid>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</guid>
       <description>Cada Paso que yo doy# Jehova es mi pastor
 Nada me faltara
 En lugares delicados
@@ -35,10 +35,10 @@ no temere</description>
     
     <item>
       <title>Camino al Cielo</title>
-      <link>/music/entregados/camino-al-cielo/</link>
+      <link>http://localhost:1313/music/entregados/camino-al-cielo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/entregados/camino-al-cielo/</guid>
+      <guid>http://localhost:1313/music/entregados/camino-al-cielo/</guid>
       <description>Camino al cielo# Llega pronto un nuevo amanecer
 Cosa bella no podras creer
 Y seremos llevados
@@ -55,10 +55,10 @@ Ni dolores que agobiaran</description>
     
     <item>
       <title>Habacuc 3:17-19</title>
-      <link>/music/entregados/habacuc_3.17-19/</link>
+      <link>http://localhost:1313/music/entregados/habacuc_3.17-19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/entregados/habacuc_3.17-19/</guid>
+      <guid>http://localhost:1313/music/entregados/habacuc_3.17-19/</guid>
       <description>Aunque la higuera no heche brotes
 Aunque la higuera no eche brotes,
 Y Ni haya fruto en las viñas;
@@ -75,10 +75,10 @@ Las alturas me ha hecho caminar, seguro</description>
     
     <item>
       <title>Lentamente</title>
-      <link>/music/entregados/lentamente/</link>
+      <link>http://localhost:1313/music/entregados/lentamente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/entregados/lentamente/</guid>
+      <guid>http://localhost:1313/music/entregados/lentamente/</guid>
       <description>Lentamente# Aveces cuando veo pasar
 La vida de repente
 Pienso el tren me dejara

@@ -35,26 +35,26 @@ Basándonos en estos versículos (Gál 4:29, Génesis 15:13, Hechos 7:6), conclu
 
 | **Patriarca: Edad**             | **Evento**                                                   | **Pasaje**                                     | **Años de la promesa** | **Años hasta el Éxodo** |
 | ------------------------------- | ------------------------------------------------------------ | ---------------------------------------------- | ---------------------- | ----------------------- |
-| **Abraham: 75**                 | **Dios le hace la  promesa a Abraham y él se va de Harán.**  | **Génesis 12:1–4**                | **0**                  | **430**                 |
-| Abraham: 75+3 meses        | Dios le dice a Abraham  que sus descendientes "serán peregrinos en una tierra que no es suya y  serán siervos allí y serán afligidos por 400 años". | Génesis 15:13;   Hechos 7:6 Gálatas 3:17       | 0–10                   | 420–430                 |
-| Abraham: 85                     | Abraham ha vivido en  Canaán durante 10 años y toma a Agar como su esposa y ella concibe a Ismael. | Génesis 16:3–4                                 | 10                     | 420                     |
-| Abraham: 86                     | Nace Ismael                                                 | Génesis 16:15–16                               | 11                     | 419                     |
-| Abraham: 100Ismael: 14          | Nace Isaac                                                  | Génesis 21:5                                   | 25                     | 405                     |
-| **Abraham: 105Isaac:  5Ismael: 19** | **Isaac es destetado e Ismael se burla/persigue a Isaac**  | **Génesis 21:8–9;   Gálatas 4:29**             | **30**                 | **400**                 |
-| Abraham: 140Isaac: 40           | Isaac se casa con  Rebeca.                                   | Génesis 24:1–67; 25:20                         | 65                     | 365                     |
-| Abraham: 160 Isaac: 60          | Nacen Esaú y Jacob.                                          | Génesis 25:26                                  | 85                     | 345                     |
-| Abraham: 175Isaac:  75Jacob: 15 | Abraham muere.                                               | Génesis 25:7                                   | 100                    | 330                     |
+| **Abraham: 75**                 | **Dios le hace la  promesa a Abraham y él se va de Harán.**  | **Génesis 12:1–4 RVR60**                | **0**                  | **430**                 |
+| Abraham: 75+3 meses        | Dios ratifica el pacto con Abraham, y le dice que sus descendientes "serán peregrinos en una tierra que no es suya y  serán siervos allí y serán afligidos por 400 años". | Génesis 15:13;   Hechos 7:6 RVR60 Gálatas 3:17 RVR60, Romanos 4:13 RVR60  | 0–10 | 420–430  |
+| Abraham: 85                     | Abraham ha vivido en  Canaán durante 10 años y toma a Agar como su esposa y ella concibe a Ismael. | Génesis 16:3–4 RVR60  | 10   | 420          |
+| Abraham: 86  | Nace Ismael | Génesis 16:15–16 RVR60   | 11 | 419   |
+| Abraham: 100Ismael: 14  | Nace Isaac | Génesis 21:5 RVR60     | 25                     | 405                     |
+| **Abraham: 105Isaac:  5Ismael: 19** | **Isaac es destetado e Ismael se burla/persigue a Isaac**  | **Génesis 21:8–9 RVR60;   Gálatas 4:29 RVR60**             | **30**                 | **400**                 |
+| Abraham: 140Isaac: 40           | Isaac se casa con  Rebeca.                                   | Génesis 24:1–67 RVR60; 25:20 RVR60                        | 65                     | 365                     |
+| Abraham: 160 Isaac: 60          | Nacen Esaú y Jacob.                                          | Génesis 25:26 RVR60                                 | 85                     | 345                     |
+| Abraham: 175Isaac:  75Jacob: 15 | Abraham muere.                                               | Génesis 25:7 RVR60                                  | 100                    | 330                     |
 | Isaac: 151Jacob: 91             | Nace José.                                                   |                                                | 176                    | 254                     |
 | Isaac: 168Jacob:  108José: 17   | José es vendido por  sus hermanos y llevado a Egipto.        | Génesis 37                                     | 193                    | 237                     |
-| Isaac: 180Jacob:  120José: 29   | Isaac muere.                                                 | Génesis 35: 28–29                              | 205                    | 225                     |
-| Jacob: 121José: 30              | José es nombrado  segundo al mando por el faraón.            | Génesis 41:46                                  | 206                    | 224                     |
-| **Jacob: 130José: 39**          | **José se revela a sus  hermanos dos años después de la hambruna, cuando le quedaban cinco años.  Jacob se encuentra con el faraón.** | **Génesis 45:4–6   Génesis 47:9**              | **215**                | **215**                 |
+| Isaac: 180Jacob:  120José: 29   | Isaac muere.                                                 | Génesis 35:28–29 RVR60                             | 205                    | 225                     |
+| Jacob: 121José: 30              | José es nombrado  segundo al mando por el faraón.            | Génesis 41:46 RVR60                                 | 206                    | 224                     |
+| **Jacob: 130José: 39**          | **José se revela a sus  hermanos dos años después de la hambruna, cuando le quedaban cinco años.  Jacob se encuentra con el faraón.** | **Génesis 45:4–6 RVR60   Génesis 47:9 RVR60**              | **215**                | **215**                 |
 | Jacob: 147|||||
-|José: 56              | Jacob muere.                                                 | Génesis 47:28–49:33                            | 232                    | 198                     |
-| José: 110                       | José muere.                                                  | Génesis 50:26                                  | 286                    | 144                     |
-|                                 | Solo pasan 64 años  desde el momento en que José muere hasta que Moisés nace. | Éxodo 6:16–20                                  |                        |                         |
-| Moisés: 3 meses                 | Moisés es colocado en  una canasta y adoptado por la hija del faraón. | Éxodo 2                                        | 350                    | 80                      |
-| Moisés: 80                      | Moisés y Aarón hablan  con el faraón comenzando el éxodo de Egipto. | Éxodo 7:7;   Éxodo 12:40–41;   Gálatas 3:16 | 430                    | 0                       |
-|La Ley | 3 Meses después de haber salido de Egipto | Gálatas 3:17 |431 |+1 |
+|José: 56              | Jacob muere.                                                 | Génesis 47:28–49:33 RVR60                            | 232                    | 198                     |
+| José: 110                       | José muere.                                                  | Génesis 50:26 RVR60                                  | 286                    | 144                     |
+|                                 | Solo pasan 64 años  desde el momento en que José muere hasta que Moisés nace. | Éxodo 6:16–20 RVR60                                  |                        |                         |
+| Moisés: 3 meses                 | Moisés es colocado en  una canasta y adoptado por la hija del faraón. | Éxodo 2 RVR60                                        | 350                    | 80                      |
+| Moisés: 80                      | Moisés y Aarón hablan  con el faraón comenzando el éxodo de Egipto. | Éxodo 7:7 RVR60;   Éxodo 12:40–41 RVR60;   Gálatas 3:16 RVR60 | 430                    | 0                       |
+|La Ley | 3 Meses después de haber salido de Egipto | Gálatas 3:17 RVR60 |431 |+1 |
 
 * https://answersingenesis.org/bible-questions/how-long-were-the-israelites-in-egypt/

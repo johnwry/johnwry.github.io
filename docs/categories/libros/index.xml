@@ -2,21 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>libros on BJWry</title>
-    <link>/categories/libros/</link>
+    <link>http://localhost:1313/categories/libros/</link>
     <description>Recent content in libros on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/categories/libros/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/categories/libros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gracia es solo para Inmerecedores</title>
-      <link>/estudios/topico/gracia-es-solo-para-inmerecedores/</link>
+      <link>http://localhost:1313/estudios/topico/gracia-es-solo-para-inmerecedores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/estudios/topico/gracia-es-solo-para-inmerecedores/</guid>
-      <description>La Gracia es solo para Inmerecedores# Por muchos años viví creyendo que mi fe era meritoria para hallar gracia ante Dios. Es decir, lo que yo hacia por Dios, por la &amp;ldquo;fe&amp;rdquo;, hallaba justificativo para con Dios - bueno al menos cuando estaba &amp;ldquo;haciendo mi mejor esfuerzo por Dios&amp;rdquo;.
-(&amp;lsquo;working tirelessly&amp;rsquo;)
+      <guid>http://localhost:1313/estudios/topico/gracia-es-solo-para-inmerecedores/</guid>
+      <description>La Gracia de Dios es solo para Inmerecedores# Por muchos años viví creyendo que mi fe era meritoria para hallar gracia ante Dios. Es decir, lo que yo hacia por Dios, por la &amp;ldquo;fe&amp;rdquo;, hallaba justificativo para con Dios - bueno al menos cuando estaba &amp;ldquo;haciendo mi mejor esfuerzo por Dios&amp;rdquo;.
 Lo primero que necesitaba entender era que la justicia de Dios es absolutamente perfecta y totalmente inalcanzable por medio de mis buenas obras.</description>
     </item>
     

@@ -2,400 +2,418 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>/posts/test/</loc>
+    <loc>http://localhost:1313/posts/test/</loc>
   </url><url>
-    <loc>/estudios/libros/colosenses/</loc>
+    <loc>http://localhost:1313/estudios/libros/colosenses/</loc>
   </url><url>
-    <loc>/estudios/libros/untitled/</loc>
+    <loc>http://localhost:1313/estudios/libros/untitled/</loc>
   </url><url>
-    <loc>/estudios/topico/carne.debil/</loc>
+    <loc>http://localhost:1313/estudios/topico/carne.debil/</loc>
   </url><url>
-    <loc>/estudios/topico/santidad-en-la-cena/</loc>
+    <loc>http://localhost:1313/estudios/topico/santidad-en-la-cena/</loc>
   </url><url>
-    <loc>/music/john-wry/whatever-happened-to-love/</loc>
+    <loc>http://localhost:1313/music/john-wry/whatever-happened-to-love/</loc>
   </url><url>
-    <loc>/studies/topical/2015-03-24-predestination/</loc>
+    <loc>http://localhost:1313/studies/topical/2015-03-24-predestination/</loc>
   </url><url>
-    <loc>/studies/topical/sanctification/</loc>
+    <loc>http://localhost:1313/studies/topical/sanctification/</loc>
   </url><url>
-    <loc>/studies/topical/theology/</loc>
+    <loc>http://localhost:1313/studies/topical/theology/</loc>
   </url><url>
-    <loc>/estudios/topico/anos-en-egipto/</loc>
+    <loc>http://localhost:1313/estudios/topico/anos-en-egipto/</loc>
   </url><url>
-    <loc>/studies/books/1-john/</loc>
+    <loc>http://localhost:1313/studies/books/1-john/</loc>
   </url><url>
-    <loc>/estudios/libros/1-juan/</loc>
+    <loc>http://localhost:1313/estudios/libros/1-juan/</loc>
   </url><url>
-    <loc>/studies/books/1-peter/</loc>
+    <loc>http://localhost:1313/studies/books/1-peter/</loc>
   </url><url>
-    <loc>/estudios/libros/1-timoteo-2.1-8/</loc>
+    <loc>http://localhost:1313/estudios/libros/1-timoteo-2.1-8/</loc>
   </url><url>
-    <loc>/estudios/libros/2-pedro/</loc>
+    <loc>http://localhost:1313/estudios/libros/2-corinthians-2/</loc>
   </url><url>
-    <loc>/studies/books/2-timothy/</loc>
+    <loc>http://localhost:1313/estudios/libros/2-pedro/</loc>
   </url><url>
-    <loc>/tags/400/</loc>
+    <loc>http://localhost:1313/studies/books/2-timothy/</loc>
   </url><url>
-    <loc>/tags/430/</loc>
+    <loc>http://localhost:1313/tags/400/</loc>
   </url><url>
-    <loc>/estudios/topico/5-principios/</loc>
+    <loc>http://localhost:1313/tags/430/</loc>
   </url><url>
-    <loc>/estudios/topico/abel-habla-pero-hay-otro-que-habla-mas/</loc>
+    <loc>http://localhost:1313/estudios/topico/5-principios/</loc>
   </url><url>
-    <loc>/estudios/topico/adoracion-biblica/</loc>
+    <loc>http://localhost:1313/estudios/topico/abel-habla-pero-hay-otro-que-habla-mas/</loc>
   </url><url>
-    <loc>/studies/topical/angels/</loc>
+    <loc>http://localhost:1313/estudios/topico/adoracion-biblica/</loc>
   </url><url>
-    <loc>/studies/books/archives/</loc>
+    <loc>http://localhost:1313/studies/topical/angels/</loc>
   </url><url>
-    <loc>/studies/topical/armageddon-zech6/</loc>
+    <loc>http://localhost:1313/studies/books/archives/</loc>
   </url><url>
-    <loc>/estudios/topico/bautismo/</loc>
+    <loc>http://localhost:1313/studies/topical/armageddon-zech6/</loc>
   </url><url>
-    <loc>/studies/topical/biblical_covenants/</loc>
+    <loc>http://localhost:1313/estudios/topico/bautismo/</loc>
   </url><url>
-    <loc>/music/billys-fish/</loc>
+    <loc>http://localhost:1313/studies/topical/biblical_covenants/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/music/billys-fish/</loc>
   </url><url>
-    <loc>/categories/books/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>/studies/books/</loc>
+    <loc>http://localhost:1313/categories/books/</loc>
   </url><url>
-    <loc>/music/cabe-de-pala/</loc>
+    <loc>http://localhost:1313/studies/books/</loc>
   </url><url>
-    <loc>/music/entregados/cada-paso-que-yo-doy/</loc>
+    <loc>http://localhost:1313/music/cabe-de-pala/</loc>
   </url><url>
-    <loc>/estudios/topico/calvinismo/</loc>
+    <loc>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</loc>
   </url><url>
-    <loc>/music/entregados/camino-al-cielo/</loc>
+    <loc>http://localhost:1313/estudios/topico/calvinismo/</loc>
   </url><url>
-    <loc>/tags/carne/</loc>
+    <loc>http://localhost:1313/music/entregados/camino-al-cielo/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/tags/carne/</loc>
   </url><url>
-    <loc>/estudios/topico/matrimonio-arces/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>/studies/topical/christmas-kingbirth/</loc>
+    <loc>http://localhost:1313/estudios/topico/matrimonio-arces/</loc>
   </url><url>
-    <loc>/estudios/topico/confesion/</loc>
+    <loc>http://localhost:1313/studies/topical/christmas-kingbirth/</loc>
   </url><url>
-    <loc>/estudios/topico/confesion-de-pecado/</loc>
+    <loc>http://localhost:1313/estudios/topico/confesion/</loc>
   </url><url>
-    <loc>/studies/topical/confession-of-sins/</loc>
+    <loc>http://localhost:1313/estudios/topico/confesion-de-pecado/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/conocer-el-amor/</loc>
+    <loc>http://localhost:1313/studies/topical/confession-of-sins/</loc>
   </url><url>
-    <loc>/tags/content-management/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/conocer-el-amor/</loc>
   </url><url>
-    <loc>/studies/topical/lordship/</loc>
+    <loc>http://localhost:1313/tags/content-management/</loc>
   </url><url>
-    <loc>/studies/books/2021-07-27-daniel.6.18-28/</loc>
+    <loc>http://localhost:1313/studies/topical/lordship/</loc>
   </url><url>
-    <loc>/studies/books/2020-06-08-daniel-31-12/</loc>
+    <loc>http://localhost:1313/studies/books/2021-07-27-daniel.6.18-28/</loc>
   </url><url>
-    <loc>/studies/topical/dealing_with_pain/</loc>
+    <loc>http://localhost:1313/studies/books/2020-06-08-daniel-31-12/</loc>
   </url><url>
-    <loc>/posts/demo/</loc>
+    <loc>http://localhost:1313/studies/topical/dealing_with_pain/</loc>
   </url><url>
-    <loc>/music/por-gracia/dios-es-nuestro-refugio/</loc>
+    <loc>http://localhost:1313/posts/demo/</loc>
   </url><url>
-    <loc>/studies/topical/discipleship-need/</loc>
+    <loc>http://localhost:1313/music/por-gracia/dios-es-nuestro-refugio/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/dos-evangelios/</loc>
+    <loc>http://localhost:1313/studies/topical/discipleship-need/</loc>
   </url><url>
-    <loc>/tags/egipto/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/dos-evangelios/</loc>
   </url><url>
-    <loc>/studies/topical/ekklesia-in-the-bible/</loc>
+    <loc>http://localhost:1313/tags/egipto/</loc>
   </url><url>
-    <loc>/estudios/topico/el-coran-y-la-biblia/</loc>
+    <loc>http://localhost:1313/studies/topical/ekklesia-in-the-bible/</loc>
   </url><url>
-    <loc>/estudios/topico/el_evangelio/</loc>
+    <loc>http://localhost:1313/estudios/topico/el-coran-y-la-biblia/</loc>
   </url><url>
-    <loc>/estudios/topico/el-mismo...nuestra-suficiencia/</loc>
+    <loc>http://localhost:1313/estudios/topico/el_evangelio/</loc>
   </url><url>
-    <loc>/estudios/topico/enemigos-de-observacion/</loc>
+    <loc>http://localhost:1313/estudios/topico/el-mismo...nuestra-suficiencia/</loc>
   </url><url>
-    <loc>/music/entregados/</loc>
+    <loc>http://localhost:1313/estudios/topico/enemigos-de-observacion/</loc>
   </url><url>
-    <loc>/studies/books/ephesians/</loc>
+    <loc>http://localhost:1313/music/entregados/</loc>
   </url><url>
-    <loc>/tags/esclavitud/</loc>
+    <loc>http://localhost:1313/studies/books/ephesians/</loc>
   </url><url>
-    <loc>/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/</loc>
+    <loc>http://localhost:1313/tags/esclavitud/</loc>
   </url><url>
-    <loc>/estudios/</loc>
+    <loc>http://localhost:1313/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/</loc>
   </url><url>
-    <loc>/estudios/topico/</loc>
+    <loc>http://localhost:1313/estudios/</loc>
   </url><url>
-    <loc>/estudios/topico/familia/</loc>
+    <loc>http://localhost:1313/estudios/topico/</loc>
   </url><url>
-    <loc>/estudios/topico/evangelio-para-el-creyente/</loc>
+    <loc>http://localhost:1313/estudios/topico/familia/</loc>
   </url><url>
-    <loc>/estudios/libros/filemon/</loc>
+    <loc>http://localhost:1313/estudios/topico/evangelio-para-el-creyente/</loc>
   </url><url>
-    <loc>/music/john-wry/fuerza-para-vencer/</loc>
+    <loc>http://localhost:1313/estudios/libros/filemon/</loc>
   </url><url>
-    <loc>/music/john-wry/fuerza-para-vencer/</loc>
+    <loc>http://localhost:1313/music/john-wry/fuerza-para-vencer/</loc>
   </url><url>
-    <loc>/categories/functionalities/</loc>
+    <loc>http://localhost:1313/music/john-wry/fuerza-para-vencer/</loc>
   </url><url>
-    <loc>/estudios/libros/galatas-1.6-10/</loc>
+    <loc>http://localhost:1313/categories/functionalities/</loc>
   </url><url>
-    <loc>/estudios/libros/g%C3%A1latas-517-21/</loc>
+    <loc>http://localhost:1313/estudios/libros/galatas-1/</loc>
   </url><url>
-    <loc>/studies/books/galatians/</loc>
+    <loc>http://localhost:1313/estudios/libros/galatas-1.6-10/</loc>
   </url><url>
-    <loc>/studies/books/galatians-111-24/</loc>
+    <loc>http://localhost:1313/estudios/libros/galatas-315-21/</loc>
   </url><url>
-    <loc>/studies/books/gal-3.21-29/</loc>
+    <loc>http://localhost:1313/estudios/libros/galatas-517-21/</loc>
   </url><url>
-    <loc>/studies/topical/globalist-theology/</loc>
+    <loc>http://localhost:1313/studies/books/galatians/</loc>
   </url><url>
-    <loc>/music/billys-fish/good-news-tour/</loc>
+    <loc>http://localhost:1313/studies/books/galatians-111-24/</loc>
   </url><url>
-    <loc>/tags/grace/</loc>
+    <loc>http://localhost:1313/studies/books/gal-3.21-29/</loc>
   </url><url>
-    <loc>/tags/gracia/</loc>
+    <loc>http://localhost:1313/studies/topical/globalist-theology/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/</loc>
+    <loc>http://localhost:1313/music/billys-fish/good-news-tour/</loc>
   </url><url>
-    <loc>/estudios/topico/gracia-es-solo-para-inmerecedores/</loc>
+    <loc>http://localhost:1313/tags/grace/</loc>
   </url><url>
-    <loc>/estudios/libros/habacuc/</loc>
+    <loc>http://localhost:1313/tags/gracia/</loc>
   </url><url>
-    <loc>/estudios/libros/habacuc2.4/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/</loc>
   </url><url>
-    <loc>/music/entregados/habacuc_3.17-19/</loc>
+    <loc>http://localhost:1313/estudios/topico/gracia-es-solo-para-inmerecedores/</loc>
   </url><url>
-    <loc>/studies/books/habakkuk/</loc>
+    <loc>http://localhost:1313/estudios/libros/habacuc/</loc>
   </url><url>
-    <loc>/estudios/libros/hebreos/</loc>
+    <loc>http://localhost:1313/estudios/libros/habacuc2.4/</loc>
   </url><url>
-    <loc>/studies/books/hebrews-12.1-2/</loc>
+    <loc>http://localhost:1313/music/entregados/habacuc_3.17-19/</loc>
   </url><url>
-    <loc>/studies/books/hebrews-31-6/</loc>
+    <loc>http://localhost:1313/studies/books/habakkuk/</loc>
   </url><url>
-    <loc>/music/himnos-selectos/</loc>
+    <loc>http://localhost:1313/estudios/libros/hebreos/</loc>
   </url><url>
-    <loc>/studies/topical/homiletics/</loc>
+    <loc>http://localhost:1313/studies/books/hebrews-12.1-2/</loc>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>http://localhost:1313/studies/books/hebrews-31-6/</loc>
   </url><url>
-    <loc>/music/how-many-names/</loc>
+    <loc>http://localhost:1313/music/himnos-selectos/</loc>
   </url><url>
-    <loc>/estudios/topico/calvinismo-una-cosmovision-idolatra/</loc>
+    <loc>http://localhost:1313/studies/topical/homiletics/</loc>
   </url><url>
-    <loc>/studies/topical/imperative-verbs-in-romans-1-8/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
   </url><url>
-    <loc>/music/john-wry/in-the-studio/</loc>
+    <loc>http://localhost:1313/music/how-many-names/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
+    <loc>http://localhost:1313/estudios/topico/calvinismo-una-cosmovision-idolatra/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
+    <loc>http://localhost:1313/studies/topical/imperative-verbs-in-romans-1-8/</loc>
   </url><url>
-    <loc>/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</loc>
+    <loc>http://localhost:1313/estudios/libros/imperativos-en-romanos/</loc>
   </url><url>
-    <loc>/studies/topical/islam/</loc>
+    <loc>http://localhost:1313/music/john-wry/in-the-studio/</loc>
   </url><url>
-    <loc>/tags/israel/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
   </url><url>
-    <loc>/studies/topical/israel-egypt/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/incompleto-amor/</loc>
   </url><url>
-    <loc>/tags/jeconia/</loc>
+    <loc>http://localhost:1313/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</loc>
   </url><url>
-    <loc>/tags/jeconias/</loc>
+    <loc>http://localhost:1313/estudios/libros/isaias/</loc>
   </url><url>
-    <loc>/tags/jesus/</loc>
+    <loc>http://localhost:1313/studies/topical/islam/</loc>
   </url><url>
-    <loc>/music/jesus-buen-pastor/</loc>
+    <loc>http://localhost:1313/tags/israel/</loc>
   </url><url>
-    <loc>/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</loc>
+    <loc>http://localhost:1313/studies/topical/israel-egypt/</loc>
   </url><url>
-    <loc>/tags/john/</loc>
+    <loc>http://localhost:1313/tags/jeconia/</loc>
   </url><url>
-    <loc>/studies/books/john-11.1-23/</loc>
+    <loc>http://localhost:1313/tags/jeconias/</loc>
   </url><url>
-    <loc>/studies/books/john-11.35-48/</loc>
+    <loc>http://localhost:1313/tags/jesus/</loc>
   </url><url>
-    <loc>/studies/books/john-13.21-38/</loc>
+    <loc>http://localhost:1313/music/jesus-buen-pastor/</loc>
   </url><url>
-    <loc>/studies/books/john-831-44/</loc>
+    <loc>http://localhost:1313/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</loc>
   </url><url>
-    <loc>/music/john-wry/</loc>
+    <loc>http://localhost:1313/tags/john/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/</loc>
+    <loc>http://localhost:1313/studies/books/john-11.1-23/</loc>
   </url><url>
-    <loc>/estudios/topico/jovenes/</loc>
+    <loc>http://localhost:1313/studies/books/john-11.35-48/</loc>
   </url><url>
-    <loc>/estudios/libros/juan2.23-24/</loc>
+    <loc>http://localhost:1313/studies/books/john-13.21-38/</loc>
   </url><url>
-    <loc>/estudios/libros/juan-541/</loc>
+    <loc>http://localhost:1313/studies/books/john-831-44/</loc>
   </url><url>
-    <loc>/estudios/libros/judas/</loc>
+    <loc>http://localhost:1313/estudios/libros/john-9/</loc>
   </url><url>
-    <loc>/estudios/libros/jueces/</loc>
+    <loc>http://localhost:1313/music/john-wry/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/la-fe-convencional/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/</loc>
   </url><url>
-    <loc>/estudios/topico/la-gracia-de-dios/</loc>
+    <loc>http://localhost:1313/estudios/topico/jovenes/</loc>
   </url><url>
-    <loc>/estudios/topico/la-iglesia/</loc>
+    <loc>http://localhost:1313/estudios/libros/juan2.23-24/</loc>
   </url><url>
-    <loc>/estudios/topico/la-ley/</loc>
+    <loc>http://localhost:1313/estudios/libros/juan-541/</loc>
   </url><url>
-    <loc>/estudios/topico/simiente-mujer-mesias/</loc>
+    <loc>http://localhost:1313/estudios/libros/judas/</loc>
   </url><url>
-    <loc>/estudios/topico/lecciones/</loc>
+    <loc>http://localhost:1313/estudios/libros/jueces/</loc>
   </url><url>
-    <loc>/music/entregados/lentamente/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/la-fe-convencional/</loc>
   </url><url>
-    <loc>/categories/libros/</loc>
+    <loc>http://localhost:1313/estudios/topico/la-gracia-de-dios/</loc>
   </url><url>
-    <loc>/estudios/libros/</loc>
+    <loc>http://localhost:1313/estudios/topico/la-iglesia/</loc>
   </url><url>
-    <loc>/tags/linaje/</loc>
+    <loc>http://localhost:1313/estudios/topico/la-ley/</loc>
   </url><url>
-    <loc>/estudios/topico/linaje-de-jesus/</loc>
+    <loc>http://localhost:1313/estudios/topico/simiente-mujer-mesias/</loc>
   </url><url>
-    <loc>/tags/lineage/</loc>
+    <loc>http://localhost:1313/estudios/topico/lecciones/</loc>
   </url><url>
-    <loc>/estudios/topico/los-sufrimientos-de-cristo/</loc>
+    <loc>http://localhost:1313/music/entregados/lentamente/</loc>
   </url><url>
-    <loc>/estudios/topico/luz-a-los-gentiles/</loc>
+    <loc>http://localhost:1313/categories/libros/</loc>
   </url><url>
-    <loc>/tags/malos-entendidos/</loc>
+    <loc>http://localhost:1313/estudios/libros/</loc>
   </url><url>
-    <loc>/studies/topical/marriage/</loc>
+    <loc>http://localhost:1313/tags/linaje/</loc>
   </url><url>
-    <loc>/estudios/topico/matrimonio/</loc>
+    <loc>http://localhost:1313/estudios/topico/linaje-de-jesus/</loc>
   </url><url>
-    <loc>/music/john-wry/mi-canto-es-tu-gracia/</loc>
+    <loc>http://localhost:1313/tags/lineage/</loc>
   </url><url>
-    <loc>/music/mosoj-chaski/</loc>
+    <loc>http://localhost:1313/estudios/topico/los-sufrimientos-de-cristo/</loc>
   </url><url>
-    <loc>/studies/topical/juda-kings-mothers/</loc>
+    <loc>http://localhost:1313/estudios/topico/luz-a-los-gentiles/</loc>
   </url><url>
-    <loc>/music/</loc>
+    <loc>http://localhost:1313/tags/malos-entendidos/</loc>
   </url><url>
-    <loc>/music/por-gracia/no-a-nosotros/</loc>
+    <loc>http://localhost:1313/studies/topical/marriage/</loc>
   </url><url>
-    <loc>/studies/topical/2015-02-15-obedience-of-faith/</loc>
+    <loc>http://localhost:1313/estudios/topico/matrimonio/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/oh-que-completa-es/</loc>
+    <loc>http://localhost:1313/music/john-wry/mi-canto-es-tu-gracia/</loc>
   </url><url>
-    <loc>/tags/old-testament/</loc>
+    <loc>http://localhost:1313/music/mosoj-chaski/</loc>
   </url><url>
-    <loc>/studies/books/ot-books/</loc>
+    <loc>http://localhost:1313/studies/topical/juda-kings-mothers/</loc>
   </url><url>
-    <loc>/studies/topical/ot-books/</loc>
+    <loc>http://localhost:1313/music/</loc>
   </url><url>
-    <loc>/music/john-wry/pasare-los-dias/</loc>
+    <loc>http://localhost:1313/music/por-gracia/no-a-nosotros/</loc>
   </url><url>
-    <loc>/studies/books/phil-21-2-phrased/</loc>
+    <loc>http://localhost:1313/studies/topical/2015-02-15-obedience-of-faith/</loc>
   </url><url>
-    <loc>/studies/books/philemon/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/oh-que-completa-es/</loc>
   </url><url>
-    <loc>/music/por-gracia/</loc>
+    <loc>http://localhost:1313/tags/old-testament/</loc>
   </url><url>
-    <loc>/music/por-gracia/por-gracia/</loc>
+    <loc>http://localhost:1313/studies/books/ot-books/</loc>
   </url><url>
-    <loc>/studies/books/psalm2/</loc>
+    <loc>http://localhost:1313/studies/topical/ot-books/</loc>
   </url><url>
-    <loc>/studies/books/psalm-32/</loc>
+    <loc>http://localhost:1313/music/john-wry/pasare-los-dias/</loc>
   </url><url>
-    <loc>/studies/books/psalm-36/</loc>
+    <loc>http://localhost:1313/studies/books/phil-21-2-phrased/</loc>
   </url><url>
-    <loc>/studies/topical/quotes/</loc>
+    <loc>http://localhost:1313/studies/books/philemon/</loc>
   </url><url>
-    <loc>/studies/topical/2020-06-08-repentance/</loc>
+    <loc>http://localhost:1313/music/por-gracia/</loc>
   </url><url>
-    <loc>/tags/return/</loc>
+    <loc>http://localhost:1313/music/por-gracia/por-gracia/</loc>
   </url><url>
-    <loc>/studies/topical/return-to-god/</loc>
+    <loc>http://localhost:1313/studies/books/psalm2/</loc>
   </url><url>
-    <loc>/estudios/libros/romanos1-7/</loc>
+    <loc>http://localhost:1313/studies/books/psalm-32/</loc>
   </url><url>
-    <loc>/estudios/libros/romanos9-16/</loc>
+    <loc>http://localhost:1313/studies/books/psalm-36/</loc>
   </url><url>
-    <loc>/studies/books/romans-1.18-32/</loc>
+    <loc>http://localhost:1313/studies/topical/quotes/</loc>
   </url><url>
-    <loc>/studies/books/romans-109-10/</loc>
+    <loc>http://localhost:1313/studies/topical/2020-06-08-repentance/</loc>
   </url><url>
-    <loc>/studies/books/romans-81/</loc>
+    <loc>http://localhost:1313/tags/return/</loc>
   </url><url>
-    <loc>/studies/books/romans-81-4/</loc>
+    <loc>http://localhost:1313/studies/topical/return-to-god/</loc>
   </url><url>
-    <loc>/studies/books/romans-818-28/</loc>
+    <loc>http://localhost:1313/estudios/libros/romanos1-7/</loc>
   </url><url>
-    <loc>/studies/books/romans-9-16/</loc>
+    <loc>http://localhost:1313/estudios/libros/romanos-217-29/</loc>
   </url><url>
-    <loc>/music/cabe-de-pala/crea-en-mi/</loc>
+    <loc>http://localhost:1313/estudios/libros/romanos9-16/</loc>
   </url><url>
-    <loc>/music/cabe-de-pala/salmo-51/</loc>
+    <loc>http://localhost:1313/studies/books/romans-1.18-32/</loc>
   </url><url>
-    <loc>/estudios/libros/salmo-99/</loc>
+    <loc>http://localhost:1313/studies/books/romans-109-10/</loc>
   </url><url>
-    <loc>/estudios/topico/salvacio%CC%81n-en-romanos/</loc>
+    <loc>http://localhost:1313/studies/books/romans-81/</loc>
   </url><url>
-    <loc>/estudios/libros/santiago/</loc>
+    <loc>http://localhost:1313/studies/books/romans-81-4/</loc>
   </url><url>
-    <loc>/estudios/libros/santiago-112-18/</loc>
+    <loc>http://localhost:1313/studies/books/romans-818-28/</loc>
   </url><url>
-    <loc>/music/solo-para-ninos/</loc>
+    <loc>http://localhost:1313/studies/books/romans-9-16/</loc>
   </url><url>
-    <loc>/tags/spirit/</loc>
+    <loc>http://localhost:1313/estudios/libros/salmo-103/</loc>
   </url><url>
-    <loc>/studies/</loc>
+    <loc>http://localhost:1313/music/cabe-de-pala/crea-en-mi/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/music/cabe-de-pala/salmo-51/</loc>
   </url><url>
-    <loc>/estudios/topico/teologia-sistematica/</loc>
+    <loc>http://localhost:1313/estudios/libros/salmo-99/</loc>
   </url><url>
-    <loc>/studies/topical/the-blood-of-jesus/</loc>
+    <loc>http://localhost:1313/estudios/topico/salvacio%CC%81n-en-romanos/</loc>
   </url><url>
-    <loc>/studies/topical/the-church/</loc>
+    <loc>http://localhost:1313/estudios/libros/santiago/</loc>
   </url><url>
-    <loc>/studies/topical/the-day-of-the-lord/</loc>
+    <loc>http://localhost:1313/estudios/libros/santiago-112-18/</loc>
   </url><url>
-    <loc>/studies/topical/the-gospel-to-the-believer/</loc>
+    <loc>http://localhost:1313/music/solo-para-ninos/</loc>
   </url><url>
-    <loc>/studies/topical/grace-unmerited/</loc>
+    <loc>http://localhost:1313/tags/spirit/</loc>
   </url><url>
-    <loc>/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</loc>
+    <loc>http://localhost:1313/studies/</loc>
   </url><url>
-    <loc>/studies/topical/theonomy/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>/music/titeres/</loc>
+    <loc>http://localhost:1313/estudios/topico/teologia-sistematica/</loc>
   </url><url>
-    <loc>/categories/topico/</loc>
+    <loc>http://localhost:1313/studies/topical/the-blood-of-jesus/</loc>
   </url><url>
-    <loc>/studies/topical/</loc>
+    <loc>http://localhost:1313/studies/topical/the-church/</loc>
   </url><url>
-    <loc>/studies/topical/2021-07-21-two-instructors/</loc>
+    <loc>http://localhost:1313/studies/topical/the-day-of-the-lord/</loc>
   </url><url>
-    <loc>/music/john-wry/inteligencia-artificial/yo-era-un-hombre/</loc>
+    <loc>http://localhost:1313/studies/topical/the-gospel-to-the-believer/</loc>
   </url><url>
-    <loc>/studies/topical/i-am-acused-of-teaching-easy-believism/</loc>
+    <loc>http://localhost:1313/studies/topical/grace-unmerited/</loc>
   </url><url>
-    <loc>/categories/zechariah/</loc>
+    <loc>http://localhost:1313/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</loc>
   </url><url>
-    <loc>/studies/books/archives/zechariah-old/</loc>
+    <loc>http://localhost:1313/studies/topical/theonomy/</loc>
   </url><url>
-    <loc>/studies/books/archives/zechariah-orig/</loc>
+    <loc>http://localhost:1313/music/titeres/</loc>
   </url><url>
-    <loc>/studies/books/archives/zechariah-orig.md/</loc>
+    <loc>http://localhost:1313/categories/topico/</loc>
   </url><url>
-    <loc>/studies/books/zechariah/</loc>
+    <loc>http://localhost:1313/studies/topical/</loc>
   </url><url>
-    <loc>/studies/books/archives/zechariah_notes/</loc>
+    <loc>http://localhost:1313/studies/topical/2021-07-21-two-instructors/</loc>
   </url><url>
-    <loc>/studies/books/archives/zechariah_notes2/</loc>
+    <loc>http://localhost:1313/music/john-wry/inteligencia-artificial/yo-era-un-hombre/</loc>
   </url><url>
-    <loc>/studies/books/archives/zechariah_old/</loc>
+    <loc>http://localhost:1313/studies/topical/i-am-acused-of-teaching-easy-believism/</loc>
   </url><url>
-    <loc>/studies/books/zephaniah/</loc>
+    <loc>http://localhost:1313/estudios/libros/zarpando-por-zacari%CC%81as/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/zechariah/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/archives/zechariah-old/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/archives/zechariah-orig/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/archives/zechariah-orig.md/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/zechariah/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/archives/zechariah_notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/archives/zechariah_notes2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/archives/zechariah_old/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/zephaniah/</loc>
   </url>
 </urlset>

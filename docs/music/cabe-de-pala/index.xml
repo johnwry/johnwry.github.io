@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cabe de Pala on BJWry</title>
-    <link>/music/cabe-de-pala/</link>
+    <link>http://localhost:1313/music/cabe-de-pala/</link>
     <description>Recent content in Cabe de Pala on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/music/cabe-de-pala/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/cabe-de-pala/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salmo 51</title>
-      <link>/music/cabe-de-pala/crea-en-mi/</link>
+      <link>http://localhost:1313/music/cabe-de-pala/crea-en-mi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/cabe-de-pala/crea-en-mi/</guid>
+      <guid>http://localhost:1313/music/cabe-de-pala/crea-en-mi/</guid>
       <description>Crea en mi (Salmo 51:10-12)# Crea en mi oh Dios
 un corazón limpio
 y renueva un espiritu
@@ -33,10 +33,10 @@ Aunque mis faltas - muchas - perdonadas</description>
     
     <item>
       <title>Salmo 51</title>
-      <link>/music/cabe-de-pala/salmo-51/</link>
+      <link>http://localhost:1313/music/cabe-de-pala/salmo-51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/cabe-de-pala/salmo-51/</guid>
+      <guid>http://localhost:1313/music/cabe-de-pala/salmo-51/</guid>
       <description>Salmo 51:10-12 (NBLA)
 Crea en mí, oh Dios,
 un corazón limpio,

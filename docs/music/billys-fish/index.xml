@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Billy&#39;s Fish on BJWry</title>
-    <link>/music/billys-fish/</link>
+    <link>http://localhost:1313/music/billys-fish/</link>
     <description>Recent content in Billy&#39;s Fish on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/music/billys-fish/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/billys-fish/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

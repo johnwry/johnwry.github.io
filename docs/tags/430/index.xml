@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>430 on BJWry</title>
-    <link>/tags/430/</link>
+    <link>http://localhost:1313/tags/430/</link>
     <description>Recent content in 430 on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/tags/430/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/tags/430/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿215, 400 o 430 años?</title>
-      <link>/estudios/topico/anos-en-egipto/</link>
+      <link>http://localhost:1313/estudios/topico/anos-en-egipto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/estudios/topico/anos-en-egipto/</guid>
+      <guid>http://localhost:1313/estudios/topico/anos-en-egipto/</guid>
       <description>¿Cuantos años estuvo Israel en Egipto?# Gen 15:13 Y Dios dijo a Abram: «Ten por cierto que tus descendientes serán extranjeros en una tierra que no es suya, donde serán esclavizados y oprimidos durante 400 años.
 Exo 12:40-41 El tiempo que los israelitas vivieron en Egipto fue de 430 años. Y después de los 430 años, en aquel mismo día, todos los ejércitos del SEÑOR salieron de la tierra de Egipto.</description>
     </item>

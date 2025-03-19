@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BJWry</title>
-    <link>/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>/categories/books/</link>
+      <link>http://localhost:1313/categories/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/categories/books/</guid>
+      <guid>http://localhost:1313/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functionalities</title>
-      <link>/categories/functionalities/</link>
+      <link>http://localhost:1313/categories/functionalities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/categories/functionalities/</guid>
+      <guid>http://localhost:1313/categories/functionalities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>libros</title>
-      <link>/categories/libros/</link>
+      <link>http://localhost:1313/categories/libros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/categories/libros/</guid>
+      <guid>http://localhost:1313/categories/libros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topico</title>
-      <link>/categories/topico/</link>
+      <link>http://localhost:1313/categories/topico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/categories/topico/</guid>
+      <guid>http://localhost:1313/categories/topico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zechariah</title>
-      <link>/categories/zechariah/</link>
+      <link>http://localhost:1313/categories/zechariah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/categories/zechariah/</guid>
+      <guid>http://localhost:1313/categories/zechariah/</guid>
       <description></description>
     </item>
     

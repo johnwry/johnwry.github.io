@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on BJWry</title>
-    <link>/music/</link>
+    <link>http://localhost:1313/music/</link>
     <description>Recent content in Music on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="/music/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I&#39;d Need a Savior - Among the Thirsty</title>
-      <link>/music/how-many-names/</link>
+      <link>http://localhost:1313/music/how-many-names/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/how-many-names/</guid>
+      <guid>http://localhost:1313/music/how-many-names/</guid>
       <description>How many names Can I use to explain The love of my Jesus The life that He gave And so many times Will I praise You today I lift up my life Cause You’re always the same And my offering To you I bring
 Your name is Jesus Your name is Jesus You’re the wonderful, counselor, my friend You’re what I hold on to I know that You brought me through All the days of loss and to the cross, You knew That I’d need a Savior</description>
     </item>
     
     <item>
       <title>Jesus Buen Pastor</title>
-      <link>/music/jesus-buen-pastor/</link>
+      <link>http://localhost:1313/music/jesus-buen-pastor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
-      <guid>/music/jesus-buen-pastor/</guid>
+      <guid>http://localhost:1313/music/jesus-buen-pastor/</guid>
       <description>[VERSE1] Pues yo No he llegado a comprender Lo que Tu, tienes para mi Preparado de antemano Para tu buen placer
 [VERSE2] oh Señor, no he llegado a entender Que aunque Tu, Sepas lo que soy Decidas amarme, Hasta entregarte por mi[&#39; Y Hoy puedo decirte, Jesus, buen pastor
 [CHORUS] Señor, no tengo nada que ofrecer Señor, estaba destinado a perecer (Señor tu ya diste todo tu ser) Hasta que Tu me rescataste Extendiste Tu mano y me pustiste sobre una roca firme me enseñas a ver Tu mano de poder y hoy puedo decirtelo, Jesus, mi buen pastor</description>
