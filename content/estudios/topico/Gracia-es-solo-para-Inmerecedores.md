@@ -16,7 +16,7 @@ tags:
 
 Por muchos años viví creyendo que mi fe era meritoria para hallar gracia ante Dios. Es decir, lo que yo hacia por Dios, por la "fe", hallaba justificativo para con Dios - bueno al menos cuando estaba "haciendo mi mejor esfuerzo por Dios". 
 
-![](http://johnwry.github.io/img/working.jpeg)
+![](http://johnwry.github.io/img/worker.webp)
 
 Lo primero que necesitaba entender era que la justicia de Dios es absolutamente perfecta y totalmente inalcanzable por medio de mis buenas obras. 
 
