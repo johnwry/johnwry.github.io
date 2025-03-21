@@ -14,9 +14,17 @@ tags:
 
 # La Gracia de Dios es solo para Inmerecedores 
 
-Por muchos años viví creyendo que mi fe era meritoria para hallar gracia ante Dios. Es decir, lo que yo hacia por Dios, por la "fe", hallaba justificativo para con Dios - bueno al menos cuando estaba "haciendo mi mejor esfuerzo por Dios". 
 
-![](http://johnwry.github.io/img/worker.webp)
+
+Por muchos años viví creyendo que mi fe era meritoria para hallar gracia ante Dios. Es decir, estaba convencido de que lo que yo hacía para Dios, por la "fe" y con ayuda de Dios, tenía algún mérito ante Él, o al menos cuando estaba "haciendo mi mejor esfuerzo por Dios". 
+
+Habia sido misionero por 12 años. Mi vida era llena de actividades buenas para Dios. Mi anhelo por servir a Dios era apasionado, motivado y muy ocupado. Trabajaba facilmente 14 horas al día 6 días a la semana. La única razón que no lo hacia los 7 días era porque teniamos que ir a la iglesia y servir allá. Mi esposa y mis hijos me veian pero solo porque trabajaba desde mi casa. 
+
+Solo cuando empezé a entender que a la justicia de Dios nadie puede alcanzar me vi falto de justicia propia.  Era bueno, hacía lo bueno, me vida era dedicado a Dios y aún sabia que no tenia justicia suficiente. Sabía que Cristo da perdon de pecados y que es por creer en el que se da justicia pero no me habia percatado que era imposible para mi (con la ayuda de Cristo). 
+
+Entonces cuando alguien me enseño de la gracia provista en Cristo recien pude descansar al entender que aunque era inmerecidor, la gracia era para mi.  
+
+![](https://johnwry.github.io/img/worker.webp)
 
 Lo primero que necesitaba entender era que la justicia de Dios es absolutamente perfecta y totalmente inalcanzable por medio de mis buenas obras. 
 
@@ -26,3 +34,22 @@ Lo primero que necesitaba entender era que la justicia de Dios es absolutamente 
 - Gracia esta provista en Cristo
 - La gracia es provista para todos
 - Gracia es de recibido por todo aquel que cree
+- Ser inmerecedor no significa:
+  - tener que merecer
+  - Someterte a Dios para que te tenga pena y extienda su misericordia
+  - que algún dia de alguna manera merecerás la gracia. 1 Juan 1:8
+- La fe es suficiente para cualquier persona ser justificado. Puede ser el inmerecedor más grande pero si cree en Cristo, es salvo. 
+
+## Cristo ofrece gracia para injustos
+
+*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús. Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero.* 1 Timoteo 1:14-15
+
+*Jesús les respondió: «Los sanos no tienen necesidad de médico, sino los que están enfermos. No he venido a llamar a justos, sino a pecadores al arrepentimiento».* Lucas 5:31-32
+
+
+
+[**Rom 5:7** ](verseid:45.5.7) Porque difícilmente habrá alguien que muera por un justo, aunque tal vez alguno se atreva a morir por el bueno.
+
+[**Rom 5:8** ](verseid:45.5.8) Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.
+
+No es cuando yo cumplo la ley que la ley se cumple. La ley se cumple cuando ando según su Espíritu.
