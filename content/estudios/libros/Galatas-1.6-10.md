@@ -26,19 +26,19 @@ Me maravillo `maravillo: [θαυμάζω],asombrado, mirar con admiración, sorp
 
 ​		de que 
 
-​		tan pronto 
+​		tan pronto `1-4 años`
 
 ustedes hayan abandonado `abandonado: [μετατίθημι], transportado, traspasado, apartarse`
 
-​	a Aquel (Dios)
+​	a Aquel (Dios) `no abandonaron el edificio. No abandonaron las prácticas. No abandonaron el ministerio. Habían abandonado a Dios.`
 
-​			que los llamó 
+​			que los llamó `Dios les había llamado, no fueron ellos buscando a Dios`
 
-​							por la gracia de Cristo, 
+​							por la gracia de Cristo, `el llamado fue a travez de la gracia en Jesus.`
 
-para *seguir* 
+para *seguir* `fueron detras de otra cosa`
 
-​		un evangelio diferente, 
+​		un evangelio diferente, `un evangelio distinto. Un evangelio `
 
 ​					que 
 
@@ -76,7 +76,7 @@ Pero
 
 ​				al que les hemos anunciado, 
 
-​					sea anatema. `anatema:ἀνάθεμα, 1) específicamente, una ofrenda resultante de un voto, que después de ser consagrada a un dios se colgaba en las paredes o columnas del templo, o se colocaba en algún otro lugar visible. 2) una cosa consagrada a Dios sin esperanza de ser redimida, y si es un animal, para ser sacrificado; por lo tanto, una persona o cosa destinada a la destrucción `
+​					sea anatema. `anatema:ἀνάθεμα, 1) específicamente, una ofrenda resultante de un voto, que después de ser consagrada a un dios se colgaba en las paredes o columnas del templo, o se colocaba en algún otro lugar visible. 2) una cosa consagrada a Dios sin esperanza de ser redimida, y si es un animal, para ser sacrificado; por lo tanto, una persona o cosa destinada a la destrucción. 1 Corintios 16:22 RVR60, Romanos 9:3 RVR60`
 
 `Este sigue siendo un criterio muy importante. Si escuchas a alguien decir algo acerca de la Biblia, no te dejes impresionar por la persona que habla, sino escucha lo que dice. El contenido de su predicación tiene que encajar con lo que dice la Biblia y tú tienes la responsabilidad de probarlo. El evangelio puro no tolera nada a su lado. Es completo, absoluto y definitivo. Nada se puede mezclar con él y nada se puede agregar.`
 
@@ -98,7 +98,7 @@ Si alguien (cualquiera) `no estamos excemptos a este error`
 
 ​				al que recibieron, `habian oido el evangelio claro para ser salvos.`
 
-​		sea anatema. `anatema: ἀνάθεμα. 1 Corintios 16:22 RVR60, Romanos 9:3 RVR60`
+​		sea anatema. `anatema: ἀνάθεμα. `
 
 Porque 
 
