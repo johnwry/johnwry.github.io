@@ -414,8 +414,6 @@ Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, a 
 
 ====
 
-# NOTAS
-
 Pablo , 
 
 ​	apóstol de Jesucristo `apostol es enviado. Pablo era enviado de Jesucristo`
@@ -1091,6 +1089,8 @@ La gracia sea con ustedes.
 
 ===================================
 
+# Notas
+
 Pablo, 
 
 apóstol de Jesucristo `Apostol es enviado`
@@ -1389,27 +1389,27 @@ según la tradición de los hombres,
 
 conforme a los principios elementales del mundo y no según Cristo. 
 
-​	Porque toda la plenitud de la Deidad `pleroma: Colosenses 1:19 RVR60`
+Porque toda la plenitud de la Deidad `pleroma: Colosenses 1:19 RVR60`
 
-​	reside corporalmente en Él, 
+reside corporalmente en Él, 
 
-​		y ustedes han sido hechos completos en Él, `completos = pleroo: Colosenses 1:9, 1:25, 2:10, 4:12, 4:17. Juan 3:29 RVR60, Hechos 13:25 RVR60, Hechos 14:26 RVR60 `
+y ustedes han sido hechos completos en Él, `completos = pleroo: Colosenses 1:9 RVR60, Colosenses 1:25 RVR60, Colosenses 2:10 RVR60, Colosenses 4:12 RVR60, Colosenses 4:17 RVR60; Juan 3:29 RVR60, Hechos 13:25 RVR60, Hechos 14:26 RVR60, PLEROO es: terminado, lleno, completado`
 
-​		que es la cabeza sobre todo poder y autoridad. `poder y autoridad: Colosenses 1:!6 RVR60, Colosenses 2:10 RVR60 `
+que es la cabeza sobre todo poder y autoridad. `poder y autoridad: Colosenses 1:16 RVR60, Colosenses 2:10 RVR60, 1 Pedro 3:22 RVR60 `
 
-​			También en Él ustedes fueron circuncidados 
+También en Él ustedes fueron circuncidados 
 
-​				con una circuncisión no hecha por manos, 
+con una circuncisión no hecha por manos, 
 
-​					al quitar el cuerpo de la carne 
+al quitar el cuerpo de la carne 
 
-​				mediante la circuncisión de Cristo; `Judaismo: circuncisión del corazón: Deuteronomio 10:16 RVR60`
+mediante la circuncisión de Cristo; `Judaismo: circuncisión del corazón: Deuteronomio 10:16 RVR60`
 
-​				habiendo sido sepultados con Él en el bautismo, ``
+habiendo sido sepultados con Él en el bautismo, `gnosticismo: bautizado para ser inaugurado`
 
-​				en el cual también han resucitado con Él `han resucitado: pasado no futuro. Es un hecho completado. `
+en el cual también han resucitado con Él `han resucitado: pasado no futuro. Es un hecho completado. `
 
-​			por la fe en la acción *del poder* de Dios, 
+por la fe en la acción *del poder* de Dios, 
 
 que lo resucitó de entre los muertos. 
 
