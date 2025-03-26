@@ -414,27 +414,34 @@ Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, a 
 
 ====
 
+# NOTAS
+
 Pablo , 
 
-​	apóstol de Jesucristo 
+​	apóstol de Jesucristo `apostol es enviado. Pablo era enviado de Jesucristo`
 
-​				por la voluntad de Dios, 
+​		por la voluntad de Dios, 
 
 y el hermano Timoteo, 
 
-a los santos y fieles hermanos 
+a los santos y fieles hermanos  `fiel en Colosenses: Colosenses 1:7 RVR60, Colosenses 4:7 RVR60, Colosenses 4:9 RVR60. `
+
+`Fiel en otros pasajes: 1 Corintios 4:2 RVR60, Apocalipsis 2:10 RVR60, 1 Corintios 4:17 RVR60, Efesios 6:21 RVR60, Filipenses 4:3 RVR60 `
+
+`infieles: 2 Timoteo 2:13 RVR60`
 
 ​	en Cristo 
 
-​	*que están* en Colosas: 
+​	que están* en Colosas: 
 
-Gracia a ustedes y paz 
+​	Gracia a ustedes y paz 
 
-	de parte de Dios nuestro Padre. 
+​	de parte de Dios nuestro Padre. 
+`similar introducción que Efesios 1:1-2`
 
 Damos gracias a Dios, 
 
-	el Padre de nuestro Señor Jesucristo, 
+​	el Padre de nuestro Señor Jesucristo, 
 
 orando siempre por ustedes, 
 
@@ -444,23 +451,23 @@ de su fe en Cristo Jesús
 
 y del amor que tienen 
 
-	por todos los santos, 
-	
-	a causa de la esperanza reservada 
-	
-		para ustedes 
-	
-		en los cielos. 
+por todos los santos, 
+
+a causa de la esperanza reservada 
+
+para ustedes 
+
+en los cielos. 
 
 De esta esperanza ustedes oyeron 
 
-	antes en la palabra de verdad, 
-	
-		el evangelio 
-	
-			que ha llegado 
-	
-			hasta ustedes. 
+antes en la palabra de verdad, 
+
+el evangelio 
+
+que ha llegado 
+
+hasta ustedes. 
 
 Así como en todo el mundo 
 
@@ -468,63 +475,65 @@ está dando fruto constantemente y creciendo,
 
 así *lo ha estado haciendo* también en ustedes, 
 
-	desde el día 
-	
-	que oyeron y comprendieron 
-	
-	la gracia de Dios en verdad. 
+desde el día 
+
+que oyeron y comprendieron 
+
+la gracia de Dios en verdad. 
 
 Así ustedes *lo* aprendieron de Epafras, 
 
 nuestro amado consiervo, 
 
-	quien es fiel servidor de Cristo de parte nuestra, 
-	
-		el cual también nos informó 
-	
-			acerca del amor de ustedes 
-	
-			en el Espíritu. 
+quien es fiel servidor de Cristo de parte nuestra, 
 
-Por esta razón, también nosotros, 
+el cual también nos informó 
 
-	desde el día que *lo* supimos, 
+acerca del amor de ustedes 
+
+en el Espíritu. 
+
+Por esta razón, 
+
+también nosotros, 
+
+desde el día que *lo* supimos, 
 
 no hemos cesado de orar por ustedes, 
 
-	pidiendo que sean llenos 
-	
-	del conocimiento de Su voluntad 
-	
-	en toda sabiduría 
-	
-	y comprensión espiritual, 
-	
-	para que anden como es digno del Señor, 
-	
-		haciendo en todo, 
-				
-				lo que *le* agrada, 
-	
-				dando fruto en toda buena obra 
-		
-				y creciendo en el conocimiento de Dios. 
+pidiendo que sean llenos 
+
+del conocimiento de Su voluntad 
+
+en toda sabiduría 
+
+y comprensión espiritual, 
+
+para que anden como es digno del Señor, 
+
+haciendo en todo, 
+
+lo que *le* agrada, 
+
+dando fruto en toda buena obra 
+
+y creciendo en el conocimiento de Dios. 
 
 Rogamos que ustedes sean fortalecidos 
 
-	con todo poder 
-	
-	según la potencia de Su gloria, 
-	
-	para obtener toda perseverancia y paciencia, 
+con todo poder 
+
+según la potencia de Su gloria, 
+
+para obtener toda perseverancia y paciencia, 
 
 con gozo dando gracias al Padre 
 
 que nos ha capacitado 
 
-	para compartir la herencia 
-	
-	de los santos en la Luz. 
+para compartir la herencia 
+
+de los santos en la Luz. 
 
 Porque Él nos libró 
 
@@ -600,23 +609,27 @@ mediante Su muerte,
 
 a fin de presentarlos santos, 
 
-sin mancha e irreprensibles delante de Él. 
+sin mancha e irreprensibles delante de Él. `1 Tesalonicenses 5:23 RVR60, 1 Tesalonicenses 3:13 RVR60, 1 Corintios 1:8 RVR60 `
 
 Esto Él hará 
 
-si en verdad permanecen en la fe 
+​	si en verdad permanecen en la fe 
 
-bien cimentados y constantes, 
+​	bien cimentados y constantes, 
 
-sin moverse de la esperanza del evangelio que han oído, 
+​	sin moverse de la esperanza del evangelio que han oído, 
 
-que fue proclamado a toda la creación debajo del cielo, 
+​	que fue proclamado a toda la creación debajo del cielo, 
 
-y del cual yo, Pablo, fui hecho ministro. 
+​	y del cual yo, Pablo, fui hecho ministro. 
 
 Ahora me alegro de mis sufrimientos por ustedes, 
 
-y en mi carne, completando lo que falta de las aflicciones de Cristo, 
+y en mi carne, 
+
+completando lo que falta 
+
+de las aflicciones de Cristo, 
 
 hago mi parte por Su cuerpo, 
 
@@ -628,29 +641,29 @@ conforme a la administración de Dios
 
 que me fue dada 
 
-	para beneficio de ustedes, 
-	
-		a fin de llevar a cabo *la predicación de* la palabra de Dios, 
-	
-		*es decir,* el misterio 
-	
-			que ha estado oculto 
-	
-			desde los siglos y generaciones, 
-	
-			pero que ahora ha sido manifestado 
-				
-				a sus santos. 
+para beneficio de ustedes, 
+
+a fin de llevar a cabo *la predicación de* la palabra de Dios, 
+
+*es decir,* el misterio 
+
+que ha estado oculto 
+
+desde los siglos y generaciones, 
+
+pero que ahora ha sido manifestado 
+
+a sus santos. 
 
 A estos Dios quiso dar a conocer 
 
 cuáles son las riquezas de la gloria de este misterio 
 
-	entre los gentiles, 
-	
-		que es Cristo en ustedes, 
-	
-			la esperanza de la gloria. 
+entre los gentiles, 
+
+que es Cristo en ustedes, 
+
+la esperanza de la gloria. 
 
 A Él nosotros proclamamos, 
 
@@ -1080,138 +1093,137 @@ La gracia sea con ustedes.
 
 Pablo, 
 
-​	apóstol de Jesucristo
-> Apostol es enviado
+apóstol de Jesucristo `Apostol es enviado`
 
-​			por la voluntad de Dios, 
+por la voluntad de Dios, 
 
 y el hermano Timoteo, 
 
 a los santos y fieles hermanos 
 
-​	en Cristo 
+en Cristo 
 
-​	*que están* en Colosas: 
+*que están* en Colosas: 
 
-​		Gracia a ustedes y paz 
+Gracia a ustedes y paz 
 
-​			de parte de Dios nuestro Padre. 
+de parte de Dios nuestro Padre. 
 
-​	Damos gracias a Dios, {{no solo Pablo dió gracias}}
+Damos gracias a Dios, {{no solo Pablo dió gracias}}
 
-​		el Padre de nuestro Señor Jesucristo, 
+el Padre de nuestro Señor Jesucristo, 
 
-​		orando siempre por ustedes, 
+orando siempre por ustedes, 
 
-​		*pues hemos oído* 
+*pues hemos oído* 
 
-​		de su fe en Cristo Jesús
+de su fe en Cristo Jesús
 
-​		y del amor que tienen
+y del amor que tienen
 
-​			por todos los santos, 
+por todos los santos, 
 
-​				a causa de la esperanza reservada
+a causa de la esperanza reservada
 
-​				para ustedes en los cielos. 
+para ustedes en los cielos. 
 
-​			De esta esperanza ustedes oyeron 
+De esta esperanza ustedes oyeron 
 
-​			antes en la palabra de verdad, 
+antes en la palabra de verdad, 
 
-​			el evangelio 
+el evangelio 
 
-​			que ha llegado
+que ha llegado
 
-​			hasta ustedes. 
+hasta ustedes. 
 
-​				Así como en todo el mundo 
+Así como en todo el mundo 
 
-​				está dando fruto constantemente y creciendo,
+está dando fruto constantemente y creciendo,
 
-​				así *lo ha estado haciendo* también en ustedes,
+así *lo ha estado haciendo* también en ustedes,
 
-​				desde el día
+desde el día
 
-​				que oyeron y comprendieron 
+que oyeron y comprendieron 
 
-​				la gracia de Dios en verdad.
+la gracia de Dios en verdad.
 
-​				Así ustedes *lo* aprendieron de Epafras,
+Así ustedes *lo* aprendieron de Epafras,
 
-​					nuestro amado consiervo, 
+nuestro amado consiervo, 
 
-​					quien es fiel servidor de Cristo de parte nuestra, 
+quien es fiel servidor de Cristo de parte nuestra, 
 
-​					el cual también nos informó 
+el cual también nos informó 
 
-​					acerca del amor de ustedes en el Espíritu. 
+acerca del amor de ustedes en el Espíritu. 
 
 Por esta razón, también nosotros, 
 
-​	desde el día que *lo* supimos, 
+desde el día que *lo* supimos, 
 
 no hemos cesado de orar por ustedes, 
 
-​	pidiendo que sean llenos 
+pidiendo que sean llenos 
 
-​		del conocimiento de Su voluntad 
+del conocimiento de Su voluntad 
 
-​			en toda sabiduría 
+en toda sabiduría 
 
-​			y comprensión espiritual, 
+y comprensión espiritual, 
 
-​				para que anden como es digno del Señor, 
+para que anden como es digno del Señor, 
 
-​					haciendo en todo, lo que *le* agrada, 
+haciendo en todo, lo que *le* agrada, 
 
-​					dando fruto en toda buena obra y creciendo 
+dando fruto en toda buena obra y creciendo 
 
-​					en el conocimiento de Dios. 
+en el conocimiento de Dios. 
 
-​	Rogamos que ustedes sean fortalecidos 
+Rogamos que ustedes sean fortalecidos 
 
-​		con todo poder 
+con todo poder 
 
-​			según la potencia de Su gloria, 
+según la potencia de Su gloria, 
 
-​			para obtener toda perseverancia y paciencia, 
+para obtener toda perseverancia y paciencia, 
 
-​		con gozo dando gracias al Padre 
+con gozo dando gracias al Padre 
 
-​			que nos ha capacitado 
+que nos ha capacitado 
 
-​				para compartir la herencia 
+para compartir la herencia 
 
-​				de los santos en la Luz. 
+de los santos en la Luz. 
 
-​	Porque Él nos libró 
+Porque Él nos libró 
 
-​		del dominio de las tinieblas 
+del dominio de las tinieblas 
 
-​			y nos trasladó al reino de Su Hijo amado, 
+y nos trasladó al reino de Su Hijo amado, 
 
-​				en quien tenemos redención: 
+en quien tenemos redención: 
 
-​				el perdón de los pecados. 
+el perdón de los pecados. 
 
-​		Él es la imagen del Dios invisible, 
+Él es la imagen del Dios invisible, 
 
-​		el primogénito de toda creación. 
+el primogénito de toda creación. 
 
-​		Porque en Él fueron creadas todas las cosas, 
+Porque en Él fueron creadas todas las cosas, 
 
-​			*tanto* en los cielos *como* en la tierra, 
+*tanto* en los cielos *como* en la tierra, 
 
-​			visibles e invisibles; 
+visibles e invisibles; 
 
-​				ya sean tronos o dominios o poderes o autoridades; 
+ya sean tronos o dominios o poderes o autoridades; 
 
-​				todo ha sido creado 
+todo ha sido creado 
 
-​					por medio de Él 
+por medio de Él 
 
-​					y para Él. 
+y para Él. 
 
 Y Él es antes de todas las cosas, 
 
@@ -1219,7 +1231,7 @@ y en Él todas las cosas permanecen.
 
 Él es también la cabeza del cuerpo 
 
-	*que es* la iglesia. 
+*que es* la iglesia. 
 
 Él es el principio, 
 
@@ -1227,11 +1239,11 @@ el primogénito de entre los muertos,
 
 a fin de que Él tenga en todo la primacía. 
 
-	Porque agradó *al Padre* 
+Porque agradó *al Padre* 
 
-		que en Él habitara toda la plenitud, 
+que en Él habitara toda la plenitud, 
 
-		y por medio de Él reconciliar todas las cosas consigo, 
+y por medio de Él reconciliar todas las cosas consigo, 
 
 habiendo hecho la paz 
 
@@ -1377,27 +1389,27 @@ según la tradición de los hombres,
 
 conforme a los principios elementales del mundo y no según Cristo. 
 
-Porque toda la plenitud de la Deidad 
+​	Porque toda la plenitud de la Deidad `pleroma: Colosenses 1:19 RVR60`
 
-reside corporalmente en Él, 
+​	reside corporalmente en Él, 
 
-y ustedes han sido hechos completos en Él, 
+​		y ustedes han sido hechos completos en Él, `completos = pleroo: Colosenses 1:9, 1:25, 2:10, 4:12, 4:17. Juan 3:29 RVR60, Hechos 13:25 RVR60, Hechos 14:26 RVR60 `
 
-que es la cabeza sobre todo poder y autoridad. 
+​		que es la cabeza sobre todo poder y autoridad. `poder y autoridad: Colosenses 1:!6 RVR60, Colosenses 2:10 RVR60 `
 
-También en Él ustedes fueron circuncidados 
+​			También en Él ustedes fueron circuncidados 
 
-con una circuncisión no hecha por manos, 
+​				con una circuncisión no hecha por manos, 
 
-al quitar el cuerpo de la carne 
+​					al quitar el cuerpo de la carne 
 
-mediante la circuncisión de Cristo; 
+​				mediante la circuncisión de Cristo; `Judaismo: circuncisión del corazón: Deuteronomio 10:16 RVR60`
 
-habiendo sido sepultados con Él en el bautismo, 
+​				habiendo sido sepultados con Él en el bautismo, ``
 
-en el cual también han resucitado con Él 
+​				en el cual también han resucitado con Él `han resucitado: pasado no futuro. Es un hecho completado. `
 
-por la fe en la acción *del poder* de Dios, 
+​			por la fe en la acción *del poder* de Dios, 
 
 que lo resucitó de entre los muertos. 
 
@@ -1417,7 +1429,7 @@ y lo ha quitado de en medio,
 
 clavándolo en la cruz. 
 
-*Y* habiendo despojado a los poderes y autoridades, 
+*Y* habiendo despojado a los poderes y autoridades, `poder y autoridad: Colosenses 1:!6 RVR60, Colosenses 2:10 RVR60 `
 
 hizo de ellos un espectáculo público, 
 

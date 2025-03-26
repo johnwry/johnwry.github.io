@@ -14,7 +14,7 @@ tags:
 
 # La Gracia de Dios es solo para Inmerecedores 
 
-
+## Capítulo 1 - Introducción
 
 Por muchos años viví creyendo que mi fe era meritoria para hallar gracia ante Dios. Es decir, estaba convencido de que lo que yo hacía para Dios, por la "fe" y con ayuda de Dios, tenía algún mérito ante Él, o al menos cuando estaba "haciendo mi mejor esfuerzo por Dios". 
 
@@ -48,8 +48,30 @@ Lo primero que necesitaba entender era que la justicia de Dios es absolutamente 
 
 
 
-[**Rom 5:7** ](verseid:45.5.7) Porque difícilmente habrá alguien que muera por un justo, aunque tal vez alguno se atreva a morir por el bueno.
-
-[**Rom 5:8** ](verseid:45.5.8) Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.
+[**Rom 5:7**-8 ](verseid:45.5.7) Porque difícilmente habrá alguien que muera por un justo, aunque tal vez alguno se atreva a morir por el bueno. Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.
 
 No es cuando yo cumplo la ley que la ley se cumple. La ley se cumple cuando ando según su Espíritu.
+
+## Capítulo 2 - Confusiones
+
+Hay confusiones que podamos tener sin que nos demos cuenta que están ahi y cuales son. En este capítulo trataré de abarcar algunas confusiones que existen que son perjudiciales a la comprension que somos inmerecedores de la gracia. 
+
+### Nuestra Iglesia
+
+Ya que todos creen que su iglesia es la que contiene la verdad, acarrea con este pensamiento posibles confusiones. 
+
+### Nuestro Pastor
+
+Ya que el pastor es autoridad de Dios y la Biblia nos llama a obedecer a nuestros lideres. 
+
+### Nuestro Ministerio
+
+Existe la confusion del ministerio en el que servimos, que de alguna forma nos provee merecimiento para la gracia. 
+
+### Nuestra Teología
+
+### Nuestra Doctrina
+
+
+
+## Capítulo 3 - 
