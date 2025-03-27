@@ -1429,7 +1429,7 @@ y lo ha quitado de en medio,
 
 clavándolo en la cruz. 
 
-*Y* habiendo despojado a los poderes y autoridades, `poder y autoridad: Colosenses 1:!6 RVR60, Colosenses 2:10 RVR60 `
+*Y* habiendo despojado a los poderes y autoridades, `poder y autoridad: Colosenses 1:16 RVR60, Colosenses 2:10 RVR60 `
 
 hizo de ellos un espectáculo público, 
 
@@ -1529,9 +1529,9 @@ ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.
 
 Dejen de mentirse los unos a los otros, 
 
-puesto que han desechado al viejo hombre 
+puesto que han desechado al viejo hombre `sin han desechado el causante de esas cosas, no tiene sentido tratar de resucitar al viejo hombre.`
 
-con sus *malos* hábitos, 
+con sus *malos* hábitos, `malos hábitos refiere a la manera de vivir en Adan. No significa que tienes que aprender nuevos habitos, significa que dejes de tratar de resucitar a ese muerto.`
 
 y se han vestido del nuevo *hombre,* 
 
