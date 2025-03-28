@@ -1529,7 +1529,7 @@ ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.
 
 Dejen de mentirse los unos a los otros, 
 
-puesto que han desechado al viejo hombre `sin han desechado el causante de esas cosas, no tiene sentido tratar de resucitar al viejo hombre.`
+puesto que han desechado al viejo hombre `si han desechado el causante de esas cosas, no tiene sentido tratar de resucitar al viejo hombre.`
 
 con sus *malos* hábitos, `malos hábitos refiere a la manera de vivir en Adan. No significa que tienes que aprender nuevos habitos, significa que dejes de tratar de resucitar a ese muerto.`
 
@@ -1541,7 +1541,7 @@ hacia un verdadero conocimiento,
 
 conforme a la imagen de Aquel que lo creó. 
 
-*En esta renovación* no hay *distinción *
+*En esta renovación* no hay *distinción*
 
 *entre* griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo *o* libre, 
 
