@@ -462,18 +462,41 @@ Date: 28/10/2024 4:40am
 
 ===========
 
-Digo la verdad en Cristo, no miento, 
-dándome testimonio mi conciencia en el Espíritu Santo, 
-de que tengo gran tristeza y continuo dolor en mi corazón.
-Porque desearía yo mismo ser anatema, 
-separado de Cristo por amor a mis hermanos, 
-mis parientes según la carne. 
-Porque son israelitas, 
-a quienes pertenece 
-	la adopción como hijos, 
->
+# Romanos 9 - parrafo
 
-y la gloria, 
+Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo, de que tengo gran tristeza y continuo dolor en mi corazón. Porque desearía yo mismo ser anatema, *separado* de Cristo por amor a mis hermanos, mis parientes según la carne. Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas, de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén. **Pero no *es* que la palabra de Dios haya fallado**. Porque no todos los *descendientes* de Israel son Israel; ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC **SERÁ LLAMADA** TU DESCENDENCIA». Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hijos de la promesa son considerados como descendientes. Porque **la palabra de promesa es esta**: «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO». Y no solo *esto*, sino que también Rebeca concibió *mellizos* de uno, nuestro padre Isaac. Porque cuando aún *los mellizos* no habían nacido, y no habían hecho nada, ni bueno ni malo, para que el propósito de Dios conforme a *Su* elección permaneciera, no por las obras, sino por Aquel que llama, **se le dijo a Rebeca**: «EL MAYOR SERVIRÁ AL MENOR». Tal **como está escrito**: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ». ¿Qué diremos entonces? ¿Qué hay injusticia en Dios? ¡De ningún modo! Porque **Él dice** a Moisés: «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA, Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN». Así que no *depende* del que quiere ni del que corre, sino de Dios que tiene misericordia. Porque la Escritura dice a Faraón: «PARA ESTO MISMO TE HE LEVANTADO, PARA DEMOSTRAR MI PODER EN TI, Y PARA QUE MI NOMBRE SEA PROCLAMADO POR TODA LA TIERRA». Así que Dios tiene misericordia, del que quiere y al que quiere endurece. Me dirás entonces: «¿Por qué, pues, todavía reprocha *Dios*? Porque ¿quién resiste a Su voluntad?». Al contrario, ¿quién eres tú, oh hombre, que le contestas a Dios? ¿Dirá acaso el objeto modelado al que lo modela: «Por qué me hiciste así?». ¿O no tiene el alfarero derecho sobre el barro de hacer de la misma masa un vaso para uso honorable y otro para uso ordinario? ¿Y qué, si Dios, aunque dispuesto a demostrar Su ira y hacer notorio Su poder, soportó con mucha paciencia a los vasos de ira preparados para destrucción? *Lo hizo* para dar a conocer las riquezas de Su gloria sobre los vasos de misericordia, que de antemano Él preparó para gloria, *es decir,* nosotros, a quienes también llamó, no solo de entre los judíos, sino también de entre los gentiles. Como también **dice en Oseas**: «A LOS QUE NO ERAN MI PUEBLO, LLAMARÉ: “PUEBLO MÍO”, Y A LA QUE NO ERA AMADA: “AMADA *mía*”. Y SUCEDERÁ QUE EN EL LUGAR DONDE SE LES DIJO: “USTEDES NO SON MI PUEBLO”, ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE». Isaías también exclama en cuanto a Israel: «AUNQUE EL NÚMERO DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR, *solo* EL REMANENTE SERÁ SALVO PORQUE EL SEÑOR EJECUTARÁ SU PALABRA SOBRE LA TIERRA CABALMENTE Y CON BREVEDAD».Y como Isaías predijo: «SI EL SEÑOR DE LOS EJÉRCITOS NO NOS HUBIERA DEJADO DESCENDENCIA, HUBIÉRAMOS LLEGADO A SER COMO SODOMA, Y HECHOS SEMEJANTES A GOMORRA». ¿Qué diremos entonces? Que los gentiles, que no iban tras la justicia, alcanzaron justicia, es decir, la justicia que es por fe; pero Israel, que iba tras una ley de justicia, no alcanzó *esa* ley. ¿Por qué? Porque no *iban tras ella* por fe, sino como por obras. Tropezaron en la piedra de tropiezo, tal **como está escrito**: «HE AQUÍ, PONGO EN SIÓN UNA PIEDRA DE TROPIEZO Y ROCA DE ESCANDALO; Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».
+
+==============
+
+# Romanos 9 "La Palabra de Dios es fiel"
+
+*Digo la verdad en Cristo, no miento,* 
+
+​	*dándome testimonio mi conciencia* 
+
+​	*en el Espíritu Santo,* 
+
+*de que tengo gran tristeza* 
+
+*y continuo dolor en mi corazón.*
+
+*Porque desearía yo mismo* 
+
+​	*ser anatema,* 
+
+​		*separado de Cristo* 
+
+​		*por amor a mis hermanos,* 
+
+​			*mis parientes según la carne.* 
+
+​				*Porque son israelitas,* 
+
+​					*a quienes pertenece* 
+
+​						*la adopción como* hijos, 
+
+​						y la gloria, 
 >
 	los pactos, 
 >	
@@ -483,15 +506,25 @@ y la gloria,
 >
 	de quienes son los patriarcas, 
 
->
-
-y de quienes, según la carne, 
-	procede el Cristo, 
-		el cual está sobre todas las cosas, 
-		Dios bendito por los siglos. Amén. 
+​		y de quienes, según la carne, 
+​		procede el Cristo, 
+​			el cual está sobre todas las cosas, 
+​			Dios bendito por los siglos. Amén. 
 Pero no es que la palabra de Dios haya fallado. 
+
 > Pablo citará muchas veces y de varias formas a las Palabras de Dios. Debemos acordarnos que cada cita tiene un contexto el cual, por la audiencia, Pablo asume que saben. Hariamos bien investigar bien el contexto de las citas. 
-> 
+>
+> 1. El descendiente de israel no es todos
+> 2. los hijos de promesa son herederos 9:8-9
+> 3. Rebeca - concibió mellizos, 9:9-13
+> 4. Moises - sin ninguna participación del hombre, Dios se demostró fiel. 
+> 5. Faraon - 
+> 6. Tu, o hombre - 
+> 7. Oseas - gentiles
+> 8. Oseas - Judaios, 
+> 9. Isaias - 
+> 10. Gentiles
+> 11. Israel - 
 
 Porque no todos los descendientes de Israel son Israel; 
 > Abraham tuvo muchos descendientes. 
@@ -601,6 +634,8 @@ UNA PIEDRA DE TROPIEZO
 Y ROCA DE ESCANDALO; 
 Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».
 
+# Romanos 10
+
 Hermanos, el deseo de mi corazón y mi oración a Dios por ellos es para su salvación.
 Porque yo testifico a su favor de que tienen celo de Dios, pero no conforme a un pleno conocimiento.
 Pues desconociendo la justicia de Dios y procurando establecer la suya propia, no se sometieron a la justicia de Dios.
@@ -642,6 +677,7 @@ ME MANIFESTÉ A LOS QUE NO PREGUNTABAN POR MÍ».
 Pero en cuanto a Israel, dice: 
 «TODO EL DÍA HE EXTENDIDO MIS MANOS A UN PUEBLO DESOBEDIENTE Y REBELDE».
 
+# Romanos 11
 
 Digo entonces: ¿Acaso ha desechado Dios a Su pueblo? 
 ¡De ningún modo! 
@@ -746,7 +782,8 @@ Pues, ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR?
 Porque de Él, por Él y para Él son todas las cosas. 
 A Él sea la gloria para siempre. Amén.
 
-12
+# Romanos 12
+
 Por tanto, hermanos, les ruego por las misericordias de Dios que presenten sus cuerpos como sacrificio vivo y santo, aceptable a Dios, que es el culto racional de ustedes. Y no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que verifiquen cuál es la voluntad de Dios: lo que es bueno y aceptable y perfecto. Porque en virtud de la gracia que me ha sido dada, digo a cada uno de ustedes que no piense de sí mismo más de lo que debe pensar, sino que piense con buen juicio, según la medida de fe que Dios ha distribuido a cada uno. Pues así como en un cuerpo tenemos muchos miembros, pero no todos los miembros tienen la misma función, así nosotros, que somos muchos, somos un cuerpo en Cristo e individualmente miembros los unos de los otros. Pero teniendo diferentes dones, según la gracia que nos ha sido dada, usémoslos: si el de profecía, úsese en proporción a la fe; si el de servicio, en servir; o el que enseña, en la enseñanza; el que exhorta, en la exhortación; el que da, con liberalidad; el que dirige, con diligencia; el que muestra misericordia, con alegría. El amor sea sin hipocresía; aborreciendo lo malo, aplicándose a lo bueno. Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros. No sean perezosos en lo que requiere diligencia. Sean fervientes en espíritu, sirviendo al Señor, gozándose en la esperanza, perseverando en el sufrimiento, dedicados a la oración, contribuyendo para las necesidades de los santos, practicando la hospitalidad. Bendigan a los que los persiguen. Bendigan, y no maldigan. Gócense con los que se gozan y lloren con los que lloran. Tengan el mismo sentir unos con otros. No sean altivos en su pensar, sino condescendiendo con los humildes. No sean sabios en su propia opinión. Nunca paguen a nadie mal por mal. Respeten lo bueno delante de todos los hombres. Si es posible, en cuanto de ustedes dependa, estén en paz con todos los hombres. Amados, nunca tomen venganza ustedes mismos, sino den lugar a la ira de Dios, porque escrito está: «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor. «PERO SI TU ENEMIGO TIENE HAMBRE, DALE DE COMER; Y SI TIENE SED, DALE DE BEBER, PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA». No seas vencido por el mal, sino vence el mal con el bien.
 
 12

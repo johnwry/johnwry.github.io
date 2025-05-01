@@ -108,143 +108,171 @@ Tengan misericordia de algunos que dudan. A otros, sálven*los,* arrebatándo*lo
 
 ## Fraseado
 
-Judas , 
+*Judas* , 
 
-siervo de Jesucristo 
+​	*siervo de Jesucristo* 
 
-y hermano de Jacobo, 
+​	*y hermano de Jacobo,* 
 
-a los llamados, 
+*a los llamados,* 
 
-amados en Dios Padre 
+​	*amados en Dios Padre* 
 
-y guardados para Jesucristo: 
+​	*y guardados* 
 
-Misericordia, paz y amor les sean multiplicados. 
+​		*para Jesucristo:* 
 
+*Misericordia, paz y amor les sean multiplicados.* 
 
 
-Amados, 
 
-por el gran empeño que tenía en escribirles 
+*Amados,* 
 
-acerca de nuestra común salvación, 
+*por el gran empeño que tenía en escribirles* 
 
-he sentido la necesidad de escribirles 
+*acerca de nuestra común salvación,* 
 
-exhortándolos a luchar 
+*he sentido la necesidad de escribirles* 
 
-ardientemente por la fe 
+*exhortándolos a luchar* 
 
-que de una vez 
+*ardientemente por la fe* `no dice por fe, sino por la fe`
 
-para siempre 
+*que de una vez* `los apostoles lo dieron una vez`
 
-fue entregada a los santos. 
+*para siempre* `y para siempre`
 
-Pues algunos hombres se han infiltrado encubiertamente, 
+*fue entregada a los santos.* `Cuando fue entregada? Toda doctrina que pueda demostrarse como posterior a esa fe es nueva; y toda doctrina que es nueva es falsa.`
 
-los cuales desde mucho antes 
+*Pues algunos hombres* - `en contraste a ustedes (los amados) estos hombres son incrédulos (ellos)`
 
-estaban marcados para esta condenación, 
+*se han infiltrado encubiertamente,* `entraron secretamente por la puerta de atras. Como espías enemigos, estas personas se habían infiltrado en la iglesia de forma secreta y astuta, y permanecieron sin ser detectadas ni reconocidas como quienes realmente eran: ¡enemigos de Cristo! (Gálatas 2:4-5, Filipenses 3:18-19, 2 Pedro 2:1)` 
 
-impíos que convierten la gracia de nuestro Dios en libertinaje, 
+*los cuales desde mucho antes* 
 
-y niegan a nuestro único Soberano y Señor, Jesucristo. 
+*estaban marcados para esta condenación,* 
 
-Ahora quiero recordarles a ustedes, 
+*impíos* - `todos los incredulos ya son condenados`
 
-aunque ya definitivamente lo saben todo, 
+*que convierten la gracia de nuestro Dios en libertinaje,* `libertinaje: disolución, deshonestidad. Convirtieron la gracia de Dios, el cual es el medio para dejar de pecar, en una excusa para pecar. La gracia de Dios es el medio dado por Dios para que podamos vivir las vidas que él quiere que vivamos, no las vidas que nuestras propias pasiones dicten. Tito 2:11-12`
 
-que el Señor, 
+*y niegan a nuestro único Soberano y Señor, Jesucristo.* `Contaminan su cuerpo y rechazan la autoridad de Dios. 2 Pedro 2:7 RVR60. Y en segundo lugar estaban negando al mismo Señor Jesucristo. No tenemos evangelio sin el Señor Jesucristo, Vana es nuestra fe si Jesús no es quien dijo ser, por lo tanto, una enseñanza de tal magnitud, definitivamente es un ataque devastador a la fe. De esta forma Judas da a conocer el grave problema que sus lectores estaban enfrentando. Entre ellos había un veneno mortal, entre ellos estaban los asesinos de la gracia. Debían comenzar a luchar ardientemente por la fe.`
 
-habiendo salvado al pueblo de la tierra de Egipto, 
+III. Judas 5-7 – Del pasado, Judas les recuerda tres ejemplos de juicio.
 
-destruyó después a los que no creyeron. 
+1. Algunos detalles a considerar.
+   1. Esta sección en la que Judas mencionará tres ejemplos de juicio en el pasado, recuerda a los lectores que Dios siempre ha actuado con justicia.
+   2. El enfoque no debe estar en la sentencia que estos recibieron sino en el hecho de que la recibieron.
+   3. Al ver que sí ha pasado antes, podrían estar seguros que el juicio en cuanto a estos hombres también era seguro. Podrán recordar que Dios no solamente habló al respecto, sino que actuó en consecuencia.
+   4. Esto será de un gran contraste entre Dios y estos hombres, ya que ellos se atreven a hablar de cosas que ni siquiera entienden, emitiendo juicios que ni siquiera son capaces de cumplir.
 
-Y a *los* ángeles que no conservaron su señorío original, 
+*Ahora quiero recordarles a ustedes,* 
 
-sino que abandonaron su morada legítima, 
 
-*los* ha guardado en prisiones eternas bajo tinieblas, 
 
-para el juicio del gran día. 
+​	*aunque ya definitivamente lo saben todo,* 
 
-Así *también* Sodoma y Gomorra y las ciudades circunvecinas, 
+​	*que el Señor,* 
 
-a semejanza de aquellos, 
+​		*habiendo salvado al pueblo de la tierra de Egipto,* 
 
-puesto que ellas se corrompieron 
+​			*destruyó después a los que no creyeron.* `Destruyó: 	ἀπόλλυμι - 	v5, v11, (destruyo, perecieron) Dios `
 
-y siguieron carne extraña, 
+​		*Y a *los* ángeles que no conservaron su señorío original,* 
 
-son exhibidas como ejemplo al sufrir el castigo del fuego eterno. 
+​			*sino que abandonaron su morada legítima,* 
 
-No obstante, de la misma manera también estos hombres, 
+​			*los* *ha guardado en prisiones eternas bajo tinieblas,* 
 
-soñando, 
+​			*para el juicio del gran día.* 
 
-contaminan su cuerpo, 
+​	*Así* *también* *Sodoma y Gomorra y las ciudades circunvecinas,* 
 
-rechazan la autoridad, 
+​		*a semejanza de aquellos,* 
 
-y blasfeman de las majestades angélicas. 
+​		*puesto que ellas se corrompieron* 
 
-Pero cuando el arcángel Miguel luchaba contra el diablo 
+​		*y siguieron carne extraña,* 
 
-y discutía acerca del cuerpo de Moisés, 
+​		*son exhibidas como ejemplo* 
 
-no se atrevió a proferir juicio de maldición contra él, 
+​		*al sufrir el castigo del fuego eterno.* 
 
-sino que dijo: «El Señor te reprenda». 
+*No obstante, de la misma manera también* 
 
+*estos hombres,* 
 
+​	*soñando,* 
 
-Pero estos blasfeman las cosas que no entienden, 
+​	*contaminan su cuerpo,* 
 
-y las cosas que como animales irracionales conocen por instinto, por estas cosas son ellos destruidos. 
+​	*rechazan la autoridad,* 
 
-¡Ay de ellos! Porque han seguido el camino de Caín, 
+​	*y blasfeman de las majestades angélicas.* 
 
-y por ganar dinero se lanzaron al error de Balaam, 
+*Pero cuando el arcángel Miguel luchaba contra el diablo* 
 
-y perecieron en la rebelión de Coré. 
+​	*y discutía acerca del cuerpo de Moisés,* 
 
-Estos son escollos ocultos en los ágapes de ustedes, 
+​	*no se atrevió a proferir juicio de maldición contra él,* 
 
-cuando banquetean con ustedes sin temor, 
+​	*sino que dijo: «El Señor te reprenda».* 
 
-apacentándose a sí mismos. 
 
-*Son*nubes sin agua llevadas por los vientos, 
 
-árboles de otoño sin fruto, 
+*Pero estos blasfeman las cosas que no entienden,* 
 
-dos veces muertos y desarraigados. 
+*y las cosas que* 
 
-*Son* olas furiosas del mar, 
+*como animales irracionales*
 
-que arrojan como espuma su propia vergüenza; 
+*conocen por instinto,* 
 
-estrellas errantes 
+*por estas cosas son ellos destruidos.* 
 
-para quienes la oscuridad 
+*¡Ay de ellos!* 
 
-de las tinieblas 
+*Porque han seguido el camino de Caín,* `Incredulos`
 
-ha sido reservada para siempre. 
+*y por ganar dinero se lanzaron al error de Balaam,* `codiciosos`
 
-De estos también profetizó Enoc, 
+*y perecieron en la rebelión de Coré.* `rebeldes`
 
-*en* la séptima *generación*desde Adán, 
+*Estos son escollos ocultos en los ágapes de ustedes,* 
 
-diciendo: «El Señor vino con muchos millares de Sus santos, 
+*cuando banquetean con ustedes sin temor,* 
 
-para ejecutar juicio sobre todos, 
+*apacentándose a sí mismos.* `no soy de la grey`
 
-y para condenar a todos los impíos de todas sus obras de impiedad, 
+*Son**nubes sin agua llevadas por los vientos,* 
 
-que han hecho impíamente, 
+*árboles de otoño sin fruto,* 
+
+*dos veces muertos y desarraigados.* 
+
+*Son* *olas furiosas del mar,* 
+
+*que arrojan como espuma su propia vergüenza;* 
+
+*estrellas errantes* 
+
+*para quienes la oscuridad* 
+
+*de las tinieblas* 
+
+*ha sido reservada para siempre.* 
+
+*De estos también profetizó Enoc,* 
+
+*en* *la séptima* *generación**desde Adán,* 
+
+*diciendo: «El Señor vino con muchos millares de Sus santos,*
+
+*para ejecutar juicio sobre todos,* 
+
+*y para condenar a todos los impíos de todas sus obras de impiedad,* 
+
+*que han hecho impíamente,* 
 
 y de todas las cosas ofensivas que pecadores impíos dijeron contra Él». 
 
@@ -304,15 +332,23 @@ y de otros tengan misericordia con temor,
 
 aborreciendo aun la ropa contaminada por la carne. 
 
-Y a Aquel que es poderoso 
+Y a Aquel 
 
-para guardarlos a ustedes 
+​	que es poderoso 
 
-sin caída y para presentarlos 
+​		para guardarlos a ustedes 
 
-sin mancha en presencia de Su gloria con gran alegría, 
+​		sin caída y para presentarlos 
 
-al único Dios nuestro Salvador, 
+​		sin mancha 
+
+​			en presencia de Su gloria 
+
+​			con gran alegría, 
+
+al único Dios 
+
+nuestro Salvador, 
 
 por medio de Jesucristo nuestro Señor, 
 
