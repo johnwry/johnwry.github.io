@@ -132,15 +132,15 @@ Tampoco *la fuente de agua* salada
 
 ============================
 
-# I. Santiago 3:1-12 La Lengua, un animal indomable. Santiago 3:7-8
+# I. Santiago 3:1-12RVR60 La Lengua, un animal indomable. Santiago 3:7-8RVR60
 
-## A. Santiago 3:1-2 No todos debían ser maestros
+## A. Santiago 3:1-2RVR60 No todos debían ser maestros
 
-### 1. Santiago 3:1  *Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.* Romanos 16:18RVR60; Lucas 20:46-47RVR60
+### 1. Santiago 3:1RVR60  *Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.* Romanos 16:18RVR60; Lucas 20:46-47RVR60
 
-### 2. Al parecer, muchos deseaban enseñar, posiblemente por la autoridad y el prestigio que conllevaba esta función. El NT menciona a maestros, apóstoles y profetas como roles importantes en la iglesia primitiva (Hechos 13:1; Efesios 4:11). La falta de maestros calificados parece haber sido un problema crítico en la iglesia primitiva. 1 Juan 3:7RVR60; 2 Pedro 2:1RVR60; 1 Timoteo 6:3RVR60; 2 Timoteo 4:3RVR60
+### 2. Al parecer, muchos deseaban enseñar, posiblemente por la autoridad y el prestigio que conllevaba esta función. El NT menciona a maestros, apóstoles y profetas como roles importantes en la iglesia primitiva (Hechos 13:1RVR60; Efesios 4:11RVR60). La falta de maestros calificados parece haber sido un problema crítico en la iglesia primitiva. 1 Juan 3:7RVR60; 2 Pedro 2:1RVR60; 1 Timoteo 6:3RVR60; 2 Timoteo 4:3RVR60
 
-#### a. La lengua que enseña tiene el poder de desviar, por eso Dios juzgará más severamente a los maestros. Lucas 11:52; 1 Timoteo 1:7-9RVR60, 2 Timoteo 1:11RVR60; Salmo 119:99RVR60; Mateo 18:6rvr60; 
+#### a. La lengua que enseña tiene el poder de desviar, por eso Dios juzgará más severamente a los maestros. Lucas 11:52RVR60; 1 Timoteo 1:7-9RVR60, 2 Timoteo 1:11RVR60; Salmo 119:99RVR60; Mateo 18:6rvr60; 
 
 #### b. la lengua es jactanciosa. Santiago 3:5RVR60
 
@@ -158,19 +158,19 @@ Tampoco *la fuente de agua* salada
 
 ##### 7) indomable. Santiago 3:7-8RVR60
 
-### 2. Santiago 3:2a  "*Porque todos fallamos de muchas maneras.*" Ninguno es libre del mal que es capaz la lengua. 
+### 2. Santiago 3:2RVR60  "*Porque todos fallamos de muchas maneras.*" Ninguno es libre del mal que es capaz la lengua. 
 
-### 3. Santiago 3:2b *Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.* Alguien que no falla en lo que dice, es una persona madura. Santiago 1:4RVR60; Proverbios 10:11RVR60, 20RVR60;  
+### 3. Santiago 3:2RVR60 *Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.* Alguien que no falla en lo que dice, es una persona madura. Santiago 1:4RVR60; Proverbios 10:11RVR60, 20RVR60;  
 
 4. ### En Hebreos 5:12RVR60 el autor les aclara que ya debían ser maestros. 2 Timoteo 2:2RVR60
 
 ## B. La lengua es un miembro muy pequeño
 
-### 1. Santiago 3:3  *Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.*
+### 1. Santiago 3:3RVR60  *Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.*
 
-### 2. Santiago 3:4  *Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.*
+### 2. Santiago 3:4RVR60  *Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.*
 
-### 3. Santiago 3:5 *Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!* 
+### 3. Santiago 3:5RVR60 *Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!* 
 
 1. ### Así como el freno en la boca del caballo hace que obedezca, y el timon pequeño direcciona un barco grande, asi también la boca se jacta de grandes cosas. Es como una chispa que inicia un incendio de un bosque entero. Proverbios 18:21RVR60; 
 
@@ -178,27 +178,37 @@ Tampoco *la fuente de agua* salada
 
 ## C. ¿Como frenar, dirigir o controlar la Lengua?
 
-1. ### Santiago 1:26 - "*Si alguien se cree religioso, pero no refrena su lengua, **sino que engaña a su propio corazón**, la religión del tal es vana.*" - una persona que se piensa espiritual pero no refrena su lengua se engaña a si mismo. Santiago 1:22RVR60; Isaias 44:20RVR60; 
+1. ### Santiago 1:26RVR60 - "*Si alguien se cree religioso, pero no refrena su lengua, **sino que engaña a su propio corazón**, la religión del tal es vana.*" - una persona que se piensa espiritual pero no refrena su lengua se engaña a si mismo. Santiago 1:22RVR60; Isaias 44:20RVR60; 
 
 2. ### El corazón es la fuente de lo que se derrama de los labios. Por esta razón, es crucial que cuidemos nuestros corazones. Salmo 17:10RVR60; Proverbios 4:23RVR60; Marcos 7:21-22RVR60; Filipenses 4:8RVR60
 
-3. Lo que sembramos en el corazón, es lo que cosechamos. Gálatas 6:7RVR60; Efesios 4:22RVR60; 
+### 3. Lo que sembramos en el corazón, es lo que cosechamos. Gálatas 6:7RVR60; Efesios 4:22RVR60; 
 
-4. Colosenses 3:16RVR60 - "*Que la palabra de Cristo habite en abundancia en ustedes, con **toda sabiduría **enseñándose** y **amonestándose** unos a otros con salmos, himnos y canciones espirituales, **cantando** a Dios con acción de gracias **en sus corazones**.*"
+### 4. Colosenses 3:16RVR60 - "*Que la palabra de Cristo habite en abundancia en ustedes, con **toda sabiduría **enseñándose** y **amonestándose** unos a otros con salmos, himnos y canciones espirituales, **cantando** a Dios con acción de gracias **en sus corazones**.*"
 
-5. Efesios 5:18-20RVR60 "*Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu. **Hablen** entre ustedes con salmos, himnos y cantos espirituales, **cantando** y **alabando** con su corazón al Señor. **Den siempre gracias** por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.*"
+### 5. Efesios 5:18-20RVR60 "*Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu. **Hablen** entre ustedes con salmos, himnos y cantos espirituales, **cantando** y **alabando** con su corazón al Señor. **Den siempre gracias** por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.*"
 
-6. Romanos 6:10  Porque en cuanto a que Él murió, murió al pecado de una vez para siempre; pero en cuanto Él vive, vive para Dios.
+### 6. Romanos 6:10RVR60  Porque en cuanto a que Él murió, murió al pecado de una vez para siempre; pero en cuanto Él vive, vive para Dios.
 
-   Romanos 6:11 Así también ustedes, considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
+#### Romanos 6:11RVR60 Así también ustedes, considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
 
-   Romanos 6:12 Por tanto, no reine el pecado en su cuerpo mortal para que ustedes *no* obedezcan a sus lujurias;
+#### Romanos 6:12RVR60 Por tanto, no reine el pecado en su cuerpo mortal para que ustedes *no* obedezcan a sus lujurias;
 
-   Romanos 6:13 ni presenten los miembros de su cuerpo al pecado *como*instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y sus miembros a Dios *como*instrumentos de justicia.
+#### Romanos 6:13RVR60 ni presenten los miembros de su cuerpo al pecado *como*instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y sus miembros a Dios *como*instrumentos de justicia.
 
-   Romanos 6:14 Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley sino bajo la gracia.
+#### Romanos 6:14RVR60 Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley sino bajo la gracia.
 
-7. Isaias 6:3-7RVR60
+### 7. Isaias 6:3-7RVR60 - 
+
+### 8. Isaias 6:3 Y el uno al otro daba voces, diciendo: «Santo, Santo, Santo es el SEÑOR de los ejércitos, Llena está toda la tierra de Su gloria».
+
+#### Isaias 6:4 Y se estremecieron los cimientos de los umbrales a la voz del que clamaba, y la casa se llenó de humo.
+
+#### Isaias 6:5 Entonces dije: «¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos».
+
+#### Isaias 6:6 Entonces voló hacia mí uno de los serafines con un carbón encendido en su mano, que había tomado del altar con las tenazas.
+
+#### Isaias 6:7 *Con él* tocó mi boca, y me dijo: «Esto ha tocado tus labios, y es quitada tu iniquidad y perdonado tu pecado».
 
 
 
