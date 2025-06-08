@@ -10,7 +10,7 @@ Template: page
 Yo era un hombre
 acostumbrado
 Vivia siempre 
-mi propia agrado
+a mi propia agrado
 Problemas venian
 Sin considerarlo
 resolvia
