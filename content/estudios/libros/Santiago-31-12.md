@@ -200,15 +200,15 @@ Tampoco *la fuente de agua* salada
 
 ### 7. Isaias 6:3-7RVR60 - 
 
-### 8. Isaias 6:3 Y el uno al otro daba voces, diciendo: «Santo, Santo, Santo es el SEÑOR de los ejércitos, Llena está toda la tierra de Su gloria».
+### 8. Isaias 6:3RVR60 Y el uno al otro daba voces, diciendo: «Santo, Santo, Santo es el SEÑOR de los ejércitos, Llena está toda la tierra de Su gloria».
 
-#### Isaias 6:4 Y se estremecieron los cimientos de los umbrales a la voz del que clamaba, y la casa se llenó de humo.
+#### Isaias 6:4RVR60 Y se estremecieron los cimientos de los umbrales a la voz del que clamaba, y la casa se llenó de humo.
 
-#### Isaias 6:5 Entonces dije: «¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos».
+#### Isaias 6:5RVR60 Entonces dije: «¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos».
 
-#### Isaias 6:6 Entonces voló hacia mí uno de los serafines con un carbón encendido en su mano, que había tomado del altar con las tenazas.
+#### Isaias 6:6RVR60 Entonces voló hacia mí uno de los serafines con un carbón encendido en su mano, que había tomado del altar con las tenazas.
 
-#### Isaias 6:7 *Con él* tocó mi boca, y me dijo: «Esto ha tocado tus labios, y es quitada tu iniquidad y perdonado tu pecado».
+#### Isaias 6:7RVR60 *Con él* tocó mi boca, y me dijo: «Esto ha tocado tus labios, y es quitada tu iniquidad y perdonado tu pecado».
 
 
 
