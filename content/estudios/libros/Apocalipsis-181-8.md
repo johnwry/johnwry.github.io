@@ -1,13 +1,12 @@
 ---
 Title: Apocalipsis 18:1-8
-
 ---
 
 # I. Apocalipsis 18:1-8 La Destrucción de Babilonia desde la perspectiva Comercial
 
 ## B. Al igual que Babel, Babilonia también halla poder en su unión comercial. 
 
-### A. El hombre siempre ha buscado juntas sus recursos en contra de la voluntad de Dios. Génesis 10:8-10RVR60,  Génesis 11:3-6RVR60;  Apocalipsis 13:16-18RVR60
+### 1. El hombre siempre ha buscado juntas sus recursos en contra de la voluntad de Dios. Génesis 10:8-10RVR60,  Génesis 11:3-6RVR60;  Apocalipsis 13:16-18RVR60
 
 ## A. Un angel poderoso que iluminó la tierra
 
