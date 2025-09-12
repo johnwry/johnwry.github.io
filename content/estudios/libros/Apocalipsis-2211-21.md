@@ -30,7 +30,9 @@ Apocalipsis 22:11 *El que es injusto, sea injusto todavía;*
 
 Apocalipsis 22:11 *y el que es inmundo, sea inmundo todavía;*
 
-Apocalipsis 22:11 *y el que es justo, practique la justicia todavía; y el que es santo, santifíquese todavía.*
+Apocalipsis 22:11 *y el que es justo, practique la justicia todavía;*
+
+*y el que es santo, santifíquese todavía.*
 
 Apocalipsis 22:12 *He aquí yo vengo pronto,* 
 
