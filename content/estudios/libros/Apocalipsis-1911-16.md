@@ -22,19 +22,19 @@ Title: Apocalipsis 19:11-16
 
 ### 2. Apocalipsis 19:11b -  *y apareció un caballo blanco.* 
 
-#### a. Este caballo blanco es similar del caballo blanco de Apocalipsis 6:2. Sin embargo sus ginetes son muy distintos. 
+#### a. Este caballo blanco es similar del caballo blanco de Apocalipsis 6:2. Sin embargo sus jinetes son muy distintos. 
 
 ### 3. Apocalipsis 19:11c - *El que lo montaba se llama Fiel y Verdadero.*
 
 #### a. Fiel y Verdadero solo puede referirse a Cristo. Apocalipsis 3:14RVR60,  Hebreos 3:8RVR60, 1 Juan 5:20RVR60
 
-#### b. El ginete de Apocalipsis 6:2 es el Anticristo y viene con engaño. Aquí el que va montado es Fiel y Verdadero. 
+#### b. El jinete de Apocalipsis 6:2 es el Anticristo y viene con engaño. Aquí el que va montado es Fiel y Verdadero. 
 
 ### 4. Apocalipsis 19:11d *Con justicia juzga y hace la guerra.* 
 
-#### a. El ginete de Apocalipsis 6:2 había salido para *conquistando y para conquistar* pero este ginete va para hacer *la guerra* y juzgar *con justicia*. Apocalipsis 19:2RVR60
+#### a. El jinete de Apocalipsis 6:2 había salido para *conquistando y para conquistar* pero este jinete va para hacer *la guerra* y juzgar *con justicia*. Apocalipsis 19:2RVR60
 
-#### b. En realidad este ginete (El Mesias) se enfrentará en guerra al ginete de Apocalipsis 6:2 (la bestia). Esta guerra se llama la guerra del Armagedon. Apocalipsis 19:19RVR60
+#### b. En realidad este jinete (El Mesias) se enfrentará en guerra al jinete de Apocalipsis 6:2 (la bestia). Esta guerra se llama la guerra del Armagedon. Apocalipsis 19:19RVR60
 
 #### c. Ultimadamente, Cristo reinará sobre toda la creación. 1 Corintios 15:23-28RVR60, Isaías 9:6RVR60
 
@@ -44,7 +44,7 @@ Title: Apocalipsis 19:11-16
 
 #### b. Cristo lo ve todo, lo sabe todo. Hebreos 4:13RVR60
 
-#### c. El ginete de Apocalipsis 6:2 tenia una corona (STEFANO). Este ginete tiene muchas diademas (DIADEMA). 
+#### c. El jinete de Apocalipsis 6:2 tenia una corona (STEFANO). Este jinete tiene muchas diademas (DIADEMA). 
 
 ###### i) Zacarias 6:11 *Tomarás, pues, plata y oro, y harás coronas, y las pondrás en la cabeza del sumo sacerdote Josué, hijo de Josadac.*
 

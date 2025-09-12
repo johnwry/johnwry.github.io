@@ -4,7 +4,7 @@
 baseURL                = "http://localhost:1313/"
 copyright              = "The MIT License (MIT) Copyright © 2020 BJWry"
 rssLimit = 10
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 enableEmoji            = false
 enableGitInfo          = false
 metaDataFormat         = "yaml"
