@@ -32,7 +32,7 @@
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
 
-BLB.Tagger.Translation = 'NASB95';
+BLB.Tagger.Translation = 'RVR60';
 BLB.Tagger.HyperLinks = 'all'; 
 BLB.Tagger.HideTanslationAbbrev = true;
 BLB.Tagger.TargetNewWindow = true;
@@ -44,7 +44,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
   <div class="modal-content-box modal-text-box">
     <div class="card modal-title is-radiusless">
       <div class="card-header">
-        <p class="card-header-title is-marginless">About</p>
+        <p class="card-header-title is-marginless"></p>
       </div>
     </div>
     <div class="modal-content-container">
@@ -56,43 +56,43 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 <div id="navbarShortcuts" class="is-hidden modal-container">
   <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
         <div class="card-header">
-          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+          <p class="card-header-title is-marginless"></p>
         </div>
       </div>
       <div class="modal-content-container">
         <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show current page QR code</p>
+    <p class="has-text-weight-normal">10_qrcode</p>
   </div><div class="modal-content"><kbd>Escape</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Close modals</p>
+    <p class="has-text-weight-normal">11_closemodals</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show website information</p>
+    <p class="has-text-weight-normal">1_info</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show shortcuts</p>
+    <p class="has-text-weight-normal">2_shortcuts</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to homepage</p>
+    <p class="has-text-weight-normal">3_home</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Find on website</p>
+    <p class="has-text-weight-normal">4_search</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+    <p class="has-text-weight-normal">5_togglesidebar</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
-  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+    <p class="has-text-weight-normal">6_toggletoc</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>ArrowUp</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to the top of the page</p>
-  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+    <p class="has-text-weight-normal">7_backtotop</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>ArrowDown</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+    <p class="has-text-weight-normal">8_gotobottom</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Print current page</p>
+    <p class="has-text-weight-normal">9_print</p>
   </div></div>
       </div></div>
 </div>
@@ -107,7 +107,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     href="/"
   >
     <img
-      alt="Homepage"
+      alt=""
       src="/img/bjwry.png"
     />
   </a>
@@ -117,7 +117,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     href="/"
   >
     <img
-      alt="Homepage"
+      alt=""
       src="/images/logoTouch.png"
     />
   </a>
@@ -131,7 +131,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       autocomplete="off"
       class="input"
       type="search"
-      placeholder="Search"
+      placeholder=""
     />
   </span>
   <span class="icon is-left">
@@ -146,7 +146,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="printButton"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">Print</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-print fa-lg"></i>
     </span>
@@ -157,7 +157,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="qrCodeButton"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">QR code</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-qrcode fa-lg"></i>
     </span>
@@ -168,9 +168,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="shortcutsInfo"
     trigger="navbarShortcuts"
     class="button navbar-item-standard navbar-trigger"
-    title="Keyboard shortcuts"
+    title=""
   >
-    <span class="icon-text">Shortcuts</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-keyboard fa-lg"></i>
     </span>
@@ -186,7 +186,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       aria-haspopup="true"
       aria-controls="dropdown-menu"
     >
-      <span class="icon-text">Taxonomies</span>
+      <span class="icon-text"></span>
       <span class="icon">
         <i class="fa-solid fa-tags fa-lg"></i>
       </span>
@@ -211,9 +211,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="siteInfo"
     trigger="navbarInfo"
     class="button navbar-item-standard navbar-trigger"
-    title="About"
+    title=""
   >
-    <span class="icon-text">About</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-circle-question fa-lg"></i>
     </span>
@@ -232,7 +232,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="printButtonExtend"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">Print</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-print fa-lg"></i>
     </span>
@@ -243,7 +243,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="qrCodeButtonExtend"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">QR code</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-qrcode fa-lg"></i>
     </span>
@@ -254,9 +254,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="shortcutsInfoExtend"
     trigger="navbarShortcuts"
     class="button navbar-item-standard navbar-trigger"
-    title="Keyboard shortcuts"
+    title=""
   >
-    <span class="icon-text">Shortcuts</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-keyboard fa-lg"></i>
     </span>
@@ -272,7 +272,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       aria-haspopup="true"
       aria-controls="dropdown-menu"
     >
-      <span class="icon-text">Taxonomies</span>
+      <span class="icon-text"></span>
       <span class="icon">
         <i class="fa-solid fa-tags fa-lg"></i>
       </span>
@@ -297,9 +297,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="siteInfoExtend"
     trigger="navbarInfo"
     class="button navbar-item-standard navbar-trigger"
-    title="About"
+    title=""
   >
-    <span class="icon-text">About</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-circle-question fa-lg"></i>
     </span>
@@ -556,6 +556,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/topico/engan%CC%83adores/'
+        class='card-header-title'
+          title='Engañadores'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Engañadores</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
         class='card-header-title'
           title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
@@ -577,6 +587,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='Evangelio para el Creyente'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">Evangelio para el Creyente</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/fiestas-judias/'
+        class='card-header-title'
+          title='Fiestas Judias'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Fiestas Judias</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -720,6 +740,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/topico/salvacio%CC%81n-por-sen%CC%83orio/'
+        class='card-header-title'
+          title='Salvación por Señorio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Salvación por Señorio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/topico/sincretismo/'
         class='card-header-title'
           title='sincretismo'>
@@ -761,6 +791,26 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
             class="card"><div class='card-header is-sidebar-disable'>
       <div class='card-header-title' href='/estudios/libros/untitled/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-corintios-1550-58/'
+        class='card-header-title'
+          title='1 Corintios 15:50-58'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Corintios 15:50-58</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-corintios-71-9/'
+        class='card-header-title'
+          title='1 Corintios 7:1-9'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Corintios 7:1-9</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -817,6 +867,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/libros/1-timoteo-611-14/'
+        class='card-header-title'
+          title='1 Timoteo 6:11-14'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Timoteo 6:11-14</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/libros/2-corinthians-2/'
         class='card-header-title'
           title='2 Corinthians 2'>
@@ -831,6 +891,46 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='2 Pedro'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-181-8/'
+        class='card-header-title'
+          title='Apocalipsis 18:1-8'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 18:1-8</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-1911-16/'
+        class='card-header-title'
+          title='Apocalipsis 19:11-16'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 19:11-16</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-20.11-15/'
+        class='card-header-title'
+          title='Apocalipsis 20:11-15'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 20:11-15</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-2211-21/'
+        class='card-header-title'
+          title='Apocalipsis 22:11-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 22:11-21</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -991,6 +1091,36 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='Hebreos'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos-713-21/'
+        class='card-header-title'
+          title='Hebreos 7:13-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos 7:13-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos-81-6/'
+        class='card-header-title'
+          title='Hebreos 8:1-6'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos 8:1-6</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hechos-2/'
+        class='card-header-title'
+          title='Hechos 2'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hechos 2</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -1194,6 +1324,26 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/libros/santiago-41-10/'
+        class='card-header-title'
+          title='Santiago 4:1-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago 4:1-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/tito-2/'
+        class='card-header-title'
+          title='Tito 2'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Tito 2</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/libros/zarpando-por-zacari%CC%81as/'
         class='card-header-title'
           title='Zarpando por Zacarías'>
@@ -1277,6 +1427,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     </div></ul></li>
       </div>
     </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/cuan-alegre-el-padre-esta/'
+        class='card-header-title'
+          title='Cuan alegre el padre esta'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Cuan alegre el padre esta</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class="card-header">
       <a
@@ -1327,7 +1487,27 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Lentamente</p></a></div>
           </div></li>
       </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/entregados/yo-vi-la-luz/'
+        class='card-header-title'
+          title='Yo Vi La Luz'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Yo Vi La Luz</p></a></div>
+          </div></li>
+      </div>
     </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/got-my-song-back/'
+        class='card-header-title'
+          title='Got my song back'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Got my song back</p></a></div>
+          </div></li>
       </div>
     </div><div class="">
       <div class=""><li class="is-marginless"><div
@@ -1408,7 +1588,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class="card-header">
       <a
-        href='/music/john-wry/inteligencia-artificial/'
+        href='/music/john-wry/nonstopmeditations757/'
         class='card-header-title'
           title='John Wry'>
         <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">John Wry</p></a><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
@@ -1419,7 +1599,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/conocer-el-amor/'
+        href='/music/john-wry/nonstopmeditations757/conocer-el-amor/'
         class='card-header-title'
           title='conocer el amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">conocer el amor</p></a></div>
@@ -1429,7 +1609,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/dos-evangelios/'
+        href='/music/john-wry/nonstopmeditations757/dos-evangelios/'
         class='card-header-title'
           title='Dos Evangelios'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Dos Evangelios</p></a></div>
@@ -1439,7 +1619,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/'
+        href='/music/john-wry/nonstopmeditations757/fruto-del-sen%CC%83or/'
+        class='card-header-title'
+          title='Fruto del Señor'>
+        <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Fruto del Señor</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/gracia-en-tu-andar/'
         class='card-header-title'
           title='Gracia en tu Andar'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Gracia en tu Andar</p></a></div>
@@ -1449,7 +1639,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/incompleto-amor/'
+        href='/music/john-wry/nonstopmeditations757/guardados-en-su-amor/'
+        class='card-header-title'
+          title='Guardados en Su Amor'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Guardados en Su Amor</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/incompleto-amor/'
         class='card-header-title'
           title='Incompleto Amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Incompleto Amor</p></a></div>
@@ -1459,7 +1659,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/incompleto-amor/'
+        href='/music/john-wry/nonstopmeditations757/incompleto-amor/'
         class='card-header-title'
           title='Incompleto Amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Incompleto Amor</p></a></div>
@@ -1469,7 +1669,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/la-fe-convencional/'
+        href='/music/john-wry/nonstopmeditations757/la-fe-convencional/'
         class='card-header-title'
           title='La Fe Convencional'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">La Fe Convencional</p></a></div>
@@ -1479,7 +1679,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/oh-que-completa-es/'
+        href='/music/john-wry/nonstopmeditations757/_index-copy/'
+        class='card-header-title'
+          title='Mi Canto es tu Gracia'>
+        <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Mi Canto es tu Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/oh-que-completa-es/'
         class='card-header-title'
           title='Oh Que Completa Es'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Oh Que Completa Es</p></a></div>
@@ -1489,33 +1699,10 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/yo-era-un-hombre/'
+        href='/music/john-wry/nonstopmeditations757/yo-era-un-hombre/'
         class='card-header-title'
           title='Yo Era un Hombre'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Yo Era un Hombre</p></a></div>
-          </div></li>
-      </div>
-    </div></ul></li>
-      </div>
-    </div><div class="">
-      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
-            class="card"><div class="card-header">
-      <a
-        href='/music/john-wry/ahora-canto-por-gracia/'
-        class='card-header-title'
-          title='Mi Canto es tu Gracia'>
-        <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Mi Canto es tu Gracia</p></a><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
-                <span class='icon'></span>
-              </a>
-            </div>
-          </div><ul class="is-marginless"><div class="">
-      <div class=""><li class="is-marginless"><div
-            class="card"><div class="card-header is-single-link">
-      <a
-        href='/music/john-wry/ahora-canto-por-gracia/guardados-en-su-amor/'
-        class='card-header-title'
-          title='Guardados en Su Amor'>
-        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Guardados en Su Amor</p></a></div>
           </div></li>
       </div>
     </div></ul></li>
@@ -1580,10 +1767,30 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/music/solo-cristo-en-ti/'
+        class='card-header-title'
+          title='Solo Cristo en Ti'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Solo Cristo en Ti</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/music/solo-para-ninos/'
         class='card-header-title'
           title='Solo Para Niños'>
         <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Solo Para Niños</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/some-day-soon/'
+        class='card-header-title'
+          title='Some day soon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Some day soon</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -2353,7 +2560,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <div
           id="sidebarUncollapse"
           class="card-header is-single-link"
-          title="Collapse/Uncollapse sidebar"
+          title=""
         >
           <a class="card-header-title">
             <i class="fa-solid fa-angles-right fa-lg"></i>
@@ -2364,11 +2571,11 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <div
           id="sidebarCollapse"
           class="card-header is-single-link"
-          title="Collapse/Uncollapse sidebar"
+          title=""
         >
           <a class="card-header-title">
             <i class="fa-solid fa-angles-left fa-lg"></i>
-            <p>Collapse sidebar</p>
+            <p></p>
           </a>
         </div>
       </div>
@@ -2378,141 +2585,555 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 <div id="sidebarMobileWrapper" class="column is-narrow is-hidden-desktop"></div>
 <div class="columns is-mobile is-marginless is-scroll-smooth has-toc" id="contentContainer">
   <div class="column" id="content"><div id="contentTitle">Santiago</div>
-<p>Santiago 2:14  ¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?</p>
-<p>Santiago 2:15  Si un hermano o una hermana no tienen ropa y carecen del sustento diario,</p>
-<p>Santiago 2:16  y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?</p>
-<p>Santiago 2:17  Así también la fe por sí misma, si no tiene obras, está muerta.</p>
-<p>Santiago 2:18  Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».</p>
-<p>Santiago 2:19  Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.</p>
-<p>Santiago 2:20  Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril?</p>
-<p>Santiago 2:21  ¿No fue justificado por las obras
-Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?</p>
-<p>Santiago 2:22  Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;</p>
-<p>Santiago 2:23  y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.</p>
-<p>Santiago 2:24  Ustedes ven que el hombre es justificado por las obras y no solo por la fe.</p>
-<p>Santiago 2:25  Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?</p>
-<p>Santiago 2:26  Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.</p>
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>===== Texto <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<p>¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo? Si un hermano o una hermana no tienen ropa y carecen del sustento diario, y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve? Así también la fe por sí misma, si no tiene obras, está muerta. Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras». Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan. Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril? ¿No fue justificado por las obras
-Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar? Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada; y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios. Ustedes ven que el hombre es justificado por las obras y no solo por la fe. Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino? Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.</p>
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>======Fraseado<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<p>¿De qué sirve,</p>
-<p>hermanos míos,</p>
-<p>si alguien dice que tiene fe,</p>
-<p>pero no tiene obras?</p>
-<p>¿Acaso puede esa fe salvarlo?</p>
-<p>Si un</p>
-<p>hermano</p>
-<p>o una hermana</p>
-<p>no tienen ropa</p>
-<p>y carecen del sustento diario,</p>
-<p>y uno de ustedes les dice:</p>
-<p>«Vayan en paz, caliéntense y sáciense»,</p>
-<p>pero no les dan</p>
-<p>lo necesario</p>
-<p>para su cuerpo,</p>
-<p>¿de qué sirve?</p>
-<p>Así también</p>
-<p>la fe</p>
-<p>por sí misma,</p>
-<p>si no tiene obras,</p>
-<p>está muerta.</p>
-<p>Pero alguien dirá:</p>
-<p>«Tú tienes fe y yo tengo obras.</p>
-<p>Muéstrame tu fe</p>
-<p>sin las obras,</p>
-<p>y yo te mostraré mi fe</p>
-<p>por mis obras».</p>
-<p>Tú crees que Dios es uno.</p>
-<p>Haces bien;</p>
-<p>también los demonios creen,</p>
-<p>y tiemblan.</p>
-<p>Pero,</p>
-<p>¿estás dispuesto</p>
-<p>a admitir,</p>
-<p>oh hombre vano,</p>
-<p>que la fe</p>
-<p>sin obras</p>
-<p>es estéril?</p>
-<p>¿No fue justificado</p>
-<p>por las obras</p>
-<p>Abraham</p>
-<p>nuestro padre</p>
-<p>cuando ofreció</p>
-<p>a su hijo Isaac</p>
-<p>sobre el altar?</p>
-<p>Ya ves</p>
-<p>que la fe actuaba juntamente</p>
-<p>con sus obras,</p>
-<p>y como resultado</p>
-<p>de las obras,</p>
-<p>la fe fue perfeccionada;</p>
-<p>y se cumplió</p>
-<p>la Escritura</p>
-<p>que dice:</p>
-<p>«Y ABRAHAM CREYÓ</p>
-<p>A DIOS</p>
-<p>Y LE FUE CONTADO POR JUSTICIA»,</p>
-<p>y fue llamado amigo</p>
-<p>de Dios.</p>
-<p>Ustedes ven</p>
-<p>que el hombre</p>
-<p>es justificado</p>
-<p>por las obras</p>
-<p>y no solo por la fe.</p>
-<p>Y de la misma manera,</p>
-<p>¿no fue la ramera Rahab</p>
-<p>también justificada</p>
-<p>por las obras</p>
-<p>cuando recibió</p>
-<p>a los mensajeros</p>
-<p>y los envió</p>
-<p>por otro camino?</p>
-<p>Porque así</p>
-<p>como el cuerpo</p>
-<p>sin el espíritu</p>
-<p>está muerto,</p>
-<p>así también</p>
-<p>la fe</p>
-<p>sin las obras</p>
-<p>está muerta.</p>
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>====bosquejo<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<h1 id='santiago-214-26-enseñanza-sobre-la-fe-inactiva-del-creyente'>Santiago 2:14-26 Enseñanza sobre la fe inactiva del creyente<a href='#santiago-214-26-ense%c3%b1anza-sobre-la-fe-inactiva-del-creyente' class='anchor'>#</a>
-</h1><h2 id='santiago-escribe-a-las-12-tribus-dispersadas-para-animarlos-en-cuanto-a-su-andar-santiago-11'>Santiago escribe a las 12 tribus dispersadas para animarlos en cuanto a su andar. Santiago 1:1<a href='#santiago-escribe-a-las-12-tribus-dispersadas-para-animarlos-en-cuanto-a-su-andar-santiago-11' class='anchor'>#</a>
-</h2><h3 id='para-el-entendimiento-correcto-del-libro-de-santiago-es-importante-determinar-a-quienes-escribe-son-judios-creyentes-o-incrédulos'>Para el entendimiento correcto del libro de Santiago, es importante determinar a quienes escribe. ¿Son judios creyentes o incrédulos?<a href='#para-el-entendimiento-correcto-del-libro-de-santiago-es-importante-determinar-a-quienes-escribe-son-judios-creyentes-o-incr%c3%a9dulos' class='anchor'>#</a>
-</h3><h4 id='santiago-menciona-la-palabra-hermanos-15-veces-en-su-carta-santiago-116-119-21-25-214-31-310-312-411-57-59-510-512-519'>Santiago menciona la palabra hermanos 15 veces en su carta. Santiago 1:16, 1:19, 2:1, 2:5, 2:14, 3:1, 3:10, 3:12, 4:11, 5:7, 5:9, 5:10, 5:12, 5:19<a href='#santiago-menciona-la-palabra-hermanos-15-veces-en-su-carta-santiago-116-119-21-25-214-31-310-312-411-57-59-510-512-519' class='anchor'>#</a>
-</h4><h5 id='santiago-12--tengan-por-sumo-gozo-hermanos-míos-cuando-se-hallen-en-diversas-pruebas'>Santiago 1:2  <em>Tengan por sumo gozo, <strong>hermanos míos, cuando se hallen en diversas pruebas</strong>,</em><a href='#santiago-12--tengan-por-sumo-gozo-hermanos-m%c3%ados-cuando-se-hallen-en-diversas-pruebas' class='anchor'>#</a>
-</h5><h5 id='santiago-21---hermanos-míos-no-tengan-su-fe-en-nuestro-glorioso-señor-jesucristo-con-una-actitud-de-favoritismo'>Santiago 2:1 - <em><strong>Hermanos míos, no tengan su fe en nuestro glorioso Señor Jesucristo</strong> con una actitud de favoritismo.</em><a href='#santiago-21---hermanos-m%c3%ados-no-tengan-su-fe-en-nuestro-glorioso-se%c3%b1or-jesucristo-con-una-actitud-de-favoritismo' class='anchor'>#</a>
-</h5><h5 id='santiago-57--por-tanto-hermanos-sean-pacientes-hasta-la-venida-del-señor-miren-cómo-el-labrador-espera-el-fruto-precioso-de-la-tierra-siendo-paciente-en-ello-hasta-que-recibe-la-lluvia-temprana-y-la-tardía'>Santiago 5:7  <em>Por tanto, <strong>hermanos, sean pacientes hasta la venida del Señor</strong>. Miren cómo el labrador espera el fruto precioso de la tierra, siendo paciente en ello hasta que recibe la lluvia temprana y la tardía.</em><a href='#santiago-57--por-tanto-hermanos-sean-pacientes-hasta-la-venida-del-se%c3%b1or-miren-c%c3%b3mo-el-labrador-espera-el-fruto-precioso-de-la-tierra-siendo-paciente-en-ello-hasta-que-recibe-la-lluvia-temprana-y-la-tard%c3%ada' class='anchor'>#</a>
-</h5><h4 id='concluimos-pues-que-santiago-escribe-su-carta-a-judios-creyentes'>Concluimos pues que Santiago escribe su carta a judios creyentes.<a href='#concluimos-pues-que-santiago-escribe-su-carta-a-judios-creyentes' class='anchor'>#</a>
-</h4><h2 id='fe-sin-obras-no-tiene-provecho-en-la-vida-de-uno-mismo'>Fe sin obras no tiene provecho en la vida de uno mismo<a href='#fe-sin-obras-no-tiene-provecho-en-la-vida-de-uno-mismo' class='anchor'>#</a>
-</h2><h3 id='santiago-214-20-un-creyente-que-no-pone-en-obras-su-fe-queda-infructuoso-en-su-santificación'>Santiago 2:14-20 Un creyente que no pone en obras su fe queda infructuoso en su santificación.<a href='#santiago-214-20-un-creyente-que-no-pone-en-obras-su-fe-queda-infructuoso-en-su-santificaci%c3%b3n' class='anchor'>#</a>
-</h3><h4 id='santiago-214---de-qué-sirve-hermanos-míos-si-alguien-dice-que-tiene-fe-pero-no-tiene-obras-acaso-puede-esa-fe-salvarlo'>Santiago 2:14 - <em>¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?</em><a href='#santiago-214---de-qu%c3%a9-sirve-hermanos-m%c3%ados-si-alguien-dice-que-tiene-fe-pero-no-tiene-obras-acaso-puede-esa-fe-salvarlo' class='anchor'>#</a>
-</h4><h5 id='santiago-habla-de-lo-inservible-para-uno-mismo-que-un-hermano-tenga-fe-pero-no-que-no-tiene-obras'>Santiago habla de lo inservible para uno mismo que un hermano tenga fe pero no que no tiene obras.<a href='#santiago-habla-de-lo-inservible-para-uno-mismo-que-un-hermano-tenga-fe-pero-no-que-no-tiene-obras' class='anchor'>#</a>
-</h5><h5 id='las-fe-en-acción-puesta-en-buenas-obras-es-para-santificación-salvación-del-poder-del-pecado-para-el-creyente--santiago-121-25'>Las fe en acción, puesta en buenas obras es para santificación (salvación del poder del pecado) para el creyente.  Santiago 1:21-25<a href='#las-fe-en-acci%c3%b3n-puesta-en-buenas-obras-es-para-santificaci%c3%b3n-salvaci%c3%b3n-del-poder-del-pecado-para-el-creyente--santiago-121-25' class='anchor'>#</a>
-</h5><h2 id='4-ejemplos-claros-para-illustrar-como-la-fe-sin-obras-es-inservible'>4 Ejemplos claros para illustrar como la fe sin obras es inservible.<a href='#4-ejemplos-claros-para-illustrar-como-la-fe-sin-obras-es-inservible' class='anchor'>#</a>
-</h2><h3 id='santiago-215-20-el-mal-ejemplo-del-que-dice-pero-no-ayuda-a-un-hermano'>Santiago 2:15-20 El mal ejemplo del que dice pero no ayuda a un hermano<a href='#santiago-215-20-el-mal-ejemplo-del-que-dice-pero-no-ayuda-a-un-hermano' class='anchor'>#</a>
-</h3><h4 id='santiago-215---si-un-hermano-o-una-hermana-no-tienen-ropa-y-carecen-del-sustento-diario'>Santiago 2:15 - <em>Si un hermano o una hermana no tienen ropa y carecen del sustento diario,</em><a href='#santiago-215---si-un-hermano-o-una-hermana-no-tienen-ropa-y-carecen-del-sustento-diario' class='anchor'>#</a>
-</h4><h4 id='santiago-216---y-uno-de-ustedes-les-dice-vayan-en-paz-caliéntense-y-sáciense-pero-no-les-dan-lo-necesario-para-su-cuerpo-de-qué-sirve'>Santiago 2:16 - <em>y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?</em><a href='#santiago-216---y-uno-de-ustedes-les-dice-vayan-en-paz-cali%c3%a9ntense-y-s%c3%a1ciense-pero-no-les-dan-lo-necesario-para-su-cuerpo-de-qu%c3%a9-sirve' class='anchor'>#</a>
-</h4><h4 id='santiago-217---así-también-la-fe-por-sí-misma-si-no-tiene-obras-está-muerta'>Santiago 2:17 - <em>Así también la fe por sí misma, si no tiene obras, está muerta.</em><a href='#santiago-217---as%c3%ad-tambi%c3%a9n-la-fe-por-s%c3%ad-misma-si-no-tiene-obras-est%c3%a1-muerta' class='anchor'>#</a>
-</h4><h4 id='santiago-218---pero-alguien-dirá-tú-tienes-fe-y-yo-tengo-obras-muéstrame-tu-fe-sin-las-obras-y-yo-te-mostraré-mi-fe-por-mis-obras'>Santiago 2:18 - <em>Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».</em><a href='#santiago-218---pero-alguien-dir%c3%a1-t%c3%ba-tienes-fe-y-yo-tengo-obras-mu%c3%a9strame-tu-fe-sin-las-obras-y-yo-te-mostrar%c3%a9-mi-fe-por-mis-obras' class='anchor'>#</a>
-</h4><h4 id='santiago-219---tú-crees-que-dios-es-uno-haces-bien-también-los-demonios-creen-y-tiemblan'>Santiago 2:19 - <em>Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.</em><a href='#santiago-219---t%c3%ba-crees-que-dios-es-uno-haces-bien-tambi%c3%a9n-los-demonios-creen-y-tiemblan' class='anchor'>#</a>
-</h4><h4 id='santiago-220---pero-estás-dispuesto-a-admitir-oh-hombre-vano-que-la-fe-sin-obras-es-estéril'>Santiago 2:20 - <em>Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril?</em><a href='#santiago-220---pero-est%c3%a1s-dispuesto-a-admitir-oh-hombre-vano-que-la-fe-sin-obras-es-est%c3%a9ril' class='anchor'>#</a>
-</h4><h3 id='santiago-221-24-el-buen-ejemplo-de-la-justificación-de-abraham-ante-los-hombres'>Santiago 2:21-24 El buen ejemplo de la justificación de Abraham ante los hombres<a href='#santiago-221-24-el-buen-ejemplo-de-la-justificaci%c3%b3n-de-abraham-ante-los-hombres' class='anchor'>#</a>
-</h3><h4 id='santiago-221---no-fue-justificado-por-las-obras-abraham-nuestro-padre-cuando-ofreció-a-su-hijo-isaac-sobre-el-altar'>Santiago 2:21 - <em>¿No fue justificado por las obras Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?</em><a href='#santiago-221---no-fue-justificado-por-las-obras-abraham-nuestro-padre-cuando-ofreci%c3%b3-a-su-hijo-isaac-sobre-el-altar' class='anchor'>#</a>
-</h4><h4 id='santiago-222---ya-ves-que-la-fe-actuaba-juntamente-con-sus-obras-y-como-resultado-de-las-obras-la-fe-fue-perfeccionada'>Santiago 2:22 - <em>Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;</em><a href='#santiago-222---ya-ves-que-la-fe-actuaba-juntamente-con-sus-obras-y-como-resultado-de-las-obras-la-fe-fue-perfeccionada' class='anchor'>#</a>
-</h4><h4 id='santiago-223---y-se-cumplió-la-escritura-que-dice-y-abraham-creyó-a-dios-y-le-fue-contado-por-justicia-y-fue-llamado-amigo-de-dios'>Santiago 2:23 - <em>y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.</em><a href='#santiago-223---y-se-cumpli%c3%b3-la-escritura-que-dice-y-abraham-crey%c3%b3-a-dios-y-le-fue-contado-por-justicia-y-fue-llamado-amigo-de-dios' class='anchor'>#</a>
-</h4><h4 id='santiago-224---ustedes-ven-que-el-hombre-es-justificado-por-las-obras-y-no-solo-por-la-fe'>Santiago 2:24 - <em>Ustedes ven que el hombre es justificado por las obras y no solo por la fe.</em><a href='#santiago-224---ustedes-ven-que-el-hombre-es-justificado-por-las-obras-y-no-solo-por-la-fe' class='anchor'>#</a>
-</h4><h3 id='santiago-225---el-buen-ejemplo-de-la-justificación-de-rahab-ante-los-espias'>Santiago 2:25 - El buen ejemplo de la justificación de Rahab ante los espias<a href='#santiago-225---el-buen-ejemplo-de-la-justificaci%c3%b3n-de-rahab-ante-los-espias' class='anchor'>#</a>
-</h3><h4 id='santiago-225---y-de-la-misma-manera-no-fue-la-ramera-rahab-también-justificada-por-las-obras-cuando-recibió-a-los-mensajeros-y-los-envió-por-otro-camino'>Santiago 2:25 - <em>Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?</em><a href='#santiago-225---y-de-la-misma-manera-no-fue-la-ramera-rahab-tambi%c3%a9n-justificada-por-las-obras-cuando-recibi%c3%b3-a-los-mensajeros-y-los-envi%c3%b3-por-otro-camino' class='anchor'>#</a>
-</h4><h3 id='santiago-226---el-ejemplo-del-cuerpo-sin-el-espíritu'>Santiago 2:26 - El ejemplo del cuerpo sin el espíritu<a href='#santiago-226---el-ejemplo-del-cuerpo-sin-el-esp%c3%adritu' class='anchor'>#</a>
-</h3><h4 id='santiago-226---porque-así-como-el-cuerpo-sin-el-espíritu-está-muerto-así-también-la-fe-sin-las-obras-está-muerta'>Santiago 2:26 - <em>Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.</em><a href='#santiago-226---porque-as%c3%ad-como-el-cuerpo-sin-el-esp%c3%adritu-est%c3%a1-muerto-as%c3%ad-tambi%c3%a9n-la-fe-sin-las-obras-est%c3%a1-muerta' class='anchor'>#</a>
-</h4></div><div class="column is-sticky is-paddingless" id="tocWrapper">
+<p><a
+  href="verseid:59.1.1"
+    class="is-pretty-link"><strong>Jas 1:1</strong> </a
+>
+ Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Salud.</p>
+<p><a
+  href="verseid:59.1.2"
+    class="is-pretty-link"><strong>Jas 1:2</strong> </a
+>
+ Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas,</p>
+<p><a
+  href="verseid:59.1.3"
+    class="is-pretty-link"><strong>Jas 1:3</strong> </a
+>
+ sabiendo que la prueba de vuestra fe produce paciencia.</p>
+<p><a
+  href="verseid:59.1.4"
+    class="is-pretty-link"><strong>Jas 1:4</strong> </a
+>
+ Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.</p>
+<p><a
+  href="verseid:59.1.5"
+    class="is-pretty-link"><strong>Jas 1:5</strong> </a
+>
+ Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.</p>
+<p><a
+  href="verseid:59.1.6"
+    class="is-pretty-link"><strong>Jas 1:6</strong> </a
+>
+ Pero pida con fe, no dudando nada; porque el que duda es semejante a la onda del mar, que es arrastrada por el viento y echada de una parte a otra.</p>
+<p><a
+  href="verseid:59.1.7"
+    class="is-pretty-link"><strong>Jas 1:7</strong> </a
+>
+ No piense, pues, quien tal haga, que recibirá cosa alguna del Señor.</p>
+<p><a
+  href="verseid:59.1.8"
+    class="is-pretty-link"><strong>Jas 1:8</strong> </a
+>
+ El hombre de doble ánimo es inconstante en todos sus caminos.</p>
+<p><a
+  href="verseid:59.1.9"
+    class="is-pretty-link"><strong>Jas 1:9</strong> </a
+>
+ El hermano que es de humilde condición, gloríese en su exaltación;</p>
+<p><a
+  href="verseid:59.1.10"
+    class="is-pretty-link"><strong>Jas 1:10</strong> </a
+>
+ pero el que es rico, en su humillación; porque él pasará como la flor de la hierba.</p>
+<p><a
+  href="verseid:59.1.11"
+    class="is-pretty-link"><strong>Jas 1:11</strong> </a
+>
+ Porque cuando sale el sol con calor abrasador, la hierba se seca, su flor se cae, y perece su hermosa apariencia; así también se marchitará el rico en todas sus empresas.</p>
+<p><a
+  href="verseid:59.1.12"
+    class="is-pretty-link"><strong>Jas 1:12</strong> </a
+>
+ Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida, que Dios ha prometido a los que le aman.</p>
+<p><a
+  href="verseid:59.1.13"
+    class="is-pretty-link"><strong>Jas 1:13</strong> </a
+>
+ Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie;</p>
+<p><a
+  href="verseid:59.1.14"
+    class="is-pretty-link"><strong>Jas 1:14</strong> </a
+>
+ sino que cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido.</p>
+<p><a
+  href="verseid:59.1.15"
+    class="is-pretty-link"><strong>Jas 1:15</strong> </a
+>
+ Entonces la concupiscencia, después que ha concebido, da a luz el pecado; y el pecado, siendo consumado, da a luz la muerte.</p>
+<p><a
+  href="verseid:59.1.16"
+    class="is-pretty-link"><strong>Jas 1:16</strong> </a
+>
+ Amados hermanos míos, no erréis.</p>
+<p><a
+  href="verseid:59.1.17"
+    class="is-pretty-link"><strong>Jas 1:17</strong> </a
+>
+ Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.</p>
+<p><a
+  href="verseid:59.1.18"
+    class="is-pretty-link"><strong>Jas 1:18</strong> </a
+>
+ Él, de su voluntad, nos hizo nacer por la palabra de verdad, para que seamos primicias de sus criaturas.</p>
+<p><a
+  href="verseid:59.1.19"
+    class="is-pretty-link"><strong>Jas 1:19</strong> </a
+>
+ Por esto, mis amados hermanos, todo hombre sea pronto para oír, tardo para hablar, tardo para airarse;</p>
+<p><a
+  href="verseid:59.1.20"
+    class="is-pretty-link"><strong>Jas 1:20</strong> </a
+>
+ porque la ira del hombre no obra la justicia de Dios.</p>
+<p><a
+  href="verseid:59.1.21"
+    class="is-pretty-link"><strong>Jas 1:21</strong> </a
+>
+ Por lo cual, desechando toda inmundicia y abundancia de malicia, recibid con mansedumbre la palabra implantada, la cual puede salvar vuestras almas.</p>
+<p><a
+  href="verseid:59.1.22"
+    class="is-pretty-link"><strong>Jas 1:22</strong> </a
+>
+ Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.</p>
+<p><a
+  href="verseid:59.1.23"
+    class="is-pretty-link"><strong>Jas 1:23</strong> </a
+>
+ Porque si alguno es oidor de la palabra pero no hacedor de ella, éste es semejante al hombre que considera en un espejo su rostro natural.</p>
+<p><a
+  href="verseid:59.1.24"
+    class="is-pretty-link"><strong>Jas 1:24</strong> </a
+>
+ Porque él se considera a sí mismo, y se va, y luego olvida cómo era.</p>
+<p><a
+  href="verseid:59.1.25"
+    class="is-pretty-link"><strong>Jas 1:25</strong> </a
+>
+ Mas el que mira atentamente en la perfecta ley, la de la libertad, y persevera en ella, no siendo oidor olvidadizo, sino hacedor de la obra, éste será bienaventurado en lo que hace.</p>
+<p><a
+  href="verseid:59.1.26"
+    class="is-pretty-link"><strong>Jas 1:26</strong> </a
+>
+ Si alguno se cree religioso entre vosotros, y no refrena su lengua, sino que engaña su corazón, la religión del tal es vana.</p>
+<p><a
+  href="verseid:59.1.27"
+    class="is-pretty-link"><strong>Jas 1:27</strong> </a
+>
+ La religión pura y sin mácula delante de Dios el Padre es ésta: Visitar a los huérfanos y a las viudas en sus tribulaciones, y guardarse sin mancha del mundo.</p>
+<p><a
+  href="verseid:59.2.1"
+    class="is-pretty-link"><strong>Jas 2:1</strong> </a
+>
+ Hermanos míos, que vuestra fe en nuestro glorioso Señor Jesucristo sea sin acepción de personas.</p>
+<p><a
+  href="verseid:59.2.2"
+    class="is-pretty-link"><strong>Jas 2:2</strong> </a
+>
+ Porque si en vuestra congregación entra un hombre con anillo de oro y con ropa espléndida, y también entra un pobre con vestido andrajoso,</p>
+<p><a
+  href="verseid:59.2.3"
+    class="is-pretty-link"><strong>Jas 2:3</strong> </a
+>
+ y miráis con agrado al que trae la ropa espléndida y le decís: Siéntate tú aquí en buen lugar; y decís al pobre: Estate tú allí en pie, o siéntate aquí bajo mi estrado;</p>
+<p><a
+  href="verseid:59.2.4"
+    class="is-pretty-link"><strong>Jas 2:4</strong> </a
+>
+ ¿no hacéis distinciones entre vosotros mismos, y venís a ser jueces con malos pensamientos?</p>
+<p><a
+  href="verseid:59.2.5"
+    class="is-pretty-link"><strong>Jas 2:5</strong> </a
+>
+ Hermanos míos amados, oíd: ¿No ha elegido Dios a los pobres de este mundo, para que sean ricos en fe y herederos del reino que ha prometido a los que le aman?</p>
+<p><a
+  href="verseid:59.2.6"
+    class="is-pretty-link"><strong>Jas 2:6</strong> </a
+>
+ Pero vosotros habéis afrentado al pobre. ¿No os oprimen los ricos, y no son ellos los mismos que os arrastran a los tribunales?</p>
+<p><a
+  href="verseid:59.2.7"
+    class="is-pretty-link"><strong>Jas 2:7</strong> </a
+>
+ ¿No blasfeman ellos el buen nombre que fue invocado sobre vosotros?</p>
+<p><a
+  href="verseid:59.2.8"
+    class="is-pretty-link"><strong>Jas 2:8</strong> </a
+>
+ Si en verdad cumplís la ley real, conforme a la Escritura: Amarás a tu prójimo como a ti mismo, bien hacéis;</p>
+<p><a
+  href="verseid:59.2.9"
+    class="is-pretty-link"><strong>Jas 2:9</strong> </a
+>
+ pero si hacéis acepción de personas, cometéis pecado, y quedáis convictos por la ley como transgresores.</p>
+<p><a
+  href="verseid:59.2.10"
+    class="is-pretty-link"><strong>Jas 2:10</strong> </a
+>
+ Porque cualquiera que guardare toda la ley, pero ofendiere en un punto, se hace culpable de todos.</p>
+<p><a
+  href="verseid:59.2.11"
+    class="is-pretty-link"><strong>Jas 2:11</strong> </a
+>
+ Porque el que dijo: No cometerás adulterio, también ha dicho: No matarás. Ahora bien, si no cometes adulterio, pero matas, ya te has hecho transgresor de la ley.</p>
+<p><a
+  href="verseid:59.2.12"
+    class="is-pretty-link"><strong>Jas 2:12</strong> </a
+>
+ Así hablad, y así haced, como los que habéis de ser juzgados por la ley de la libertad.</p>
+<p><a
+  href="verseid:59.2.13"
+    class="is-pretty-link"><strong>Jas 2:13</strong> </a
+>
+ Porque juicio sin misericordia se hará con aquel que no hiciere misericordia; y la misericordia triunfa sobre el juicio.</p>
+<h2 id='faith-without-works-is-dead'>Faith Without Works Is Dead<a href='#faith-without-works-is-dead' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:59.2.14"
+    class="is-pretty-link"><strong>Jas 2:14</strong> </a
+>
+ Hermanos míos, ¿de qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?</p>
+<p><a
+  href="verseid:59.2.15"
+    class="is-pretty-link"><strong>Jas 2:15</strong> </a
+>
+ Y si un hermano o una hermana están desnudos, y tienen necesidad del mantenimiento de cada día,</p>
+<p><a
+  href="verseid:59.2.16"
+    class="is-pretty-link"><strong>Jas 2:16</strong> </a
+>
+ y alguno de vosotros les dice: Id en paz, calentaos y saciaos, pero no les dais las cosas que son necesarias para el cuerpo, ¿de qué aprovecha?</p>
+<p><a
+  href="verseid:59.2.17"
+    class="is-pretty-link"><strong>Jas 2:17</strong> </a
+>
+ Así también la fe, si no tiene obras, es muerta en sí misma.</p>
+<p><a
+  href="verseid:59.2.18"
+    class="is-pretty-link"><strong>Jas 2:18</strong> </a
+>
+ Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras.</p>
+<p><a
+  href="verseid:59.2.19"
+    class="is-pretty-link"><strong>Jas 2:19</strong> </a
+>
+ Tú crees que Dios es uno; bien haces. También los demonios creen, y tiemblan.</p>
+<p><a
+  href="verseid:59.2.20"
+    class="is-pretty-link"><strong>Jas 2:20</strong> </a
+>
+ ¿Mas quieres saber, hombre vano, que la fe sin obras es muerta?</p>
+<p><a
+  href="verseid:59.2.21"
+    class="is-pretty-link"><strong>Jas 2:21</strong> </a
+>
+ ¿No fue justificado por las obras Abraham nuestro padre, cuando ofreció a su hijo Isaac sobre el altar?</p>
+<p><a
+  href="verseid:59.2.22"
+    class="is-pretty-link"><strong>Jas 2:22</strong> </a
+>
+ ¿No ves que la fe actuó juntamente con sus obras, y que la fe se perfeccionó por las obras?</p>
+<p><a
+  href="verseid:59.2.23"
+    class="is-pretty-link"><strong>Jas 2:23</strong> </a
+>
+ Y se cumplió la Escritura que dice: Abraham creyó a Dios, y le fue contado por justicia, y fue llamado amigo de Dios.</p>
+<p><a
+  href="verseid:59.2.24"
+    class="is-pretty-link"><strong>Jas 2:24</strong> </a
+>
+ Vosotros veis, pues, que el hombre es justificado por las obras, y no solamente por la fe.</p>
+<p><a
+  href="verseid:59.2.25"
+    class="is-pretty-link"><strong>Jas 2:25</strong> </a
+>
+ Asimismo también Rahab la ramera, ¿no fue justificada por obras, cuando recibió a los mensajeros y los envió por otro camino?</p>
+<p><a
+  href="verseid:59.2.26"
+    class="is-pretty-link"><strong>Jas 2:26</strong> </a
+>
+ Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras está muerta.</p>
+<p><a
+  href="verseid:59.3.1"
+    class="is-pretty-link"><strong>Jas 3:1</strong> </a
+>
+ Hermanos míos, no os hagáis maestros muchos de vosotros, sabiendo que recibiremos mayor condenación.</p>
+<p><a
+  href="verseid:59.3.2"
+    class="is-pretty-link"><strong>Jas 3:2</strong> </a
+>
+ Porque todos ofendemos muchas veces. Si alguno no ofende en palabra, éste es varón perfecto, capaz también de refrenar todo el cuerpo.</p>
+<p><a
+  href="verseid:59.3.3"
+    class="is-pretty-link"><strong>Jas 3:3</strong> </a
+>
+ He aquí nosotros ponemos freno en la boca de los caballos para que nos obedezcan, y dirigimos así todo su cuerpo.</p>
+<p><a
+  href="verseid:59.3.4"
+    class="is-pretty-link"><strong>Jas 3:4</strong> </a
+>
+ Mirad también las naves; aunque tan grandes, y llevadas de impetuosos vientos, son gobernadas con un muy pequeño timón por donde el que las gobierna quiere.</p>
+<p><a
+  href="verseid:59.3.5"
+    class="is-pretty-link"><strong>Jas 3:5</strong> </a
+>
+ Así también la lengua es un miembro pequeño, pero se jacta de grandes cosas. He aquí, ¡cuán grande bosque enciende un pequeño fuego!</p>
+<p><a
+  href="verseid:59.3.6"
+    class="is-pretty-link"><strong>Jas 3:6</strong> </a
+>
+ Y la lengua es un fuego, un mundo de maldad. La lengua está puesta entre nuestros miembros, y contamina todo el cuerpo, e inflama la rueda de la creación, y ella misma es inflamada por el infierno.</p>
+<p><a
+  href="verseid:59.3.7"
+    class="is-pretty-link"><strong>Jas 3:7</strong> </a
+>
+ Porque toda naturaleza de bestias, y de aves, y de serpientes, y de seres del mar, se doma y ha sido domada por la naturaleza humana;</p>
+<p><a
+  href="verseid:59.3.8"
+    class="is-pretty-link"><strong>Jas 3:8</strong> </a
+>
+ pero ningún hombre puede domar la lengua, que es un mal que no puede ser refrenado, llena de veneno mortal.</p>
+<p><a
+  href="verseid:59.3.9"
+    class="is-pretty-link"><strong>Jas 3:9</strong> </a
+>
+ Con ella bendecimos al Dios y Padre, y con ella maldecimos a los hombres, que están hechos a la semejanza de Dios.</p>
+<p><a
+  href="verseid:59.3.10"
+    class="is-pretty-link"><strong>Jas 3:10</strong> </a
+>
+ De una misma boca proceden bendición y maldición. Hermanos míos, esto no debe ser así.</p>
+<p><a
+  href="verseid:59.3.11"
+    class="is-pretty-link"><strong>Jas 3:11</strong> </a
+>
+ ¿Acaso alguna fuente echa por una misma abertura agua dulce y amarga?</p>
+<p><a
+  href="verseid:59.3.12"
+    class="is-pretty-link"><strong>Jas 3:12</strong> </a
+>
+ Hermanos míos, ¿puede acaso la higuera producir aceitunas, o la vid higos? Así también ninguna fuente puede dar agua salada y dulce.</p>
+<p><a
+  href="verseid:59.3.13"
+    class="is-pretty-link"><strong>Jas 3:13</strong> </a
+>
+ ¿Quién es sabio y entendido entre vosotros? Muestre por la buena conducta sus obras en sabia mansedumbre.</p>
+<p><a
+  href="verseid:59.3.14"
+    class="is-pretty-link"><strong>Jas 3:14</strong> </a
+>
+ Pero si tenéis celos amargos y contención en vuestro corazón, no os jactéis, ni mintáis contra la verdad;</p>
+<p><a
+  href="verseid:59.3.15"
+    class="is-pretty-link"><strong>Jas 3:15</strong> </a
+>
+ porque esta sabiduría no es la que desciende de lo alto, sino terrenal, animal, diabólica.</p>
+<p><a
+  href="verseid:59.3.16"
+    class="is-pretty-link"><strong>Jas 3:16</strong> </a
+>
+ Porque donde hay celos y contención, allí hay perturbación y toda obra perversa.</p>
+<p><a
+  href="verseid:59.3.17"
+    class="is-pretty-link"><strong>Jas 3:17</strong> </a
+>
+ Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía.</p>
+<p><a
+  href="verseid:59.3.18"
+    class="is-pretty-link"><strong>Jas 3:18</strong> </a
+>
+ Y el fruto de justicia se siembra en paz para aquellos que hacen la paz.</p>
+<p><a
+  href="verseid:59.4.1"
+    class="is-pretty-link"><strong>Jas 4:1</strong> </a
+>
+ ¿De dónde vienen las guerras y los pleitos entre vosotros? ¿No es de vuestras pasiones, las cuales combaten en vuestros miembros?</p>
+<p><a
+  href="verseid:59.4.2"
+    class="is-pretty-link"><strong>Jas 4:2</strong> </a
+>
+ Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar; combatís y lucháis, pero no tenéis lo que deseáis, porque no pedís.</p>
+<p><a
+  href="verseid:59.4.3"
+    class="is-pretty-link"><strong>Jas 4:3</strong> </a
+>
+ Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites.</p>
+<p><a
+  href="verseid:59.4.4"
+    class="is-pretty-link"><strong>Jas 4:4</strong> </a
+>
+ ¡Oh almas adúlteras! ¿No sabéis que la amistad del mundo es enemistad contra Dios? Cualquiera, pues, que quiera ser amigo del mundo, se constituye enemigo de Dios.</p>
+<p><a
+  href="verseid:59.4.5"
+    class="is-pretty-link"><strong>Jas 4:5</strong> </a
+>
+ ¿O pensáis que la Escritura dice en vano: El Espíritu que él ha hecho morar en nosotros nos anhela celosamente?</p>
+<p><a
+  href="verseid:59.4.6"
+    class="is-pretty-link"><strong>Jas 4:6</strong> </a
+>
+ Pero él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.</p>
+<p><a
+  href="verseid:59.4.7"
+    class="is-pretty-link"><strong>Jas 4:7</strong> </a
+>
+ Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.</p>
+<p><a
+  href="verseid:59.4.8"
+    class="is-pretty-link"><strong>Jas 4:8</strong> </a
+>
+ Acercaos a Dios, y él se acercará a vosotros. Pecadores, limpiad las manos; y vosotros los de doble ánimo, purificad vuestros corazones.</p>
+<p><a
+  href="verseid:59.4.9"
+    class="is-pretty-link"><strong>Jas 4:9</strong> </a
+>
+ Afligíos, y lamentad, y llorad. Vuestra risa se convierta en lloro, y vuestro gozo en tristeza.</p>
+<p><a
+  href="verseid:59.4.10"
+    class="is-pretty-link"><strong>Jas 4:10</strong> </a
+>
+ Humillaos delante del Señor, y él os exaltará.</p>
+<p><a
+  href="verseid:59.4.11"
+    class="is-pretty-link"><strong>Jas 4:11</strong> </a
+>
+ Hermanos, no murmuréis los unos de los otros. El que murmura del hermano y juzga a su hermano, murmura de la ley y juzga a la ley; pero si tú juzgas a la ley, no eres hacedor de la ley, sino juez.</p>
+<p><a
+  href="verseid:59.4.12"
+    class="is-pretty-link"><strong>Jas 4:12</strong> </a
+>
+ Uno solo es el dador de la ley, que puede salvar y perder; pero tú, ¿quién eres para que juzgues a otro?</p>
+<p><a
+  href="verseid:59.4.13"
+    class="is-pretty-link"><strong>Jas 4:13</strong> </a
+>
+ ¡Vamos ahora! los que decís: Hoy y mañana iremos a tal ciudad, y estaremos allá un año, y traficaremos, y ganaremos;</p>
+<p><a
+  href="verseid:59.4.14"
+    class="is-pretty-link"><strong>Jas 4:14</strong> </a
+>
+ cuando no sabéis lo que será mañana. Porque ¿qué es vuestra vida? Ciertamente es neblina que se aparece por un poco de tiempo, y luego se desvanece.</p>
+<p><a
+  href="verseid:59.4.15"
+    class="is-pretty-link"><strong>Jas 4:15</strong> </a
+>
+ En lugar de lo cual deberíais decir: Si el Señor quiere, viviremos y haremos esto o aquello.</p>
+<p><a
+  href="verseid:59.4.16"
+    class="is-pretty-link"><strong>Jas 4:16</strong> </a
+>
+ Pero ahora os jactáis en vuestras soberbias. Toda jactancia semejante es mala;</p>
+<p><a
+  href="verseid:59.4.17"
+    class="is-pretty-link"><strong>Jas 4:17</strong> </a
+>
+ y al que sabe hacer lo bueno, y no lo hace, le es pecado.</p>
+<p><a
+  href="verseid:59.5.1"
+    class="is-pretty-link"><strong>Jas 5:1</strong> </a
+>
+ ¡Vamos ahora, ricos! Llorad y aullad por las miserias que os vendrán.</p>
+<p><a
+  href="verseid:59.5.2"
+    class="is-pretty-link"><strong>Jas 5:2</strong> </a
+>
+ Vuestras riquezas están podridas, y vuestras ropas están comidas de polilla.</p>
+<p><a
+  href="verseid:59.5.3"
+    class="is-pretty-link"><strong>Jas 5:3</strong> </a
+>
+ Vuestro oro y plata están enmohecidos; y su moho testificará contra vosotros, y devorará del todo vuestras carnes como fuego. Habéis acumulado tesoros para los días postreros.</p>
+<p><a
+  href="verseid:59.5.4"
+    class="is-pretty-link"><strong>Jas 5:4</strong> </a
+>
+ He aquí, clama el jornal de los obreros que han cosechado vuestras tierras, el cual por engaño no les ha sido pagado por vosotros; y los clamores de los que habían segado han entrado en los oídos del Señor de los ejércitos.</p>
+<p><a
+  href="verseid:59.5.5"
+    class="is-pretty-link"><strong>Jas 5:5</strong> </a
+>
+ Habéis vivido en deleites sobre la tierra, y sido disolutos; habéis engordado vuestros corazones como en día de matanza.</p>
+<p><a
+  href="verseid:59.5.6"
+    class="is-pretty-link"><strong>Jas 5:6</strong> </a
+>
+ Habéis condenado y dado muerte al justo, y él no os hace resistencia.</p>
+<p><a
+  href="verseid:59.5.7"
+    class="is-pretty-link"><strong>Jas 5:7</strong> </a
+>
+ Por tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo el labrador espera el precioso fruto de la tierra, aguardando con paciencia hasta que reciba la lluvia temprana y la tardía.</p>
+<p><a
+  href="verseid:59.5.8"
+    class="is-pretty-link"><strong>Jas 5:8</strong> </a
+>
+ Tened también vosotros paciencia, y afirmad vuestros corazones; porque la venida del Señor se acerca.</p>
+<p><a
+  href="verseid:59.5.9"
+    class="is-pretty-link"><strong>Jas 5:9</strong> </a
+>
+ Hermanos, no os quejéis unos contra otros, para que no seáis condenados; he aquí, el juez está delante de la puerta.</p>
+<p><a
+  href="verseid:59.5.10"
+    class="is-pretty-link"><strong>Jas 5:10</strong> </a
+>
+ Hermanos míos, tomad como ejemplo de aflicción y de paciencia a los profetas que hablaron en nombre del Señor.</p>
+<p><a
+  href="verseid:59.5.11"
+    class="is-pretty-link"><strong>Jas 5:11</strong> </a
+>
+ He aquí, tenemos por bienaventurados a los que sufren. Habéis oído de la paciencia de Job, y habéis visto el fin del Señor, que el Señor es muy misericordioso y compasivo.</p>
+<p><a
+  href="verseid:59.5.12"
+    class="is-pretty-link"><strong>Jas 5:12</strong> </a
+>
+ Pero sobre todo, hermanos míos, no juréis, ni por el cielo, ni por la tierra, ni por ningún otro juramento; sino que vuestro sí sea sí, y vuestro no sea no, para que no caigáis en condenación.</p>
+<h2 id='the-prayer-of-faith'>The Prayer of Faith<a href='#the-prayer-of-faith' class='anchor'>#</a>
+</h2><p><a
+  href="verseid:59.5.13"
+    class="is-pretty-link"><strong>Jas 5:13</strong> </a
+>
+ ¿Está alguno entre vosotros afligido? Haga oración. ¿Está alguno alegre? Cante alabanzas.</p>
+<p><a
+  href="verseid:59.5.14"
+    class="is-pretty-link"><strong>Jas 5:14</strong> </a
+>
+ ¿Está alguno enfermo entre vosotros? Llame a los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor.</p>
+<p><a
+  href="verseid:59.5.15"
+    class="is-pretty-link"><strong>Jas 5:15</strong> </a
+>
+ Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán perdonados.</p>
+<p><a
+  href="verseid:59.5.16"
+    class="is-pretty-link"><strong>Jas 5:16</strong> </a
+>
+ Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.</p>
+<p><a
+  href="verseid:59.5.17"
+    class="is-pretty-link"><strong>Jas 5:17</strong> </a
+>
+ Elías era hombre sujeto a pasiones semejantes a las nuestras, y oró fervientemente para que no lloviese, y no llovió sobre la tierra por tres años y seis meses.</p>
+<p><a
+  href="verseid:59.5.18"
+    class="is-pretty-link"><strong>Jas 5:18</strong> </a
+>
+ Y otra vez oró, y el cielo dio lluvia, y la tierra produjo su fruto.</p>
+<p><a
+  href="verseid:59.5.19"
+    class="is-pretty-link"><strong>Jas 5:19</strong> </a
+>
+ Hermanos, si alguno de entre vosotros se ha extraviado de la verdad, y alguno le hace volver,</p>
+<p><a
+  href="verseid:59.5.20"
+    class="is-pretty-link"><strong>Jas 5:20</strong> </a
+>
+ sepa que el que haga volver al pecador del error de su camino, salvará de muerte un alma, y cubrirá multitud de pecados.</p>
+<p>=====</p>
+</div><div class="column is-sticky is-paddingless" id="tocWrapper">
   <div class="is-paddingless" id="tocContainer">
     <div class="toc-header">
-      <h6 class="toc-title is-marginless">On this page:</h6>
+      <h6 class="toc-title is-marginless"></h6>
       <i
-        title="Back to top"
+        title=""
         id="tocBackToTop"
         class="fa-solid fa-circle-arrow-up"
       ></i>
@@ -2520,70 +3141,10 @@ Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar? Ya ves que
     <div id="tocContent">
       <div id="toc"><nav id="TableOfContents">
   <ul>
-    <li><a href="#santiago-214-26-enseñanza-sobre-la-fe-inactiva-del-creyente">Santiago 2:14-26 Enseñanza sobre la fe inactiva del creyente</a>
+    <li>
       <ul>
-        <li><a href="#santiago-escribe-a-las-12-tribus-dispersadas-para-animarlos-en-cuanto-a-su-andar-santiago-11">Santiago escribe a las 12 tribus dispersadas para animarlos en cuanto a su andar. Santiago 1:1</a>
-          <ul>
-            <li><a href="#para-el-entendimiento-correcto-del-libro-de-santiago-es-importante-determinar-a-quienes-escribe-son-judios-creyentes-o-incrédulos">Para el entendimiento correcto del libro de Santiago, es importante determinar a quienes escribe. ¿Son judios creyentes o incrédulos?</a>
-              <ul>
-                <li><a href="#santiago-menciona-la-palabra-hermanos-15-veces-en-su-carta-santiago-116-119-21-25-214-31-310-312-411-57-59-510-512-519">Santiago menciona la palabra hermanos 15 veces en su carta. Santiago 1:16, 1:19, 2:1, 2:5, 2:14, 3:1, 3:10, 3:12, 4:11, 5:7, 5:9, 5:10, 5:12, 5:19</a>
-                  <ul>
-                    <li><a href="#santiago-12--tengan-por-sumo-gozo-hermanos-míos-cuando-se-hallen-en-diversas-pruebas">Santiago 1:2  <em>Tengan por sumo gozo, <strong>hermanos míos, cuando se hallen en diversas pruebas</strong>,</em></a></li>
-                    <li><a href="#santiago-21---hermanos-míos-no-tengan-su-fe-en-nuestro-glorioso-señor-jesucristo-con-una-actitud-de-favoritismo">Santiago 2:1 - <em><strong>Hermanos míos, no tengan su fe en nuestro glorioso Señor Jesucristo</strong> con una actitud de favoritismo.</em></a></li>
-                    <li><a href="#santiago-57--por-tanto-hermanos-sean-pacientes-hasta-la-venida-del-señor-miren-cómo-el-labrador-espera-el-fruto-precioso-de-la-tierra-siendo-paciente-en-ello-hasta-que-recibe-la-lluvia-temprana-y-la-tardía">Santiago 5:7  <em>Por tanto, <strong>hermanos, sean pacientes hasta la venida del Señor</strong>. Miren cómo el labrador espera el fruto precioso de la tierra, siendo paciente en ello hasta que recibe la lluvia temprana y la tardía.</em></a></li>
-                  </ul>
-                </li>
-                <li><a href="#concluimos-pues-que-santiago-escribe-su-carta-a-judios-creyentes">Concluimos pues que Santiago escribe su carta a judios creyentes.</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="#fe-sin-obras-no-tiene-provecho-en-la-vida-de-uno-mismo">Fe sin obras no tiene provecho en la vida de uno mismo</a>
-          <ul>
-            <li><a href="#santiago-214-20-un-creyente-que-no-pone-en-obras-su-fe-queda-infructuoso-en-su-santificación">Santiago 2:14-20 Un creyente que no pone en obras su fe queda infructuoso en su santificación.</a>
-              <ul>
-                <li><a href="#santiago-214---de-qué-sirve-hermanos-míos-si-alguien-dice-que-tiene-fe-pero-no-tiene-obras-acaso-puede-esa-fe-salvarlo">Santiago 2:14 - <em>¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?</em></a>
-                  <ul>
-                    <li><a href="#santiago-habla-de-lo-inservible-para-uno-mismo-que-un-hermano-tenga-fe-pero-no-que-no-tiene-obras">Santiago habla de lo inservible para uno mismo que un hermano tenga fe pero no que no tiene obras.</a></li>
-                    <li><a href="#las-fe-en-acción-puesta-en-buenas-obras-es-para-santificación-salvación-del-poder-del-pecado-para-el-creyente--santiago-121-25">Las fe en acción, puesta en buenas obras es para santificación (salvación del poder del pecado) para el creyente.  Santiago 1:21-25</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="#4-ejemplos-claros-para-illustrar-como-la-fe-sin-obras-es-inservible">4 Ejemplos claros para illustrar como la fe sin obras es inservible.</a>
-          <ul>
-            <li><a href="#santiago-215-20-el-mal-ejemplo-del-que-dice-pero-no-ayuda-a-un-hermano">Santiago 2:15-20 El mal ejemplo del que dice pero no ayuda a un hermano</a>
-              <ul>
-                <li><a href="#santiago-215---si-un-hermano-o-una-hermana-no-tienen-ropa-y-carecen-del-sustento-diario">Santiago 2:15 - <em>Si un hermano o una hermana no tienen ropa y carecen del sustento diario,</em></a></li>
-                <li><a href="#santiago-216---y-uno-de-ustedes-les-dice-vayan-en-paz-caliéntense-y-sáciense-pero-no-les-dan-lo-necesario-para-su-cuerpo-de-qué-sirve">Santiago 2:16 - <em>y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?</em></a></li>
-                <li><a href="#santiago-217---así-también-la-fe-por-sí-misma-si-no-tiene-obras-está-muerta">Santiago 2:17 - <em>Así también la fe por sí misma, si no tiene obras, está muerta.</em></a></li>
-                <li><a href="#santiago-218---pero-alguien-dirá-tú-tienes-fe-y-yo-tengo-obras-muéstrame-tu-fe-sin-las-obras-y-yo-te-mostraré-mi-fe-por-mis-obras">Santiago 2:18 - <em>Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».</em></a></li>
-                <li><a href="#santiago-219---tú-crees-que-dios-es-uno-haces-bien-también-los-demonios-creen-y-tiemblan">Santiago 2:19 - <em>Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.</em></a></li>
-                <li><a href="#santiago-220---pero-estás-dispuesto-a-admitir-oh-hombre-vano-que-la-fe-sin-obras-es-estéril">Santiago 2:20 - <em>Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril?</em></a></li>
-              </ul>
-            </li>
-            <li><a href="#santiago-221-24-el-buen-ejemplo-de-la-justificación-de-abraham-ante-los-hombres">Santiago 2:21-24 El buen ejemplo de la justificación de Abraham ante los hombres</a>
-              <ul>
-                <li><a href="#santiago-221---no-fue-justificado-por-las-obras-abraham-nuestro-padre-cuando-ofreció-a-su-hijo-isaac-sobre-el-altar">Santiago 2:21 - <em>¿No fue justificado por las obras Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?</em></a></li>
-                <li><a href="#santiago-222---ya-ves-que-la-fe-actuaba-juntamente-con-sus-obras-y-como-resultado-de-las-obras-la-fe-fue-perfeccionada">Santiago 2:22 - <em>Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;</em></a></li>
-                <li><a href="#santiago-223---y-se-cumplió-la-escritura-que-dice-y-abraham-creyó-a-dios-y-le-fue-contado-por-justicia-y-fue-llamado-amigo-de-dios">Santiago 2:23 - <em>y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.</em></a></li>
-                <li><a href="#santiago-224---ustedes-ven-que-el-hombre-es-justificado-por-las-obras-y-no-solo-por-la-fe">Santiago 2:24 - <em>Ustedes ven que el hombre es justificado por las obras y no solo por la fe.</em></a></li>
-              </ul>
-            </li>
-            <li><a href="#santiago-225---el-buen-ejemplo-de-la-justificación-de-rahab-ante-los-espias">Santiago 2:25 - El buen ejemplo de la justificación de Rahab ante los espias</a>
-              <ul>
-                <li><a href="#santiago-225---y-de-la-misma-manera-no-fue-la-ramera-rahab-también-justificada-por-las-obras-cuando-recibió-a-los-mensajeros-y-los-envió-por-otro-camino">Santiago 2:25 - <em>Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?</em></a></li>
-              </ul>
-            </li>
-            <li><a href="#santiago-226---el-ejemplo-del-cuerpo-sin-el-espíritu">Santiago 2:26 - El ejemplo del cuerpo sin el espíritu</a>
-              <ul>
-                <li><a href="#santiago-226---porque-así-como-el-cuerpo-sin-el-espíritu-está-muerto-así-también-la-fe-sin-las-obras-está-muerta">Santiago 2:26 - <em>Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.</em></a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
+        <li><a href="#faith-without-works-is-dead">Faith Without Works Is Dead</a></li>
+        <li><a href="#the-prayer-of-faith">The Prayer of Faith</a></li>
       </ul>
     </li>
   </ul>
@@ -2594,7 +3155,7 @@ Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar? Ya ves que
   <div
     class="is-paddingless"
     id="tocCollapsible"
-    title="Collapse/Uncollapse table of contents"
+    title=""
   >
     <i class="fa-solid fa-angles-right fa-lg"></i>
   </div>
@@ -2602,18 +3163,18 @@ Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar? Ya ves que
 </div>
 </div><script type='text/javascript'>
   const baseUrl = 'http:\/\/localhost:1313\/';
-  const codeCopyBefore = 'Copy to clipboard';
-  const codeCopyAfter = 'Copied to clipboard';
-  const svgDownloadLabel = 'Download as SVG';
-  const helperLoadingLabel = 'Loading';
-  const searchNoResults = 'No result found';
-  const introNextLabel = 'Next';
-  const introPrevLabel = 'Previous';
-  const introSkipLabel = '✗';
-  const introDoneLabel = 'Done';
-  const printLabel = 'Print current page';
-  const qrCodeLabel = 'Show current page QR code';
-  const naCommonLabel = 'Not available';
+  const codeCopyBefore = '';
+  const codeCopyAfter = '';
+  const svgDownloadLabel = '';
+  const helperLoadingLabel = '';
+  const searchNoResults = '';
+  const introNextLabel = '';
+  const introPrevLabel = '';
+  const introSkipLabel = '';
+  const introDoneLabel = '';
+  const printLabel = '';
+  const qrCodeLabel = '';
+  const naCommonLabel = '';
 </script>
 <script
       type="module"

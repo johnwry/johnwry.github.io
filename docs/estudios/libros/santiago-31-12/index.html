@@ -32,7 +32,7 @@
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
 
-BLB.Tagger.Translation = 'NASB95';
+BLB.Tagger.Translation = 'RVR60';
 BLB.Tagger.HyperLinks = 'all'; 
 BLB.Tagger.HideTanslationAbbrev = true;
 BLB.Tagger.TargetNewWindow = true;
@@ -44,7 +44,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
   <div class="modal-content-box modal-text-box">
     <div class="card modal-title is-radiusless">
       <div class="card-header">
-        <p class="card-header-title is-marginless">About</p>
+        <p class="card-header-title is-marginless"></p>
       </div>
     </div>
     <div class="modal-content-container">
@@ -56,43 +56,43 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 <div id="navbarShortcuts" class="is-hidden modal-container">
   <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
         <div class="card-header">
-          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+          <p class="card-header-title is-marginless"></p>
         </div>
       </div>
       <div class="modal-content-container">
         <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show current page QR code</p>
+    <p class="has-text-weight-normal">10_qrcode</p>
   </div><div class="modal-content"><kbd>Escape</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Close modals</p>
+    <p class="has-text-weight-normal">11_closemodals</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show website information</p>
+    <p class="has-text-weight-normal">1_info</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show shortcuts</p>
+    <p class="has-text-weight-normal">2_shortcuts</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to homepage</p>
+    <p class="has-text-weight-normal">3_home</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Find on website</p>
+    <p class="has-text-weight-normal">4_search</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+    <p class="has-text-weight-normal">5_togglesidebar</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
-  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+    <p class="has-text-weight-normal">6_toggletoc</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>ArrowUp</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to the top of the page</p>
-  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+    <p class="has-text-weight-normal">7_backtotop</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>ArrowDown</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+    <p class="has-text-weight-normal">8_gotobottom</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Print current page</p>
+    <p class="has-text-weight-normal">9_print</p>
   </div></div>
       </div></div>
 </div>
@@ -107,7 +107,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     href="/"
   >
     <img
-      alt="Homepage"
+      alt=""
       src="/img/bjwry.png"
     />
   </a>
@@ -117,7 +117,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     href="/"
   >
     <img
-      alt="Homepage"
+      alt=""
       src="/images/logoTouch.png"
     />
   </a>
@@ -131,7 +131,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       autocomplete="off"
       class="input"
       type="search"
-      placeholder="Search"
+      placeholder=""
     />
   </span>
   <span class="icon is-left">
@@ -146,7 +146,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="printButton"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">Print</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-print fa-lg"></i>
     </span>
@@ -157,7 +157,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="qrCodeButton"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">QR code</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-qrcode fa-lg"></i>
     </span>
@@ -168,9 +168,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="shortcutsInfo"
     trigger="navbarShortcuts"
     class="button navbar-item-standard navbar-trigger"
-    title="Keyboard shortcuts"
+    title=""
   >
-    <span class="icon-text">Shortcuts</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-keyboard fa-lg"></i>
     </span>
@@ -186,7 +186,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       aria-haspopup="true"
       aria-controls="dropdown-menu"
     >
-      <span class="icon-text">Taxonomies</span>
+      <span class="icon-text"></span>
       <span class="icon">
         <i class="fa-solid fa-tags fa-lg"></i>
       </span>
@@ -211,9 +211,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="siteInfo"
     trigger="navbarInfo"
     class="button navbar-item-standard navbar-trigger"
-    title="About"
+    title=""
   >
-    <span class="icon-text">About</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-circle-question fa-lg"></i>
     </span>
@@ -232,7 +232,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="printButtonExtend"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">Print</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-print fa-lg"></i>
     </span>
@@ -243,7 +243,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="qrCodeButtonExtend"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">QR code</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-qrcode fa-lg"></i>
     </span>
@@ -254,9 +254,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="shortcutsInfoExtend"
     trigger="navbarShortcuts"
     class="button navbar-item-standard navbar-trigger"
-    title="Keyboard shortcuts"
+    title=""
   >
-    <span class="icon-text">Shortcuts</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-keyboard fa-lg"></i>
     </span>
@@ -272,7 +272,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       aria-haspopup="true"
       aria-controls="dropdown-menu"
     >
-      <span class="icon-text">Taxonomies</span>
+      <span class="icon-text"></span>
       <span class="icon">
         <i class="fa-solid fa-tags fa-lg"></i>
       </span>
@@ -297,9 +297,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="siteInfoExtend"
     trigger="navbarInfo"
     class="button navbar-item-standard navbar-trigger"
-    title="About"
+    title=""
   >
-    <span class="icon-text">About</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-circle-question fa-lg"></i>
     </span>
@@ -556,6 +556,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/topico/engan%CC%83adores/'
+        class='card-header-title'
+          title='Engañadores'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Engañadores</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
         class='card-header-title'
           title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
@@ -577,6 +587,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='Evangelio para el Creyente'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">Evangelio para el Creyente</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/fiestas-judias/'
+        class='card-header-title'
+          title='Fiestas Judias'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Fiestas Judias</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -720,6 +740,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/topico/salvacio%CC%81n-por-sen%CC%83orio/'
+        class='card-header-title'
+          title='Salvación por Señorio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Salvación por Señorio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/topico/sincretismo/'
         class='card-header-title'
           title='sincretismo'>
@@ -761,6 +791,26 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
             class="card"><div class='card-header is-sidebar-disable'>
       <div class='card-header-title' href='/estudios/libros/untitled/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-corintios-1550-58/'
+        class='card-header-title'
+          title='1 Corintios 15:50-58'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Corintios 15:50-58</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-corintios-71-9/'
+        class='card-header-title'
+          title='1 Corintios 7:1-9'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Corintios 7:1-9</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -817,6 +867,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/libros/1-timoteo-611-14/'
+        class='card-header-title'
+          title='1 Timoteo 6:11-14'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Timoteo 6:11-14</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/libros/2-corinthians-2/'
         class='card-header-title'
           title='2 Corinthians 2'>
@@ -831,6 +891,46 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='2 Pedro'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-181-8/'
+        class='card-header-title'
+          title='Apocalipsis 18:1-8'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 18:1-8</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-1911-16/'
+        class='card-header-title'
+          title='Apocalipsis 19:11-16'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 19:11-16</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-20.11-15/'
+        class='card-header-title'
+          title='Apocalipsis 20:11-15'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 20:11-15</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-2211-21/'
+        class='card-header-title'
+          title='Apocalipsis 22:11-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 22:11-21</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -991,6 +1091,36 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='Hebreos'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos-713-21/'
+        class='card-header-title'
+          title='Hebreos 7:13-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos 7:13-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos-81-6/'
+        class='card-header-title'
+          title='Hebreos 8:1-6'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos 8:1-6</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hechos-2/'
+        class='card-header-title'
+          title='Hechos 2'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hechos 2</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -1194,6 +1324,26 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/libros/santiago-41-10/'
+        class='card-header-title'
+          title='Santiago 4:1-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago 4:1-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/tito-2/'
+        class='card-header-title'
+          title='Tito 2'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Tito 2</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/libros/zarpando-por-zacari%CC%81as/'
         class='card-header-title'
           title='Zarpando por Zacarías'>
@@ -1277,6 +1427,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     </div></ul></li>
       </div>
     </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/cuan-alegre-el-padre-esta/'
+        class='card-header-title'
+          title='Cuan alegre el padre esta'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Cuan alegre el padre esta</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class="card-header">
       <a
@@ -1327,7 +1487,27 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Lentamente</p></a></div>
           </div></li>
       </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/entregados/yo-vi-la-luz/'
+        class='card-header-title'
+          title='Yo Vi La Luz'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Yo Vi La Luz</p></a></div>
+          </div></li>
+      </div>
     </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/got-my-song-back/'
+        class='card-header-title'
+          title='Got my song back'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Got my song back</p></a></div>
+          </div></li>
       </div>
     </div><div class="">
       <div class=""><li class="is-marginless"><div
@@ -1408,7 +1588,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class="card-header">
       <a
-        href='/music/john-wry/inteligencia-artificial/'
+        href='/music/john-wry/nonstopmeditations757/'
         class='card-header-title'
           title='John Wry'>
         <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">John Wry</p></a><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
@@ -1419,7 +1599,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/conocer-el-amor/'
+        href='/music/john-wry/nonstopmeditations757/conocer-el-amor/'
         class='card-header-title'
           title='conocer el amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">conocer el amor</p></a></div>
@@ -1429,7 +1609,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/dos-evangelios/'
+        href='/music/john-wry/nonstopmeditations757/dos-evangelios/'
         class='card-header-title'
           title='Dos Evangelios'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Dos Evangelios</p></a></div>
@@ -1439,7 +1619,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/'
+        href='/music/john-wry/nonstopmeditations757/fruto-del-sen%CC%83or/'
+        class='card-header-title'
+          title='Fruto del Señor'>
+        <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Fruto del Señor</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/gracia-en-tu-andar/'
         class='card-header-title'
           title='Gracia en tu Andar'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Gracia en tu Andar</p></a></div>
@@ -1449,7 +1639,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/incompleto-amor/'
+        href='/music/john-wry/nonstopmeditations757/guardados-en-su-amor/'
+        class='card-header-title'
+          title='Guardados en Su Amor'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Guardados en Su Amor</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/incompleto-amor/'
         class='card-header-title'
           title='Incompleto Amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Incompleto Amor</p></a></div>
@@ -1459,7 +1659,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/incompleto-amor/'
+        href='/music/john-wry/nonstopmeditations757/incompleto-amor/'
         class='card-header-title'
           title='Incompleto Amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Incompleto Amor</p></a></div>
@@ -1469,7 +1669,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/la-fe-convencional/'
+        href='/music/john-wry/nonstopmeditations757/la-fe-convencional/'
         class='card-header-title'
           title='La Fe Convencional'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">La Fe Convencional</p></a></div>
@@ -1479,7 +1679,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/oh-que-completa-es/'
+        href='/music/john-wry/nonstopmeditations757/_index-copy/'
+        class='card-header-title'
+          title='Mi Canto es tu Gracia'>
+        <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Mi Canto es tu Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/oh-que-completa-es/'
         class='card-header-title'
           title='Oh Que Completa Es'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Oh Que Completa Es</p></a></div>
@@ -1489,33 +1699,10 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/yo-era-un-hombre/'
+        href='/music/john-wry/nonstopmeditations757/yo-era-un-hombre/'
         class='card-header-title'
           title='Yo Era un Hombre'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Yo Era un Hombre</p></a></div>
-          </div></li>
-      </div>
-    </div></ul></li>
-      </div>
-    </div><div class="">
-      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
-            class="card"><div class="card-header">
-      <a
-        href='/music/john-wry/ahora-canto-por-gracia/'
-        class='card-header-title'
-          title='Mi Canto es tu Gracia'>
-        <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Mi Canto es tu Gracia</p></a><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
-                <span class='icon'></span>
-              </a>
-            </div>
-          </div><ul class="is-marginless"><div class="">
-      <div class=""><li class="is-marginless"><div
-            class="card"><div class="card-header is-single-link">
-      <a
-        href='/music/john-wry/ahora-canto-por-gracia/guardados-en-su-amor/'
-        class='card-header-title'
-          title='Guardados en Su Amor'>
-        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Guardados en Su Amor</p></a></div>
           </div></li>
       </div>
     </div></ul></li>
@@ -1580,10 +1767,30 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/music/solo-cristo-en-ti/'
+        class='card-header-title'
+          title='Solo Cristo en Ti'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Solo Cristo en Ti</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/music/solo-para-ninos/'
         class='card-header-title'
           title='Solo Para Niños'>
         <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Solo Para Niños</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/some-day-soon/'
+        class='card-header-title'
+          title='Some day soon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Some day soon</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -2353,7 +2560,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <div
           id="sidebarUncollapse"
           class="card-header is-single-link"
-          title="Collapse/Uncollapse sidebar"
+          title=""
         >
           <a class="card-header-title">
             <i class="fa-solid fa-angles-right fa-lg"></i>
@@ -2364,11 +2571,11 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <div
           id="sidebarCollapse"
           class="card-header is-single-link"
-          title="Collapse/Uncollapse sidebar"
+          title=""
         >
           <a class="card-header-title">
             <i class="fa-solid fa-angles-left fa-lg"></i>
-            <p>Collapse sidebar</p>
+            <p></p>
           </a>
         </div>
       </div>
@@ -2490,11 +2697,11 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 <p>Tampoco <em>la fuente de agua</em> salada</p>
 <p><em>puede</em> producir agua dulce.</p>
 <p>============================</p>
-<h1 id='i-santiago-31-12-la-lengua-un-animal-indomable-santiago-37-8'>I. Santiago 3:1-12 La Lengua, un animal indomable. Santiago 3:7-8<a href='#i-santiago-31-12-la-lengua-un-animal-indomable-santiago-37-8' class='anchor'>#</a>
-</h1><h2 id='a-santiago-31-2-no-todos-debían-ser-maestros'>A. Santiago 3:1-2 No todos debían ser maestros<a href='#a-santiago-31-2-no-todos-deb%c3%adan-ser-maestros' class='anchor'>#</a>
-</h2><h3 id='1-santiago-31--hermanos-míos-que-no-se-hagan-maestros-muchos-de-ustedes-sabiendo-que-recibiremos-un-juicio-más-severo-romanos-1618rvr60-lucas-2046-47rvr60'>1. Santiago 3:1  <em>Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.</em> Romanos 16:18RVR60; Lucas 20:46-47RVR60<a href='#1-santiago-31--hermanos-m%c3%ados-que-no-se-hagan-maestros-muchos-de-ustedes-sabiendo-que-recibiremos-un-juicio-m%c3%a1s-severo-romanos-1618rvr60-lucas-2046-47rvr60' class='anchor'>#</a>
-</h3><h3 id='2-al-parecer-muchos-deseaban-enseñar-posiblemente-por-la-autoridad-y-el-prestigio-que-conllevaba-esta-función-el-nt-menciona-a-maestros-apóstoles-y-profetas-como-roles-importantes-en-la-iglesia-primitiva-hechos-131-efesios-411-la-falta-de-maestros-calificados-parece-haber-sido-un-problema-crítico-en-la-iglesia-primitiva-1-juan-37rvr60-2-pedro-21rvr60-1-timoteo-63rvr60-2-timoteo-43rvr60'>2. Al parecer, muchos deseaban enseñar, posiblemente por la autoridad y el prestigio que conllevaba esta función. El NT menciona a maestros, apóstoles y profetas como roles importantes en la iglesia primitiva (Hechos 13:1; Efesios 4:11). La falta de maestros calificados parece haber sido un problema crítico en la iglesia primitiva. 1 Juan 3:7RVR60; 2 Pedro 2:1RVR60; 1 Timoteo 6:3RVR60; 2 Timoteo 4:3RVR60<a href='#2-al-parecer-muchos-deseaban-ense%c3%b1ar-posiblemente-por-la-autoridad-y-el-prestigio-que-conllevaba-esta-funci%c3%b3n-el-nt-menciona-a-maestros-ap%c3%b3stoles-y-profetas-como-roles-importantes-en-la-iglesia-primitiva-hechos-131-efesios-411-la-falta-de-maestros-calificados-parece-haber-sido-un-problema-cr%c3%adtico-en-la-iglesia-primitiva-1-juan-37rvr60-2-pedro-21rvr60-1-timoteo-63rvr60-2-timoteo-43rvr60' class='anchor'>#</a>
-</h3><h4 id='a-la-lengua-que-enseña-tiene-el-poder-de-desviar-por-eso-dios-juzgará-más-severamente-a-los-maestros-lucas-1152-1-timoteo-17-9rvr60-2-timoteo-111rvr60-salmo-11999rvr60-mateo-186rvr60'>a. La lengua que enseña tiene el poder de desviar, por eso Dios juzgará más severamente a los maestros. Lucas 11:52; 1 Timoteo 1:7-9RVR60, 2 Timoteo 1:11RVR60; Salmo 119:99RVR60; Mateo 18:6rvr60;<a href='#a-la-lengua-que-ense%c3%b1a-tiene-el-poder-de-desviar-por-eso-dios-juzgar%c3%a1-m%c3%a1s-severamente-a-los-maestros-lucas-1152-1-timoteo-17-9rvr60-2-timoteo-111rvr60-salmo-11999rvr60-mateo-186rvr60' class='anchor'>#</a>
+<h1 id='i-santiago-31-12rvr60-la-lengua-un-animal-indomable-santiago-37-8rvr60'>I. Santiago 3:1-12RVR60 La Lengua, un animal indomable. Santiago 3:7-8RVR60<a href='#i-santiago-31-12rvr60-la-lengua-un-animal-indomable-santiago-37-8rvr60' class='anchor'>#</a>
+</h1><h2 id='a-santiago-31-2rvr60-no-todos-debían-ser-maestros'>A. Santiago 3:1-2RVR60 No todos debían ser maestros<a href='#a-santiago-31-2rvr60-no-todos-deb%c3%adan-ser-maestros' class='anchor'>#</a>
+</h2><h3 id='1-santiago-31rvr60--hermanos-míos-que-no-se-hagan-maestros-muchos-de-ustedes-sabiendo-que-recibiremos-un-juicio-más-severo-romanos-1618rvr60-lucas-2046-47rvr60'>1. Santiago 3:1RVR60  <em>Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.</em> Romanos 16:18RVR60; Lucas 20:46-47RVR60<a href='#1-santiago-31rvr60--hermanos-m%c3%ados-que-no-se-hagan-maestros-muchos-de-ustedes-sabiendo-que-recibiremos-un-juicio-m%c3%a1s-severo-romanos-1618rvr60-lucas-2046-47rvr60' class='anchor'>#</a>
+</h3><h3 id='2-al-parecer-muchos-deseaban-enseñar-posiblemente-por-la-autoridad-y-el-prestigio-que-conllevaba-esta-función-el-nt-menciona-a-maestros-apóstoles-y-profetas-como-roles-importantes-en-la-iglesia-primitiva-hechos-131rvr60-efesios-411rvr60-la-falta-de-maestros-calificados-parece-haber-sido-un-problema-crítico-en-la-iglesia-primitiva-1-juan-37rvr60-2-pedro-21rvr60-1-timoteo-63rvr60-2-timoteo-43rvr60'>2. Al parecer, muchos deseaban enseñar, posiblemente por la autoridad y el prestigio que conllevaba esta función. El NT menciona a maestros, apóstoles y profetas como roles importantes en la iglesia primitiva (Hechos 13:1RVR60; Efesios 4:11RVR60). La falta de maestros calificados parece haber sido un problema crítico en la iglesia primitiva. 1 Juan 3:7RVR60; 2 Pedro 2:1RVR60; 1 Timoteo 6:3RVR60; 2 Timoteo 4:3RVR60<a href='#2-al-parecer-muchos-deseaban-ense%c3%b1ar-posiblemente-por-la-autoridad-y-el-prestigio-que-conllevaba-esta-funci%c3%b3n-el-nt-menciona-a-maestros-ap%c3%b3stoles-y-profetas-como-roles-importantes-en-la-iglesia-primitiva-hechos-131rvr60-efesios-411rvr60-la-falta-de-maestros-calificados-parece-haber-sido-un-problema-cr%c3%adtico-en-la-iglesia-primitiva-1-juan-37rvr60-2-pedro-21rvr60-1-timoteo-63rvr60-2-timoteo-43rvr60' class='anchor'>#</a>
+</h3><h4 id='a-la-lengua-que-enseña-tiene-el-poder-de-desviar-por-eso-dios-juzgará-más-severamente-a-los-maestros-lucas-1152rvr60-1-timoteo-17-9rvr60-2-timoteo-111rvr60-salmo-11999rvr60-mateo-186rvr60'>a. La lengua que enseña tiene el poder de desviar, por eso Dios juzgará más severamente a los maestros. Lucas 11:52RVR60; 1 Timoteo 1:7-9RVR60, 2 Timoteo 1:11RVR60; Salmo 119:99RVR60; Mateo 18:6rvr60;<a href='#a-la-lengua-que-ense%c3%b1a-tiene-el-poder-de-desviar-por-eso-dios-juzgar%c3%a1-m%c3%a1s-severamente-a-los-maestros-lucas-1152rvr60-1-timoteo-17-9rvr60-2-timoteo-111rvr60-salmo-11999rvr60-mateo-186rvr60' class='anchor'>#</a>
 </h4><h4 id='b-la-lengua-es-jactanciosa-santiago-35rvr60'>b. la lengua es jactanciosa. Santiago 3:5RVR60<a href='#b-la-lengua-es-jactanciosa-santiago-35rvr60' class='anchor'>#</a>
 </h4><h5 id='1-la-lengua-es-un-mundo-de-iniquidad-santiago-36rvr60'>1) la lengua es un mundo de iniquidad. Santiago 3:6RVR60<a href='#1-la-lengua-es-un-mundo-de-iniquidad-santiago-36rvr60' class='anchor'>#</a>
 </h5><h5 id='2-profanadora-de-todo-el-cuerpo-santiago-36rvr60'>2) profanadora de todo el cuerpo. Santiago 3:6RVR60<a href='#2-profanadora-de-todo-el-cuerpo-santiago-36rvr60' class='anchor'>#</a>
@@ -2503,17 +2710,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 </h5><h5 id='5-malvada-santiago-38rvr60'>5) malvada. Santiago 3:8RVR60<a href='#5-malvada-santiago-38rvr60' class='anchor'>#</a>
 </h5><h5 id='6-llena-de-veneno-mortal-santiago-38rvr60'>6) llena de veneno mortal. Santiago 3:8RVR60<a href='#6-llena-de-veneno-mortal-santiago-38rvr60' class='anchor'>#</a>
 </h5><h5 id='7-indomable-santiago-37-8rvr60'>7) indomable. Santiago 3:7-8RVR60<a href='#7-indomable-santiago-37-8rvr60' class='anchor'>#</a>
-</h5><h3 id='2-santiago-32a--porque-todos-fallamos-de-muchas-maneras-ninguno-es-libre-del-mal-que-es-capaz-la-lengua'>2. Santiago 3:2a  &ldquo;<em>Porque todos fallamos de muchas maneras.</em>&rdquo; Ninguno es libre del mal que es capaz la lengua.<a href='#2-santiago-32a--porque-todos-fallamos-de-muchas-maneras-ninguno-es-libre-del-mal-que-es-capaz-la-lengua' class='anchor'>#</a>
-</h3><h3 id='3-santiago-32b-si-alguien-no-falla-en-lo-que-dice-es-un-hombre-perfecto-capaz-también-de-refrenar-todo-el-cuerpo-alguien-que-no-falla-en-lo-que-dice-es-una-persona-madura-santiago-14rvr60-proverbios-1011rvr60-20rvr60'>3. Santiago 3:2b <em>Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.</em> Alguien que no falla en lo que dice, es una persona madura. Santiago 1:4RVR60; Proverbios 10:11RVR60, 20RVR60;<a href='#3-santiago-32b-si-alguien-no-falla-en-lo-que-dice-es-un-hombre-perfecto-capaz-tambi%c3%a9n-de-refrenar-todo-el-cuerpo-alguien-que-no-falla-en-lo-que-dice-es-una-persona-madura-santiago-14rvr60-proverbios-1011rvr60-20rvr60' class='anchor'>#</a>
+</h5><h3 id='2-santiago-32rvr60--porque-todos-fallamos-de-muchas-maneras-ninguno-es-libre-del-mal-que-es-capaz-la-lengua'>2. Santiago 3:2RVR60  &ldquo;<em>Porque todos fallamos de muchas maneras.</em>&rdquo; Ninguno es libre del mal que es capaz la lengua.<a href='#2-santiago-32rvr60--porque-todos-fallamos-de-muchas-maneras-ninguno-es-libre-del-mal-que-es-capaz-la-lengua' class='anchor'>#</a>
+</h3><h3 id='3-santiago-32rvr60-si-alguien-no-falla-en-lo-que-dice-es-un-hombre-perfecto-capaz-también-de-refrenar-todo-el-cuerpo-alguien-que-no-falla-en-lo-que-dice-es-una-persona-madura-santiago-14rvr60-proverbios-1011rvr60-20rvr60'>3. Santiago 3:2RVR60 <em>Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.</em> Alguien que no falla en lo que dice, es una persona madura. Santiago 1:4RVR60; Proverbios 10:11RVR60, 20RVR60;<a href='#3-santiago-32rvr60-si-alguien-no-falla-en-lo-que-dice-es-un-hombre-perfecto-capaz-tambi%c3%a9n-de-refrenar-todo-el-cuerpo-alguien-que-no-falla-en-lo-que-dice-es-una-persona-madura-santiago-14rvr60-proverbios-1011rvr60-20rvr60' class='anchor'>#</a>
 </h3><ol start="4">
 <li>
 <h3 id='en-hebreos-512rvr60-el-autor-les-aclara-que-ya-debían-ser-maestros-2-timoteo-22rvr60'>En Hebreos 5:12RVR60 el autor les aclara que ya debían ser maestros. 2 Timoteo 2:2RVR60<a href='#en-hebreos-512rvr60-el-autor-les-aclara-que-ya-deb%c3%adan-ser-maestros-2-timoteo-22rvr60' class='anchor'>#</a>
 </h3></li>
 </ol>
 <h2 id='b-la-lengua-es-un-miembro-muy-pequeño'>B. La lengua es un miembro muy pequeño<a href='#b-la-lengua-es-un-miembro-muy-peque%c3%b1o' class='anchor'>#</a>
-</h2><h3 id='1-santiago-33--ahora-bien-si-ponemos-el-freno-en-la-boca-de-los-caballos-para-que-nos-obedezcan-dirigimos-también-todo-su-cuerpo'>1. Santiago 3:3  <em>Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.</em><a href='#1-santiago-33--ahora-bien-si-ponemos-el-freno-en-la-boca-de-los-caballos-para-que-nos-obedezcan-dirigimos-tambi%c3%a9n-todo-su-cuerpo' class='anchor'>#</a>
-</h3><h3 id='2-santiago-34--miren-también-las-naves-aunque-son-tan-grandes-e-impulsadas-por-fuertes-vientos-son-sin-embargo-dirigidas-mediante-un-timón-muy-pequeño-por-donde-la-voluntad-del-piloto-quiere'>2. Santiago 3:4  <em>Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.</em><a href='#2-santiago-34--miren-tambi%c3%a9n-las-naves-aunque-son-tan-grandes-e-impulsadas-por-fuertes-vientos-son-sin-embargo-dirigidas-mediante-un-tim%c3%b3n-muy-peque%c3%b1o-por-donde-la-voluntad-del-piloto-quiere' class='anchor'>#</a>
-</h3><h3 id='3-santiago-35-así-también-la-lengua-es-un-miembro-pequeño-y-sin-embargo-se-jacta-de-grandes-cosas-pues-qué-gran-bosque-se-incendia-con-tan-pequeño-fuego'>3. Santiago 3:5 <em>Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!</em><a href='#3-santiago-35-as%c3%ad-tambi%c3%a9n-la-lengua-es-un-miembro-peque%c3%b1o-y-sin-embargo-se-jacta-de-grandes-cosas-pues-qu%c3%a9-gran-bosque-se-incendia-con-tan-peque%c3%b1o-fuego' class='anchor'>#</a>
+</h2><h3 id='1-santiago-33rvr60--ahora-bien-si-ponemos-el-freno-en-la-boca-de-los-caballos-para-que-nos-obedezcan-dirigimos-también-todo-su-cuerpo'>1. Santiago 3:3RVR60  <em>Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.</em><a href='#1-santiago-33rvr60--ahora-bien-si-ponemos-el-freno-en-la-boca-de-los-caballos-para-que-nos-obedezcan-dirigimos-tambi%c3%a9n-todo-su-cuerpo' class='anchor'>#</a>
+</h3><h3 id='2-santiago-34rvr60--miren-también-las-naves-aunque-son-tan-grandes-e-impulsadas-por-fuertes-vientos-son-sin-embargo-dirigidas-mediante-un-timón-muy-pequeño-por-donde-la-voluntad-del-piloto-quiere'>2. Santiago 3:4RVR60  <em>Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.</em><a href='#2-santiago-34rvr60--miren-tambi%c3%a9n-las-naves-aunque-son-tan-grandes-e-impulsadas-por-fuertes-vientos-son-sin-embargo-dirigidas-mediante-un-tim%c3%b3n-muy-peque%c3%b1o-por-donde-la-voluntad-del-piloto-quiere' class='anchor'>#</a>
+</h3><h3 id='3-santiago-35rvr60-así-también-la-lengua-es-un-miembro-pequeño-y-sin-embargo-se-jacta-de-grandes-cosas-pues-qué-gran-bosque-se-incendia-con-tan-pequeño-fuego'>3. Santiago 3:5RVR60 <em>Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!</em><a href='#3-santiago-35rvr60-as%c3%ad-tambi%c3%a9n-la-lengua-es-un-miembro-peque%c3%b1o-y-sin-embargo-se-jacta-de-grandes-cosas-pues-qu%c3%a9-gran-bosque-se-incendia-con-tan-peque%c3%b1o-fuego' class='anchor'>#</a>
 </h3><ol>
 <li>
 <h3 id='así-como-el-freno-en-la-boca-del-caballo-hace-que-obedezca-y-el-timon-pequeño-direcciona-un-barco-grande-asi-también-la-boca-se-jacta-de-grandes-cosas-es-como-una-chispa-que-inicia-un-incendio-de-un-bosque-entero-proverbios-1821rvr60'>Así como el freno en la boca del caballo hace que obedezca, y el timon pequeño direcciona un barco grande, asi también la boca se jacta de grandes cosas. Es como una chispa que inicia un incendio de un bosque entero. Proverbios 18:21RVR60;<a href='#as%c3%ad-como-el-freno-en-la-boca-del-caballo-hace-que-obedezca-y-el-timon-peque%c3%b1o-direcciona-un-barco-grande-asi-tambi%c3%a9n-la-boca-se-jacta-de-grandes-cosas-es-como-una-chispa-que-inicia-un-incendio-de-un-bosque-entero-proverbios-1821rvr60' class='anchor'>#</a>
@@ -2525,37 +2732,32 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 <h2 id='c-como-frenar-dirigir-o-controlar-la-lengua'>C. ¿Como frenar, dirigir o controlar la Lengua?<a href='#c-como-frenar-dirigir-o-controlar-la-lengua' class='anchor'>#</a>
 </h2><ol>
 <li>
-<h3 id='santiago-126---si-alguien-se-cree-religioso-pero-no-refrena-su-lengua-sino-que-engaña-a-su-propio-corazón-la-religión-del-tal-es-vana---una-persona-que-se-piensa-espiritual-pero-no-refrena-su-lengua-se-engaña-a-si-mismo-santiago-122rvr60-isaias-4420rvr60'>Santiago 1:26 - &ldquo;<em>Si alguien se cree religioso, pero no refrena su lengua, <strong>sino que engaña a su propio corazón</strong>, la religión del tal es vana.</em>&rdquo; - una persona que se piensa espiritual pero no refrena su lengua se engaña a si mismo. Santiago 1:22RVR60; Isaias 44:20RVR60;<a href='#santiago-126---si-alguien-se-cree-religioso-pero-no-refrena-su-lengua-sino-que-enga%c3%b1a-a-su-propio-coraz%c3%b3n-la-religi%c3%b3n-del-tal-es-vana---una-persona-que-se-piensa-espiritual-pero-no-refrena-su-lengua-se-enga%c3%b1a-a-si-mismo-santiago-122rvr60-isaias-4420rvr60' class='anchor'>#</a>
+<h3 id='santiago-126rvr60---si-alguien-se-cree-religioso-pero-no-refrena-su-lengua-sino-que-engaña-a-su-propio-corazón-la-religión-del-tal-es-vana---una-persona-que-se-piensa-espiritual-pero-no-refrena-su-lengua-se-engaña-a-si-mismo-santiago-122rvr60-isaias-4420rvr60'>Santiago 1:26RVR60 - &ldquo;<em>Si alguien se cree religioso, pero no refrena su lengua, <strong>sino que engaña a su propio corazón</strong>, la religión del tal es vana.</em>&rdquo; - una persona que se piensa espiritual pero no refrena su lengua se engaña a si mismo. Santiago 1:22RVR60; Isaias 44:20RVR60;<a href='#santiago-126rvr60---si-alguien-se-cree-religioso-pero-no-refrena-su-lengua-sino-que-enga%c3%b1a-a-su-propio-coraz%c3%b3n-la-religi%c3%b3n-del-tal-es-vana---una-persona-que-se-piensa-espiritual-pero-no-refrena-su-lengua-se-enga%c3%b1a-a-si-mismo-santiago-122rvr60-isaias-4420rvr60' class='anchor'>#</a>
 </h3></li>
 <li>
 <h3 id='el-corazón-es-la-fuente-de-lo-que-se-derrama-de-los-labios-por-esta-razón-es-crucial-que-cuidemos-nuestros-corazones-salmo-1710rvr60-proverbios-423rvr60-marcos-721-22rvr60-filipenses-48rvr60'>El corazón es la fuente de lo que se derrama de los labios. Por esta razón, es crucial que cuidemos nuestros corazones. Salmo 17:10RVR60; Proverbios 4:23RVR60; Marcos 7:21-22RVR60; Filipenses 4:8RVR60<a href='#el-coraz%c3%b3n-es-la-fuente-de-lo-que-se-derrama-de-los-labios-por-esta-raz%c3%b3n-es-crucial-que-cuidemos-nuestros-corazones-salmo-1710rvr60-proverbios-423rvr60-marcos-721-22rvr60-filipenses-48rvr60' class='anchor'>#</a>
 </h3></li>
-<li>
-<p>Lo que sembramos en el corazón, es lo que cosechamos. Gálatas 6:7RVR60; Efesios 4:22RVR60;</p>
-</li>
-<li>
-<p>Colosenses 3:16RVR60 - &ldquo;<em>Que la palabra de Cristo habite en abundancia en ustedes, con **toda sabiduría <strong>enseñándose</strong> y <strong>amonestándose</strong> unos a otros con salmos, himnos y canciones espirituales, <strong>cantando</strong> a Dios con acción de gracias <strong>en sus corazones</strong>.</em>&rdquo;</p>
-</li>
-<li>
-<p>Efesios 5:18-20RVR60 &ldquo;<em>Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu. <strong>Hablen</strong> entre ustedes con salmos, himnos y cantos espirituales, <strong>cantando</strong> y <strong>alabando</strong> con su corazón al Señor. <strong>Den siempre gracias</strong> por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.</em>&rdquo;</p>
-</li>
-<li>
-<p>Romanos 6:10  Porque en cuanto a que Él murió, murió al pecado de una vez para siempre; pero en cuanto Él vive, vive para Dios.</p>
-<p>Romanos 6:11 Así también ustedes, considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.</p>
-<p>Romanos 6:12 Por tanto, no reine el pecado en su cuerpo mortal para que ustedes <em>no</em> obedezcan a sus lujurias;</p>
-<p>Romanos 6:13 ni presenten los miembros de su cuerpo al pecado <em>como</em>instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y sus miembros a Dios <em>como</em>instrumentos de justicia.</p>
-<p>Romanos 6:14 Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley sino bajo la gracia.</p>
-</li>
-<li>
-<p>Isaias 6:3-7RVR60</p>
-</li>
 </ol>
-</div><div class="column is-sticky is-paddingless" id="tocWrapper">
+<h3 id='3-lo-que-sembramos-en-el-corazón-es-lo-que-cosechamos-gálatas-67rvr60-efesios-422rvr60'>3. Lo que sembramos en el corazón, es lo que cosechamos. Gálatas 6:7RVR60; Efesios 4:22RVR60;<a href='#3-lo-que-sembramos-en-el-coraz%c3%b3n-es-lo-que-cosechamos-g%c3%a1latas-67rvr60-efesios-422rvr60' class='anchor'>#</a>
+</h3><h3 id='4-colosenses-316rvr60---que-la-palabra-de-cristo-habite-en-abundancia-en-ustedes-con-toda-sabiduría-enseñándose-y-amonestándose-unos-a-otros-con-salmos-himnos-y-canciones-espirituales-cantando-a-dios-con-acción-de-gracias-en-sus-corazones'>4. Colosenses 3:16RVR60 - &ldquo;<em>Que la palabra de Cristo habite en abundancia en ustedes, con **toda sabiduría <strong>enseñándose</strong> y <strong>amonestándose</strong> unos a otros con salmos, himnos y canciones espirituales, <strong>cantando</strong> a Dios con acción de gracias <strong>en sus corazones</strong>.</em>&rdquo;<a href='#4-colosenses-316rvr60---que-la-palabra-de-cristo-habite-en-abundancia-en-ustedes-con-toda-sabidur%c3%ada-ense%c3%b1%c3%a1ndose-y-amonest%c3%a1ndose-unos-a-otros-con-salmos-himnos-y-canciones-espirituales-cantando-a-dios-con-acci%c3%b3n-de-gracias-en-sus-corazones' class='anchor'>#</a>
+</h3><h3 id='5-efesios-518-20rvr60-y-no-se-embriaguen-con-vino-en-lo-cual-hay-disolución-sino-sean-llenos-del-espíritu-hablen-entre-ustedes-con-salmos-himnos-y-cantos-espirituales-cantando-y-alabando-con-su-corazón-al-señor-den-siempre-gracias-por-todo-en-el-nombre-de-nuestro-señor-jesucristo-a-dios-el-padre'>5. Efesios 5:18-20RVR60 &ldquo;<em>Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu. <strong>Hablen</strong> entre ustedes con salmos, himnos y cantos espirituales, <strong>cantando</strong> y <strong>alabando</strong> con su corazón al Señor. <strong>Den siempre gracias</strong> por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.</em>&rdquo;<a href='#5-efesios-518-20rvr60-y-no-se-embriaguen-con-vino-en-lo-cual-hay-disoluci%c3%b3n-sino-sean-llenos-del-esp%c3%adritu-hablen-entre-ustedes-con-salmos-himnos-y-cantos-espirituales-cantando-y-alabando-con-su-coraz%c3%b3n-al-se%c3%b1or-den-siempre-gracias-por-todo-en-el-nombre-de-nuestro-se%c3%b1or-jesucristo-a-dios-el-padre' class='anchor'>#</a>
+</h3><h3 id='6-romanos-610rvr60--porque-en-cuanto-a-que-él-murió-murió-al-pecado-de-una-vez-para-siempre-pero-en-cuanto-él-vive-vive-para-dios'>6. Romanos 6:10RVR60  Porque en cuanto a que Él murió, murió al pecado de una vez para siempre; pero en cuanto Él vive, vive para Dios.<a href='#6-romanos-610rvr60--porque-en-cuanto-a-que-%c3%a9l-muri%c3%b3-muri%c3%b3-al-pecado-de-una-vez-para-siempre-pero-en-cuanto-%c3%a9l-vive-vive-para-dios' class='anchor'>#</a>
+</h3><h4 id='romanos-611rvr60-así-también-ustedes-considérense-muertos-para-el-pecado-pero-vivos-para-dios-en-cristo-jesús'>Romanos 6:11RVR60 Así también ustedes, considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.<a href='#romanos-611rvr60-as%c3%ad-tambi%c3%a9n-ustedes-consid%c3%a9rense-muertos-para-el-pecado-pero-vivos-para-dios-en-cristo-jes%c3%bas' class='anchor'>#</a>
+</h4><h4 id='romanos-612rvr60-por-tanto-no-reine-el-pecado-en-su-cuerpo-mortal-para-que-ustedes-no-obedezcan-a-sus-lujurias'>Romanos 6:12RVR60 Por tanto, no reine el pecado en su cuerpo mortal para que ustedes <em>no</em> obedezcan a sus lujurias;<a href='#romanos-612rvr60-por-tanto-no-reine-el-pecado-en-su-cuerpo-mortal-para-que-ustedes-no-obedezcan-a-sus-lujurias' class='anchor'>#</a>
+</h4><h4 id='romanos-613rvr60-ni-presenten-los-miembros-de-su-cuerpo-al-pecado-comoinstrumentos-de-iniquidad-sino-preséntense-ustedes-mismos-a-dios-como-vivos-de-entre-los-muertos-y-sus-miembros-a-dios-comoinstrumentos-de-justicia'>Romanos 6:13RVR60 ni presenten los miembros de su cuerpo al pecado <em>como</em>instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y sus miembros a Dios <em>como</em>instrumentos de justicia.<a href='#romanos-613rvr60-ni-presenten-los-miembros-de-su-cuerpo-al-pecado-comoinstrumentos-de-iniquidad-sino-pres%c3%a9ntense-ustedes-mismos-a-dios-como-vivos-de-entre-los-muertos-y-sus-miembros-a-dios-comoinstrumentos-de-justicia' class='anchor'>#</a>
+</h4><h4 id='romanos-614rvr60-porque-el-pecado-no-tendrá-dominio-sobre-ustedes-pues-no-están-bajo-la-ley-sino-bajo-la-gracia'>Romanos 6:14RVR60 Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley sino bajo la gracia.<a href='#romanos-614rvr60-porque-el-pecado-no-tendr%c3%a1-dominio-sobre-ustedes-pues-no-est%c3%a1n-bajo-la-ley-sino-bajo-la-gracia' class='anchor'>#</a>
+</h4><h3 id='7-isaias-63-7rvr60--'>7. Isaias 6:3-7RVR60 -<a href='#7-isaias-63-7rvr60--' class='anchor'>#</a>
+</h3><h3 id='8-isaias-63rvr60-y-el-uno-al-otro-daba-voces-diciendo-santo-santo-santo-es-el-señor-de-los-ejércitos-llena-está-toda-la-tierra-de-su-gloria'>8. Isaias 6:3RVR60 Y el uno al otro daba voces, diciendo: «Santo, Santo, Santo es el SEÑOR de los ejércitos, Llena está toda la tierra de Su gloria».<a href='#8-isaias-63rvr60-y-el-uno-al-otro-daba-voces-diciendo-santo-santo-santo-es-el-se%c3%b1or-de-los-ej%c3%a9rcitos-llena-est%c3%a1-toda-la-tierra-de-su-gloria' class='anchor'>#</a>
+</h3><h4 id='isaias-64rvr60-y-se-estremecieron-los-cimientos-de-los-umbrales-a-la-voz-del-que-clamaba-y-la-casa-se-llenó-de-humo'>Isaias 6:4RVR60 Y se estremecieron los cimientos de los umbrales a la voz del que clamaba, y la casa se llenó de humo.<a href='#isaias-64rvr60-y-se-estremecieron-los-cimientos-de-los-umbrales-a-la-voz-del-que-clamaba-y-la-casa-se-llen%c3%b3-de-humo' class='anchor'>#</a>
+</h4><h4 id='isaias-65rvr60-entonces-dije-ay-de-mí-porque-perdido-estoy-pues-soy-hombre-de-labios-inmundos-y-en-medio-de-un-pueblo-de-labios-inmundos-habito-porque-mis-ojos-han-visto-al-rey-el-señor-de-los-ejércitos'>Isaias 6:5RVR60 Entonces dije: «¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos».<a href='#isaias-65rvr60-entonces-dije-ay-de-m%c3%ad-porque-perdido-estoy-pues-soy-hombre-de-labios-inmundos-y-en-medio-de-un-pueblo-de-labios-inmundos-habito-porque-mis-ojos-han-visto-al-rey-el-se%c3%b1or-de-los-ej%c3%a9rcitos' class='anchor'>#</a>
+</h4><h4 id='isaias-66rvr60-entonces-voló-hacia-mí-uno-de-los-serafines-con-un-carbón-encendido-en-su-mano-que-había-tomado-del-altar-con-las-tenazas'>Isaias 6:6RVR60 Entonces voló hacia mí uno de los serafines con un carbón encendido en su mano, que había tomado del altar con las tenazas.<a href='#isaias-66rvr60-entonces-vol%c3%b3-hacia-m%c3%ad-uno-de-los-serafines-con-un-carb%c3%b3n-encendido-en-su-mano-que-hab%c3%ada-tomado-del-altar-con-las-tenazas' class='anchor'>#</a>
+</h4><h4 id='isaias-67rvr60-con-él-tocó-mi-boca-y-me-dijo-esto-ha-tocado-tus-labios-y-es-quitada-tu-iniquidad-y-perdonado-tu-pecado'>Isaias 6:7RVR60 <em>Con él</em> tocó mi boca, y me dijo: «Esto ha tocado tus labios, y es quitada tu iniquidad y perdonado tu pecado».<a href='#isaias-67rvr60-con-%c3%a9l-toc%c3%b3-mi-boca-y-me-dijo-esto-ha-tocado-tus-labios-y-es-quitada-tu-iniquidad-y-perdonado-tu-pecado' class='anchor'>#</a>
+</h4></div><div class="column is-sticky is-paddingless" id="tocWrapper">
   <div class="is-paddingless" id="tocContainer">
     <div class="toc-header">
-      <h6 class="toc-title is-marginless">On this page:</h6>
+      <h6 class="toc-title is-marginless"></h6>
       <i
-        title="Back to top"
+        title=""
         id="tocBackToTop"
         class="fa-solid fa-circle-arrow-up"
       ></i>
@@ -2568,14 +2770,14 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <li><a href="#taming-the-tongue">Taming the Tongue</a></li>
       </ul>
     </li>
-    <li><a href="#i-santiago-31-12-la-lengua-un-animal-indomable-santiago-37-8">I. Santiago 3:1-12 La Lengua, un animal indomable. Santiago 3:7-8</a>
+    <li><a href="#i-santiago-31-12rvr60-la-lengua-un-animal-indomable-santiago-37-8rvr60">I. Santiago 3:1-12RVR60 La Lengua, un animal indomable. Santiago 3:7-8RVR60</a>
       <ul>
-        <li><a href="#a-santiago-31-2-no-todos-debían-ser-maestros">A. Santiago 3:1-2 No todos debían ser maestros</a>
+        <li><a href="#a-santiago-31-2rvr60-no-todos-debían-ser-maestros">A. Santiago 3:1-2RVR60 No todos debían ser maestros</a>
           <ul>
-            <li><a href="#1-santiago-31--hermanos-míos-que-no-se-hagan-maestros-muchos-de-ustedes-sabiendo-que-recibiremos-un-juicio-más-severo-romanos-1618rvr60-lucas-2046-47rvr60">1. Santiago 3:1  <em>Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.</em> Romanos 16:18RVR60; Lucas 20:46-47RVR60</a></li>
-            <li><a href="#2-al-parecer-muchos-deseaban-enseñar-posiblemente-por-la-autoridad-y-el-prestigio-que-conllevaba-esta-función-el-nt-menciona-a-maestros-apóstoles-y-profetas-como-roles-importantes-en-la-iglesia-primitiva-hechos-131-efesios-411-la-falta-de-maestros-calificados-parece-haber-sido-un-problema-crítico-en-la-iglesia-primitiva-1-juan-37rvr60-2-pedro-21rvr60-1-timoteo-63rvr60-2-timoteo-43rvr60">2. Al parecer, muchos deseaban enseñar, posiblemente por la autoridad y el prestigio que conllevaba esta función. El NT menciona a maestros, apóstoles y profetas como roles importantes en la iglesia primitiva (Hechos 13:1; Efesios 4:11). La falta de maestros calificados parece haber sido un problema crítico en la iglesia primitiva. 1 Juan 3:7RVR60; 2 Pedro 2:1RVR60; 1 Timoteo 6:3RVR60; 2 Timoteo 4:3RVR60</a>
+            <li><a href="#1-santiago-31rvr60--hermanos-míos-que-no-se-hagan-maestros-muchos-de-ustedes-sabiendo-que-recibiremos-un-juicio-más-severo-romanos-1618rvr60-lucas-2046-47rvr60">1. Santiago 3:1RVR60  <em>Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.</em> Romanos 16:18RVR60; Lucas 20:46-47RVR60</a></li>
+            <li><a href="#2-al-parecer-muchos-deseaban-enseñar-posiblemente-por-la-autoridad-y-el-prestigio-que-conllevaba-esta-función-el-nt-menciona-a-maestros-apóstoles-y-profetas-como-roles-importantes-en-la-iglesia-primitiva-hechos-131rvr60-efesios-411rvr60-la-falta-de-maestros-calificados-parece-haber-sido-un-problema-crítico-en-la-iglesia-primitiva-1-juan-37rvr60-2-pedro-21rvr60-1-timoteo-63rvr60-2-timoteo-43rvr60">2. Al parecer, muchos deseaban enseñar, posiblemente por la autoridad y el prestigio que conllevaba esta función. El NT menciona a maestros, apóstoles y profetas como roles importantes en la iglesia primitiva (Hechos 13:1RVR60; Efesios 4:11RVR60). La falta de maestros calificados parece haber sido un problema crítico en la iglesia primitiva. 1 Juan 3:7RVR60; 2 Pedro 2:1RVR60; 1 Timoteo 6:3RVR60; 2 Timoteo 4:3RVR60</a>
               <ul>
-                <li><a href="#a-la-lengua-que-enseña-tiene-el-poder-de-desviar-por-eso-dios-juzgará-más-severamente-a-los-maestros-lucas-1152-1-timoteo-17-9rvr60-2-timoteo-111rvr60-salmo-11999rvr60-mateo-186rvr60">a. La lengua que enseña tiene el poder de desviar, por eso Dios juzgará más severamente a los maestros. Lucas 11:52; 1 Timoteo 1:7-9RVR60, 2 Timoteo 1:11RVR60; Salmo 119:99RVR60; Mateo 18:6rvr60;</a></li>
+                <li><a href="#a-la-lengua-que-enseña-tiene-el-poder-de-desviar-por-eso-dios-juzgará-más-severamente-a-los-maestros-lucas-1152rvr60-1-timoteo-17-9rvr60-2-timoteo-111rvr60-salmo-11999rvr60-mateo-186rvr60">a. La lengua que enseña tiene el poder de desviar, por eso Dios juzgará más severamente a los maestros. Lucas 11:52RVR60; 1 Timoteo 1:7-9RVR60, 2 Timoteo 1:11RVR60; Salmo 119:99RVR60; Mateo 18:6rvr60;</a></li>
                 <li><a href="#b-la-lengua-es-jactanciosa-santiago-35rvr60">b. la lengua es jactanciosa. Santiago 3:5RVR60</a>
                   <ul>
                     <li><a href="#1-la-lengua-es-un-mundo-de-iniquidad-santiago-36rvr60">1) la lengua es un mundo de iniquidad. Santiago 3:6RVR60</a></li>
@@ -2589,24 +2791,44 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
                 </li>
               </ul>
             </li>
-            <li><a href="#2-santiago-32a--porque-todos-fallamos-de-muchas-maneras-ninguno-es-libre-del-mal-que-es-capaz-la-lengua">2. Santiago 3:2a  &ldquo;<em>Porque todos fallamos de muchas maneras.</em>&rdquo; Ninguno es libre del mal que es capaz la lengua.</a></li>
-            <li><a href="#3-santiago-32b-si-alguien-no-falla-en-lo-que-dice-es-un-hombre-perfecto-capaz-también-de-refrenar-todo-el-cuerpo-alguien-que-no-falla-en-lo-que-dice-es-una-persona-madura-santiago-14rvr60-proverbios-1011rvr60-20rvr60">3. Santiago 3:2b <em>Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.</em> Alguien que no falla en lo que dice, es una persona madura. Santiago 1:4RVR60; Proverbios 10:11RVR60, 20RVR60;</a></li>
+            <li><a href="#2-santiago-32rvr60--porque-todos-fallamos-de-muchas-maneras-ninguno-es-libre-del-mal-que-es-capaz-la-lengua">2. Santiago 3:2RVR60  &ldquo;<em>Porque todos fallamos de muchas maneras.</em>&rdquo; Ninguno es libre del mal que es capaz la lengua.</a></li>
+            <li><a href="#3-santiago-32rvr60-si-alguien-no-falla-en-lo-que-dice-es-un-hombre-perfecto-capaz-también-de-refrenar-todo-el-cuerpo-alguien-que-no-falla-en-lo-que-dice-es-una-persona-madura-santiago-14rvr60-proverbios-1011rvr60-20rvr60">3. Santiago 3:2RVR60 <em>Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.</em> Alguien que no falla en lo que dice, es una persona madura. Santiago 1:4RVR60; Proverbios 10:11RVR60, 20RVR60;</a></li>
             <li><a href="#en-hebreos-512rvr60-el-autor-les-aclara-que-ya-debían-ser-maestros-2-timoteo-22rvr60">En Hebreos 5:12RVR60 el autor les aclara que ya debían ser maestros. 2 Timoteo 2:2RVR60</a></li>
           </ul>
         </li>
         <li><a href="#b-la-lengua-es-un-miembro-muy-pequeño">B. La lengua es un miembro muy pequeño</a>
           <ul>
-            <li><a href="#1-santiago-33--ahora-bien-si-ponemos-el-freno-en-la-boca-de-los-caballos-para-que-nos-obedezcan-dirigimos-también-todo-su-cuerpo">1. Santiago 3:3  <em>Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.</em></a></li>
-            <li><a href="#2-santiago-34--miren-también-las-naves-aunque-son-tan-grandes-e-impulsadas-por-fuertes-vientos-son-sin-embargo-dirigidas-mediante-un-timón-muy-pequeño-por-donde-la-voluntad-del-piloto-quiere">2. Santiago 3:4  <em>Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.</em></a></li>
-            <li><a href="#3-santiago-35-así-también-la-lengua-es-un-miembro-pequeño-y-sin-embargo-se-jacta-de-grandes-cosas-pues-qué-gran-bosque-se-incendia-con-tan-pequeño-fuego">3. Santiago 3:5 <em>Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!</em></a></li>
+            <li><a href="#1-santiago-33rvr60--ahora-bien-si-ponemos-el-freno-en-la-boca-de-los-caballos-para-que-nos-obedezcan-dirigimos-también-todo-su-cuerpo">1. Santiago 3:3RVR60  <em>Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.</em></a></li>
+            <li><a href="#2-santiago-34rvr60--miren-también-las-naves-aunque-son-tan-grandes-e-impulsadas-por-fuertes-vientos-son-sin-embargo-dirigidas-mediante-un-timón-muy-pequeño-por-donde-la-voluntad-del-piloto-quiere">2. Santiago 3:4RVR60  <em>Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.</em></a></li>
+            <li><a href="#3-santiago-35rvr60-así-también-la-lengua-es-un-miembro-pequeño-y-sin-embargo-se-jacta-de-grandes-cosas-pues-qué-gran-bosque-se-incendia-con-tan-pequeño-fuego">3. Santiago 3:5RVR60 <em>Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!</em></a></li>
             <li><a href="#así-como-el-freno-en-la-boca-del-caballo-hace-que-obedezca-y-el-timon-pequeño-direcciona-un-barco-grande-asi-también-la-boca-se-jacta-de-grandes-cosas-es-como-una-chispa-que-inicia-un-incendio-de-un-bosque-entero-proverbios-1821rvr60">Así como el freno en la boca del caballo hace que obedezca, y el timon pequeño direcciona un barco grande, asi también la boca se jacta de grandes cosas. Es como una chispa que inicia un incendio de un bosque entero. Proverbios 18:21RVR60;</a></li>
             <li><a href="#aquel-que-hace-controlar-la-lengua-controla-todo-el-cuerpo-santiago-32rvr60">Aquel que hace controlar la lengua controla todo el cuerpo. Santiago 3:2RVR60</a></li>
           </ul>
         </li>
         <li><a href="#c-como-frenar-dirigir-o-controlar-la-lengua">C. ¿Como frenar, dirigir o controlar la Lengua?</a>
           <ul>
-            <li><a href="#santiago-126---si-alguien-se-cree-religioso-pero-no-refrena-su-lengua-sino-que-engaña-a-su-propio-corazón-la-religión-del-tal-es-vana---una-persona-que-se-piensa-espiritual-pero-no-refrena-su-lengua-se-engaña-a-si-mismo-santiago-122rvr60-isaias-4420rvr60">Santiago 1:26 - &ldquo;<em>Si alguien se cree religioso, pero no refrena su lengua, <strong>sino que engaña a su propio corazón</strong>, la religión del tal es vana.</em>&rdquo; - una persona que se piensa espiritual pero no refrena su lengua se engaña a si mismo. Santiago 1:22RVR60; Isaias 44:20RVR60;</a></li>
+            <li><a href="#santiago-126rvr60---si-alguien-se-cree-religioso-pero-no-refrena-su-lengua-sino-que-engaña-a-su-propio-corazón-la-religión-del-tal-es-vana---una-persona-que-se-piensa-espiritual-pero-no-refrena-su-lengua-se-engaña-a-si-mismo-santiago-122rvr60-isaias-4420rvr60">Santiago 1:26RVR60 - &ldquo;<em>Si alguien se cree religioso, pero no refrena su lengua, <strong>sino que engaña a su propio corazón</strong>, la religión del tal es vana.</em>&rdquo; - una persona que se piensa espiritual pero no refrena su lengua se engaña a si mismo. Santiago 1:22RVR60; Isaias 44:20RVR60;</a></li>
             <li><a href="#el-corazón-es-la-fuente-de-lo-que-se-derrama-de-los-labios-por-esta-razón-es-crucial-que-cuidemos-nuestros-corazones-salmo-1710rvr60-proverbios-423rvr60-marcos-721-22rvr60-filipenses-48rvr60">El corazón es la fuente de lo que se derrama de los labios. Por esta razón, es crucial que cuidemos nuestros corazones. Salmo 17:10RVR60; Proverbios 4:23RVR60; Marcos 7:21-22RVR60; Filipenses 4:8RVR60</a></li>
+            <li><a href="#3-lo-que-sembramos-en-el-corazón-es-lo-que-cosechamos-gálatas-67rvr60-efesios-422rvr60">3. Lo que sembramos en el corazón, es lo que cosechamos. Gálatas 6:7RVR60; Efesios 4:22RVR60;</a></li>
+            <li><a href="#4-colosenses-316rvr60---que-la-palabra-de-cristo-habite-en-abundancia-en-ustedes-con-toda-sabiduría-enseñándose-y-amonestándose-unos-a-otros-con-salmos-himnos-y-canciones-espirituales-cantando-a-dios-con-acción-de-gracias-en-sus-corazones">4. Colosenses 3:16RVR60 - &ldquo;<em>Que la palabra de Cristo habite en abundancia en ustedes, con **toda sabiduría <strong>enseñándose</strong> y <strong>amonestándose</strong> unos a otros con salmos, himnos y canciones espirituales, <strong>cantando</strong> a Dios con acción de gracias <strong>en sus corazones</strong>.</em>&rdquo;</a></li>
+            <li><a href="#5-efesios-518-20rvr60-y-no-se-embriaguen-con-vino-en-lo-cual-hay-disolución-sino-sean-llenos-del-espíritu-hablen-entre-ustedes-con-salmos-himnos-y-cantos-espirituales-cantando-y-alabando-con-su-corazón-al-señor-den-siempre-gracias-por-todo-en-el-nombre-de-nuestro-señor-jesucristo-a-dios-el-padre">5. Efesios 5:18-20RVR60 &ldquo;<em>Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu. <strong>Hablen</strong> entre ustedes con salmos, himnos y cantos espirituales, <strong>cantando</strong> y <strong>alabando</strong> con su corazón al Señor. <strong>Den siempre gracias</strong> por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.</em>&rdquo;</a></li>
+            <li><a href="#6-romanos-610rvr60--porque-en-cuanto-a-que-él-murió-murió-al-pecado-de-una-vez-para-siempre-pero-en-cuanto-él-vive-vive-para-dios">6. Romanos 6:10RVR60  Porque en cuanto a que Él murió, murió al pecado de una vez para siempre; pero en cuanto Él vive, vive para Dios.</a>
+              <ul>
+                <li><a href="#romanos-611rvr60-así-también-ustedes-considérense-muertos-para-el-pecado-pero-vivos-para-dios-en-cristo-jesús">Romanos 6:11RVR60 Así también ustedes, considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.</a></li>
+                <li><a href="#romanos-612rvr60-por-tanto-no-reine-el-pecado-en-su-cuerpo-mortal-para-que-ustedes-no-obedezcan-a-sus-lujurias">Romanos 6:12RVR60 Por tanto, no reine el pecado en su cuerpo mortal para que ustedes <em>no</em> obedezcan a sus lujurias;</a></li>
+                <li><a href="#romanos-613rvr60-ni-presenten-los-miembros-de-su-cuerpo-al-pecado-comoinstrumentos-de-iniquidad-sino-preséntense-ustedes-mismos-a-dios-como-vivos-de-entre-los-muertos-y-sus-miembros-a-dios-comoinstrumentos-de-justicia">Romanos 6:13RVR60 ni presenten los miembros de su cuerpo al pecado <em>como</em>instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y sus miembros a Dios <em>como</em>instrumentos de justicia.</a></li>
+                <li><a href="#romanos-614rvr60-porque-el-pecado-no-tendrá-dominio-sobre-ustedes-pues-no-están-bajo-la-ley-sino-bajo-la-gracia">Romanos 6:14RVR60 Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley sino bajo la gracia.</a></li>
+              </ul>
+            </li>
+            <li><a href="#7-isaias-63-7rvr60--">7. Isaias 6:3-7RVR60 -</a></li>
+            <li><a href="#8-isaias-63rvr60-y-el-uno-al-otro-daba-voces-diciendo-santo-santo-santo-es-el-señor-de-los-ejércitos-llena-está-toda-la-tierra-de-su-gloria">8. Isaias 6:3RVR60 Y el uno al otro daba voces, diciendo: «Santo, Santo, Santo es el SEÑOR de los ejércitos, Llena está toda la tierra de Su gloria».</a>
+              <ul>
+                <li><a href="#isaias-64rvr60-y-se-estremecieron-los-cimientos-de-los-umbrales-a-la-voz-del-que-clamaba-y-la-casa-se-llenó-de-humo">Isaias 6:4RVR60 Y se estremecieron los cimientos de los umbrales a la voz del que clamaba, y la casa se llenó de humo.</a></li>
+                <li><a href="#isaias-65rvr60-entonces-dije-ay-de-mí-porque-perdido-estoy-pues-soy-hombre-de-labios-inmundos-y-en-medio-de-un-pueblo-de-labios-inmundos-habito-porque-mis-ojos-han-visto-al-rey-el-señor-de-los-ejércitos">Isaias 6:5RVR60 Entonces dije: «¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos».</a></li>
+                <li><a href="#isaias-66rvr60-entonces-voló-hacia-mí-uno-de-los-serafines-con-un-carbón-encendido-en-su-mano-que-había-tomado-del-altar-con-las-tenazas">Isaias 6:6RVR60 Entonces voló hacia mí uno de los serafines con un carbón encendido en su mano, que había tomado del altar con las tenazas.</a></li>
+                <li><a href="#isaias-67rvr60-con-él-tocó-mi-boca-y-me-dijo-esto-ha-tocado-tus-labios-y-es-quitada-tu-iniquidad-y-perdonado-tu-pecado">Isaias 6:7RVR60 <em>Con él</em> tocó mi boca, y me dijo: «Esto ha tocado tus labios, y es quitada tu iniquidad y perdonado tu pecado».</a></li>
+              </ul>
+            </li>
           </ul>
         </li>
       </ul>
@@ -2619,7 +2841,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
   <div
     class="is-paddingless"
     id="tocCollapsible"
-    title="Collapse/Uncollapse table of contents"
+    title=""
   >
     <i class="fa-solid fa-angles-right fa-lg"></i>
   </div>
@@ -2627,18 +2849,18 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 </div>
 </div><script type='text/javascript'>
   const baseUrl = 'http:\/\/localhost:1313\/';
-  const codeCopyBefore = 'Copy to clipboard';
-  const codeCopyAfter = 'Copied to clipboard';
-  const svgDownloadLabel = 'Download as SVG';
-  const helperLoadingLabel = 'Loading';
-  const searchNoResults = 'No result found';
-  const introNextLabel = 'Next';
-  const introPrevLabel = 'Previous';
-  const introSkipLabel = '✗';
-  const introDoneLabel = 'Done';
-  const printLabel = 'Print current page';
-  const qrCodeLabel = 'Show current page QR code';
-  const naCommonLabel = 'Not available';
+  const codeCopyBefore = '';
+  const codeCopyAfter = '';
+  const svgDownloadLabel = '';
+  const helperLoadingLabel = '';
+  const searchNoResults = '';
+  const introNextLabel = '';
+  const introPrevLabel = '';
+  const introSkipLabel = '';
+  const introDoneLabel = '';
+  const printLabel = '';
+  const qrCodeLabel = '';
+  const naCommonLabel = '';
 </script>
 <script
       type="module"

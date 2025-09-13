@@ -6,260 +6,227 @@ titleIcon: "far fa-file-alt"
 Date: 28/10/2024 4:40am
 ---
 
+[**Jas 1:1** ](verseid:59.1.1) Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Salud.
 
-Santiago 2:14  ¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?
+[**Jas 1:2** ](verseid:59.1.2) Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas,
 
-Santiago 2:15  Si un hermano o una hermana no tienen ropa y carecen del sustento diario,
+[**Jas 1:3** ](verseid:59.1.3) sabiendo que la prueba de vuestra fe produce paciencia.
 
-Santiago 2:16  y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?
+[**Jas 1:4** ](verseid:59.1.4) Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.
 
-Santiago 2:17  Así también la fe por sí misma, si no tiene obras, está muerta.
+[**Jas 1:5** ](verseid:59.1.5) Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.
 
-Santiago 2:18  Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».
+[**Jas 1:6** ](verseid:59.1.6) Pero pida con fe, no dudando nada; porque el que duda es semejante a la onda del mar, que es arrastrada por el viento y echada de una parte a otra.
 
-Santiago 2:19  Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.
+[**Jas 1:7** ](verseid:59.1.7) No piense, pues, quien tal haga, que recibirá cosa alguna del Señor.
 
-Santiago 2:20  Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril?
+[**Jas 1:8** ](verseid:59.1.8) El hombre de doble ánimo es inconstante en todos sus caminos.
 
-Santiago 2:21  ¿No fue justificado por las obras 
-Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?
+[**Jas 1:9** ](verseid:59.1.9) El hermano que es de humilde condición, gloríese en su exaltación;
 
-Santiago 2:22  Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;
+[**Jas 1:10** ](verseid:59.1.10) pero el que es rico, en su humillación; porque él pasará como la flor de la hierba.
 
-Santiago 2:23  y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.
+[**Jas 1:11** ](verseid:59.1.11) Porque cuando sale el sol con calor abrasador, la hierba se seca, su flor se cae, y perece su hermosa apariencia; así también se marchitará el rico en todas sus empresas.
 
-Santiago 2:24  Ustedes ven que el hombre es justificado por las obras y no solo por la fe.
+[**Jas 1:12** ](verseid:59.1.12) Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida, que Dios ha prometido a los que le aman.
 
-Santiago 2:25  Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?
+[**Jas 1:13** ](verseid:59.1.13) Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie;
 
-Santiago 2:26  Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.
+[**Jas 1:14** ](verseid:59.1.14) sino que cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido.
 
+[**Jas 1:15** ](verseid:59.1.15) Entonces la concupiscencia, después que ha concebido, da a luz el pecado; y el pecado, siendo consumado, da a luz la muerte.
 
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>===== Texto <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+[**Jas 1:16** ](verseid:59.1.16) Amados hermanos míos, no erréis.
 
-¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo? Si un hermano o una hermana no tienen ropa y carecen del sustento diario, y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve? Así también la fe por sí misma, si no tiene obras, está muerta. Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras». Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan. Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril? ¿No fue justificado por las obras 
-Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar? Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada; y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios. Ustedes ven que el hombre es justificado por las obras y no solo por la fe. Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino? Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.
+[**Jas 1:17** ](verseid:59.1.17) Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.
 
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>======Fraseado<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+[**Jas 1:18** ](verseid:59.1.18) Él, de su voluntad, nos hizo nacer por la palabra de verdad, para que seamos primicias de sus criaturas.
 
-¿De qué sirve, 
+[**Jas 1:19** ](verseid:59.1.19) Por esto, mis amados hermanos, todo hombre sea pronto para oír, tardo para hablar, tardo para airarse;
 
-hermanos míos, 
+[**Jas 1:20** ](verseid:59.1.20) porque la ira del hombre no obra la justicia de Dios.
 
-si alguien dice que tiene fe, 
+[**Jas 1:21** ](verseid:59.1.21) Por lo cual, desechando toda inmundicia y abundancia de malicia, recibid con mansedumbre la palabra implantada, la cual puede salvar vuestras almas.
 
-pero no tiene obras? 
+[**Jas 1:22** ](verseid:59.1.22) Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.
 
-¿Acaso puede esa fe salvarlo? 
+[**Jas 1:23** ](verseid:59.1.23) Porque si alguno es oidor de la palabra pero no hacedor de ella, éste es semejante al hombre que considera en un espejo su rostro natural.
 
-Si un 
+[**Jas 1:24** ](verseid:59.1.24) Porque él se considera a sí mismo, y se va, y luego olvida cómo era.
 
-hermano 
+[**Jas 1:25** ](verseid:59.1.25) Mas el que mira atentamente en la perfecta ley, la de la libertad, y persevera en ella, no siendo oidor olvidadizo, sino hacedor de la obra, éste será bienaventurado en lo que hace.
 
-o una hermana 
+[**Jas 1:26** ](verseid:59.1.26) Si alguno se cree religioso entre vosotros, y no refrena su lengua, sino que engaña su corazón, la religión del tal es vana.
 
-no tienen ropa 
+[**Jas 1:27** ](verseid:59.1.27) La religión pura y sin mácula delante de Dios el Padre es ésta: Visitar a los huérfanos y a las viudas en sus tribulaciones, y guardarse sin mancha del mundo.
 
-y carecen del sustento diario, 
+[**Jas 2:1** ](verseid:59.2.1) Hermanos míos, que vuestra fe en nuestro glorioso Señor Jesucristo sea sin acepción de personas.
 
-y uno de ustedes les dice: 
+[**Jas 2:2** ](verseid:59.2.2) Porque si en vuestra congregación entra un hombre con anillo de oro y con ropa espléndida, y también entra un pobre con vestido andrajoso,
 
-«Vayan en paz, caliéntense y sáciense», 
+[**Jas 2:3** ](verseid:59.2.3) y miráis con agrado al que trae la ropa espléndida y le decís: Siéntate tú aquí en buen lugar; y decís al pobre: Estate tú allí en pie, o siéntate aquí bajo mi estrado;
 
-pero no les dan 
+[**Jas 2:4** ](verseid:59.2.4) ¿no hacéis distinciones entre vosotros mismos, y venís a ser jueces con malos pensamientos?
 
-lo necesario 
+[**Jas 2:5** ](verseid:59.2.5) Hermanos míos amados, oíd: ¿No ha elegido Dios a los pobres de este mundo, para que sean ricos en fe y herederos del reino que ha prometido a los que le aman?
 
-para su cuerpo, 
+[**Jas 2:6** ](verseid:59.2.6) Pero vosotros habéis afrentado al pobre. ¿No os oprimen los ricos, y no son ellos los mismos que os arrastran a los tribunales?
 
-¿de qué sirve? 
+[**Jas 2:7** ](verseid:59.2.7) ¿No blasfeman ellos el buen nombre que fue invocado sobre vosotros?
 
-Así también 
+[**Jas 2:8** ](verseid:59.2.8) Si en verdad cumplís la ley real, conforme a la Escritura: Amarás a tu prójimo como a ti mismo, bien hacéis;
 
-la fe 
+[**Jas 2:9** ](verseid:59.2.9) pero si hacéis acepción de personas, cometéis pecado, y quedáis convictos por la ley como transgresores.
 
-por sí misma, 
+[**Jas 2:10** ](verseid:59.2.10) Porque cualquiera que guardare toda la ley, pero ofendiere en un punto, se hace culpable de todos.
 
-si no tiene obras, 
+[**Jas 2:11** ](verseid:59.2.11) Porque el que dijo: No cometerás adulterio, también ha dicho: No matarás. Ahora bien, si no cometes adulterio, pero matas, ya te has hecho transgresor de la ley.
 
-está muerta. 
+[**Jas 2:12** ](verseid:59.2.12) Así hablad, y así haced, como los que habéis de ser juzgados por la ley de la libertad.
 
-Pero alguien dirá: 
+[**Jas 2:13** ](verseid:59.2.13) Porque juicio sin misericordia se hará con aquel que no hiciere misericordia; y la misericordia triunfa sobre el juicio.
 
-«Tú tienes fe y yo tengo obras. 
+## Faith Without Works Is Dead
 
-Muéstrame tu fe 
+[**Jas 2:14** ](verseid:59.2.14) Hermanos míos, ¿de qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?
 
-sin las obras, 
+[**Jas 2:15** ](verseid:59.2.15) Y si un hermano o una hermana están desnudos, y tienen necesidad del mantenimiento de cada día,
 
-y yo te mostraré mi fe 
+[**Jas 2:16** ](verseid:59.2.16) y alguno de vosotros les dice: Id en paz, calentaos y saciaos, pero no les dais las cosas que son necesarias para el cuerpo, ¿de qué aprovecha?
 
-por mis obras». 
+[**Jas 2:17** ](verseid:59.2.17) Así también la fe, si no tiene obras, es muerta en sí misma.
 
-Tú crees que Dios es uno. 
+[**Jas 2:18** ](verseid:59.2.18) Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras.
 
-Haces bien; 
+[**Jas 2:19** ](verseid:59.2.19) Tú crees que Dios es uno; bien haces. También los demonios creen, y tiemblan.
 
-también los demonios creen, 
+[**Jas 2:20** ](verseid:59.2.20) ¿Mas quieres saber, hombre vano, que la fe sin obras es muerta?
 
-y tiemblan. 
+[**Jas 2:21** ](verseid:59.2.21) ¿No fue justificado por las obras Abraham nuestro padre, cuando ofreció a su hijo Isaac sobre el altar?
 
-Pero, 
+[**Jas 2:22** ](verseid:59.2.22) ¿No ves que la fe actuó juntamente con sus obras, y que la fe se perfeccionó por las obras?
 
-¿estás dispuesto 
+[**Jas 2:23** ](verseid:59.2.23) Y se cumplió la Escritura que dice: Abraham creyó a Dios, y le fue contado por justicia, y fue llamado amigo de Dios.
 
-a admitir, 
+[**Jas 2:24** ](verseid:59.2.24) Vosotros veis, pues, que el hombre es justificado por las obras, y no solamente por la fe.
 
-oh hombre vano, 
+[**Jas 2:25** ](verseid:59.2.25) Asimismo también Rahab la ramera, ¿no fue justificada por obras, cuando recibió a los mensajeros y los envió por otro camino?
 
-que la fe 
+[**Jas 2:26** ](verseid:59.2.26) Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras está muerta.
 
-sin obras 
+[**Jas 3:1** ](verseid:59.3.1) Hermanos míos, no os hagáis maestros muchos de vosotros, sabiendo que recibiremos mayor condenación.
 
-es estéril? 
+[**Jas 3:2** ](verseid:59.3.2) Porque todos ofendemos muchas veces. Si alguno no ofende en palabra, éste es varón perfecto, capaz también de refrenar todo el cuerpo.
 
-¿No fue justificado 
+[**Jas 3:3** ](verseid:59.3.3) He aquí nosotros ponemos freno en la boca de los caballos para que nos obedezcan, y dirigimos así todo su cuerpo.
 
-por las obras 
+[**Jas 3:4** ](verseid:59.3.4) Mirad también las naves; aunque tan grandes, y llevadas de impetuosos vientos, son gobernadas con un muy pequeño timón por donde el que las gobierna quiere.
 
-Abraham 
+[**Jas 3:5** ](verseid:59.3.5) Así también la lengua es un miembro pequeño, pero se jacta de grandes cosas. He aquí, ¡cuán grande bosque enciende un pequeño fuego!
 
-nuestro padre 
+[**Jas 3:6** ](verseid:59.3.6) Y la lengua es un fuego, un mundo de maldad. La lengua está puesta entre nuestros miembros, y contamina todo el cuerpo, e inflama la rueda de la creación, y ella misma es inflamada por el infierno.
 
-cuando ofreció 
+[**Jas 3:7** ](verseid:59.3.7) Porque toda naturaleza de bestias, y de aves, y de serpientes, y de seres del mar, se doma y ha sido domada por la naturaleza humana;
 
-a su hijo Isaac 
+[**Jas 3:8** ](verseid:59.3.8) pero ningún hombre puede domar la lengua, que es un mal que no puede ser refrenado, llena de veneno mortal.
 
-sobre el altar? 
+[**Jas 3:9** ](verseid:59.3.9) Con ella bendecimos al Dios y Padre, y con ella maldecimos a los hombres, que están hechos a la semejanza de Dios.
 
-Ya ves 
+[**Jas 3:10** ](verseid:59.3.10) De una misma boca proceden bendición y maldición. Hermanos míos, esto no debe ser así.
 
-que la fe actuaba juntamente
+[**Jas 3:11** ](verseid:59.3.11) ¿Acaso alguna fuente echa por una misma abertura agua dulce y amarga?
 
-con sus obras, 
+[**Jas 3:12** ](verseid:59.3.12) Hermanos míos, ¿puede acaso la higuera producir aceitunas, o la vid higos? Así también ninguna fuente puede dar agua salada y dulce.
 
-y como resultado 
+[**Jas 3:13** ](verseid:59.3.13) ¿Quién es sabio y entendido entre vosotros? Muestre por la buena conducta sus obras en sabia mansedumbre.
 
-de las obras, 
+[**Jas 3:14** ](verseid:59.3.14) Pero si tenéis celos amargos y contención en vuestro corazón, no os jactéis, ni mintáis contra la verdad;
 
-la fe fue perfeccionada; 
+[**Jas 3:15** ](verseid:59.3.15) porque esta sabiduría no es la que desciende de lo alto, sino terrenal, animal, diabólica.
 
-y se cumplió 
+[**Jas 3:16** ](verseid:59.3.16) Porque donde hay celos y contención, allí hay perturbación y toda obra perversa.
 
-la Escritura 
+[**Jas 3:17** ](verseid:59.3.17) Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía.
 
-que dice: 
+[**Jas 3:18** ](verseid:59.3.18) Y el fruto de justicia se siembra en paz para aquellos que hacen la paz.
 
-«Y ABRAHAM CREYÓ 
+[**Jas 4:1** ](verseid:59.4.1) ¿De dónde vienen las guerras y los pleitos entre vosotros? ¿No es de vuestras pasiones, las cuales combaten en vuestros miembros?
 
-A DIOS 
+[**Jas 4:2** ](verseid:59.4.2) Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar; combatís y lucháis, pero no tenéis lo que deseáis, porque no pedís.
 
-Y LE FUE CONTADO POR JUSTICIA», 
+[**Jas 4:3** ](verseid:59.4.3) Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites.
 
-y fue llamado amigo 
+[**Jas 4:4** ](verseid:59.4.4) ¡Oh almas adúlteras! ¿No sabéis que la amistad del mundo es enemistad contra Dios? Cualquiera, pues, que quiera ser amigo del mundo, se constituye enemigo de Dios.
 
-de Dios. 
+[**Jas 4:5** ](verseid:59.4.5) ¿O pensáis que la Escritura dice en vano: El Espíritu que él ha hecho morar en nosotros nos anhela celosamente?
 
-Ustedes ven 
+[**Jas 4:6** ](verseid:59.4.6) Pero él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.
 
-que el hombre 
+[**Jas 4:7** ](verseid:59.4.7) Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.
 
-es justificado 
+[**Jas 4:8** ](verseid:59.4.8) Acercaos a Dios, y él se acercará a vosotros. Pecadores, limpiad las manos; y vosotros los de doble ánimo, purificad vuestros corazones.
 
-por las obras 
+[**Jas 4:9** ](verseid:59.4.9) Afligíos, y lamentad, y llorad. Vuestra risa se convierta en lloro, y vuestro gozo en tristeza.
 
-y no solo por la fe. 
+[**Jas 4:10** ](verseid:59.4.10) Humillaos delante del Señor, y él os exaltará.
 
-Y de la misma manera, 
+[**Jas 4:11** ](verseid:59.4.11) Hermanos, no murmuréis los unos de los otros. El que murmura del hermano y juzga a su hermano, murmura de la ley y juzga a la ley; pero si tú juzgas a la ley, no eres hacedor de la ley, sino juez.
 
-¿no fue la ramera Rahab 
+[**Jas 4:12** ](verseid:59.4.12) Uno solo es el dador de la ley, que puede salvar y perder; pero tú, ¿quién eres para que juzgues a otro?
 
-también justificada 
+[**Jas 4:13** ](verseid:59.4.13) ¡Vamos ahora! los que decís: Hoy y mañana iremos a tal ciudad, y estaremos allá un año, y traficaremos, y ganaremos;
 
-por las obras 
+[**Jas 4:14** ](verseid:59.4.14) cuando no sabéis lo que será mañana. Porque ¿qué es vuestra vida? Ciertamente es neblina que se aparece por un poco de tiempo, y luego se desvanece.
 
-cuando recibió 
+[**Jas 4:15** ](verseid:59.4.15) En lugar de lo cual deberíais decir: Si el Señor quiere, viviremos y haremos esto o aquello.
 
-a los mensajeros 
+[**Jas 4:16** ](verseid:59.4.16) Pero ahora os jactáis en vuestras soberbias. Toda jactancia semejante es mala;
 
-y los envió 
+[**Jas 4:17** ](verseid:59.4.17) y al que sabe hacer lo bueno, y no lo hace, le es pecado.
 
-por otro camino? 
+[**Jas 5:1** ](verseid:59.5.1) ¡Vamos ahora, ricos! Llorad y aullad por las miserias que os vendrán.
 
-Porque así 
+[**Jas 5:2** ](verseid:59.5.2) Vuestras riquezas están podridas, y vuestras ropas están comidas de polilla.
 
-como el cuerpo 
+[**Jas 5:3** ](verseid:59.5.3) Vuestro oro y plata están enmohecidos; y su moho testificará contra vosotros, y devorará del todo vuestras carnes como fuego. Habéis acumulado tesoros para los días postreros.
 
-sin el espíritu 
+[**Jas 5:4** ](verseid:59.5.4) He aquí, clama el jornal de los obreros que han cosechado vuestras tierras, el cual por engaño no les ha sido pagado por vosotros; y los clamores de los que habían segado han entrado en los oídos del Señor de los ejércitos.
 
-está muerto, 
+[**Jas 5:5** ](verseid:59.5.5) Habéis vivido en deleites sobre la tierra, y sido disolutos; habéis engordado vuestros corazones como en día de matanza.
 
-así también 
+[**Jas 5:6** ](verseid:59.5.6) Habéis condenado y dado muerte al justo, y él no os hace resistencia.
 
-la fe 
+[**Jas 5:7** ](verseid:59.5.7) Por tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo el labrador espera el precioso fruto de la tierra, aguardando con paciencia hasta que reciba la lluvia temprana y la tardía.
 
-sin las obras 
+[**Jas 5:8** ](verseid:59.5.8) Tened también vosotros paciencia, y afirmad vuestros corazones; porque la venida del Señor se acerca.
 
-está muerta.
+[**Jas 5:9** ](verseid:59.5.9) Hermanos, no os quejéis unos contra otros, para que no seáis condenados; he aquí, el juez está delante de la puerta.
 
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>====bosquejo<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+[**Jas 5:10** ](verseid:59.5.10) Hermanos míos, tomad como ejemplo de aflicción y de paciencia a los profetas que hablaron en nombre del Señor.
 
-# Santiago 2:14-26 Enseñanza sobre la fe inactiva del creyente
+[**Jas 5:11** ](verseid:59.5.11) He aquí, tenemos por bienaventurados a los que sufren. Habéis oído de la paciencia de Job, y habéis visto el fin del Señor, que el Señor es muy misericordioso y compasivo.
 
-## Santiago escribe a las 12 tribus dispersadas para animarlos en cuanto a su andar. Santiago 1:1
+[**Jas 5:12** ](verseid:59.5.12) Pero sobre todo, hermanos míos, no juréis, ni por el cielo, ni por la tierra, ni por ningún otro juramento; sino que vuestro sí sea sí, y vuestro no sea no, para que no caigáis en condenación.
 
-### Para el entendimiento correcto del libro de Santiago, es importante determinar a quienes escribe. ¿Son judios creyentes o incrédulos? 
+## The Prayer of Faith
 
-#### Santiago menciona la palabra hermanos 15 veces en su carta. Santiago 1:16, 1:19, 2:1, 2:5, 2:14, 3:1, 3:10, 3:12, 4:11, 5:7, 5:9, 5:10, 5:12, 5:19
+[**Jas 5:13** ](verseid:59.5.13) ¿Está alguno entre vosotros afligido? Haga oración. ¿Está alguno alegre? Cante alabanzas.
 
-##### Santiago 1:2  *Tengan por sumo gozo, **hermanos míos, cuando se hallen en diversas pruebas**,* 
+[**Jas 5:14** ](verseid:59.5.14) ¿Está alguno enfermo entre vosotros? Llame a los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor.
 
-##### Santiago 2:1 - ***Hermanos míos, no tengan su fe en nuestro glorioso Señor Jesucristo** con una actitud de favoritismo.*
+[**Jas 5:15** ](verseid:59.5.15) Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán perdonados.
 
-##### Santiago 5:7  *Por tanto, **hermanos, sean pacientes hasta la venida del Señor**. Miren cómo el labrador espera el fruto precioso de la tierra, siendo paciente en ello hasta que recibe la lluvia temprana y la tardía.*
+[**Jas 5:16** ](verseid:59.5.16) Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.
 
-#### Concluimos pues que Santiago escribe su carta a judios creyentes. 
+[**Jas 5:17** ](verseid:59.5.17) Elías era hombre sujeto a pasiones semejantes a las nuestras, y oró fervientemente para que no lloviese, y no llovió sobre la tierra por tres años y seis meses.
 
-##	Fe sin obras no tiene provecho en la vida de uno mismo 
+[**Jas 5:18** ](verseid:59.5.18) Y otra vez oró, y el cielo dio lluvia, y la tierra produjo su fruto.
 
-###	Santiago 2:14-20 Un creyente que no pone en obras su fe queda infructuoso en su santificación.
+[**Jas 5:19** ](verseid:59.5.19) Hermanos, si alguno de entre vosotros se ha extraviado de la verdad, y alguno le hace volver,
 
-#### Santiago 2:14 - *¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?* 
+[**Jas 5:20** ](verseid:59.5.20) sepa que el que haga volver al pecador del error de su camino, salvará de muerte un alma, y cubrirá multitud de pecados.
 
-##### Santiago habla de lo inservible para uno mismo que un hermano tenga fe pero no que no tiene obras. 
 
-##### Las fe en acción, puesta en buenas obras es para santificación (salvación del poder del pecado) para el creyente.  Santiago 1:21-25
 
-##	4 Ejemplos claros para illustrar como la fe sin obras es inservible. 
+=====
 
-###	Santiago 2:15-20 El mal ejemplo del que dice pero no ayuda a un hermano
-
-#### Santiago 2:15 - *Si un hermano o una hermana no tienen ropa y carecen del sustento diario,*
-
-#### Santiago 2:16 - *y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?*
-
-#### Santiago 2:17 - *Así también la fe por sí misma, si no tiene obras, está muerta.*
-
-#### Santiago 2:18 - *Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».*
-
-#### Santiago 2:19 - *Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.* 
-
-#### Santiago 2:20 - *Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril?*
-
-### Santiago 2:21-24 El buen ejemplo de la justificación de Abraham ante los hombres
-
-#### Santiago 2:21 - *¿No fue justificado por las obras Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?*
-
-#### Santiago 2:22 - *Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;*
-
-#### Santiago 2:23 - *y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.*
-
-#### Santiago 2:24 - *Ustedes ven que el hombre es justificado por las obras y no solo por la fe.* 
-
-### Santiago 2:25 - El buen ejemplo de la justificación de Rahab ante los espias
-
-#### Santiago 2:25 - *Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?*
-
-### Santiago 2:26 - El ejemplo del cuerpo sin el espíritu
-
-#### Santiago 2:26 - *Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.*

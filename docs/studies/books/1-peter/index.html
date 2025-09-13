@@ -32,7 +32,7 @@
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
 
-BLB.Tagger.Translation = 'NASB95';
+BLB.Tagger.Translation = 'RVR60';
 BLB.Tagger.HyperLinks = 'all'; 
 BLB.Tagger.HideTanslationAbbrev = true;
 BLB.Tagger.TargetNewWindow = true;
@@ -44,7 +44,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
   <div class="modal-content-box modal-text-box">
     <div class="card modal-title is-radiusless">
       <div class="card-header">
-        <p class="card-header-title is-marginless">About</p>
+        <p class="card-header-title is-marginless"></p>
       </div>
     </div>
     <div class="modal-content-container">
@@ -56,43 +56,43 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
 <div id="navbarShortcuts" class="is-hidden modal-container">
   <div class="modal-content-box modal-text-box"><div class="card modal-title is-radiusless">
         <div class="card-header">
-          <p class="card-header-title is-marginless">Keyboard shortcuts</p>
+          <p class="card-header-title is-marginless"></p>
         </div>
       </div>
       <div class="modal-content-container">
         <div class="modal-content-block"><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>q</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show current page QR code</p>
+    <p class="has-text-weight-normal">10_qrcode</p>
   </div><div class="modal-content"><kbd>Escape</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Close modals</p>
+    <p class="has-text-weight-normal">11_closemodals</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>i</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show website information</p>
+    <p class="has-text-weight-normal">1_info</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>k</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Show shortcuts</p>
+    <p class="has-text-weight-normal">2_shortcuts</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>h</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to homepage</p>
+    <p class="has-text-weight-normal">3_home</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>f</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Find on website</p>
+    <p class="has-text-weight-normal">4_search</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>m</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Collapse/Uncollapse sidebar</p>
+    <p class="has-text-weight-normal">5_togglesidebar</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>t</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Collapse/Uncollapse table of contents</p>
-  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↑</kbd></div>
+    <p class="has-text-weight-normal">6_toggletoc</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>ArrowUp</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to the top of the page</p>
-  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>↓</kbd></div>
+    <p class="has-text-weight-normal">7_backtotop</p>
+  </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>ArrowDown</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Go to the bottom of the page</p>
+    <p class="has-text-weight-normal">8_gotobottom</p>
   </div><div class="modal-content"><kbd>Shift</kbd><p>+</p><kbd>p</kbd></div>
   <div class="modal-content">
-    <p class="has-text-weight-normal">Print current page</p>
+    <p class="has-text-weight-normal">9_print</p>
   </div></div>
       </div></div>
 </div>
@@ -107,7 +107,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     href="/"
   >
     <img
-      alt="Homepage"
+      alt=""
       src="/img/bjwry.png"
     />
   </a>
@@ -117,7 +117,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     href="/"
   >
     <img
-      alt="Homepage"
+      alt=""
       src="/images/logoTouch.png"
     />
   </a>
@@ -131,7 +131,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       autocomplete="off"
       class="input"
       type="search"
-      placeholder="Search"
+      placeholder=""
     />
   </span>
   <span class="icon is-left">
@@ -146,7 +146,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="printButton"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">Print</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-print fa-lg"></i>
     </span>
@@ -157,7 +157,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="qrCodeButton"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">QR code</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-qrcode fa-lg"></i>
     </span>
@@ -168,9 +168,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="shortcutsInfo"
     trigger="navbarShortcuts"
     class="button navbar-item-standard navbar-trigger"
-    title="Keyboard shortcuts"
+    title=""
   >
-    <span class="icon-text">Shortcuts</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-keyboard fa-lg"></i>
     </span>
@@ -186,7 +186,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       aria-haspopup="true"
       aria-controls="dropdown-menu"
     >
-      <span class="icon-text">Taxonomies</span>
+      <span class="icon-text"></span>
       <span class="icon">
         <i class="fa-solid fa-tags fa-lg"></i>
       </span>
@@ -211,9 +211,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="siteInfo"
     trigger="navbarInfo"
     class="button navbar-item-standard navbar-trigger"
-    title="About"
+    title=""
   >
-    <span class="icon-text">About</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-circle-question fa-lg"></i>
     </span>
@@ -232,7 +232,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="printButtonExtend"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">Print</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-print fa-lg"></i>
     </span>
@@ -243,7 +243,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="qrCodeButtonExtend"
     class="button navbar-item-standard"
   >
-    <span class="icon-text">QR code</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-qrcode fa-lg"></i>
     </span>
@@ -254,9 +254,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="shortcutsInfoExtend"
     trigger="navbarShortcuts"
     class="button navbar-item-standard navbar-trigger"
-    title="Keyboard shortcuts"
+    title=""
   >
-    <span class="icon-text">Shortcuts</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-keyboard fa-lg"></i>
     </span>
@@ -272,7 +272,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       aria-haspopup="true"
       aria-controls="dropdown-menu"
     >
-      <span class="icon-text">Taxonomies</span>
+      <span class="icon-text"></span>
       <span class="icon">
         <i class="fa-solid fa-tags fa-lg"></i>
       </span>
@@ -297,9 +297,9 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     id="siteInfoExtend"
     trigger="navbarInfo"
     class="button navbar-item-standard navbar-trigger"
-    title="About"
+    title=""
   >
-    <span class="icon-text">About</span>
+    <span class="icon-text"></span>
     <span class="icon">
       <i class="fa-solid fa-circle-question fa-lg"></i>
     </span>
@@ -556,6 +556,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/topico/engan%CC%83adores/'
+        class='card-header-title'
+          title='Engañadores'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Engañadores</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/'
         class='card-header-title'
           title='Estableciendo el decreto que inicia las 70 semanas de Daniel'>
@@ -577,6 +587,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='Evangelio para el Creyente'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">Evangelio para el Creyente</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/topico/fiestas-judias/'
+        class='card-header-title'
+          title='Fiestas Judias'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Fiestas Judias</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -720,6 +740,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/topico/salvacio%CC%81n-por-sen%CC%83orio/'
+        class='card-header-title'
+          title='Salvación por Señorio'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Salvación por Señorio</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/topico/sincretismo/'
         class='card-header-title'
           title='sincretismo'>
@@ -761,6 +791,26 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
             class="card"><div class='card-header is-sidebar-disable'>
       <div class='card-header-title' href='/estudios/libros/untitled/'>
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0" title=''></p></div></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-corintios-1550-58/'
+        class='card-header-title'
+          title='1 Corintios 15:50-58'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Corintios 15:50-58</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/1-corintios-71-9/'
+        class='card-header-title'
+          title='1 Corintios 7:1-9'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Corintios 7:1-9</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -817,6 +867,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/libros/1-timoteo-611-14/'
+        class='card-header-title'
+          title='1 Timoteo 6:11-14'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">1 Timoteo 6:11-14</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/libros/2-corinthians-2/'
         class='card-header-title'
           title='2 Corinthians 2'>
@@ -831,6 +891,46 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='2 Pedro'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">2 Pedro</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-181-8/'
+        class='card-header-title'
+          title='Apocalipsis 18:1-8'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 18:1-8</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-1911-16/'
+        class='card-header-title'
+          title='Apocalipsis 19:11-16'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 19:11-16</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-20.11-15/'
+        class='card-header-title'
+          title='Apocalipsis 20:11-15'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 20:11-15</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/apocalipsis-2211-21/'
+        class='card-header-title'
+          title='Apocalipsis 22:11-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Apocalipsis 22:11-21</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -991,6 +1091,36 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         class='card-header-title'
           title='Hebreos'>
         <i class='far fa-file-alt'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos-713-21/'
+        class='card-header-title'
+          title='Hebreos 7:13-21'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos 7:13-21</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hebreos-81-6/'
+        class='card-header-title'
+          title='Hebreos 8:1-6'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hebreos 8:1-6</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/hechos-2/'
+        class='card-header-title'
+          title='Hechos 2'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Hechos 2</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -1194,6 +1324,26 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/estudios/libros/santiago-41-10/'
+        class='card-header-title'
+          title='Santiago 4:1-10'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Santiago 4:1-10</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/estudios/libros/tito-2/'
+        class='card-header-title'
+          title='Tito 2'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Tito 2</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/estudios/libros/zarpando-por-zacari%CC%81as/'
         class='card-header-title'
           title='Zarpando por Zacarías'>
@@ -1277,6 +1427,16 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
     </div></ul></li>
       </div>
     </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/cuan-alegre-el-padre-esta/'
+        class='card-header-title'
+          title='Cuan alegre el padre esta'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Cuan alegre el padre esta</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class="card-header">
       <a
@@ -1327,7 +1487,27 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Lentamente</p></a></div>
           </div></li>
       </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/entregados/yo-vi-la-luz/'
+        class='card-header-title'
+          title='Yo Vi La Luz'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Yo Vi La Luz</p></a></div>
+          </div></li>
+      </div>
     </div></ul></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/got-my-song-back/'
+        class='card-header-title'
+          title='Got my song back'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Got my song back</p></a></div>
+          </div></li>
       </div>
     </div><div class="">
       <div class=""><li class="is-marginless"><div
@@ -1408,7 +1588,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
             class="card"><div class="card-header">
       <a
-        href='/music/john-wry/inteligencia-artificial/'
+        href='/music/john-wry/nonstopmeditations757/'
         class='card-header-title'
           title='John Wry'>
         <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">John Wry</p></a><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
@@ -1419,7 +1599,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/conocer-el-amor/'
+        href='/music/john-wry/nonstopmeditations757/conocer-el-amor/'
         class='card-header-title'
           title='conocer el amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">conocer el amor</p></a></div>
@@ -1429,7 +1609,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/dos-evangelios/'
+        href='/music/john-wry/nonstopmeditations757/dos-evangelios/'
         class='card-header-title'
           title='Dos Evangelios'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Dos Evangelios</p></a></div>
@@ -1439,7 +1619,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/gracia-en-tu-andar/'
+        href='/music/john-wry/nonstopmeditations757/fruto-del-sen%CC%83or/'
+        class='card-header-title'
+          title='Fruto del Señor'>
+        <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Fruto del Señor</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/gracia-en-tu-andar/'
         class='card-header-title'
           title='Gracia en tu Andar'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Gracia en tu Andar</p></a></div>
@@ -1449,7 +1639,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/incompleto-amor/'
+        href='/music/john-wry/nonstopmeditations757/guardados-en-su-amor/'
+        class='card-header-title'
+          title='Guardados en Su Amor'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Guardados en Su Amor</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/incompleto-amor/'
         class='card-header-title'
           title='Incompleto Amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Incompleto Amor</p></a></div>
@@ -1459,7 +1659,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/incompleto-amor/'
+        href='/music/john-wry/nonstopmeditations757/incompleto-amor/'
         class='card-header-title'
           title='Incompleto Amor'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Incompleto Amor</p></a></div>
@@ -1469,7 +1669,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/la-fe-convencional/'
+        href='/music/john-wry/nonstopmeditations757/la-fe-convencional/'
         class='card-header-title'
           title='La Fe Convencional'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">La Fe Convencional</p></a></div>
@@ -1479,7 +1679,17 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/oh-que-completa-es/'
+        href='/music/john-wry/nonstopmeditations757/_index-copy/'
+        class='card-header-title'
+          title='Mi Canto es tu Gracia'>
+        <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Mi Canto es tu Gracia</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/john-wry/nonstopmeditations757/oh-que-completa-es/'
         class='card-header-title'
           title='Oh Que Completa Es'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Oh Que Completa Es</p></a></div>
@@ -1489,33 +1699,10 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
-        href='/music/john-wry/inteligencia-artificial/yo-era-un-hombre/'
+        href='/music/john-wry/nonstopmeditations757/yo-era-un-hombre/'
         class='card-header-title'
           title='Yo Era un Hombre'>
         <i class='far fa-file-audio'></i><p class="pt-0 pb-0 pr-2 pl-0">Yo Era un Hombre</p></a></div>
-          </div></li>
-      </div>
-    </div></ul></li>
-      </div>
-    </div><div class="">
-      <div class=""><li class="is-marginless is-entries-expandable is-entries-shrinked"><div
-            class="card"><div class="card-header">
-      <a
-        href='/music/john-wry/ahora-canto-por-gracia/'
-        class='card-header-title'
-          title='Mi Canto es tu Gracia'>
-        <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Mi Canto es tu Gracia</p></a><a class="card-header-icon is-icon-expandable is-paddingless is-icon-shrinked">
-                <span class='icon'></span>
-              </a>
-            </div>
-          </div><ul class="is-marginless"><div class="">
-      <div class=""><li class="is-marginless"><div
-            class="card"><div class="card-header is-single-link">
-      <a
-        href='/music/john-wry/ahora-canto-por-gracia/guardados-en-su-amor/'
-        class='card-header-title'
-          title='Guardados en Su Amor'>
-        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Guardados en Su Amor</p></a></div>
           </div></li>
       </div>
     </div></ul></li>
@@ -1580,10 +1767,30 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
       <div class=""><li class="is-marginless"><div
             class="card"><div class="card-header is-single-link">
       <a
+        href='/music/solo-cristo-en-ti/'
+        class='card-header-title'
+          title='Solo Cristo en Ti'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Solo Cristo en Ti</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
         href='/music/solo-para-ninos/'
         class='card-header-title'
           title='Solo Para Niños'>
         <i class='fas fa-record-vinyl'></i><p class="pt-0 pb-0 pr-2 pl-0">Solo Para Niños</p></a></div>
+          </div></li>
+      </div>
+    </div><div class="">
+      <div class=""><li class="is-marginless"><div
+            class="card"><div class="card-header is-single-link">
+      <a
+        href='/music/some-day-soon/'
+        class='card-header-title'
+          title='Some day soon'>
+        <i class='fa-solid fa-turn-up fa-rotate-90 fa-xs'></i><p class="pt-0 pb-0 pr-2 pl-0">Some day soon</p></a></div>
           </div></li>
       </div>
     </div><div class="">
@@ -2353,7 +2560,7 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <div
           id="sidebarUncollapse"
           class="card-header is-single-link"
-          title="Collapse/Uncollapse sidebar"
+          title=""
         >
           <a class="card-header-title">
             <i class="fa-solid fa-angles-right fa-lg"></i>
@@ -2364,11 +2571,11 @@ BLB.Tagger.NoSearchClassNames = 'noTag doNotTag';
         <div
           id="sidebarCollapse"
           class="card-header is-single-link"
-          title="Collapse/Uncollapse sidebar"
+          title=""
         >
           <a class="card-header-title">
             <i class="fa-solid fa-angles-left fa-lg"></i>
-            <p>Collapse sidebar</p>
+            <p></p>
           </a>
         </div>
       </div>
@@ -3575,16 +3782,16 @@ who are in Christ.</p>
 </div><div class="column is-sticky is-paddingless" id="tocWrapper">
   <div class="is-paddingless" id="tocContainer">
     <div class="toc-header">
-      <h6 class="toc-title is-marginless">On this page:</h6>
+      <h6 class="toc-title is-marginless"></h6>
       <i
-        title="Back to top"
+        title=""
         id="tocBackToTop"
         class="fa-solid fa-circle-arrow-up"
       ></i>
     </div>
     <div id="tocContent">
       <div id="toc"><nav id="TableOfContents">
-            <p><strong>No data available</strong></p>
+            <p><strong></strong></p>
           </nav></div>
       <div id="taxonomies"><div class="taxonomy-wrapper"></div><div class="taxonomy-wrapper"></div></div>
     </div>
@@ -3592,7 +3799,7 @@ who are in Christ.</p>
   <div
     class="is-paddingless"
     id="tocCollapsible"
-    title="Collapse/Uncollapse table of contents"
+    title=""
   >
     <i class="fa-solid fa-angles-right fa-lg"></i>
   </div>
@@ -3600,18 +3807,18 @@ who are in Christ.</p>
 </div>
 </div><script type='text/javascript'>
   const baseUrl = 'http:\/\/localhost:1313\/';
-  const codeCopyBefore = 'Copy to clipboard';
-  const codeCopyAfter = 'Copied to clipboard';
-  const svgDownloadLabel = 'Download as SVG';
-  const helperLoadingLabel = 'Loading';
-  const searchNoResults = 'No result found';
-  const introNextLabel = 'Next';
-  const introPrevLabel = 'Previous';
-  const introSkipLabel = '✗';
-  const introDoneLabel = 'Done';
-  const printLabel = 'Print current page';
-  const qrCodeLabel = 'Show current page QR code';
-  const naCommonLabel = 'Not available';
+  const codeCopyBefore = '';
+  const codeCopyAfter = '';
+  const svgDownloadLabel = '';
+  const helperLoadingLabel = '';
+  const searchNoResults = '';
+  const introNextLabel = '';
+  const introPrevLabel = '';
+  const introSkipLabel = '';
+  const introDoneLabel = '';
+  const printLabel = '';
+  const qrCodeLabel = '';
+  const naCommonLabel = '';
 </script>
 <script
       type="module"
