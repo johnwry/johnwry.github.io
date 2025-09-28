@@ -1,5 +1,5 @@
 ---
-title: Hechos 10
+Title: Hechos 10
 ---
 # Hechos 10 - La Historia de Cornelio y Pedro
 
