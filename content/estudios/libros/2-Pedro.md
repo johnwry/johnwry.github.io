@@ -270,291 +270,151 @@ Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador 
 
 ===
 
-
-
+```html
 *Simón Pedro,* 
-
-​		*siervo* 
-
-​		*y apóstol* 
-
-​		*de Jesucristo,* 
-
+		*siervo* 
+		*y apóstol* 
+		*de Jesucristo,* 
 *a los que han recibido* 
-
-​		*una fe* 
-
-​		*como la nuestra,* 
-
-​		*mediante la justicia* 
-
-​		*de nuestro Dios y Salvador, Jesucristo:*
-
-​	*Gracia y paz*
-
-​		*les sean multiplicadas* 
-
-​		*a ustedes* 
-
-​			*en el conocimiento* 
-
-​				*de Dios y de Jesús nuestro Señor.*
-
-​					*Pues Su divino poder nos ha concedido* 
-
-​					*todo cuanto concierne a la vida y a la piedad,* 
-
-​					*mediante el verdadero conocimiento* 
-
-​						*de Aquel* 
-
-​							*que nos llamó* 
-
-​							*por Su gloria y excelencia.*
-
-​								*Por ellas* - por su gloria y excelencia
-
-​								*Él nos ha concedido* 
-
-​								*Sus preciosas y maravillosas promesas,* 
-
-​								*a fin de que ustedes lleguen a ser* 
-
-​								*partícipes de la naturaleza divina,* 
-
-​									*habiendo escapado* 
-
-​									*de la corrupción que hay en el mundo* 
-
-​									*por causa de los malos deseos.*
-
+		*una fe como la nuestra,* 
+		*mediante la justicia* 
+		*de nuestro Dios y Salvador, Jesucristo:*
+	*Gracia y paz*
+	*les sean multiplicadas* 
+		*a ustedes* 
+			*en el conocimiento* 
+				*de Dios y de Jesús nuestro Señor.*
+					*Pues Su divino poder nos ha concedido* 
+					*todo cuanto concierne a la vida y a la piedad,* 
+					*mediante el verdadero conocimiento* 
+						*de Aquel* 
+							*que nos llamó* 
+							*por Su gloria y excelencia.*
+								*Por ellas* - por su gloria y excelencia
+								*Él nos ha concedido* 
+								*Sus preciosas y maravillosas promesas,* 
+								*a fin de que ustedes lleguen a ser* 
+								*partícipes de la naturaleza divina,* 
+									*habiendo escapado* 
+									*de la corrupción que hay en el mundo* 
+									*por causa de los malos deseos.*
 *Por esta razón también,* 
-
-​	*obrando con toda diligencia,* 
-
-​		*añadan a su fe, virtud,* 
-
-​		*y a la virtud, conocimiento;*
-
-​		*al conocimiento, dominio propio,* 
-
-​		*al dominio propio, perseverancia,* 
-
-​		*y a la perseverancia, piedad,*
-
-​		*a la piedad, fraternidad* 
-
-​		*y a la fraternidad, amor.*
-
+	*obrando con toda diligencia,* 
+		*añadan a su fe, virtud,* 
+		*y a la virtud, conocimiento;*
+		*al conocimiento, dominio propio,* 
+		*al dominio propio, perseverancia,* 
+		*y a la perseverancia, piedad,*
+		*a la piedad, fraternidad* 
+		*y a la fraternidad, amor.*
 *Pues estas virtudes,* 
-
-​	*al estar en ustedes*
-
-​	*y al abundar,* 
-
-​	*no los dejarán ociosos ni estériles* 
-
-​	*en el verdadero conocimiento de nuestro Señor Jesucristo.*
-
+	*al estar en ustedes*
+	*y al abundar,* 
+	*no los dejarán ociosos ni estériles* 
+	*en el verdadero conocimiento de nuestro Señor Jesucristo.*
 *Porque el que carece de estas virtudes* 
-
-​	*es ciego o corto de vista,* 
-
-​	*habiendo olvidado la purificación de sus pecados pasados.*
-
+	*es ciego o corto de vista,* 
+	*habiendo olvidado la purificación de sus pecados pasados.*
 *Así que, hermanos,* 
-
 *sean cada vez más diligentes* 
-
 *para hacer firme* 
-
-​	*su llamado y elección* 
-
-​	*de parte de Dios.* 
-
-​	*Porque mientras hagan estas cosas nunca caerán.*
-
-​		*Pues de esta manera les será concedida*
-
-​			*ampliamente*
-
-​			*la entrada al reino eterno*
-
-​			*de nuestro Señor y Salvador Jesucristo.*
-
+	*su llamado y elección* 
+	*de parte de Dios.* 
+	*Porque mientras hagan estas cosas nunca caerán.*
+		*Pues de esta manera les será concedida*
+			*ampliamente*
+			*la entrada al reino eterno*
+			*de nuestro Señor y Salvador Jesucristo.*
 *Por tanto,* 
-
 *siempre estaré listo para recordarles estas cosas,* 
-
 *aunque ustedes ya las saben y han sido confirmados en la verdad que está presente en ustedes.*
-
 *También considero justo,* 
-
 *mientras esté en este cuerpo,* 
-
 *estimularlos recordándoles estas cosas,*
-
 *sabiendo que mi separación del cuerpo terrenal es inminente,* 
-
 *tal como me lo ha declarado nuestro Señor Jesucristo.*
-
 *Además, yo procuraré con diligencia,* 
-
 *que en todo tiempo,* 
-
 *después de mi partida,* 
-
 *ustedes puedan recordar estas cosas.*
-
 *Porque cuando les dimos a conocer el poder y la venida de nuestro Señor Jesucristo,* 
+	*no seguimos fábulas ingeniosamente inventadas,* 
 
-​	*no seguimos fábulas ingeniosamente inventadas,* 
+	*sino que fuimos testigos oculares de Su majestad.*
 
-​	*sino que fuimos testigos oculares de Su majestad.*
+	*Pues cuando Él recibió honor y gloria de Dios Padre,* 
 
-​	*Pues cuando Él recibió honor y gloria de Dios Padre,* 
-
-​	*la Majestuosa Gloria le hizo esta declaración:* 
-
-​		*«Este es Mi Hijo amado* 
-
-​		*en quien me he complacido».*
-
-​		*Nosotros mismos escuchamos esta declaración,* 
-
-​		*hecha desde el cielo* 
-
-​		*cuando estábamos con Él en el monte santo.*
-
-​		*Y así tenemos la palabra profética más segura,* 
-
-​		*a la cual ustedes hacen bien en prestar atención* 
-
-​		*como a una lámpara que brilla en el lugar oscuro,* 
-
-​		*hasta que el día despunte* 
-
-​		*y el lucero de la mañana aparezca en sus corazones.*
-
+	*la Majestuosa Gloria le hizo esta declaración:* 
+		*«Este es Mi Hijo amado* 
+		*en quien me he complacido».*
+		*Nosotros mismos escuchamos esta declaración,* 
+		*hecha desde el cielo* 
+		*cuando estábamos con Él en el monte santo.*
+		*Y así tenemos la palabra profética más segura,* 
+		*a la cual ustedes hacen bien en prestar atención* 
+		*como a una lámpara que brilla en el lugar oscuro,* 
+		*hasta que el día despunte* 
+		*y el lucero de la mañana aparezca en sus corazones.*
 *Pero ante todo sepan esto,* 
-
 *que ninguna profecía de la Escritura* 
-
 *es asunto de interpretación personal,* 
-
 *pues ninguna profecía fue dada jamás* 
-
 *por un acto de voluntad humana,* 
-
 *sino que hombres inspirados por el Espíritu Santo* 
-
 *hablaron de parte de Dios.* 
-
 *Pero se levantaron falsos profetas entre el pueblo,* 
-
-​	*así como habrá también falsos maestros entre ustedes,* 
-
-​	*los cuales encubiertamente introducirán herejías destructoras,* 
-
-​	*negando incluso al Señor que los compró,* 
-
-​	*trayendo sobre sí una destrucción repentina.*
-
-​	*Muchos seguirán su sensualidad,* 
-
-​		*y por causa de ellos,* 
-
-​		*el camino de la verdad será blasfemado.*
-
-​		*En su avaricia los explotarán con palabras falsas.* 
-
-​	*El juicio de ellos,*  
-
-​		*desde hace mucho tiempo no está ocioso,* 
-
-​		*ni su perdición dormida.*
-
-​		*Porque Dios no perdonó a los ángeles* 
-
-​		*cuando pecaron,* 
-
-​		*sino que los arrojó al infierno* 
-
-​		*y los entregó a fosos de tinieblas,* 
-
-​		*reservados para juicio.*
-
-​	*Tampoco perdonó al mundo antiguo,* 
-
-​	*sino que guardó a Noé,* 
-
-​	*un predicador de justicia,* 
-
-​	*con otros siete,* 
-
-​	*cuando trajo el diluvio sobre el mundo de los impíos.*
-
-​	*También condenó a la destrucción* 
-
-​	*las ciudades de Sodoma y Gomorra,* 
-
-​	*reduciéndolas a cenizas,* 
-
-​	*poniéndolas de ejemplo* 
-
-​	*para los que habrían de vivir impíamente después.*
-
+	*así como habrá también falsos maestros entre ustedes,* 
+	*los cuales encubiertamente introducirán herejías destructoras,* 
+	*negando incluso al Señor que los compró,* 
+	*trayendo sobre sí una destrucción repentina.*
+	*Muchos seguirán su sensualidad,* 
+		*y por causa de ellos,* 
+		*el camino de la verdad será blasfemado.*
+		*En su avaricia los explotarán con palabras falsas.* 
+	*El juicio de ellos,*  
+		*desde hace mucho tiempo no está ocioso,* 
+		*ni su perdición dormida.*
+		*Porque Dios no perdonó a los ángeles* 
+		*cuando pecaron,* 
+		*sino que los arrojó al infierno* 
+		*y los entregó a fosos de tinieblas,* 
+		*reservados para juicio.*
+	*Tampoco perdonó al mundo antiguo,* 
+	*sino que guardó a Noé,* 
+	*un predicador de justicia,* 
+	*con otros siete,* 
+	*cuando trajo el diluvio sobre el mundo de los impíos.*
+	*También condenó a la destrucción* 
+	*las ciudades de Sodoma y Gomorra,* 
+	*reduciéndolas a cenizas,* 
+	*poniéndolas de ejemplo* 
+	*para los que habrían de vivir impíamente después.*
 *Además rescató al justo Lot,* 
-
-​	*abrumado por la conducta sensual de hombres libertinos*
-
-​	*(porque ese justo,* 
-
-​	*por lo que veía y oía* 
-
-​	*mientras vivía entre ellos,* 
-
-​	*diariamente sentía su alma justa atormentada* 
-
-​	*por las iniquidades de ellos).*
-
+	*abrumado por la conducta sensual de hombres libertinos*
+	*(porque ese justo,* 
+	*por lo que veía y oía* 
+	*mientras vivía entre ellos,* 
+	*diariamente sentía su alma justa atormentada* 
+	*por las iniquidades de ellos).*
 *El Señor, pues, sabe* 
-
-​	*rescatar de tentación a los piadosos,* 
-
-​	*y reservar a los injustos bajo castigo* 
-
-​	*para el día del juicio,*
-
-​	*especialmente a los que andan* 
-
-​	*tras la carne en sus deseos corrompidos* 
-
-​	*y desprecian la autoridad.* 
-
-​	*Atrevidos y obstinados,* 
-
-​	*no tiemblan cuando blasfeman de las majestades angélicas,*
-
-​		*cuando los ángeles,* 
-
-​			*que son mayores en fuerza y en potencia,* 
-
-​			*no pronuncian juicio injurioso contra ellos delante del Señor.*
-
-​		*Pero estos,* 
-
-​			*como animales irracionales,* 
-
-​			*nacidos como criaturas de instinto* 
-
-​			*para ser capturados y destruidos,* 
-
-​			*blasfemando de lo que ignoran,* 
-
-​			*serán también destruidos con la destrucción de esas criaturas,*
-
-​				*sufriendo el mal* 
+	*rescatar de tentación a los piadosos,* 
+	*y reservar a los injustos bajo castigo* 
+	*para el día del juicio,*
+	*especialmente a los que andan* 
+	*tras la carne en sus deseos corrompidos* 
+	*y desprecian la autoridad.* 
+	*Atrevidos y obstinados,* 
+	*no tiemblan cuando blasfeman de las majestades angélicas,*
+		*cuando los ángeles,* 
+			*que son mayores en fuerza y en potencia,* 
+			*no pronuncian juicio injurioso contra ellos delante del Señor.*
+		*Pero estos,* 
+			*como animales irracionales,* 
+			*nacidos como criaturas de instinto* 
+			*para ser capturados y destruidos,* 
+			*blasfemando de lo que ignoran,* 
+			*serán también destruidos con la destrucción de esas criaturas,*
+				*sufriendo el mal* 
 
 ​					*como pago de su iniquidad.* 
 
@@ -788,13 +648,13 @@ Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador 
 
 ​	*e inestables tuercen,* 
 
-​	*como también tuercen el resto de las Escrituras,* 
+	*como también tuercen el resto de las Escrituras,* 
 
-​	*para su propia perdición.*
+	*para su propia perdición.*
 
 *Por tanto, amados,* 
 
-​	*sabiendo esto de antemano,* 
+	*sabiendo esto de antemano,* 
 
 *estén en guardia,* 
 
@@ -810,4 +670,4 @@ Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador 
 
 *ahora y hasta el día de la eternidad.* 
 
-*Amén.*
+*Amén.*```
