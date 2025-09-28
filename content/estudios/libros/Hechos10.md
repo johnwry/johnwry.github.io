@@ -3,9 +3,15 @@ title: Hechos 10
 ---
 # Hechos 10 - La Historia de Cornelio y Pedro
 
-Introducción
+## Introducción
 
-El libro de los Hechos trata de el inicio y establecimiento y primeros 30 años de la Iglesia de Jesucristo. Toda narración que encontramos en el libro están por ese propósito. El capítulo 10 no es excepción. La historia de Cornelio va más alla de explicarnos sobre un hombre gentíl y su salvación. Hechos 15:7
+### El libro de los Hechos trata desde el establecimiento hasta los primeros 30 años de la Iglesia de Jesucristo. Hechos 1:8, 28:30
+
+#### Los eventos registrados de Hechos no son para establecer normativas sino para mostrar eventos singulares que sucedieron en la transición entre Dios obrando a traves de Israel para alcanzar a los gentiles a Dios obrando a traves de los gentiles y judios para alcanzar a gentiles y judios. 
+
+#### Toda narración que encontramos en el libro está por ese propósito. 
+
+#### El capítulo 10 no es excepción. Veremos como la historia de Cornelio y Pedro va más alla de explicarnos sobre un hombre y su salvación para demostrar lo que Dios estaba renovando en cuanto a Su administración y alcance al hombre. Hechos 15:7
 
 ## Hechos 10:1-2 Cornelio el centurión
 
@@ -17,17 +23,17 @@ El libro de los Hechos trata de el inicio y establecimiento y primeros 30 años 
 
 ### Hechos 10:1b "*un hombre llamado Cornelio,*" Cornelio es un nombre de origen italiano.  
 
-### Hechos 10:1b "*centurión de la cohorte llamada la Italiana,*"  Cornelio era centurión a cargo de 80 a 600 hombres. En este caso el regimiento                                                                                                                                                                                                                                                                                                                                                   b                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      italiana. 
+### Hechos 10:1b "*centurión de la cohorte llamada la Italiana,*"  Cornelio era centurión a cargo de 80 a 600 hombres. En este caso el regimiento se llamaba italiana. 
 
 #### Fue un centurión que estaba entre los que custodiaban a Jesus. Mateo 27:54
 
-#### Pablo fue transportado por un centurión. Hechos 28:16
+#### Pablo fue transportado como preso por un centurión. Hechos 28:16
 
-#### La cohorte Romana llevó a Jesus a juicio. Juan 18:12
+#### Fue la "cohorte Romana" que llevó a Jesus a juicio. Juan 18:12
 
-#### la cohorte Augusta llevó a Pablo a italia. Hechos 27:1
+#### Fue la "cohorte Augusta" que llevó a Pablo a italia. Hechos 27:1
 
-### Hechos 10:2a  "*piadoso y temeroso de Dios con toda su casa,*"
+### Hechos 10:2a  "*piadoso y temeroso de Dios con toda su casa,*" Cornelio, junto a su casa entera, es una persona que adora y teme de Dios.
 
 #### *Piadoso* EUSEBES es una palabra compuesta de EU (bueno) y SEBOMAI (adorar). Es usado para referirse a diferentes personas. 
 
@@ -39,31 +45,65 @@ El libro de los Hechos trata de el inicio y establecimiento y primeros 30 años 
 
 ##### Un creyente piadoso. 2 Pedro 2:9
 
-### Hechos 10:2b *que daba muchas limosnas al pueblo (judío) y oraba a Dios continuamente.* Cornelio era bien conocido por los judíos como una persona que temía a Dios, oraba continuamente y daba limosna. Lucas 7:2-5; Daniel 4:27
+### Hechos 10:2b *que daba muchas limosnas al pueblo (judío) y oraba a Dios continuamente.* Cornelio era muy conocido por los judíos como una persona que oraba continuamente y daba limosnas. Hechos 10:22; Lucas 7:2-5; Daniel 4:27
 
-## Hechos 10:3-8 Cornelio recibe una Vision
+## Hechos 10:3-8 Cornelio recibe una visión
 
-### Hechos 10:3a  *Como a la hora novena,* Posiblemente Cornelio estaba orando. La hora novena era la ora para hacer oración. Hechos 3:1
+### Hechos 10:3a  ...*Como a la hora novena...* A esta hora, Cornelio estaba orando. La hora novena (3:00PM) era la ora de la tarde para hacer oración. Hechos 10:30, 3:1
 
-Justamente a la misma hora recibió Pedro su visión. 
+### Hechos 10:3b "...*vio claramente en una visión a un ángel de Dios que entraba a donde él estaba y le decía: «Cornelio»...*" Cornelio vio con claridad en una visión. El angel había sido enviado por Dios para entregarle un mensaje. Hebreos 1:14
 
-Pedro se encontró con Cornelio a la hora novena. 
+### Hechos 10:4a  *Mirándolo fijamente y atemorizado, Cornelio dijo: «¿Qué quieres, Señor?».* Cornelio tiene una visión de un angel y empieza a interactuar con el. 
 
-### Hechos 10:3b "*vio claramente en una visión a un ángel de Dios que entraba a donde él estaba y le decía: «Cornelio».*" Cornelio vio con claridad en una visión. El angel había sido enviado por Dios para entregarle un mensaje. Hebreos 1:14
+#### La reacción de Cornelio es similar a otros que vieron angeles. Lucas1:12, 13, 30, 24:5; Hechos 9:5-6
 
-### Hechos 10:4a  *Mirándolo fijamente y atemorizado, Cornelio dijo: «¿Qué quieres, Señor?».* La reacción de Cornelio es similar a otros que vieron angeles. Lucas1:12, 13, 30, 24:5; Hechos 9:5-6
+### Hechos 10:4b "*Y el ángel le dijo: «Tus oraciones y limosnas han ascendido como memorial delante de Dios...*" Aquí vemos a un hombre devoto y dadivoso siendo recordadas por Dios por sus obras. Hechos 10:31
 
-### Hechos 10:4b "*Y el ángel le dijo: «Tus oraciones...*" Aquí vemos a un hombre devoto y dadivoso siendo oido por Dios por sus obras . Hechos 10:31
+#### De alguna manera, Cornelio había respondido a la luz que había recibido. Claramente dice, Dios oyó su oración y vió sus limosnas..."*han ascendido como memorial delante De Dios*". Lucas 18:13; Hechos 10:35; Salmo 50:23
 
-Hechos 10:4c "*y limosnas han ascendido como memorial delante de Dios.*"
+##### Si alguien responde a la revelación manifestada, Dios entra en acción y provee más revelación a ese individuo. La creación declara la gloria de Dios. Revela que Dios existe y que es poderoso. Si alguien responde a eso, Dios le envía a una persona para testificar sobre el Evangelio. 
 
-#### Saulo también era devoto y entregado apasionadamente a su forma de creer. Hechos 9:4
+#### Juan 9:24-31 "*Por segunda vez los judíos llamaron al hombre que había sido ciego y le dijeron: «Da gloria a Dios; nosotros sabemos que este hombre es un pecador...Sabemos que Dios no oye a los pecadores; pero si alguien teme a Dios y hace Su voluntad, a este oye.*" Proverbios 15:29
 
+## Aclaremos el estado real de Cornelio
 
+### Aquí hay algo que debemos aclarar. Está siendo oido Cornelio por Dios por sus obras? Está tomando cuenta Dios de Cornelio por las obras que el hace? 
 
-De alguna manera, Cornelio había respondido a la luz que había recibido. Orar a Dios no salva pero nos dice el texto, Dios oyó su oración..."*como memorial delante De Dios*". Lucas 18:13
+### Cornelio no es salvo. ¿Como deducimos esto del Texto? 
 
-#### John 9:24-31 "*Por segunda vez los judíos llamaron al hombre que había sido ciego y le dijeron: «Da gloria a Dios; nosotros sabemos que este hombre es un pecador...Sabemos que Dios no oye a los pecadores; pero si alguien teme a Dios y hace Su voluntad, a este oye.*"
+### Aunque nadie es salvo por "*adorar*", "*orar*", "*dar*" y "*obrar*", pueden ser razones para pensar que Cornelio parece ser un creyente.  Debemos ser enfáticos, Cornelio no es salvo por hacer estas obras ni tampoco confirma su salvación. 
+
+### Prestemos mucha atención a los siguientes versículos que vemos cuando Pedro cuenta su testimonio de este evento más adelante en Hechos. 
+
+#### Hechos 11:13-14 *Y él* [Cornelio] *nos contó cómo había visto al ángel de pie en su casa, el cual le dijo: “Envía unos hombres a Jope y haz traer a Simón, que también se llama Pedro, quien te dirá palabras **por las cuales serás salvo, tú y toda tu casa**”.*
+
+### Tal vez Cornelio se había hecho querer entre los judios. Era una buena persona desde la perspectiva humana. Cornelio era temeroso de Dios. Cornelio oraba a Dios. 
+
+#### ¿Qué pensariamos si Cornelio asistiría a nuestra iglesia? ¿Estariamos convencidos por sus obras de caridad? Al ser incluido en la congregación como "hermano" estaríamos dando a entender que Cornelio es justo? 
+
+#### Aveces se usa versículos fuera de contexto como "*por sus obras les conoceréis...*" para confirmar la salvación de alguien.  Ese versículo no enseña que mirando los frutos de alguien sabemos que es salvo, enseña que los frutos de un falso profeta los delata. 
+
+#### Es posible estar engañado pensando que soy salvo porque demuestro hacer "buenas obras". 
+
+#### Todo lo que pensamos acerca de la salvación debe provenir de las páginas de las Escrituras. Si alguien piensa que se siente ser salvo porque hizo buenas acciones o inclusive demuestra un sincero deseo de participar de la iglesia asi como Cornelio, entonces debe seriamente reconsiderar el tema. 
+
+###### Mateo 7:21 *No todo el que me dice: “Señor, Señor”, entrará en el reino de los cielos, sino el que hace la voluntad de Mi Padre que está en los cielos.*
+
+###### Mateo 7:22 *Muchos me dirán en aquel día: “Señor, Señor, ¿no profetizamos en Tu nombre, y en Tu nombre echamos fuera demonios, y en Tu nombre hicimos muchos milagros?”.*
+
+###### Mateo 7:23 *Entonces les declararé: “Jamás los conocí; APÁRTENSE DE MÍ, LOS QUE PRACTICAN LA INIQUIDAD”.*
+
+#### No debemos confiar en nuestras buenas obras para nuestra salvación o la salvación de otro. Podría haber mucha piedad en la vida de uno, perfecta asistencia a las reuniones, participación de las ofrendas y compartir en las actividades de la iglesia y aún no ser salvo. Efesios 2:8-9, Tito 3:5
+
+##### Cornelio creia en Dios, el temia a Dios pero no era salvo. 
+
+##### Cornelio hacía lo que la religion judia le pedía y no era salvo. 
+
+##### Cornelio era muy querido entre la gente porque daba limosnas pero eso no le gano la salvación. 
+
+### Uno es salvo únicamente por oir el mensaje de verdad, el Evangelio y poner la confianza en ese mensaje (únicamente en Cristo y Su obra suficiente en la cruz). Efesios 1:13
+
+### Cristo murió por nuestros pecados, fue sepultado y resucitó al tercer día conforme a las Escrituras (1 Corintios 15:1-4). Este es el mensaje que debe ser creido para ser declarado salvo por Dios. Romanos 3:24-25, 5:1-2, 9-10
 
 ### Hechos 10:5a  *»Envía ahora algunos hombres a Jope,* la ciudad de Jope queda a unos 50km diréctamente al sur de Cesarea. 
 
@@ -257,7 +297,7 @@ De alguna manera, Cornelio había respondido a la luz que había recibido. Orar 
 
 ##### Habla de los ministros del evangelio (10:39-42): Pedro afirma que él y los demás apóstoles fueron testigos presenciales de la crucifixión y resurrección de Jesús.
 
-#### La conversión de Cornelio (10:44-48)
+### La conversión de Cornelio (10:44-48)
 
 ##### El bautizador celestial (10:44-45): Tras la fe de Cornelio en Jesús, el Espíritu Santo descendió sobre él.
 
