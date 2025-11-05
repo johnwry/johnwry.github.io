@@ -443,7 +443,7 @@ This is the confidence which we have before Him, that, if we ask anything accord
 
 
 Notes:: 
-**Daniel** - Was Daniel out of communion with God when he prayed? No! He was confessing his sin and the sin of the people because they were in exile because of their sin. 
-**David** - David confessed his sin to Nathan. Nathan told him his sin had already been forgiven. 
-**Proverbs** - solomon speaks of how blessed is the man who admits his sin - referring to David. 2 Sam 12:13 "...The LORD also hath put away thy sin; thou shalt 
+**Daniel** - Was Daniel out of communion with God when he prayed? No! He was confessing his sin and the sin of the people because they were in exile because of their sin. This was acknowledging the error of their ways but it was not returning to fellowship with God. 
+**David** - David confessed his sin to Nathan. Nathan told him his sin had already been forgiven. It was acknowledging his sin but not in order to be restored. 
+**Proverbs** - Solomon speaks of how blessed is the man who admits his sin - referring to David. 2 Sam 12:13 "...The LORD also hath put away thy sin; thou shalt 
 not die".

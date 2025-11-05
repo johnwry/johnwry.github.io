@@ -568,49 +568,49 @@ Lo anonimo de 1,2 y 3 Juan apelan a una escritura bajo persecución, el cual emp
 ## Parrafos
 Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que hemos contemplado y lo que han tocado nuestras manos, esto escribimos acerca del Verbo de vida. Y la vida se manifestó. Nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna que estaba con el Padre y se manifestó a nosotros. Lo que hemos visto y oído les proclamamos también a ustedes, para que también ustedes tengan comunión con nosotros. En verdad nuestra comunión es con el Padre y con Su Hijo Jesucristo. Les escribimos estas cosas para que nuestro gozo sea completo. Y este es el mensaje que hemos oído de Él y que les anunciamos: Dios es Luz, y en Él no hay ninguna tiniebla. Si decimos que tenemos comunión con Él, pero andamos en tinieblas, mentimos y no practicamos la verdad. Pero si andamos en la Luz, como Él está en la Luz, tenemos comunión los unos con los otros, y la sangre de Jesús Su Hijo nos limpia de todo pecado. Si decimos que no tenemos pecado, nos engañamos a nosotros mismos y la verdad no está en nosotros. Si confesamos nuestros pecados, Él es fiel y justo para perdonarnos los pecados y para limpiarnos de toda maldad. Si decimos que no hemos pecado, lo hacemos a Él mentiroso y Su palabra no está en nosotros. Hijitos míos, les escribo estas cosas para que no pequen. Y si alguien peca, tenemos Abogado para con el Padre, a Jesucristo el Justo. Él mismo es la propiciación por nuestros pecados, y no solo por los nuestros, sino también por los del mundo entero. Y en esto sabemos que lo hemos llegado a conocer: si guardamos Sus mandamientos. Él que dice: «Yo lo he llegado a conocer», y no guarda Sus mandamientos, es un mentiroso y la verdad no está en él. Pero el que guarda Su palabra, en él verdaderamente se ha perfeccionado el amor de Dios. En esto sabemos que estamos en Él. El que dice que permanece en Él, debe andar como Él anduvo. Amados, no les escribo un mandamiento nuevo, sino un mandamiento antiguo, que han tenido desde el principio. El mandamiento antiguo es la palabra que han oído. Por otra parte, les escribo un mandamiento nuevo, el cual es verdadero en Él y en ustedes, porque las tinieblas van pasando, y la Luz verdadera ya está alumbrando. El que dice que está en la Luz y aborrece a su hermano, está aún en tinieblas. El que ama a su hermano, permanece en la Luz y no hay causa de tropiezo en él. Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe adónde va, porque las tinieblas han cegado sus ojos. Les escribo a ustedes, hijos, porque sus pecados les han sido perdonados por el nombre de Cristo. Les escribo a ustedes, padres, porque conocen a Aquel que ha sido desde el principio. Les escribo a ustedes, jóvenes, porque han vencido al maligno. Les he escrito a ustedes, niños, porque conocen al Padre. Les he escrito a ustedes, padres, porque conocen a Aquel que ha sido desde el principio. Les he escrito a ustedes, jóvenes, porque son fuertes y la palabra de Dios permanece en ustedes y han vencido al maligno. No amen al mundo ni las cosas que están en el mundo. Si alguien ama al mundo, el amor del Padre no está en él. Porque todo lo que hay en el mundo, la pasión de la carne, la pasión de los ojos, y la arrogancia de la vida, no proviene del Padre, sino del mundo. El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre. Hijitos, es la última hora, y así como oyeron que el anticristo viene, también ahora han surgido muchos anticristos. Por eso sabemos que es la última hora. Ellos salieron de nosotros, pero en realidad no eran de nosotros, porque si hubieran sido de nosotros, habrían permanecido con nosotros. Pero salieron, a fin de que se manifestara que no todos son de nosotros. Pero ustedes tienen la unción del Santo, y todos ustedes lo saben. No les he escrito porque ignoren la verdad, sino porque la conocen y porque ninguna mentira procede de la verdad. ¿Quién es el mentiroso, sino el que niega que Jesús es el Cristo? Este es el anticristo, el que niega al Padre y al Hijo. Todo aquel que niega al Hijo tampoco tiene al Padre; el que confiesa al Hijo tiene también al Padre. En cuanto a ustedes, que permanezca en ustedes lo que oyeron desde el principio. Si en ustedes permanece lo que oyeron desde el principio, ustedes también permanecerán en el Hijo y en el Padre. Y esta es la promesa que Él mismo nos hizo: la vida eterna. Les he escrito estas cosas respecto a los que están tratando de engañarlos. En cuanto a ustedes, la unción que recibieron de Él permanece en ustedes, y no tienen necesidad de que nadie les enseñe. Pero así como Su unción les enseña acerca de todas las cosas, y es verdadera y no mentira, y así como les ha enseñado, ustedes permanecen en Él. Y ahora, hijos, permanezcan en Él, para que cuando se manifieste, tengamos confianza y no nos apartemos de Él avergonzados en Su venida. Si saben que Él es justo, saben también que todo el que hace justicia es nacido de Él. Miren cuán gran amor nos ha otorgado el Padre: que seamos llamados hijos de Dios. Y eso somos. Por esto el mundo no nos conoce, porque no lo conoció a Él. Amados, ahora somos hijos de Dios y aún no se ha manifestado lo que habremos de ser. Pero sabemos que cuando Cristo se manifieste, seremos semejantes a Él, porque lo veremos como Él es. Y todo el que tiene esta esperanza puesta en Él, se purifica, así como Él es puro. Todo el que practica el pecado, practica también la infracción de la ley, pues el pecado es infracción de la ley. Ustedes saben que Cristo se manifestó a fin de quitar los pecados, y en Él no hay pecado. Todo el que permanece en Él, no peca. Todo el que peca, ni lo ha visto ni lo ha conocido. Hijos míos, que nadie los engañe. El que practica la justicia es justo, así como Él es justo. El que practica el pecado es del diablo, porque el diablo ha pecado desde el principio. El Hijo de Dios se manifestó con este propósito: para destruir las obras del diablo. Ninguno que es nacido de Dios practica el pecado, porque la simiente de Dios permanece en él. No puede pecar, porque es nacido de Dios. En esto se reconocen los hijos de Dios y los hijos del diablo: todo aquel que no practica la justicia, no es de Dios; tampoco aquel que no ama a su hermano. Porque este es el mensaje que ustedes han oído desde el principio: que nos amemos unos a otros. No como Caín que era del maligno, y mató a su hermano. ¿Y por qué causa lo mató? Porque sus obras eran malas, y las de su hermano justas. Hermanos, no se maravillen si el mundo los odia. Nosotros sabemos que hemos pasado de muerte a vida porque amamos a los hermanos. El que no ama permanece en muerte. Todo el que aborrece a su hermano es un asesino, y ustedes saben que ningún asesino tiene vida eterna permanente en él. En esto conocemos el amor: en que Él puso Su vida por nosotros. También nosotros debemos poner nuestras vidas por los hermanos. Pero el que tiene bienes de este mundo, y ve a su hermano en necesidad y cierra su corazón contra él, ¿cómo puede morar el amor de Dios en él? Hijos, no amemos de palabra ni de lengua, sino de hecho y en verdad. En esto sabremos que somos de la verdad, y aseguraremos nuestros corazones delante de Él en cualquier cosa en que nuestro corazón nos condene. Porque Dios es mayor que nuestro corazón y Él sabe todas las cosas. Amados, si nuestro corazón no nos condena, confianza tenemos delante de Dios. Y todo lo que pidamos lo recibimos de Él, porque guardamos Sus mandamientos y hacemos las cosas que son agradables delante de Él. Y este es Su mandamiento: que creamos en el nombre de Su Hijo Jesucristo, y que nos amemos unos a otros como Él nos ha mandado. El que guarda Sus mandamientos permanece en Él y Dios en él. Y en esto sabemos que Él permanece en nosotros: por el Espíritu que nos ha dado. Amados, no crean a todo espíritu, sino prueben los espíritus para ver si son de Dios, porque muchos falsos profetas han salido al mundo. En esto ustedes conocen el Espíritu de Dios: todo espíritu que confiesa que Jesucristo ha venido en carne, es de Dios. Y todo espíritu que no confiesa a Jesús, no es de Dios, y este es el espíritu del anticristo, del cual ustedes han oído que viene, y que ahora ya está en el mundo. Hijos míos, ustedes son de Dios y han vencido a los falsos profetas, porque mayor es Aquel que está en ustedes que el que está en el mundo. Ellos son del mundo; por eso hablan de parte del mundo, y el mundo los oye. Nosotros somos de Dios. El que conoce a Dios, nos oye; el que no es de Dios, no nos oye. En esto conocemos el espíritu de la verdad y el espíritu del error. Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que ama es nacido de Dios y conoce a Dios. El que no ama no conoce a Dios, porque Dios es amor. En esto se manifestó el amor de Dios en nosotros: en que Dios ha enviado a Su Hijo unigénito al mundo para que vivamos por medio de Él. En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó a nosotros y envió a Su Hijo como propiciación por nuestros pecados. Amados, si Dios así nos amó, también nosotros debemos amarnos unos a otros. A Dios nunca lo ha visto nadie. Si nos amamos unos a otros, Dios permanece en nosotros y Su amor se perfecciona en nosotros. En esto sabemos que permanecemos en Él y Él en nosotros: en que nos ha dado de Su Espíritu. Y nosotros hemos visto y damos testimonio de que el Padre envió al Hijo para ser el Salvador del mundo. Todo aquel que confiesa que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios. Y nosotros hemos llegado a conocer y hemos creído el amor que Dios tiene para nosotros. Dios es amor, y el que permanece en amor permanece en Dios y Dios permanece en él. En esto se perfecciona el amor en nosotros, para que tengamos confianza en el día del juicio, pues como Él es, así somos también nosotros en este mundo. En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor involucra castigo, y el que teme no es hecho perfecto en el amor. Nosotros amamos porque Él nos amó primero. Si alguien dice: «Yo amo a Dios», pero aborrece a su hermano, es un mentiroso. Porque el que no ama a su hermano, a quien ha visto, no puede amar a Dios a quien no ha visto. Y este mandamiento tenemos de Él: que el que ama a Dios, ame también a su hermano. Todo aquel que cree que Jesús es el Cristo, es nacido de Dios. Todo aquel que ama al Padre, ama al que ha nacido de Él. En esto sabemos que amamos a los hijos de Dios: cuando amamos a Dios y guardamos Sus mandamientos. Porque este es el amor de Dios: que guardemos Sus mandamientos, y Sus mandamientos no son difíciles. Porque todo lo que es nacido de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe. ¿Y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios? Este es Aquel que vino mediante agua y sangre, Jesucristo; no solo con agua, sino con agua y con sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra: el Espíritu, el agua, y la sangre, y los tres concuerdan. Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios; porque este es el testimonio de Dios: que Él ha dado testimonio acerca de Su Hijo. El que cree en el Hijo de Dios tiene el testimonio en sí mismo. El que no cree a Dios, ha hecho a Dios mentiroso, porque no ha creído en el testimonio que Dios ha dado respecto a Su Hijo. Y el testimonio es este: que Dios nos ha dado vida eterna, y esta vida está en Su Hijo. El que tiene al Hijo tiene la vida, y el que no tiene al Hijo de Dios, no tiene la vida. Estas cosas les he escrito a ustedes que creen en el nombre del Hijo de Dios, para que sepan que tienen vida eterna. Esta es la confianza que tenemos delante de Él, que si pedimos cualquier cosa conforme a Su voluntad, Él nos oye. Y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho. Si alguien ve a su hermano cometiendo un pecado que no lleva a la muerte, pedirá, y por él Dios dará vida a los que cometen pecado que no lleva a la muerte. Hay un pecado que lleva a la muerte; yo no digo que se deba pedir por ese. Toda injusticia es pecado, pero hay pecado que no lleva a la muerte. Sabemos que todo el que ha nacido de Dios, no peca; sino que Aquel que nació de Dios lo guarda y el maligno no lo toca. Sabemos que somos de Dios, y que el mundo entero está bajo el poder del maligno. Y sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento a fin de que conozcamos a Aquel que es verdadero; y nosotros estamos en Aquel que es verdadero, en Su Hijo Jesucristo. Este es el verdadero Dios y la vida eterna. Hijos, aléjense de los ídolos.
 
+=============
+
 ## Fraseado
 
-Lo que existía
-
-desde el principio, 
+Lo que existía desde el principio, 
 	
-lo que hemos oído, 
+	lo que hemos oído, 
 	
-lo que hemos visto 
+	lo que hemos visto 
 	
-con nuestros propios ojos, 
+		con nuestros propios ojos, 
 		
-lo que hemos contemplado 
+	lo que hemos contemplado 
 		
-y lo que han tocado nuestras manos, 
+	y lo que han tocado nuestras manos, 
 		
 esto escribimos 
 
-acerca del Verbo de vida. 
+​	acerca del Verbo de vida. 
 
-Y la vida se manifestó. 
+​		Y la vida se manifestó. 
 
-Nosotros la hemos visto, 
-	
-y damos testimonio 
-	
-y les anunciamos a ustedes 
-	
-la vida eterna 
-	
-que estaba con el Padre 
-	
-y se manifestó a nosotros. 
-	
-Lo que hemos visto y oído 
-		
-les proclamamos también a ustedes, 
-		
-para que también ustedes
+​			Nosotros la hemos visto, 
 
-tengan comunión con nosotros. 
+​			y damos testimonio 
 
-En verdad nuestra comunión es 
+​		y les anunciamos a ustedes 
+
+​			la vida eterna 
+
+​			que estaba con el Padre 
+​	
+​	y se manifestó a nosotros. 
+
+​		Lo que hemos visto y oído 
+
+​	les proclamamos también a ustedes, 
+
+​		para que también ustedes
+
+​		tengan comunión con nosotros. 
+
+​	En verdad nuestra comunión es 
 
 con el Padre 
 
@@ -1129,3 +1129,104 @@ en Su Hijo Jesucristo.
 Este es el verdadero Dios y la vida eterna. 
 
 Hijos, aléjense de los ídolos.
+
+====
+
+1 Juan 1:1
+
+```
+Ὃ  ἦν  ἀπ’ ἀρχῆς,  
+   └── rel. pron. neut. sing. acc. (“that which”)  
+     └─ ἦν (verb, impf. act. ind. 3rd sg)  
+         └─ ἀπ’ ἀρχῆς (preposition + gen “from the beginning”)
+
+ὃ  ἀκηκόαμεν,  
+   └── rel. pron. (acc. neut. sing.)  
+       └─ ἀκηκόαμεν (perf. act. ind. 1st pl) “we have heard”
+
+ὃ  ἑωράκαμεν  τοῖς ὀφθαλμοῖς ἡμῶν,  
+   └── rel. pron. (acc. neut. sing.)  
+       └─ ἑωράκαμεν (perf. act. ind. 1st pl) “we have seen”  
+             └─ τοῖς ὀφθαλμοῖς ἡμῶν (dative plural, “with our eyes”)
+
+ὃ  ἐθεασάμεθα  καὶ  αἱ  χεῖρες  ἡμῶν  ἐψηλάφησαν,  
+   └── rel. pron. (acc. neut. sing.)  
+       └─ ἐθεασάμεθα (aorist mid. ind. 1st pl) “we looked upon”  
+       └─ καὶ αἱ χεῖρες ἡμῶν (nom. pl. “our hands”)  
+              └─ ἐψηλάφησαν (aorist act. ind. 3rd pl) “touched/handled”
+
+περὶ τοῦ λόγου τῆς ζωῆς  
+   └─ περὶ (prep + gen) “concerning”  
+       └─ τοῦ λόγου (gen. sing. “of the word/message”)  
+           └─ τῆς ζωῆς (gen. sing. “of life”)
+```
+
+1 Juan 1:2
+
+```
+καὶ ἡ ζωὴ ἐφανερώθη,  
+   └─ καὶ (and)  
+       └─ ἡ ζωὴ (nom. sing. “the life”)  
+           └─ ἐφανερώθη (aorist pass. ind. 3rd sg) “was manifested/revealed”
+
+καὶ ἑωράκαμεν καὶ μαρτυροῦμεν καὶ ἀπαγγέλλομεν ὑμῖν  
+   └─ καὶ (and) ἑωράκαμεν (perf. act. ind. 1st pl) “we have seen”  
+   └─ καὶ μαρτυροῦμεν (pres. act. ind. 1st pl) “we bear witness”  
+   └─ καὶ ἀπαγγέλλομεν (pres. act. ind. 1st pl) “we proclaim”  
+       └─ ὑμῖν (dat. pl. “to you”)
+
+τὴν ζωὴν τὴν αἰώνιον  
+   └─ τὴν ζωὴν (acc. sing. “the life”)  
+       └─ τὴν αἰώνιον (acc. sing. “the eternal”)  
+
+ἥτις ἦν πρὸς τὸν πατέρα  
+   └─ ἥτις (relative pron. fem. sing. nom.) “which”  
+       └─ ἦν (impf. act. ind. 3rd sg) “was”  
+           └─ πρὸς τὸν πατέρα (prep + acc. “with/toward the Father”)
+
+καὶ ἐφανερώθη ἡμῖν  
+   └─ καὶ (and) ἐφανερώθη (aorist pass. ind. 3rd sg) “was revealed”  
+       └─ ἡμῖν (dat. pl. “to us”)
+
+```
+
+
+
+1 Juan 1:3
+
+```
+ὃ  ἑωράκαμεν καὶ ἀκηκόαμεν,  
+   └─ rel. pron. acc. neut. sing. “that which”  
+       └─ ἑωράκαμεν (perf. act. ind. 1st pl) “we have seen”  
+       └─ καὶ ἀκηκόαμεν (perf. act. ind. 1st pl) “we have heard”
+
+ἀπαγγέλλομεν καὶ ὑμῖν,  
+   └─ ἀπαγγέλλομεν (pres. act. ind. 1st pl) “we declare/proclaim”  
+       └─ καὶ ὑμῖν (and… to you; dat. pl.)  
+
+ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ’ ἡμῶν.  
+   └─ ἵνα (so that/in order that)  
+       └─ καὶ ὑμεῖς (and you)  
+            └─ κοινωνίαν (acc. sing. “fellowship”)  
+                └─ ἔχητε (pres. subj. act. 2nd pl) “you may have”  
+                    └─ μεθ’ ἡμῶν (prep + gen “with us”)
+
+καὶ ἡ κοινωνία δὲ ἡ ἡμετέρα μετὰ τοῦ πατρός  
+   └─ καὶ (and) ἡ κοινωνία (nom. sing. “the fellowship”)  
+        └─ δὲ (but/yet) ἡ ἡμετέρα (nom. sing. “our”)  
+             └─ μετὰ τοῦ πατρός (prep + gen “with the Father”)
+
+καὶ μετὰ τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ.  
+   └─ καὶ (and) μετὰ τοῦ υἱοῦ (prep + gen “with the Son”)  
+        └─ αὐτοῦ (gen. sing. “of Him”)  
+              └─ Ἰησοῦ Χριστοῦ (gen. sing. proper name “Jesus Christ”)
+
+```
+
+
+
+1 Juan 1:4
+
+```
+```
+
