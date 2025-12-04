@@ -39,7 +39,7 @@ date: 2025-12-03
 
 ### 21 de julio, 2025 - [Reunión Extraordinaria Misiones Cristianas](https://cloud.cc3d.org/index.php/s/QZbr3es3HsHQ33R/download) para discutir CC3D. 
 
-### 23 de julio, 2025 - Jorge Schulz escribe un [email](https://cloud.cc3d.org/index.php/s/X9wbpm2Hp9oNfia/download) enviado por Misiones Cristianas a John Wry pidiendo aclaración sobre acusaciónes hechas. 
+### 23 de julio, 2025 - Jorge Schulz escribe un [email](https://cloud.cc3d.org/index.php/s/X9wbpm2Hp9oNfia/download) representando a Misiones Cristianas a John Wry pidiendo aclaración sobre acusaciónes hechas. 
 
 #### 23 de julio, 2025 - John Wry [responde](https://cloud.cc3d.org/index.php/s/ayQmHEXGqyw6w4g/download) preguntando términos de conversación
 
