@@ -7,21 +7,25 @@ date: 2025-12-03
 
 ## Noviembre 2024
 
-### 21 de noviembre, 2024  - Email de John Wry a Eliseo Zuñiga aclarando que no es Calvinista. 
+### 21 de noviembre, 2024  - [Email](https://cloud.cc3d.org/index.php/s/6LYrrna8qQzzxmT/download) de John Wry a Eliseo Zuñiga aclarando que no es Calvinista. 
 
 #### 22 de noviembre, 2024  - [Email](https://cloud.cc3d.org/index.php/s/6LYrrna8qQzzxmT/download) de Elizeo Zuñiga confirmado recepción 
 
 ## Mayo 2025
 
-### 15 de mayo, 2025  -  Expulsión de Ariel y Lucia del CC3D
+### 15 de mayo, 2025  -  Expulsión de Ariel  Huayta y Lucia Limachi del CC3D.
+
+### 19 de mayo, 2025 - Ariel Huayta convoca una reunión con los encargados de iglesia IBM exprésando desacuerdo con la decisión de expulsarlo de CC3D y su plan de informar a Eliseo Zuñiga de lo acontecido. 
 
 ## Junio 2025
 
-### 19 Junio, 2025 - Aniversario de Iglesia Bíblica Misionera
+### 19 Junio, 2025 - Aniversario de Iglesia Bíblica Misionera. Manolo Gómez estuvo de predicador invitado, causó mayor conflictos. 
 
-### 27 de junio, 2025 - [Carta](https://cloud.cc3d.org/index.php/s/48JGfARaEiZgmiC/download) de ANCIANOS, OBREROS Y MISIONEROS a iglesias de hermanos libres en Bolivia advirtiendo sobre CC3D
+### 27 de junio, 2025 - [Carta](https://cloud.cc3d.org/index.php/s/48JGfARaEiZgmiC/download) de ANCIANOS, OBREROS Y MISIONEROS a iglesias de hermanos libres en Bolivia advirtiendo sobre CC3D firmado por: Corsino Huayta, Dorian Aguirre, Duane Delzer, Elíseo Zúñiga, Isaac Aparicio, Isaac Castillo, Jorge Millares, Julio Díaz, Jurgen (Jorge) Schulz, Marcos Mattix, Mariano Estrada, Mario Clemente, Moisés Velásquez, Nelson Puqui, Ricardo Viera, Roberto Flitrin, Samuel Arias, Samuel Yanaje, Víctor Hugo Luján, Wilson Mollo, Herland Diaz, Fortunato Flores y Felipe Train y Celestino Villarroel.
 
 ## Julio 2025
+
+### 6 de julio, 2024 - Principalmente, a causa de la carta enviada el 27 de junio, Corsino Huayta, Ariel Huayta y Lucia Limachi son retirados de la reunión de la iglesia Bíblica Misionera. 
 
 ### 7 de julio, 2025 - Reunión de ancianos de la ICE Valentín Abecia (Sucre) con alumnos del CC3D. 
 
@@ -57,6 +61,6 @@ date: 2025-12-03
 
 ## Octubre 2025
 
-### 3 de octubre, 2025 - Moises Padilla lee una carta apelando a Misiones Cristianas en su conjunta nacional. 
+### 3 de octubre, 2025 - Moises Padilla lee una [carta](https://cloud.cc3d.org/index.php/s/Z9xbrcjinATcFgJ/download) apelando a Misiones Cristianas en su conjunta nacional. 
 
-### 27 de octubre, 2025 - Misiones Cristianas desafilia a la iglesia Yo Soy en Cochabamba. 
+### 27 de octubre, 2025 - Misiones Cristianas [desafilia a la iglesia Yo Soy en Cochabamba](https://cloud.cc3d.org/index.php/s/zLLjQg8D4D7A7TB/download). 
