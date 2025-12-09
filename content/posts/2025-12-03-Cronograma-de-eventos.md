@@ -1,6 +1,7 @@
 ---
 Title: Cronograma de eventos
 date: 2025-12-03
+lastmod: 2025-12-09
 ---
 
 # Orden de Eventos en orden de fechas sobre lo acontecido a CC3D en Bolivia
@@ -39,6 +40,8 @@ date: 2025-12-03
 
 ### 21 de julio, 2025 - [Reunión Extraordinaria Misiones Cristianas](https://cloud.cc3d.org/index.php/s/QZbr3es3HsHQ33R/download) para discutir CC3D. 
 
+### 23 de julio, 2025 - [Carta](https://cloud.cc3d.org/index.php/s/W3TJCAG9SWJtm5D/download) de parte de Misiones Cristianas a los ancianos representados en Bolivia, ratificando la carta escrita el 27 de junio por ancianos, obreros y misioneros. La carta acusa al CC3D de ser divisionista y de falsa enseñanza. 
+
 ### 23 de julio, 2025 - Jorge Schulz escribe un [email](https://cloud.cc3d.org/index.php/s/X9wbpm2Hp9oNfia/download) representando a Misiones Cristianas a John Wry pidiendo aclaración sobre acusaciónes hechas. 
 
 #### 23 de julio, 2025 - John Wry [responde](https://cloud.cc3d.org/index.php/s/ayQmHEXGqyw6w4g/download) preguntando términos de conversación
@@ -64,3 +67,10 @@ date: 2025-12-03
 ### 3 de octubre, 2025 - Moises Padilla lee una [carta](https://cloud.cc3d.org/index.php/s/Z9xbrcjinATcFgJ/download) apelando a Misiones Cristianas en su conjunta nacional. 
 
 ### 27 de octubre, 2025 - Misiones Cristianas [desafilia a la iglesia Yo Soy en Cochabamba](https://cloud.cc3d.org/index.php/s/zLLjQg8D4D7A7TB/download). 
+
+## Diciembre 2025
+
+### 3 de diciembre, 2025 - [Carta](https://cloud.cc3d.org/index.php/s/ZDdJpbeEzJA8oBH/download) de Gerson Flores explicando lo acontecido en la Iglesia Bíblica Misionera, Tupiza. 
+
+### 4 de diciembre, 2025 - ancianos de la Iglesia Grace and Truth de Canada se reúnen con Enoel Suarez, Jorge Schulz y John Wry para conversar como proceder. 
+
