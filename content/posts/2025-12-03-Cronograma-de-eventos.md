@@ -72,5 +72,5 @@ lastmod: 2025-12-09
 
 ### 3 de diciembre, 2025 - [Carta](https://cloud.cc3d.org/index.php/s/ZDdJpbeEzJA8oBH/download) de Gerson Flores explicando lo acontecido en la Iglesia Bíblica Misionera, Tupiza. 
 
-### 4 de diciembre, 2025 - ancianos de la Iglesia Grace and Truth de Canada se reúnen con Enoel Suarez, Jorge Schulz y John Wry para conversar como proceder. 
+### 4 de diciembre, 2025 - ancianos de la [Iglesia Grace and Truth de Canada](https://www.gracetruthwindsor.com/) se reúnen con Enoel Suarez, Jorge Schulz y John Wry para conversar como proceder. 
 
