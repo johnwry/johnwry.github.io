@@ -1,5 +1,6 @@
 ---
 Title: Gálatas 2:6-14
+draft: false
 ---
 
 # Gálatas 2:6-14
