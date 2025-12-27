@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>es</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
     <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -82,20 +82,20 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Israel</title>
       <link>http://localhost:1313/tags/israel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>johnwry@gmail.com (BJWry)</author>
       <guid>http://localhost:1313/tags/israel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jeconia</title>
+      <link>http://localhost:1313/tags/jeconia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>http://localhost:1313/tags/jeconia/</guid>
       <description></description>
     </item>
     

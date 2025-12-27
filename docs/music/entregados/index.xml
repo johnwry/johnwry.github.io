@@ -5,7 +5,7 @@
     <link>http://localhost:1313/music/entregados/</link>
     <description>Recent content in Entregados on BJWry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>es</language>
     <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
     <webMaster>johnwry@gmail.com (BJWry)</webMaster>
     <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/entregados/index.xml" rel="self" type="application/rss+xml" />
@@ -89,6 +89,32 @@ Todo pasa tan violento
 Mi vida silenciosamente
 Todo pasa como el viento
 Y yo aqui, lentamente</description>
+    </item>
+    
+    <item>
+      <title>Yo Vi La Luz</title>
+      <link>http://localhost:1313/music/entregados/yo-vi-la-luz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>johnwry@gmail.com (BJWry)</author>
+      <guid>http://localhost:1313/music/entregados/yo-vi-la-luz/</guid>
+      <description>Vagaba por el mundo
+Andaba en el error
+No dejaria que el Salvador entrara
+Entonces Jesus vino a mi corazón
+Aleluya, ¡Yo vi la Luz!
+(Coro)
+¡Yo vi la Luz!
+Yo Vi la luz
+no mas tinieblas
+no mas noche
+Estoy tan feliz
+Tristeza no habrá
+Aleluya, yo vi la luz
+Igual que el hombre ciego
+Andaba por ahi
+Preocupaciones y temores me cargaban
+Entonces como al ciego,
+El me hizo ver</description>
     </item>
     
   </channel>
