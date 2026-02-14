@@ -447,3 +447,1338 @@ Notes::
 **David** - David confessed his sin to Nathan. Nathan told him his sin had already been forgiven. It was acknowledging his sin but not in order to be restored. 
 **Proverbs** - Solomon speaks of how blessed is the man who admits his sin - referring to David. 2 Sam 12:13 "...The LORD also hath put away thy sin; thou shalt 
 not die".
+
+
+
+
+
+=======
+
+
+
+**1 John 2:3**
+
+**Greek frame:**
+ καὶ **ἐν τούτῳ γινώσκομεν** ὅτι …
+
+**What follows “this”:**
+ **ὅτι τὰς ἐντολὰς αὐτοῦ τηρῶμεν**
+ (*that we keep His commandments*)
+
+
+
+**1 John 2:5**
+
+**Greek frame:**
+ ἐν τούτῳ **γινώσκομεν** ὅτι …
+
+**What follows “this”:**
+ **ὅτι ἐν αὐτῷ ἐσμεν**
+ (*that we are in Him*)
+
+
+
+**1 John 3:16**
+
+**Greek frame:**
+ **ἐν τούτῳ ἐγνώκαμεν** τὴν ἀγάπην, ὅτι …
+
+**What follows “this”:**
+ **ὅτι ἐκεῖνος ὑπὲρ ἡμῶν τὴν ψυχὴν αὐτοῦ ἔθηκεν**
+ (*that He laid down His life for us*)
+
+
+
+**1 John 3:19**
+
+**Greek frame:**
+ **ἐν τούτῳ γινώσκομεν** ὅτι …
+
+**What follows “this”:**
+ **ὅτι ἐκ τῆς ἀληθείας ἐσμεν**
+ (*that we are from the truth*)
+
+
+
+**1 John 3:24**
+
+**Greek frame:**
+ καὶ **ἐν τούτῳ γινώσκομεν** ὅτι …
+
+**What follows “this”:**
+ **ὅτι μένει ἐν ἡμῖν**
+ (*that He remains in us*)
+
+Followed immediately by an explanatory clause:
+ **ἐκ τοῦ Πνεύματος οὗ ἡμῖν ἔδωκεν**
+ (*from the Spirit whom He gave to us*)
+
+
+
+**1 John 4:2**
+
+**Greek frame:**
+ **ἐν τούτῳ γινώσκετε** τὸ Πνεῦμα τοῦ Θεοῦ·
+
+**What follows “this”:**
+ **πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα**
+ (*every spirit that confesses Jesus Christ having come in flesh*)
+
+
+
+**1 John 4:6**
+
+**Greek frame:**
+ **ἐκ τούτου γινώσκομεν** …
+
+**What follows “this”:**
+ **τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης**
+ (*the Spirit of truth and the spirit of error*)
+
+
+
+**1 John 4:9**
+
+**Greek frame:**
+ **ἐν τούτῳ ἐφανερώθη** ἡ ἀγάπη τοῦ Θεοῦ ἐν ἡμῖν, ὅτι …
+
+**What follows “this”:**
+ **ὅτι τὸν Υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ Θεὸς εἰς τὸν κόσμον**
+ (*that God has sent His only Son into the world*)
+
+
+
+**1 John 4:13**
+
+**Greek frame:**
+ **ἐν τούτῳ γινώσκομεν** ὅτι …
+
+**What follows “this”:**
+ **ὅτι ἐν αὐτῷ μένομεν καὶ αὐτὸς ἐν ἡμῖν**
+ (*that we remain in Him and He in us*)
+
+Followed immediately by:
+ **ὅτι ἐκ τοῦ Πνεύματος αὐτοῦ δέδωκεν ἡμῖν**
+ (*that He has given to us from His Spirit*)
+
+
+
+**1 John 5:2**
+
+**Greek frame:**
+ **ἐν τούτῳ γινώσκομεν** ὅτι …
+
+**What follows “this”:**
+ **ὅτι ἀγαπῶμεν τὰ τέκνα τοῦ Θεοῦ**
+ (*that we love the children of God*)
+
+Followed immediately by a temporal clause:
+ **ὅταν τὸν Θεὸν ἀγαπῶμεν καὶ τὰς ἐντολὰς αὐτοῦ ποιῶμεν**
+ (*when we love God and do His commandments*)
+
+ 
+
+ 
+
+**Observation**:
+
+·    The grammar keeps the reader in **ongoing, present evaluation**
+
+·    Distinction is portrayed as **currently observable**
+
+·    The text resists locating discernment in a past event alone
+
+This grammatical choice sustains continuous distinguishing.
+
+**Absence of narrative progression**
+
+Observationally:
+
+- No storyline
+- No temporal development
+- No sequential argument chain
+
+📌 **Observation**:
+
+- The letter does not “move     forward” narratively
+- Instead, it **circles the same     grammatical distinctions**
+- Each pass reinforces recognition     rather than discovery
+
+The reader is **not told a story**; the reader is **placed inside a classification**.
+
+ 
+
+ 
+
+ 
+
+ 
+
+**I.**        **First John 1**
+
+- **First John 1:5**
+       ἐν αὐτῷ — *“in him”*
+- **First John 1:6**
+       ἐν τῷ σκότει — *“in the darkness”*
+- **First John 1:7**
+       ἐν τῷ φωτί — *“in the light”*
+- **First John 1:8**
+       ἐν ἡμῖν — *“in us”*
+
+
+
+**II.**       **First John 2**
+
+- **First John 2:3**
+       ἐν τούτῳ — *“in this”*
+- **First John 2:5**
+       ἐν τούτῳ — *“in this”*
+       ἐν αὐτῷ — *“in him”*
+- **First John 2:6**
+       ἐν αὐτῷ — *“in him”*
+- **First John 2:8**
+       ἐν αὐτῷ — *“in him”*
+       ἐν ὑμῖν — *“in you”*
+- **First John 2:10**
+       ἐν τῷ φωτί — *“in the light”*
+- **First John 2:11**
+       ἐν τῇ σκοτίᾳ — *“in the darkness”*
+- **First John 2:15**
+       ἐν αὐτῷ — *“in him”*
+- **First John 2:16**
+       ἐκ τοῦ κόσμου — *“from the world”*
+- **First John 2:19**
+       ἐξ ἡμῶν — *“from us”*
+- **First John 2:21**
+       ἐκ τῆς ἀληθείας — *“from the truth”*
+- **First John 2:24**
+       ἐν ὑμῖν — *“in you”*
+       ἐν τῷ υἱῷ — *“in the Son”*
+       ἐν τῷ πατρί — *“in the Father”*
+- **First John 2:27**
+       ἐν ὑμῖν — *“in you”*
+       ἐν αὐτῷ — *“in him”*
+- **First John 2:28**
+       ἐν αὐτῷ — *“in him”*
+
+
+
+**III.**      **First John 3**
+
+- **First John 3:6**
+       ἐν αὐτῷ — *“in him”*
+- **First John 3:8**
+       ἐκ τοῦ διαβόλου — *“from the devil”*
+- **First John 3:9**
+       ἐκ τοῦ θεοῦ — *“from God”*
+       ἐν αὐτῷ — *“in him”*
+- **First John 3:10**
+       ἐν τούτῳ — *“in this”*
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 3:12**
+       ἐκ τοῦ πονηροῦ — *“from the evil one”*
+- **First John 3:16**
+       ἐν τούτῳ — *“in this”*
+- **First John 3:19**
+       ἐν τούτῳ — *“in this”*
+- **First John 3:24**
+       ἐν αὐτῷ — *“in him”*
+       ἐν ἡμῖν — *“in us”*
+
+
+
+**IV.**      **First John 4**
+
+- **First John 4:1**
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 4:2**
+       ἐν τούτῳ — *“in this”*
+- **First John 4:3**
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 4:4**
+       ἐκ τοῦ θεοῦ — *“from God”*
+       ἐν ὑμῖν — *“in you”*
+- **First John 4:5**
+       ἐκ τοῦ κόσμου — *“from the world”*
+       ἐκ τοῦ κόσμου — *“from the world”*
+- **First John 4:6**
+       ἐκ τοῦ θεοῦ — *“from God”*
+       οὐκ ἐκ τοῦ θεοῦ — *“not from God”*
+       ἐκ τῆς ἀληθείας — *“from the truth”*
+- **First John 4:9**
+       ἐν τούτῳ — *“in this”*
+- **First John 4:10**
+       ἐν τούτῳ — *“in this”*
+- **First John 4:12**
+       ἐν ἡμῖν — *“in us”*
+- **First John 4:13**
+       ἐν τούτῳ — *“in this”*
+       ἐν αὐτῷ — *“in him”*
+       ἐν ἡμῖν — *“in us”*
+- **First John 4:15**
+       ἐν αὐτῷ — *“in him”*
+- **First John 4:16**
+       ἐν τῇ ἀγάπῃ — *“in love”*
+       ἐν τῷ θεῷ — *“in God”*
+       ἐν αὐτῷ — *“in him”*
+- **First John 4:17**
+       ἐν τούτῳ — *“in this”*
+       ἐν τῷ κόσμῳ — *“in the world”*
+
+
+
+**V.**       **First John 5**
+
+- **First John 5:1**
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 5:4**
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 5:6**
+       ἐν τῷ ὕδατι — *“in the water”*
+       ἐν τῷ αἵματι — *“in the blood”*
+- **First John 5:9**
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 5:18**
+       ἐκ τοῦ θεοῦ — *“from God”*
+- **First John 5:19**
+       ἐκ τοῦ θεοῦ — *“from God”*
+       ἐν τῷ πονηρῷ — *“in the evil one”*
+
+ 
+
+ 
+
+ 
+
+**No verb in First John ever shifts from “not having life” → “having life.”**
+
+Instead:
+
+- “having life” is stated as a **present     possession**
+- “not having life” is stated as a **simultaneous     contrast**
+- Even movement language (“passed     from death to life”) is **perfect-state**, not narrative progression
+
+**VI.**      **Therefore, grammatically:**
+
+- Life is **not attained**
+- Life is **not entered**
+- Life is **not progressed into**
+
+It is **stated, possessed, or contrasted**—never acquired within the letter.
+
+ 
+
+ 
+
+ 
+
+# **Things Presented as Experience-able in 1 John**
+
+(identified by **verbs of feeling, perception, awareness, internal response, or relational interaction**)
+
+
+
+**1. joy**
+
+- ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη —
+       *“so that our joy may be full”*
+       First John 1:4
+
+**Observation**
+
+- χαρά is expressed as capable of **fullness**
+- emotional / experiential category
+
+
+
+**2. fellowship**
+
+- κοινωνίαν ἔχομεν —
+       *“we have fellowship”*
+       First John 1:3
+       First John 1:6
+       First John 1:7
+
+**Observation**
+
+- κοινωνία is relational and     participatory
+- expressed with ἔχω but     relational, not ontological like ζωή
+
+
+
+**3. walking (conduct awareness)**
+
+- περιπατῶμεν ἐν τῷ φωτί —
+       *“we walk in the light”*
+       First John 1:7
+- περιπατῶμεν ἐν τῇ σκοτίᾳ —
+       *“we walk in the darkness”*
+       First John 1:6
+
+**Observation**
+
+- περιπατέω denotes lived conduct
+- experiential by nature of action
+
+
+
+**4. conscience / heart response**
+
+- ἐὰν καταγινώσκῃ ἡμῶν ἡ καρδία —
+       *“if our heart condemns us”*
+       First John 3:20
+- πείσομεν τὰς καρδίας ἡμῶν —
+       *“we will persuade our hearts”*
+       First John 3:19
+
+**Observation**
+
+- καρδία functions as internal     awareness
+- condemnation and persuasion are     experiential
+
+
+
+**5. confidence / boldness**
+
+- παρρησίαν ἔχομεν —
+       *“we have confidence”*
+       First John 3:21
+       First John 4:17
+       First John 5:14
+
+**Observation**
+
+- παρρησία is an internal posture
+- explicitly experiential
+
+
+
+**6. assurance / knowing (subjective awareness)**
+
+- γινώσκομεν ὅτι —
+       *“we know that”*
+       First John 2:3
+       First John 3:16
+       First John 3:19
+       First John 5:2
+       First John 5:13
+
+**Observation**
+
+- γινώσκω used for **awareness**,     not origin
+- often paired with ἐν τούτῳ (“in     this”)
+
+
+
+**7. love (expressed and felt)**
+
+- ἀγαπῶμεν —
+       *“we love”*
+       First John 3:11
+       First John 3:14
+       First John 4:7
+       First John 4:11
+- φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ —
+       *“fear is not in love”*
+       First John 4:18
+
+**Observation**
+
+- love interacts with fear
+- fear is removed, indicating     experiential reality
+
+
+
+**8. fear**
+
+- φόβος —
+       *“fear”*
+       First John 4:18
+
+**Observation**
+
+- explicitly experiential
+- contrasted with confidence and     love
+
+
+
+**9. hearing / listening**
+
+- ἀκούει ἡμῶν —
+       *“listens to us”*
+       First John 4:6
+
+**Observation**
+
+- sensory / relational experience
+- used as distinguishing response
+
+
+
+**10. conviction of sin (implicitly experienced)**
+
+- ἐὰν εἴπωμεν ὅτι ἁμαρτίαν οὐκ     ἔχομεν —
+       *“if we say that we do not have sin”*
+       First John 1:8
+
+**Observation**
+
+- presence of sin acknowledged
+- denial framed as false     self-assessment
+
+
+
+**What Is Not Framed as Experience**
+
+For contrast (still observational):
+
+- ζωή — *“life”* → possessed,     revealed, located
+- γεννάω — *“to be born”* →     stated, not felt
+- ἐκ τοῦ θεοῦ — *“from God”* →     origin, not experience
+- ἐν τῷ υἱῷ — *“in the Son”* →     relational location, not sensation
+
+
+
+**Text-Bound Summary**
+
+In First John, the following **can be experienced**:
+
+- joy
+- fellowship
+- walking (conduct awareness)
+- heart-condemnation or persuasion
+- confidence / boldness
+- assurance / knowing
+- love
+- fear
+- relational hearing
+- awareness of sin
+
+**Life itself is not among them.**
+
+Life is **possessed**, **located**, or **testified** — never experienced.
+
+ 
+
+ 
+
+Testing is **discernment of source**, not evaluation of feeling.
+
+ 
+
+ 
+
+ 
+
+**Internal cohesion of each proposed division**
+
+**VII.**     **Division 1: First John 1:1–2:17**
+
+Repeated features:
+
+- sensory verbs: ἀκηκόαμεν,     ἑωράκαμεν, ἐθεασάμεθα, ἐψηλάφησαν
+- light/darkness polarity
+- walking language (περιπατέω)
+- possession statements:
+  - ἔχομεν κοινωνίαν
+  - ἔχομεν παράκλητον
+- negated self-claims (ἐὰν εἴπωμεν)
+
+**Observation**
+
+- Dominated by **foundational     claims and denials**, not external threats.
+
+
+
+**VIII.**    **Division 2: First John 2:18–4:6**
+
+Repeated features:
+
+- departure language: ἐξῆλθαν
+- denial/confession tests
+- spirit-testing imperatives
+- truth vs error polarity
+- origin testing:
+  - ἐκ τοῦ θεοῦ
+  - οὐκ ἐκ τοῦ θεοῦ
+  - ἐκ τοῦ κόσμου
+
+**Observation**
+
+- Sustained focus on **discernment     under threat**, especially regarding speech and confession.
+
+
+
+**IX.**      **Division 3: First John 4:7–5:21**
+
+Repeated features:
+
+- love cycles (ἀγάπη repeated     densely)
+- mutual indwelling (ἐν)
+- possession of life:
+  - ἔχει τὴν ζωήν
+- birth language:
+  - γεγέννηται ἐκ τοῦ θεοῦ
+- testimony and assurance language
+
+**Observation**
+
+- Dominated by **relational and     possession statements**, not exposure of deceivers.
+
+ 
+
+ 
+
+| **Division** | **Dominant preposition** | **Observable function**                      |
+| ------------ | ------------------------ | -------------------------------------------- |
+| 1:1–2:17     | ἐν "in"                  | state, walk, relational location             |
+| 2:18–4:6     | ἐκ "from"                | origin, source, departure, testing           |
+| 4:7–5:21     | ἐν (with ἐκ)             | abiding, mutual indwelling, life  possession |
+
+ 
+
+====
+
+## Section 1
+
+**First John 1:1–2:17**
+
+### Dominant grammar
+
+- ἐν (state / location)
+- walking and claiming
+- light / darkness polarity
+
+### Revised title
+
+**“Life Identified by State and Walk”**
+
+(alternatives)
+
+- **“Life Described in Relational Terms”**
+- **“Life Spoken of in Light and Darkness”**
+
+------
+
+## Section 2
+
+**First John 2:18–4:6**
+
+### Dominant grammar
+
+- ἐκ (origin / source)
+- departure, confession, testing
+
+### Revised title
+
+**“Life Distinguished by Origin”**
+
+(alternatives remain valid)
+
+- **“What Is from God and What Is Not”**
+- **“Origins Exposed”**
+
+------
+
+## Section 3
+
+**First John 4:7–5:21**
+
+### Dominant grammar
+
+- ἐν with possession verbs (ἔχει)
+- birth language (γεγέννηται ἐκ)
+- mutual indwelling statements
+
+### Revised title
+
+**“Life Described as Possessed and Located”**
+
+(alternatives)
+
+- **“Life Defined by Possession and Abiding”**
+- **“Life Located in God and in the Son”**
+
+------
+
+## Why this now fits the whole letter
+
+- No **progression**
+- No **experience verbs**
+- No **transition narrative**
+- Only repeated **distinctions**
+
+The reader is not guided through stages, but continually **forced by grammar to recognize**:
+
+- where life is
+- where it is not
+- who has it
+- who does not
+
+
+
+# How John actually uses “life”
+
+Life functions grammatically as:
+
+- **Given** (manifested) — First John 1:2
+- **Possessed or not** — First John 5:12
+- **Testified to** — First John 5:11
+
+But it is **never used as the criterion** in the tests.
+
+Instead, the tests are:
+
+- origin (ἐκ)
+- location (ἐν)
+- conduct
+- love
+- confession
+
+**Observation**
+
+- Life is the **referent**
+- Distinctions are the **mechanism**
+
+
+
+## 4. Why “life” resists being the book title
+
+A book title normally reflects:
+
+- what the reader is asked to *do* or *discern*
+- not merely what is *true in the background*
+
+In First John:
+
+- The reader is **never told to pursue life**
+- The reader is **never told to experience life**
+- The reader is **never told how to obtain life**
+
+The reader is repeatedly told to **recognize**:
+
+- what is from God
+- what is not from God
+
+**Observation**
+
+- Life is not the question
+- Origin and alignment are the question
+
+
+
+
+
+## 5. Relationship between “life” and your chosen title
+
+Your working title:
+
+> **“Distinguishing what Is and what is not from God”**
+
+This fits the text because:
+
+- Life is **already defined**
+- Life is **already located**
+- The danger is **misidentification**, not absence
+
+Life is **what is at stake**, not **what is under debate**.
+
+
+
+# Final text-bound answer
+
+## **Life is central, but not focal.**
+
+###  John treats life as **given and settled**, and spends the letter training the reader to **distinguish what aligns with that life and what does not**.
+
+#### Therefore, a title built on **distinguishing from God** reflects what the text repeatedly *does*, while “life” names what the text consistently *assumes*.
+
+LIGHT/GREATER/LOVE
+
+| Anchor (θεός + εἰμί)          | Anchor clause (Greek + English gloss)                        | Diagnostic frame types immediately downstream                | Binary opposition vocabulary used as diagnostic language     | Dominant prepositions / spatial-source framing               | Speech verbs used diagnostically                             |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Light** (1 John 1:1–2:17)   | ὁ θεὸς *“God”* φῶς *“light”* ἐστιν *“is”* (1 John 1:5)       | **ἐὰν** *“if”* + subjunctive repeated (1 John 1:6–10)        | φῶς *“light”* / σκοτία *“darkness”* (1 John 1:6–7); ἀλήθεια *“truth”* / ψεύδομαι, ψεύστης *“lie / liar”* (1 John 1:6, 1 John 1:10) | **ἐν** *“in”* + dative: ἐν τῷ φωτί *“in the light”*, ἐν τῷ σκότει *“in the darkness”* (1 John 1:6–7) | εἴπωμεν *“we say”* (1 John 1:6, 1 John 1:8, 1 John 1:10); ὁμολογῶμεν *“we confess”* (1 John 1:9) |
+| **Greater** (1 John 2:18–4:6) | μείζων *“greater”* ἐστίν *“is”* ὁ θεός *“God”* … καὶ γινώσκει *“and knows”* πάντα *“all things”* (1 John 3:20) | **ἐὰν** *“if”* + subjunctive (1 John 3:20–21); **ὃ ἐὰν** *“whatever if/whenever”* + subjunctive (1 John 3:22); explicit imperative **δοκιμάζετε** *“test”* (1 John 4:1) | ἐκ τοῦ θεοῦ *“from God”* / ἐκ τοῦ κόσμου *“from the world”* dominates (1 John 4:1–6); also explicit comparison in parallel μείζων clause (1 John 4:4) | **ἐκ** *“from”* + genitive: ἐκ τοῦ θεοῦ / ἐκ τοῦ κόσμου (1 John 4:1–6); also **ἐν** *“in”* appears in the parallel comparative: ὁ ἐν ὑμῖν *“the one in you”* vs ὁ ἐν τῷ κόσμῳ *“the one in the world”* (1 John 4:4) | ὁμολογεῖ / μὴ ὁμολογεῖ *“confesses / does not confess”* (1 John 4:2–3) |
+| **Love** (1 John 4:7–5:21)    | ὁ θεὸς *“God”* ἀγάπη *“love”* ἐστίν *“is”* (1 John 4:8; repeated 1 John 4:16) | **ὁ + participle** categories: ὁ ἀγαπῶν *“the one loving”*, ὁ μὴ ἀγαπῶν *“the one not loving”* (1 John 4:7–8); **ἐὰν** *“if”* + subjunctive (1 John 4:12); confession-conditional **ἐάν** *“if”* (1 John 4:15); **ὁ μένων** *“the one abiding”* (1 John 4:16) | ἀγαπῶν *“loving”* / μὴ ἀγαπῶν *“not loving”* (1 John 4:7–8); φόβος *“fear”* vs love-completion language (1 John 4:18) | Strong **ἐν** *“in”* + dative with μένω *“abide”*: ἐν ἡμῖν *“in us”*, ἐν τῷ θεῷ *“in God”*, ἐν τῇ ἀγάπῃ *“in love”* (1 John 4:12–16) | ὁμολογήσῃ *“confesses”* with explicit identity content: ἰησοῦς *“Jesus”* ἐστίν *“is”* ὁ υἱὸς τοῦ θεοῦ *“the Son of God”* (1 John 4:15) |
+
+
+
+# 1 What follows
+
+Below is a **bullet inventory of diagnostic-frame clauses** (kept short) in each anchor zone, showing only:
+
+- the **frame trigger** (ἐὰν ( *"if"* ), ὁ ( *"the"* ) + participle, δοκιμάζετε ( *"test"* ), etc.), and
+- the **key binary / diagnostic terms** that the clause uses (φῶς ( *"light"* ) / σκοτία ( *"darkness"* ), ἐκ ( *"from"* ) θεοῦ ( *"God"* ) / ἐκ ( *"from"* ) κόσμου ( *"world"* ), ἀγαπῶν ( *"loving"* ) / μὴ ( *"not"* ) ἀγαπῶν ( *"loving"* ), etc.).
+
+# 2 Anchor zone: “God is light” (1 John 1:5–2:17)
+
+- **1 John 1:6** — ἐὰν ( *"if"* ) … σκότει ( *"darkness"* ) / ἀλήθειαν ( *"truth"* ) + ψευδόμεθα ( *"we lie"* )
+- **1 John 1:7** — ἐὰν ( *"if"* ) … φωτί ( *"light"* )
+- **1 John 1:8** — ἐὰν ( *"if"* ) … ἁμαρτίαν ( *"sin"* ) + ἀλήθεια ( *"truth"* )
+- **1 John 1:9** — ἐὰν ( *"if"* ) … ὁμολογῶμεν ( *"we confess"* ) + ἁμαρτίας ( *"sins"* )
+- **1 John 1:10** — ἐὰν ( *"if"* ) … ψεύστην ( *"liar"* ) + λόγος ( *"word"* )
+- **1 John 2:4** — ὁ ( *"the"* ) λέγων ( *"saying"* ) … ψεύστης ( *"liar"* ) + ἀλήθεια ( *"truth"* )
+- **1 John 2:6** — ὁ ( *"the"* ) λέγων ( *"saying"* ) … περιπατεῖν ( *"to walk"* )
+- **1 John 2:9** — ὁ ( *"the"* ) λέγων ( *"saying"* ) … ἐν ( *"in"* ) τῷ ( *"the"* ) φωτὶ ( *"light"* ) / ἐν ( *"in"* ) τῇ ( *"the"* ) σκοτίᾳ ( *"darkness"* )
+- **1 John 2:10** — ὁ ( *"the"* ) ἀγαπῶν ( *"loving"* ) … ἐν ( *"in"* ) τῷ ( *"the"* ) φωτὶ ( *"light"* )
+- **1 John 2:11** — ὁ ( *"the"* ) μισῶν ( *"hating"* ) … ἐν ( *"in"* ) τῇ ( *"the"* ) σκοτίᾳ ( *"darkness"* )
+
+# 3 Anchor zone: “God is greater” (1 John 2:18–4:6)
+
+- **1 John 3:20** — ἐὰν ( *"if"* ) … καρδία ( *"heart"* ) + καταγινώσκῃ ( *"condemns"* ) → μείζων ( *"greater"* ) + θεός ( *"God"* )
+- **1 John 3:21** — ἐὰν ( *"if"* ) … καρδία ( *"heart"* ) + μὴ ( *"not"* ) καταγινώσκῃ ( *"condemns"* )
+- **1 John 3:22** — ὃ ( *"whatever"* ) ἐὰν ( *"if/whenever"* ) … αἰτῶμεν ( *"we ask"* )
+- **1 John 4:1** — δοκιμάζετε ( *"test"* ) + πνεύματα ( *"spirits"* )
+- **1 John 4:2** — πᾶν ( *"every"* ) πνεῦμα ( *"spirit"* ) … ὁμολογεῖ ( *"confesses"* ) → ἐκ ( *"from"* ) τοῦ ( *"the"* ) θεοῦ ( *"God"* ) ἐστιν ( *"is"* )
+- **1 John 4:3** — πᾶν ( *"every"* ) πνεῦμα ( *"spirit"* ) … μὴ ( *"not"* ) ὁμολογεῖ ( *"confesses"* ) → οὐκ ( *"not"* ) ἔστιν ( *"is"* ) ἐκ ( *"from"* ) τοῦ ( *"the"* ) θεοῦ ( *"God"* )
+- **1 John 4:4** — μείζων ( *"greater"* ) … ὁ ( *"the"* ) ἐν ( *"in"* ) ὑμῖν ( *"you"* ) / ὁ ( *"the"* ) ἐν ( *"in"* ) τῷ ( *"the"* ) κόσμῳ ( *"world"* )
+- **1 John 4:5** — ἐκ ( *"from"* ) τοῦ ( *"the"* ) κόσμου ( *"world"* )
+- **1 John 4:6** — ὁ ( *"the"* ) γινώσκων ( *"knowing"* ) … / ὃς ( *"who"* ) οὐκ ( *"not"* ) ἔστιν ( *"is"* ) ἐκ ( *"from"* ) τοῦ ( *"the"* ) θεοῦ ( *"God"* )
+
+# 4 Anchor zone: “God is love” (1 John 4:7–5:21)
+
+## 4.1 Love block (1 John 4:7–4:21)
+
+- **1 John 4:7** — πᾶς ( *"everyone"* ) ὁ ( *"the"* ) ἀγαπῶν ( *"loving"* )
+- **1 John 4:8** — ὁ ( *"the"* ) μὴ ( *"not"* ) ἀγαπῶν ( *"loving"* )
+- **1 John 4:12** — ἐὰν ( *"if"* ) … ἀγαπῶμεν ( *"we love"* )
+- **1 John 4:15** — ἐάν ( *"if"* ) … ὁμολογήσῃ ( *"confesses"* ) + ἰησοῦς ( *"Jesus"* ) ἐστίν ( *"is"* ) υἱός ( *"son"*
+   )
+- **1 John 4:16** — ὁ ( *"the"* ) μένων ( *"abiding"* ) ἐν ( *"in"* ) τῇ ( *"the"* ) ἀγάπῃ ( *"love"* )
+- **1 John 4:18** — ὁ ( *"the"* ) φοβούμενος ( *"fearing"* )
+- **1 John 4:20** — ἐάν ( *"if"* ) τις ( *"someone"* ) εἴπῃ ( *"says"* ) … ἀγαπῶ ( *"I love"* ) / μισῇ ( *"hates"* )
+
+## 4.2 Faith/son identity diagnostics (1 John 5:1–5)
+
+- **1 John 5:1** — πᾶς ( *"everyone"* ) ὁ ( *"the"* ) πιστεύων ( *"believing"* )
+- **1 John 5:1** — πᾶς ( *"everyone"* ) ὁ ( *"the"* ) ἀγαπῶν ( *"loving"* )
+- **1 John 5:5** — ὁ ( *"the"* ) πιστεύων ( *"believing"* ) … ἰησοῦς ( *"Jesus"* ) ἐστίν ( *"is"* ) υἱός ( *"son"* )
+
+## 4.3 Believing / not believing contrast (1 John 5:10–12)
+
+- **1 John 5:10** — ὁ ( *"the"* ) πιστεύων ( *"believing"* )
+- **1 John 5:10** — ὁ ( *"the"* ) μὴ ( *"not"* ) πιστεύων ( *"believing"* )
+- **1 John 5:12** — ὁ ( *"the"* ) ἔχων ( *"having"* ) τὸν ( *"the"* ) υἱόν ( *"son"* ) / ὁ ( *"the"* ) μὴ ( *"not"* ) ἔχων ( *"having"* ) τὸν ( *"the"* ) υἱόν ( *"son"* )
+
+## 4.4 Asking / seeing conditionals (1 John 5:14–16)
+
+- **1 John 5:14** — ἐάν ( *"if"* ) … αἰτώμεθα ( *"we ask"* )
+- **1 John 5:16** — ἐάν ( *"if"* ) τις ( *"someone"* ) ἴδῃ ( *"sees"* ) … ἁμαρτάνοντα ( *"sinning"* )
+
+## 4.5 Birth-from-God category (1 John 5:18)
+
+- **1 John 5:18** — πᾶς ( *"everyone"* ) ὁ ( *"the"* ) γεγεννημένος ( *"having been born"* ) ἐκ ( *"from"* ) τοῦ ( *"the"* ) θεοῦ ( *"God"* )
+
+# 5 Patterns visible once the clause list is expanded
+
+- **Two main diagnostic engines repeat:** ἐὰν / ἐάν ( *"if"* ) conditionals **and** ὁ ( *"the"* ) + participle categories (*"the one who …"*).
+- **Speech-claim testing repeats**: λέγων ( *"saying"* ), εἴπῃ ( *"says"* ), ὁμολογῶμεν / ὁμολογεῖ / ὁμολογήσῃ ( *"confess / confesses"* ) appear as explicit diagnostic surfaces.
+- **Binary pairs are the “measurement vocabulary”:** φωτί ( *"light"* ) / σκοτίᾳ ( *"darkness"* ), ἀλήθεια ( *"truth"* ) / ψεύστης ( *"liar"* ), ἐκ ( *"from"* ) θεοῦ ( *"God"* ) / ἐκ ( *"from"* ) κόσμου ( *"world"* ), πιστεύων ( *"believing"* ) / μὴ ( *"not"* ) πιστεύων ( *"believing"* ), ἔχων ( *"having"* ) / μὴ ( *"not"* ) ἔχων ( *"having"* ).
+- **Preposition shift aligns with anchor zones:** ἐν ( *"in"* ) is heavy in the **light/love** domains; ἐκ ( *"from"* ) dominates the **testing/source** block in **1 John 4:1–6**.
+
+=====
+
+- **Cycle starting clause** → **bold Greek**
+- **Explicit objective object of trust** → **[square brackets]**
+- **Implicit objective object of trust** → **(parentheses)**
+
+No interpretation is added.
+ Objects are marked **only where they are textually anchored** (explicit or grammatically implied).
+
+------
+
+## 1 John — Greek text (SBLGNT) with cycle starts and objective objects marked
+
+------
+
+### Cycle 1 — 1 John 1:5–7
+
+**καὶ αὕτη ἐστὶν ἡ ἀγγελία ἣν ἀκηκόαμεν ἀπ’ αὐτοῦ καὶ ἀναγγέλλομεν ὑμῖν**,
+ ὅτι **[ὁ θεὸς φῶς ἐστίν]** (ὁ θεός) καὶ σκοτία ἐν αὐτῷ οὐκ ἔστιν οὐδεμία.
+ ἐὰν εἴπωμεν ὅτι κοινωνίαν ἔχομεν μετ’ αὐτοῦ καὶ ἐν τῷ σκότει περιπατῶμεν, ψευδόμεθα καὶ οὐ ποιοῦμεν **[τὴν ἀλήθειαν]** (ἡ ἀλήθεια).
+ ἐὰν δὲ ἐν τῷ φωτὶ περιπατῶμεν ὡς αὐτός ἐστιν ἐν τῷ φωτί, κοινωνίαν ἔχομεν μετ’ ἀλλήλων καὶ τὸ αἷμα Ἰησοῦ τοῦ υἱοῦ αὐτοῦ καθαρίζει ἡμᾶς ἀπὸ πάσης ἁμαρτίας.
+
+------
+
+### Cycle 2 — 1 John 1:8–9
+
+**ἐὰν εἴπωμεν ὅτι ἁμαρτίαν οὐκ ἔχομεν**,
+ ἑαυτοὺς πλανῶμεν καὶ **[ἡ ἀλήθεια]** (ἡ ἀλήθεια τοῦ θεοῦ) οὐκ ἔστιν ἐν ἡμῖν.
+ ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας.
+
+------
+
+### Cycle 3 — 1 John 1:10
+
+**ἐὰν εἴπωμεν ὅτι οὐχ ἡμαρτήκαμεν**,
+ ψεύστην ποιοῦμεν αὐτόν καὶ **[ὁ λόγος αὐτοῦ]** (ὁ λόγος τοῦ θεοῦ) οὐκ ἔστιν ἐν ἡμῖν.
+
+------
+
+### Cycle 4 — 1 John 2:1–5
+
+τεκνία μου, ταῦτα γράφω ὑμῖν ἵνα μὴ ἁμάρτητε· καὶ ἐάν τις ἁμάρτῃ, παράκλητον ἔχομεν πρὸς τὸν πατέρα, Ἰησοῦν Χριστὸν δίκαιον·
+ καὶ αὐτὸς ἱλασμός ἐστιν περὶ τῶν ἁμαρτιῶν ἡμῶν, οὐ περὶ τῶν ἡμετέρων δὲ μόνον ἀλλὰ καὶ περὶ ὅλου τοῦ κόσμου.
+ **καὶ ἐν τούτῳ γινώσκομεν ὅτι ἐγνώκαμεν αὐτόν**, ἐὰν **[τὰς ἐντολὰς αὐτοῦ]** (αὐτός) τηρῶμεν.
+ ὁ λέγων ὅτι ἔγνωκα αὐτὸν καὶ τὰς ἐντολὰς αὐτοῦ μὴ τηρῶν ψεύστης ἐστίν, καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν.
+
+------
+
+### Cycle 5 — 1 John 2:7–8
+
+**ἀγαπητοί, οὐκ ἐντολὴν καινὴν γράφω ὑμῖν**,
+ ἀλλ’ **[ἐντολὴν παλαιάν]** (ὁ λόγος ὃν ἠκούσατε) ἣν εἴχετε ἀπ’ ἀρχῆς·
+ πάλιν ἐντολὴν καινὴν γράφω ὑμῖν, ὅ ἐστιν ἀληθὲς ἐν αὐτῷ καὶ ἐν ὑμῖν.
+
+------
+
+### Cycle 6 — 1 John 2:9–11
+
+**ὁ λέγων ἐν τῷ φωτὶ εἶναι**,
+ καὶ **[τὸν ἀδελφὸν αὐτοῦ]** (ἀδελφός) μισῶν, ἐν τῇ σκοτίᾳ ἐστὶν ἕως ἄρτι.
+ ὁ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῷ φωτὶ μένει.
+
+------
+
+### Cycle 7 — 1 John 2:12–14
+
+**γράφω ὑμῖν, τεκνία**,
+ ὅτι **[ἀφέωνται ὑμῖν αἱ ἁμαρτίαι]** (τὸ ὄνομα αὐτοῦ).
+ γράφω ὑμῖν, πατέρες… γράφω ὑμῖν, νεανίσκοι…
+
+------
+
+### Cycle 8 — 1 John 2:15–17
+
+**μὴ ἀγαπᾶτε τὸν κόσμον**,
+ μηδὲ **[τὰ ἐν τῷ κόσμῳ]** (ὁ κόσμος).
+ ἐὰν τις ἀγαπᾷ τὸν κόσμον, οὐκ ἔστιν ἡ ἀγάπη τοῦ πατρὸς ἐν αὐτῷ.
+
+------
+
+### Cycle 9 — 1 John 2:18–27
+
+**παιδία, ἐσχάτη ὥρα ἐστίν**,
+ καὶ καθὼς ἠκούσατε ὅτι ἀντίχριστος ἔρχεται, καὶ νῦν **[ἀντίχριστοι πολλοί]** (ψευδόχριστοι) γεγόνασιν.
+ ἐξ ἡμῶν ἐξῆλθαν…
+ καὶ ὑμεῖς χρῖσμα ἔχετε ἀπὸ τοῦ ἁγίου…
+
+------
+
+### Cycle 10 — 1 John 3:4–6
+
+**πᾶς ὁ ποιῶν τὴν ἁμαρτίαν**,
+ καὶ **[τὴν ἀνομίαν]** (ἁμαρτία) ποιεῖ, καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία.
+
+------
+
+### Cycle 11 — 1 John 3:7–10
+
+**τεκνία, μηδεὶς πλανάτω ὑμᾶς**,
+ ὁ ποιῶν **[τὴν δικαιοσύνην]** (ὁ δίκαιος) δίκαιός ἐστιν.
+
+------
+
+### Cycle 12 — 1 John 3:11–18
+
+**ὅτι αὕτη ἐστὶν ἡ ἀγγελία ἣν ἠκούσατε ἀπ’ ἀρχῆς**,
+ ἵνα **[ἀγαπῶμεν ἀλλήλους]** (ὁ ἀδελφός).
+
+------
+
+### Cycle 13 — 1 John 4:1–6
+
+**ἀγαπητοί, μὴ παντὶ πνεύματι πιστεύετε**,
+ ἀλλὰ δοκιμάζετε **[τὰ πνεύματα]** (πνεῦμα πλάνης / πνεῦμα ἀληθείας).
+
+------
+
+### Cycle 14 — 1 John 4:7–21
+
+**ἀγαπητοί, ἀγαπῶμεν ἀλλήλους**,
+ ὅτι **[ἡ ἀγάπη ἐκ τοῦ θεοῦ]** (ὁ θεός) ἐστίν.
+ ὁ θεὸς ἀγάπη ἐστίν…
+
+------
+
+### Cycle 15 — 1 John 5:1–12
+
+**πᾶς ὁ πιστεύων ὅτι Ἰησοῦς ἐστὶν ὁ χριστός**,
+ **[ἐκ τοῦ θεοῦ]** (ὁ θεός) γεγέννηται.
+ καὶ αὕτη ἐστὶν ἡ μαρτυρία, ὅτι **[ζωὴν αἰώνιον]** (ἐν τῷ υἱῷ αὐτοῦ) ἔδωκεν ἡμῖν ὁ θεός.
+
+------
+
+### Closing (5:13–21)
+
+Ταῦτα ἔγραψα ὑμῖν…
+ φυλάξατε ἑαυτὰ ἀπὸ **[τῶν εἰδώλων]** (ψευδῆ ἀντικείμενα).
+
+===
+
+
+
+## 1 John 4:7-5:21 GOD IS LOVE
+
+Below is a **macro-level, text-bound overview of Cycles 11–15 in 1 John**, continuing the final major section anchored by the predicate **“God is love”** (1 John 4:8, 1 John 4:16).
+ This stays **observational**, follows the **Greek-driven flow**, and treats each cycle as a **diagnostic unit** (source → manifestation → outcome), without importing theology or synthesis.
+
+------
+
+## Macro Context (Cycles 11–15)
+
+- Location: **1 John 4:7 – 5:21**
+- Governing predicate: **ὁ θεὸς ἀγάπη ἐστίν** (*“God is love”*)
+- Function of the section:
+  To **identify divine source** and **verify it through manifested love**, confession, and life, in contrast to fear, hatred, and false testimony.
+
+------
+
+## Cycle 11 — Love as Evidence of Divine Origin
+
+**1 John 4:7–8**
+
+**Textual Focus**
+
+- Loving one another (ἀγαπῶμεν ἀλλήλους – *“let us love one another”*)
+- Source language: **ἐκ τοῦ θεοῦ** (*“from God”*)
+
+**Macro Observation**
+
+- Love is presented as **derivative**, not autonomous.
+- Two parallel claims:
+  - The one loving **has been begotten of God** and **knows God**
+  - The one not loving **does not know God**
+- The cycle grounds the entire section by tying **love directly to divine origin**, not behavioral effort.
+
+**Diagnostic Function**
+
+- Love functions as **evidence of source**, not as a command under threat.
+
+------
+
+## Cycle 12 — Love Defined by Divine Action
+
+**1 John 4:9–10**
+
+**Textual Focus**
+
+- Manifestation language: **ἐφανερώθη** (*“was manifested”*)
+- Historical action: God sending the Son
+
+**Macro Observation**
+
+- Love is **defined**, not assumed.
+- The direction of love is **God → us**, not reciprocal.
+- Two clarifications:
+  - Love is revealed in **sending**
+  - Love is clarified as **not originating in human love**
+
+**Diagnostic Function**
+
+- This cycle **anchors love objectively** in God’s action, preventing subjective redefinition.
+
+------
+
+## Cycle 13 — Love Completed in Mutual Indwelling
+
+**1 John 4:11–16**
+
+**Textual Focus**
+
+- Indwelling language: **μένειν** (*“to remain / abide”*)
+- Confession: **Ἰησοῦς ἐστὶν ὁ υἱὸς τοῦ θεοῦ** (*“Jesus is the Son of God”*)
+
+**Macro Observation**
+
+- Love moves from **definition** to **completion**.
+- God’s love is said to be **τετελειωμένη** (*“brought to completion”*) **in us**, not by us.
+- Confession and abiding function together as **visible criteria** of divine presence.
+
+**Diagnostic Function**
+
+- Love is shown as **relationally completed**, not merely acknowledged.
+- The cycle ties **confession, abiding, and love** into a single evidentiary unit.
+
+------
+
+## Cycle 14 — Love Versus Fear
+
+**1 John 4:17–18**
+
+**Textual Focus**
+
+- Contrast: **ἀγάπη** (*“love”*) vs **φόβος** (*“fear”*)
+- Judgment language: **ἡμέρα τῆς κρίσεως** (*“day of judgment”*)
+
+**Macro Observation**
+
+- Love and fear are presented as **mutually exclusive realms**.
+- Fear is associated with **κόλασις** (*“punishment”*).
+- Perfected love results in **boldness**, not anxiety.
+
+**Diagnostic Function**
+
+- This cycle diagnoses fear as a **signal of incomplete love**, not as a motivational tool.
+- Love’s function is **stability before judgment**, not emotional reassurance.
+
+------
+
+## Cycle 15 — Final Diagnostic: Love, Belief, and Testimony
+
+**1 John 4:19 – 5:21**
+
+**Textual Focus**
+
+- Repeated markers:
+  - Love/hate contrast
+  - Belief in the Son
+  - Testimony language (**μαρτυρία** – *“testimony”*)
+  - Life/death contrast
+
+**Macro Observation**
+
+- The final cycle **integrates all prior diagnostics**:
+  - Love for God ↔ love for brother
+  - Belief ↔ possession of life
+  - Acceptance of testimony ↔ alignment with God
+- Hatred, false belief, and denial are shown as **source indicators**, not isolated sins.
+
+**Diagnostic Function**
+
+- This cycle functions as a **comprehensive verification pass**.
+- The letter closes by re-asserting **source clarity** (“from God” vs “from the world”) and issuing a final warning against **false objects of trust**.
+
+------
+
+## Macro Summary of Cycles 11–15
+
+- Love is:
+  - **From God** (Cycle 11)
+  - **Defined by God’s action** (Cycle 12)
+  - **Completed through abiding and confession** (Cycle 13)
+  - **Incompatible with fear** (Cycle 14)
+  - **Verified through belief, testimony, and relational consistency** (Cycle 15)
+- Functionally:
+  - These cycles **do not command love to create life**
+  - They **diagnose source by manifested love**
+
+---------
+
+-------
+
+===========
+
+
+
+# CYCLES
+
+## 1. The core idea (plain language)
+
+> **John diagnoses by exposing what someone relies on, and then checking whether that reliance aligns with God or contradicts Him.**
+
+Or even simpler:
+
+> **John doesn’t ask, “What do you claim?”
+>  He asks, “What are you standing on?”**
+
+That is the mechanism.
+
+## 2. What John repeatedly does (the diagnostic mechanism)
+
+Across the letter, John uses the **same three-step diagnostic move** again and again.
+ This is not interpretation — it is **observable repetition**.
+
+### Step 1 — A restart signal
+
+John restarts the discussion using a recognizable grammatical form:
+
+- “this is the message…”
+- “if we say…”
+- “the one who says…”
+- “everyone who…”
+- “beloved…”
+
+These are not conclusions or transitions — they are **diagnostic entry points**.
+
+> This is how the reader knows: *“A new test is beginning.”*
+
+------
+
+### Step 2 — An object of reliance is exposed
+
+Each restart brings an **object into view**, either:
+
+- explicitly stated
+   (truth, commandments, world, spirits, Jesus as the Christ, eternal life), or
+- required by the grammar
+   (belief, abiding, confidence without a stated object).
+
+Crucially:
+
+- John does **not** analyze feelings.
+- He exposes **what the person is oriented toward**.
+
+> The diagnosis is never about intensity —
+>  it is about **direction**.
+
+------
+
+### Step 3 — Alignment or contradiction is revealed
+
+Finally, John shows whether that reliance:
+
+- aligns with God (light, truth, love, life), or
+- contradicts God (lie, darkness, world, idols).
+
+This is where outcomes appear:
+
+- truth / lie
+- light / darkness
+- from God / not from God
+
+The outcome does **not define** the cycle —
+ it **confirms** the diagnosis.
+
+------
+
+## 3. Why this defines the cycles (and not the other way around)
+
+Once you see the mechanism, the cycles **cannot blur together**, because:
+
+- each cycle has **one restart**
+- one diagnostic exposure
+- one alignment test
+
+If two sections used the *same* object and *same* test, they would be one cycle.
+ They don’t.
+
+That’s why the number of cycles is **limited by the text**, not expandable at will.
+
+------
+
+## 4. One sentence definition you can reuse everywhere
+
+This is a very strong, defensible definition:
+
+> **A cycle in 1 John is a diagnostic unit marked by a grammatical restart, an exposed object of reliance, and a revealed alignment either with God or against Him.**
+
+No theology. No abstraction. Just text behavior.
+
+------
+
+## 5. How this clarifies *everything* at once
+
+### Why 1 John 1:1–4 is not a cycle
+
+- No restart signal
+- No diagnostic contrast
+- No rival object
+
+It **supplies the witness** that the diagnosis depends on.
+
+------
+
+### Why cycles don’t overlap
+
+- Each restart resets the diagnostic lens
+- Each cycle tests **a different object**
+
+Overlap would require John to re-test the *same* reliance twice in the same way.
+ He doesn’t.
+
+------
+
+### Why “obedience,” “love,” and “belief” aren’t themes
+
+They are **diagnostic instruments**, not subjects.
+
+John is not teaching virtues.
+ He is **revealing trust**.
+
+
+
+## 1. The diagnostic mechanism (final, defined)
+
+You can define John’s method like this:
+
+> **John diagnoses spiritual reality by restarting the discourse, exposing an object of reliance, and revealing whether that reliance aligns with God or contradicts Him.**
+
+That is the mechanism.
+ Nothing more needs to be added.
+
+This mechanism is **textual**, not conceptual.
+
+------
+
+## 2. What makes something a “cycle” (non-negotiables)
+
+A section qualifies as a cycle **only if all three are present**:
+
+### 1) A grammatical restart
+
+A visible restart such as:
+
+- “this is the message…”
+- “if we say…”
+- “the one who says…”
+- “everyone who…”
+- “beloved…”
+
+This signals: *a new diagnostic test is beginning*.
+
+### 2) An exposed object of reliance
+
+John brings into view **what is being relied upon**, such as:
+
+- truth / lie
+- commandments
+- world
+- spirits
+- Jesus as the Christ
+- eternal life
+
+This object may be:
+
+- **explicit** (named in the text), or
+- **implicit** *only if* the grammar requires it and no explicit object is present.
+
+------
+
+### 3) A revealed alignment
+
+John then shows whether that reliance is:
+
+- **from God** or **not from God**
+- **light** or **darkness**
+- **truth** or **lie**
+
+This outcome **confirms** the diagnosis — it does not define it.
+
+------
+
+## 3. Why this proves the cycles are discovered, not imposed
+
+Once this mechanism is defined, three things become obvious:
+
+1. **The cycles cannot be merged**
+    Each restart introduces a *new* object of reliance.
+
+2. **The cycles cannot be multiplied arbitrarily**
+    No restart = no new cycle.
+
+3. **1 John 1:1–4 cannot be a cycle**
+    It contains:
+
+   - no restart,
+   - no diagnostic contrast,
+   - no rival object.
+
+   It functions as **foundational testimony**, not diagnosis.
+
+This is not interpretive preference — it is **structural necessity**.
+
+What exactly then are the defined cycles?
+
+
+
