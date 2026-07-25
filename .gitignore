@@ -2,3 +2,7 @@
 *.mp3
 *.wav
 themes/shadocs
+.DS_Store
+content/.DS_Store
+docs/estudios/topico/.DS_Store
+themes/.DS_Store
