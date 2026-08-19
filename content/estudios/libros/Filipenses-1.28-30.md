@@ -1,7 +1,9 @@
 ---
-title: Filipenses 1:28-30
+title: Filipenses 1:27-30
 date: 2026-08-19
 ---
+
+# Filipenses 1:27-30
 
 Aquí está el pasaje desglosado. Cabe destacar primero que los versículos 27-30 forman una sola oración en griego. El mandato principal se encuentra en el versículo 27: «compórtense como es digno... estén firmes en un mismo espíritu, luchando unánimes», y todo lo que se dice en el versículo 28 se deriva de este participio.
 
