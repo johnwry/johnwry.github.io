@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <span class="brand-mark brand-mark-small" aria-hidden="true">JW</span>
+      <p>Estudios bíblicos, libros y música de John Wry.</p>
+    </div>
+    <div class="footer-links">
+      <a href="{{ relURL "tags/" }}">Etiquetas</a>
+      <a href="{{ relURL "categories/" }}">Temas</a>
+      <a href="{{ relURL "search/" }}">Archivo completo</a>
+      {{ with .Site.Home.OutputFormats.Get "RSS" }}<a href="{{ .RelPermalink }}">RSS</a>{{ end }}
+    </div>
+  </div>
+  <p class="footer-note">© {{ now.Year }} John Wry · Hecho para leer, escuchar y volver a encontrar.</p>
+</footer>
+

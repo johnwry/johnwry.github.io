@@ -1,123 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Music on BJWry</title>
-    <link>http://localhost:1313/music/</link>
-    <description>Recent content in Music on BJWry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
-    <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cuan alegre el padre esta</title>
-      <link>http://localhost:1313/music/cuan-alegre-el-padre-esta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/cuan-alegre-el-padre-esta/</guid>
-      <description>(Estrofa 1)
-Oh Que completa es
-La obra efectuada ya
-en mi lugar Se puso
-la deuda ya saldo
-(estrofa 2)
-Solo Cristo pudo ser
-el perfecto sacrificio
-en la cruz se realizo
-por pecadores el murio
-(Coro)
-Cuan alegre el Padre esta
-Obra terminada ya
-su plan maestro, oh oh oh
-eternamente satisfecho
-La solución es Cristo
-Su muerte vicaria
-Vida al que cree El daria
-Su vida, si vida, oh oh oh</description>
-    </item>
-    
-    <item>
-      <title>Got my song back</title>
-      <link>http://localhost:1313/music/got-my-song-back/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/got-my-song-back/</guid>
-      <description>well I got my song back
-Not that I ever had it
-but now that i got it
-I don&amp;rsquo;t ever wanna let it go
-well I got my song back
-Not that I ever had it
-but now that i got it
-I don&amp;rsquo;t ever wanna let it go
-&amp;lsquo;cus it&amp;rsquo;s not in the sun
-Not in the moon
-Not in the starts
-though they&amp;rsquo;re pretty in the sky</description>
-    </item>
-    
-    <item>
-      <title>I&#39;d Need a Savior - Among the Thirsty</title>
-      <link>http://localhost:1313/music/how-many-names/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/how-many-names/</guid>
-      <description>How many names Can I use to explain The love of my Jesus The life that He gave And so many times Will I praise You today I lift up my life Cause You’re always the same And my offering To you I bring
-Your name is Jesus Your name is Jesus You’re the wonderful, counselor, my friend You’re what I hold on to I know that You brought me through All the days of loss and to the cross, You knew That I’d need a Savior</description>
-    </item>
-    
-    <item>
-      <title>Jesus Buen Pastor</title>
-      <link>http://localhost:1313/music/jesus-buen-pastor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/jesus-buen-pastor/</guid>
-      <description>[VERSE1] Pues yo No he llegado a comprender Lo que Tu, tienes para mi Preparado de antemano Para tu buen placer
-[VERSE2] oh Señor, no he llegado a entender Que aunque Tu, Sepas lo que soy Decidas amarme, Hasta entregarte por mi[&#39; Y Hoy puedo decirte, Jesus, buen pastor
-[CHORUS] Señor, no tengo nada que ofrecer Señor, estaba destinado a perecer (Señor tu ya diste todo tu ser) Hasta que Tu me rescataste Extendiste Tu mano y me pustiste sobre una roca firme me enseñas a ver Tu mano de poder y hoy puedo decirtelo, Jesus, mi buen pastor</description>
-    </item>
-    
-    <item>
-      <title>Solo Cristo en Ti</title>
-      <link>http://localhost:1313/music/solo-cristo-en-ti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/solo-cristo-en-ti/</guid>
-      <description>Oh Cristo en Ti,
-Si solo en Ti Mi corazón halló
-la paz, perdón que con afán
-Sin descansar buscó.
-[Chorus]
-Ya ningún bien sin Cristo habrá,
-El solo para mi;
-Luz, gozo, paz y gran felicidad
-Se encuentran solo Cristo en Ti.
-El mundo con afán probé
-Y mi alma lo gustó;
-Mas, descontento me quedé
-Y mi alma se afligió.
-[Chorus]
-Gemí por paz, felicidad,
-busqué mas que a Ti;</description>
-    </item>
-    
-    <item>
-      <title>Some day soon</title>
-      <link>http://localhost:1313/music/some-day-soon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/some-day-soon/</guid>
-      <description>Some day soon
-I&amp;rsquo;m gonna get a lift out of here soon.
-Some day real soon
-I&amp;rsquo;m gonna get a fancy ride
-right out of here soon
-Though I grow weary
-Stil He will not tarry
-Some day real soon
-Some day real soon
-Some day He&amp;rsquo;s coming back real soon</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Music on John Wry — Estudios y música</title>
+		<link>http://localhost:1313/music/</link>
+		<description>Recent content in Music on John Wry — Estudios y música</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cuan alegre el padre esta</title>
+				<link>http://localhost:1313/music/cuan-alegre-el-padre-esta/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/cuan-alegre-el-padre-esta/</guid>
+				<description>&lt;p&gt;(Estrofa 1)&lt;/p&gt;&#xA;&lt;p&gt;Oh Que completa es&lt;/p&gt;&#xA;&lt;p&gt;La obra efectuada ya&lt;/p&gt;&#xA;&lt;p&gt;en mi lugar Se puso&lt;/p&gt;&#xA;&lt;p&gt;la deuda ya saldo&lt;/p&gt;&#xA;&lt;p&gt;(estrofa 2)&lt;/p&gt;&#xA;&lt;p&gt;Solo Cristo pudo ser&lt;/p&gt;&#xA;&lt;p&gt;el perfecto sacrificio&lt;/p&gt;&#xA;&lt;p&gt;en la cruz se realizo&lt;/p&gt;&#xA;&lt;p&gt;por pecadores el murio&lt;/p&gt;&#xA;&lt;p&gt;(Coro)&lt;/p&gt;&#xA;&lt;p&gt;Cuan alegre el Padre esta&lt;/p&gt;&#xA;&lt;p&gt;Obra terminada ya&lt;/p&gt;&#xA;&lt;p&gt;su plan maestro, oh oh oh&lt;/p&gt;&#xA;&lt;p&gt;eternamente satisfecho&lt;/p&gt;&#xA;&lt;p&gt;La solución es Cristo&lt;/p&gt;&#xA;&lt;p&gt;Su muerte vicaria&lt;/p&gt;&#xA;&lt;p&gt;Vida al que cree El daria&lt;/p&gt;&#xA;&lt;p&gt;Su vida, si vida, oh oh oh&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Got my song back</title>
+				<link>http://localhost:1313/music/got-my-song-back/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/got-my-song-back/</guid>
+				<description>&lt;p&gt;well I got my song back&lt;/p&gt;&#xA;&lt;p&gt;Not that I ever had it&lt;/p&gt;&#xA;&lt;p&gt;but now that i got it&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t ever wanna let it go&lt;/p&gt;&#xA;&lt;p&gt;well I got my song back&lt;/p&gt;&#xA;&lt;p&gt;Not that I ever had it&lt;/p&gt;&#xA;&lt;p&gt;but now that i got it&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t ever wanna let it go&lt;/p&gt;&#xA;&lt;p&gt;&amp;lsquo;cus it&amp;rsquo;s not in the sun&lt;/p&gt;&#xA;&lt;p&gt;Not in the moon&lt;/p&gt;&#xA;&lt;p&gt;Not in the starts&lt;/p&gt;&#xA;&lt;p&gt;though they&amp;rsquo;re pretty in the sky&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I&#39;d Need a Savior - Among the Thirsty</title>
+				<link>http://localhost:1313/music/how-many-names/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/how-many-names/</guid>
+				<description>&lt;p&gt;How many names&#xA;Can I use to explain&#xA;The love of my Jesus&#xA;The life that He gave&#xA;And so many times&#xA;Will I praise You today&#xA;I lift up my life&#xA;Cause You’re always the same&#xA;And my offering&#xA;To you I bring&lt;/p&gt;&#xA;&lt;p&gt;Your name is Jesus&#xA;Your name is Jesus&#xA;You’re the wonderful, counselor, my friend&#xA;You’re what I hold on to&#xA;I know that You brought me through&#xA;All the days of loss and to the cross, You knew&#xA;That I’d need a Savior&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Jesus Buen Pastor</title>
+				<link>http://localhost:1313/music/jesus-buen-pastor/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/jesus-buen-pastor/</guid>
+				<description>&lt;p&gt;[VERSE1]&#xA;Pues yo&#xA;No he llegado a comprender&#xA;Lo que Tu, tienes para mi&#xA;Preparado de antemano&#xA;Para tu buen placer&lt;/p&gt;&#xA;&lt;p&gt;[VERSE2]&#xA;oh Señor, no he llegado a entender&#xA;Que aunque Tu, Sepas lo que soy&#xA;Decidas amarme,&#xA;Hasta entregarte por mi[&#39;&#xA;Y Hoy puedo decirte,&#xA;Jesus, buen pastor&lt;/p&gt;&#xA;&lt;p&gt;[CHORUS]&#xA;Señor, no tengo nada que ofrecer&#xA;Señor, estaba destinado a perecer&#xA;(Señor tu ya diste todo tu ser)&#xA;Hasta que Tu me rescataste&#xA;Extendiste Tu mano&#xA;y me pustiste sobre una roca firme&#xA;me enseñas a ver&#xA;Tu mano de poder&#xA;y hoy puedo decirtelo,&#xA;Jesus, mi buen pastor&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Solo Cristo en Ti</title>
+				<link>http://localhost:1313/music/solo-cristo-en-ti/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/solo-cristo-en-ti/</guid>
+				<description>&lt;p&gt;Oh Cristo en Ti,&lt;/p&gt;&#xA;&lt;p&gt;Si solo en Ti Mi corazón halló&lt;/p&gt;&#xA;&lt;p&gt;la paz, perdón que con afán&lt;/p&gt;&#xA;&lt;p&gt;Sin descansar buscó.&lt;/p&gt;&#xA;&lt;p&gt;[Chorus]&lt;/p&gt;&#xA;&lt;p&gt;Ya ningún bien sin Cristo habrá,&lt;/p&gt;&#xA;&lt;p&gt;El solo para mi;&lt;/p&gt;&#xA;&lt;p&gt;Luz, gozo, paz y gran felicidad&lt;/p&gt;&#xA;&lt;p&gt;Se encuentran solo Cristo en Ti.&lt;/p&gt;&#xA;&lt;p&gt;El mundo con afán probé&lt;/p&gt;&#xA;&lt;p&gt;Y mi alma lo gustó;&lt;/p&gt;&#xA;&lt;p&gt;Mas, descontento me quedé&lt;/p&gt;&#xA;&lt;p&gt;Y mi alma se afligió.&lt;/p&gt;&#xA;&lt;p&gt;[Chorus]&lt;/p&gt;&#xA;&lt;p&gt;Gemí por paz, felicidad,&lt;/p&gt;&#xA;&lt;p&gt;busqué mas que a Ti;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Some day soon</title>
+				<link>http://localhost:1313/music/some-day-soon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/some-day-soon/</guid>
+				<description>&lt;p&gt;Some day soon&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m gonna get a lift out of here soon.&lt;/p&gt;&#xA;&lt;p&gt;Some day real soon&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m gonna get a fancy ride&lt;/p&gt;&#xA;&lt;p&gt;right out of here soon&lt;/p&gt;&#xA;&lt;p&gt;Though I grow weary&lt;/p&gt;&#xA;&lt;p&gt;Stil He will not tarry&lt;/p&gt;&#xA;&lt;p&gt;Some day real soon&lt;/p&gt;&#xA;&lt;p&gt;Some day real soon&lt;/p&gt;&#xA;&lt;p&gt;Some day He&amp;rsquo;s coming back real soon&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

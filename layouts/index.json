@@ -1,0 +1,24 @@
+[
+{{- $pages := where .Site.RegularPages "Section" "ne" "search" -}}
+{{- range $index, $page := $pages -}}
+  {{- if $index }},{{ end }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "url": {{ $page.RelPermalink | jsonify }},
+    "section": {{ $page.Section | jsonify }},
+    "collection": {{ if eq $page.Section "music" }}"música"{{ else if or (eq $page.Section "estudios") (eq $page.Section "studies") (eq $page.Section "legacy-bible-study") }}"estudios"{{ else }}{{ $page.Section | humanize | jsonify }}{{ end }},
+    "date": {{ if not $page.Date.IsZero }}{{ $page.Date.Format "2006-01-02" | jsonify }}{{ else }}""{{ end }},
+    "rawDate": {{ $page.Params.date | default "" | jsonify }},
+    "year": {{ if not $page.Date.IsZero }}{{ $page.Date.Format "2006" | jsonify }}{{ else }}""{{ end }},
+    "language": {{ $page.Language.Lang | default "es" | jsonify }},
+    "book": {{ $page.Params.book | default "" | jsonify }},
+    "passage": {{ $page.Params.passage | default "" | jsonify }},
+    "tags": {{ $page.Params.tags | default (slice) | jsonify }},
+    "categories": {{ $page.Params.categories | default (slice) | jsonify }},
+    "themes": {{ $page.Params.themes | default (slice) | jsonify }},
+    "summary": {{ $page.Summary | plainify | htmlUnescape | truncate 260 | jsonify }},
+    "content": {{ $page.Plain | htmlUnescape | jsonify }}
+  }
+{{- end }}
+]
+

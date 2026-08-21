@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $isMusic := eq .Section "music" }}
+<header class="collection-hero{{ if $isMusic }} collection-hero-music{{ end }}">
+  <div class="shell collection-hero-inner">
+    <div>
+      <p class="eyebrow">{{ if $isMusic }}Archivo sonoro{{ else }}Biblioteca{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p>{{ . }}</p>{{ else }}{{ with .Content }}<div class="collection-intro">{{ . }}</div>{{ end }}{{ end }}
+    </div>
+    <div class="collection-count"><strong>{{ len .RegularPagesRecursive }}</strong><span>{{ if $isMusic }}letras y canciones{{ else }}documentos{{ end }}</span></div>
+  </div>
+  {{ if $isMusic }}<div class="staff-lines" aria-hidden="true"></div>{{ end }}
+</header>
+
+<div class="shell collection-layout">
+  {{ if .Sections }}
+  <nav class="subcollections" aria-label="Subcolecciones">
+    <p>{{ if $isMusic }}Artistas y álbumes{{ else }}Colecciones{{ end }}</p>
+    <div>
+      {{ range .Sections.ByTitle }}<a href="{{ .RelPermalink }}"><span>{{ .Title }}</span><small>{{ len .RegularPagesRecursive }}</small></a>{{ end }}
+    </div>
+  </nav>
+  {{ end }}
+
+  {{ partial "site/audio-library.html" . }}
+
+  {{ if .RegularPages }}
+  <section class="collection-pages">
+    <div class="section-heading section-heading-row">
+      <div><p class="eyebrow">Índice</p><h2>{{ if $isMusic }}Letras y canciones{{ else }}Documentos{{ end }}</h2></div>
+      <a href="{{ relURL "search/" }}?collection={{ .Section }}">Buscar aquí →</a>
+    </div>
+    <div class="card-grid{{ if $isMusic }} music-grid{{ end }}">
+      {{ range .RegularPages.ByTitle }}{{ partial "site/card.html" . }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+</div>
+{{ end }}
+

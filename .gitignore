@@ -6,3 +6,7 @@ themes/shadocs
 content/.DS_Store
 docs/estudios/topico/.DS_Store
 themes/.DS_Store
+
+# Preserve archived media from the retired site.
+!archive/bible-study/**/*.mp3
+!archive/bible-study/**/*.wav

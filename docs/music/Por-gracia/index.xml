@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Por Gracia on BJWry</title>
-    <link>http://localhost:1313/music/por-gracia/</link>
-    <description>Recent content in Por Gracia on BJWry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
-    <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/por-gracia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dios es Nuestro Refugio</title>
-      <link>http://localhost:1313/music/por-gracia/dios-es-nuestro-refugio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/por-gracia/dios-es-nuestro-refugio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>No a Nosotros</title>
-      <link>http://localhost:1313/music/por-gracia/no-a-nosotros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/por-gracia/no-a-nosotros/</guid>
-      <description>No a Nosotros# Salmo 115:1 No a nosotros, SEÑOR, no a nosotros, Sino a Tu nombre da gloria, Por Tu misericordia, por Tu fidelidad.
-No a nostoros, Señor# No a nosotros, Señor# Sino a tu Nombre, Señor# Sea la gloria# Por tu Misericordia, Señor# Tu misericordia, Señor# Solo a Nombre,# Sea la gloria# Por Siempre levantare# El Nombre de Jehova# El Nombre de Jehova# </description>
-    </item>
-    
-    <item>
-      <title>Por Gracia</title>
-      <link>http://localhost:1313/music/por-gracia/por-gracia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/por-gracia/por-gracia/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Por Gracia on John Wry — Estudios y música</title>
+		<link>http://localhost:1313/music/por-gracia/</link>
+		<description>Recent content in Por Gracia on John Wry — Estudios y música</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/music/por-gracia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dios es Nuestro Refugio</title>
+				<link>http://localhost:1313/music/por-gracia/dios-es-nuestro-refugio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/por-gracia/dios-es-nuestro-refugio/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>No a Nosotros</title>
+				<link>http://localhost:1313/music/por-gracia/no-a-nosotros/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/por-gracia/no-a-nosotros/</guid>
+				<description>&lt;h1 id=&#34;no-a-nosotros&#34;&gt;No a Nosotros&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Salmo 115:1&lt;/strong&gt;  &lt;em&gt;No a nosotros, SEÑOR, no a nosotros, Sino a Tu nombre da gloria, Por Tu misericordia, por Tu fidelidad.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;no-a-nostoros-señor&#34;&gt;No a nostoros, Señor&lt;/h3&gt;&#xA;&lt;h3 id=&#34;no-a-nosotros-señor&#34;&gt;No a nosotros, Señor&lt;/h3&gt;&#xA;&lt;h3 id=&#34;sino-a-tu-nombre-señor&#34;&gt;Sino a tu Nombre, Señor&lt;/h3&gt;&#xA;&lt;h3 id=&#34;sea-la-gloria&#34;&gt;Sea la gloria&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;por-tu-misericordia-señor&#34;&gt;Por tu Misericordia, Señor&lt;/h3&gt;&#xA;&lt;h3 id=&#34;tu-misericordia-señor&#34;&gt;Tu misericordia, Señor&lt;/h3&gt;&#xA;&lt;h3 id=&#34;solo-a-nombre&#34;&gt;Solo a Nombre,&lt;/h3&gt;&#xA;&lt;h3 id=&#34;sea-la-gloria-1&#34;&gt;Sea la gloria&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;por-siempre-levantare&#34;&gt;Por Siempre levantare&lt;/h4&gt;&#xA;&lt;h4 id=&#34;el-nombre-de-jehova&#34;&gt;El Nombre de Jehova&lt;/h4&gt;&#xA;&lt;h4 id=&#34;el-nombre-de-jehova-1&#34;&gt;El Nombre de Jehova&lt;/h4&gt;</description>
+			</item>
+			<item>
+				<title>Por Gracia</title>
+				<link>http://localhost:1313/music/por-gracia/por-gracia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/por-gracia/por-gracia/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

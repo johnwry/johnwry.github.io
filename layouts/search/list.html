@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="search-page shell">
+  <header class="search-header">
+    <p class="eyebrow">Todo el archivo, una sola búsqueda</p>
+    <h1>Encuentra la relación.</h1>
+    <p>Busca palabras, frases o referencias bíblicas. Después afina por colección, tema o fecha.</p>
+  </header>
+  <div class="search-box-wrap">
+    <label for="archive-search">Buscar en estudios, letras, libros y notas</label>
+    <div class="search-box"><span aria-hidden="true">⌕</span><input id="archive-search" type="search" autocomplete="off" placeholder="Ej. Romanos 8:1, gracia, pacto…"><kbd>⌘ K</kbd></div>
+  </div>
+  <div class="search-workspace">
+    <aside class="search-filters" aria-label="Filtros de búsqueda">
+      <div class="filter-group"><p>Colección</p><div id="collection-filters" class="filter-options"></div></div>
+      <div class="filter-group"><label for="year-filter">Fecha</label><select id="year-filter"><option value="">Todos los años</option></select></div>
+      <div class="filter-group"><label for="sort-filter">Ordenar</label><select id="sort-filter"><option value="relevance">Más relevante</option><option value="newest">Más reciente</option><option value="oldest">Más antiguo</option><option value="title">Título A–Z</option></select></div>
+      <button id="clear-search" class="text-button" type="button">Limpiar filtros</button>
+    </aside>
+    <section class="search-results" aria-live="polite" aria-atomic="false">
+      <div class="results-heading"><p id="result-count">Preparando el archivo…</p><div id="active-filters"></div></div>
+      <div id="search-results-list"></div>
+      <div id="search-empty" class="search-empty" hidden><span aria-hidden="true">∅</span><h2>No encontramos esa relación.</h2><p>Prueba otra palabra, elimina un filtro o usa una referencia más amplia.</p></div>
+    </section>
+  </div>
+</section>
+{{ end }}
+

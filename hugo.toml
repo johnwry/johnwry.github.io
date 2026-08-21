@@ -1,7 +1,7 @@
 #
 # Standard configuration
 #
-baseURL                = "http://localhost:1313/"
+baseURL                = "https://johnwry.github.io/"
 copyright              = "The MIT License (MIT) Copyright © 2020 BJWry"
 rssLimit = 10
 defaultContentLanguage = "es"
@@ -9,18 +9,15 @@ enableEmoji            = false
 enableGitInfo          = false
 metaDataFormat         = "yaml"
 publishDir             = "docs"
-title                  = "BJWry"
-theme                  = "shadocs"
+title                  = "John Wry — Estudios y música"
 themesdir              = "themes"
 
-tags = ["Bulma", "Search", "Simple", "Documentation", "Fontawesome", "Intro", "Mermaid", "OpenAPI", "AsyncAPI"]
-features = ["Menu", "Nested sections", "Search", "Shortcuts", "Netlify", "Intro", "Mermaid", "OpenAPI", "AsyncAPI"]
 min_version = "0.112.0"
 pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [Author]
-  name = "BJWry"
+  name = "John Wry"
   email = "johnwry@gmail.com"
 
 
@@ -42,8 +39,19 @@ pygmentsCodeFences=true
 #  category = "categories"
 #  tag = "tags"
 
+[frontmatter]
+  date = [":filename"]
+  lastmod = ["lastmod", ":git"]
+  publishDate = ["publishDate"]
+  expiryDate = ["expiryDate"]
+
 [outputs]
   home = ["HTML", "JSON", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  theme = "themes"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -59,6 +67,8 @@ pygmentsCodeFences=true
 # Specific configuration
 #
 [params]
+  description             = "Estudios bíblicos, libros, letras, acordes y grabaciones de John Wry."
+  mainSections            = ["estudios", "studies", "music", "legacy-bible-study"]
   logo                    = "img/bjwry.png"
   logoTouch               = "images/logoTouch.png"
   image404                = "images/404.gif"
@@ -100,3 +110,19 @@ pygmentsCodeFences=true
   [params.versions]
     hugo_min         = "[0.112.0](https://github.com/gohugoio/hugo/releases/tag/v0.112.0)"
     bulma            = "[0.9.4](https://github.com/jgthms/bulma/releases/tag/0.9.4)"
+
+[[module.mounts]]
+  source = "content"
+  target = "content"
+
+[[module.mounts]]
+  source = "archive/bible-study/hugo-site/content/docs"
+  target = "content/legacy-bible-study"
+
+[[module.mounts]]
+  source = "archive/bible-study/hugo-site/content/It-Is-Settled"
+  target = "static/legacy/it-is-settled"
+
+[[module.mounts]]
+  source = "archive/bible-study/hugo-site/content/la-iglesia-carnal"
+  target = "static/legacy/la-iglesia-carnal"

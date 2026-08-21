@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>lineage on BJWry</title>
-    <link>http://localhost:1313/tags/lineage/</link>
-    <description>Recent content in lineage on BJWry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
-    <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/tags/lineage/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linaje de Jesus</title>
-      <link>http://localhost:1313/estudios/topico/linaje-de-jesus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/estudios/topico/linaje-de-jesus/</guid>
-      <description>Linaje de Jesús# Tratando con la maldición de Jeconias (Conías)# Jeremias 22 trata con esta maldición# Jeremias 22:24-30 »Vivo Yo», declara el SEÑOR, «aunque Conías, hijo de Joacim, rey de Judá, fuera un anillo en Mi mano derecha, aun de allí lo arrancaría. Te entregaré en manos de los que buscan tu vida, sí, en manos de los que temes: en manos de Nabucodonosor, rey de Babilonia, y en manos de los caldeos.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Lineage on John Wry — Estudios y música</title>
+		<link>http://localhost:1313/tags/lineage/</link>
+		<description>Recent content in Lineage on John Wry — Estudios y música</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/tags/lineage/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Linaje de Jesus</title>
+				<link>http://localhost:1313/estudios/topico/linaje-de-jesus/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/estudios/topico/linaje-de-jesus/</guid>
+				<description>&lt;h1 id=&#34;linaje-de-jesús&#34;&gt;Linaje de Jesús&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tratando-con-la-maldición-de-jeconias-conías&#34;&gt;Tratando con la maldición de Jeconias (Conías)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;jeremias-22-trata-con-esta-maldición&#34;&gt;Jeremias 22 trata con esta maldición&lt;/h3&gt;&#xA;&lt;p&gt;Jeremias 22:24-30  »Vivo Yo», declara el SEÑOR, «aunque Conías, hijo de Joacim, rey de Judá, &lt;strong&gt;fuera un anillo en Mi mano derecha, aun de allí lo arrancaría&lt;/strong&gt;. Te entregaré en manos de los que buscan tu vida, sí, en manos de los que temes: en manos de Nabucodonosor, rey de Babilonia, y en manos de los caldeos. Te arrojaré a ti y a la madre que te dio a luz a otro país donde no nacieron, y allí morirán. Pero a la tierra a la cual con toda el alma anhelan volver, a ella no volverán. ¿Es acaso este hombre Conías una vasija despreciada y rota? ¿Es un objeto indeseable? ¿Por qué han sido arrojados él y sus descendientes Y echados a una tierra que no conocían? ¡Oh tierra, tierra, tierra!, Oye la palabra del SEÑOR. Así dice el SEÑOR: “Inscriban a este hombre &lt;em&gt;como&lt;/em&gt; sin hijos, Hombre que no prosperará en sus días; &lt;strong&gt;Porque ninguno de sus descendientes logrará Sentarse sobre el trono de David Ni gobernar de nuevo en Judá”»&lt;/strong&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

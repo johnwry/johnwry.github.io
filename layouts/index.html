@@ -1,0 +1,68 @@
+{{ define "main" }}
+<section class="home-hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Palabra · canción · memoria</p>
+    <h1>Textos para estudiar.<br><em>Música para habitar.</em></h1>
+    <p class="hero-intro">Un archivo vivo de estudios bíblicos, libros, letras, acordes y grabaciones. Dos maneras de explorar una misma obra.</p>
+    <form class="hero-search" action="{{ relURL "search/" }}" method="get" role="search">
+      <label class="sr-only" for="hero-query">Buscar en todo el archivo</label>
+      <input id="hero-query" name="q" type="search" placeholder="Prueba “Romanos 8”, “gracia” o una canción…">
+      <button type="submit">Buscar</button>
+    </form>
+  </div>
+  <div class="hero-index" aria-label="Resumen del archivo">
+    {{ $studies := where .Site.RegularPages "Section" "in" (slice "estudios" "studies" "legacy-bible-study") }}
+    {{ $music := where .Site.RegularPages "Section" "music" }}
+    <div><strong>{{ len $studies }}</strong><span>estudios y notas</span></div>
+    <div><strong>{{ len $music }}</strong><span>canciones y páginas</span></div>
+    <div><strong>{{ len .Site.Taxonomies.tags }}</strong><span>etiquetas</span></div>
+  </div>
+</section>
+
+<section class="two-worlds" aria-label="Colecciones principales">
+  <a class="world-card study-world" href="{{ relURL "estudios/" }}">
+    <span class="world-number">I</span>
+    <p class="eyebrow">Biblioteca de estudio</p>
+    <h2>La Escritura,<br>puesta en relación.</h2>
+    <p>Busca por libro, pasaje, fecha, tema o palabra exacta. Lee con una tipografía serena y una estructura que deja pensar.</p>
+    <span class="world-action">Entrar a los estudios <b aria-hidden="true">→</b></span>
+  </a>
+  <a class="world-card music-world" href="{{ relURL "music/" }}">
+    <span class="world-number">II</span>
+    <p class="eyebrow">Archivo sonoro</p>
+    <h2>La fe también<br><em>se canta.</em></h2>
+    <p>Grabaciones, álbumes, letras y acordes reunidos en una experiencia hecha para escuchar y tocar.</p>
+    <span class="world-action">Entrar a la música <b aria-hidden="true">↗</b></span>
+    <span class="sound-lines" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
+  </a>
+</section>
+
+{{ $recentStudies := first 6 (where .Site.RegularPages.ByLastmod.Reverse "Section" "in" (slice "estudios" "studies" "legacy-bible-study")) }}
+{{ if $recentStudies }}
+<section class="home-section shell">
+  <div class="section-heading section-heading-row">
+    <div><p class="eyebrow">Lecturas recientes</p><h2>Del archivo de estudio</h2></div>
+    <a href="{{ relURL "search/?collection=estudios" }}">Explorar todo →</a>
+  </div>
+  <div class="card-grid">
+    {{ range $recentStudies }}{{ partial "site/card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ $songs := first 4 (where .Site.RegularPages.ByLastmod.Reverse "Section" "music") }}
+{{ if $songs }}
+<section class="home-music">
+  <div class="shell">
+    <div class="section-heading section-heading-row">
+      <div><p class="eyebrow">Del estudio</p><h2>Canciones y letras</h2></div>
+      <a href="{{ relURL "music/" }}">Toda la música →</a>
+    </div>
+    <div class="music-grid">
+      {{ range $songs }}{{ partial "site/card.html" . }}{{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+

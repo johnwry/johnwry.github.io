@@ -1,0 +1,341 @@
+cc83a1c3173a42280f9a059017c451c1df40ed140f840d70a02465575d27ddec  archive/bible-study/.github/workflows/hugo.yml
+fb83c157202e040d5fdaca82edf3cb0328a02dd5ec425878ce3e9e199dc3623b  archive/bible-study/.gitignore
+b6dac01cc2da6416885f0658e13c21b8fb3ed74420870177927eb71f68ca6b64  archive/bible-study/.gitmodules
+fa31a7fbbf2b74840b1671615b8b816de7cdc63c86fdab2b00ef6cbf9a624249  archive/bible-study/README.md
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  archive/bible-study/hugo-site/.hugo_build.lock
+b7aae205ccd3e3b2e356d63ec0ceda07e2f73375353b8d6962899f2f68d86ef8  archive/bible-study/hugo-site/archetypes/default.md
+7d270b459f37d7f97fc8a564ec9d5868014956073f3337a8de6cce083b9c731a  archive/bible-study/hugo-site/content/It-Is-Settled/Esta-Resuelto-corto.pdf
+61b6a6ac89016f1b2888bc95e45a0f6c38227d179d24c09d0587cf66a5a0520c  archive/bible-study/hugo-site/content/It-Is-Settled/It is settled.docx
+03d03cce3d2bba5f7691b220b628578c3a71ab09674790d1c143faf3b23bc04e  archive/bible-study/hugo-site/content/It-Is-Settled/It is settled.pdf
+b47f57adaf7b630f6b5c4e78d0a97d3fa88b5155564938d5d8efde6789fd55ff  archive/bible-study/hugo-site/content/It-Is-Settled/archived/00-title.md
+4701a9d61dfe06cc4ab52c5ffc23edbec2fdeb44435dee680e3a672bd75a7c1c  archive/bible-study/hugo-site/content/It-Is-Settled/archived/01-introduction.md
+2001c6168fee0e82b4e2301aac4dff9bf054dc52b9606b3b5e4d58b6a2fdbe6f  archive/bible-study/hugo-site/content/It-Is-Settled/archived/02-the-problem.md
+b42ab7f9f3056e69414d7d44592af9a3d34bb5fa4ba628fab4bcb3f2b26c4e9c  archive/bible-study/hugo-site/content/It-Is-Settled/archived/03-gods-solution.md
+d4d48d2eb3f1d397bce14d83cda8906ffad45e1cbd4c5805a4f90af0477114ba  archive/bible-study/hugo-site/content/It-Is-Settled/archived/04-it-is-settled.md
+d02cfba5f02f53c160cfb4a14ebd558f5ad792b13800796ce6bf03d24580bedf  archive/bible-study/hugo-site/content/It-Is-Settled/archived/05-living-from-settlement.md
+26d44f9cf648fb8b9c067bea16f080de438b5fc804569b144b544be88a672092  archive/bible-study/hugo-site/content/It-Is-Settled/archived/Chapter 1.md
+557d4afd5085cc07e779a5ae3d37e0022c6f2ea141180f5167e74ab2dd0df699  archive/bible-study/hugo-site/content/It-Is-Settled/archived/Chapter 2.md
+f3e1d2b9d4dddea7de54b21e33f601d8266922cb10bb9cab8e2a9772736c7918  archive/bible-study/hugo-site/content/It-Is-Settled/archived/Esta-Resuelto.md
+391df85a61f83fdb1210f05a2dd96c86942f3cb16634240a2e43b8354ebb3558  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It is settled.docx
+66f00a3e99ba0994fa60fcf3b84ba9c395f9f7ed3a2c99be62ff8a8058a8a129  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It-is-settled-full.docx
+f37c6e912254a5b6bfeb8bc76e0d6badb9f2305547e924a63d62b74850c19952  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It-is-settled-full.html
+66ba56ec74aa4ac3c921cf6c3b83cddb8274d54ff9e7fafb8df359b9b372080e  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It-is-settled-full.md
+23056ad66d451010ec72594c3dfa8d93f9d56cc490171bbe5bd205d501f1f959  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It-is-settled-fullexport.docx
+66d0bb7cee6db65451b563dbeb536a1663e50d037e9b1362cb9f59226627f3fa  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It-is-settled.pdf
+bb989743e74ae0fb045c242f184fa28307c67cbd14917cb9f2c0c308cb12ad52  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It-is-settled.pdf.dotx
+11acfdfee94e64a5946d1925402c42c5978932bb00f1a76e6169fe95fc72831e  archive/bible-study/hugo-site/content/It-Is-Settled/archived/It_Is_Settled_MANUSCRIPT_v1.0.docx
+a578edca895919ae6911f95947e38a7a9a5eba7e84fc4be34002b1ad8f74d5e2  archive/bible-study/hugo-site/content/It-Is-Settled/archived/Resuelto-esta(v.0.1).md
+1325a4a2bc5b78504611dbe2860b1a294a0bd71d8e589ef82ba183f159081bbf  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter 4.md
+b47f57adaf7b630f6b5c4e78d0a97d3fa88b5155564938d5d8efde6789fd55ff  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter1.md
+2cf619cacf62d431270040b8e7d521b4e0581d5ce232aae7f30204a90f63ebbf  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter5.md
+67d2f4654ed9e061891074138c47a18cc037dc0c62eed9580f42a502e6d207f1  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter6.md
+54c15384e2605fd020f383d925ed552173b1745c42fa5116536a3d223fbe7aa2  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter7.md
+6c970a8d779cd8ac2166571eea5c7faa4bde211b0c9ef83fb18a893f364bcb6d  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter8.md
+c7d39fcfbb4ef628c56853598acb767c7a0b4093c7b130b48a3e45a076e46339  archive/bible-study/hugo-site/content/It-Is-Settled/archived/chapter9.md
+7b07559b70de491950bcc098396709e678246e4865ecb25aa5bcfbd47de32419  archive/bible-study/hugo-site/content/It-Is-Settled/archived/complete.md
+c22f6cb1aca28fe82e200686cbda3b6bc979611e783784a43f83ac94b66eeb6f  archive/bible-study/hugo-site/content/It-Is-Settled/archived/esta-resuelto.pdf
+0450e188b3d4095d477d02c096cbc0b01582ea834b4ce9d0a830dd7a5c7157a7  archive/bible-study/hugo-site/content/It-Is-Settled/archived/it-is-settled-translation.txt
+439306dccea2dde53d41a4017c786abd6f9dedcccf050552630818e16521ffdc  archive/bible-study/hugo-site/content/It-Is-Settled/archived/¡Está Resuelto!(v.0.3).pdf
+993f71e9782514a4324713a64fbcdce8f186d877e5efff6afeb42caaa54da5fa  archive/bible-study/hugo-site/content/It-Is-Settled/archived/¡Resuelto-está!(v.0.4).docx
+6c3d43b3d73a9f1ee40bca6d36ae2dea5eff835320e8c678c5701550b1d5c672  archive/bible-study/hugo-site/content/It-Is-Settled/archived/¡Resuelto-está!(v.0.3).md
+dbf378db2cb033ad9306262f14ca724eb255c9ffa4ce3e7c6f13f9708717c28f  archive/bible-study/hugo-site/content/It-Is-Settled/esta resuelto-ebook.pdf
+41120b2eacd4bfa7f24a599b317003c0cf5a1bbcbe0c5eac1988ef859bd614f8  archive/bible-study/hugo-site/content/It-Is-Settled/esta resuelto.docx
+661271f63f82267768c14ee01d43481b0908dcdc6941e5a21f4c8893e4cc698b  archive/bible-study/hugo-site/content/It-Is-Settled/esta resuelto.pdf
+fc8823fd29e9a8d192f1cc00021e36bef0cf0eec5a42a3985675ffe5cf2803c6  archive/bible-study/hugo-site/content/It-Is-Settled/images/ChatGPT Image Feb 12, 2026, 04_49_23 PM.png
+5ff840abd54928af1a322d0b6d719df7f0347d7332f8435c70476f8905919480  archive/bible-study/hugo-site/content/It-Is-Settled/images/ChatGPT Image Feb 12, 2026, 06_05_05 PM.png
+d7070a6c95595eb99d460cecdad76c51628c925bd92346f10db5b8c9b0826b7e  archive/bible-study/hugo-site/content/It-Is-Settled/images/ChatGPT Image Feb 12, 2026, 06_28_06 PM.png
+90ceced96fd1f56e6bac83908844e41f3a69f9f7d2820d1496cf3fb821ca7c08  archive/bible-study/hugo-site/content/It-Is-Settled/images/ChatGPT Image Feb 12, 2026, 06_34_58 PM.png
+b76054d3f17159eb21dcb7019484081ec1dfe7bf5d86fcbb61be5dc6caa3f545  archive/bible-study/hugo-site/content/It-Is-Settled/images/back-cover.png
+b2cbfd97fb1ce9b047e8dbb9161d34dfacb832cb230381770e52b238294d541f  archive/bible-study/hugo-site/content/It-Is-Settled/images/cover.png
+5ec1f58ef2afc19dfca7e4c9699e42ce36fb28c6f4e64364370aafc0df0bb7cf  archive/bible-study/hugo-site/content/It-Is-Settled/images/tapa-atras.png
+4ed466967089ee029f07fef4e41d02f51a0e634d9c38eb992fc11305f0a4502a  archive/bible-study/hugo-site/content/It-Is-Settled/images/tapa.png
+c9a51f139ae7c0815bc5a2d2b1d4839f498ee59da5a479068aa44bd9be8e3982  archive/bible-study/hugo-site/content/It-Is-Settled/~$esuelto-está!(v.0.4).docx
+05f8c3d0e3cb12753e5c37cad6793f40849b1485979bf61f7108a9b689771935  archive/bible-study/hugo-site/content/_index.md
+9be1acfdc9fd9388df53c4052cfd944d8859a01935123597451c9f9b16ee8556  archive/bible-study/hugo-site/content/docs/1john/1-John-56-12.md
+99f3b559a5e840563320d49c489b5c28e49cd1a0cf9b435756a4bc88f4aedb46  archive/bible-study/hugo-site/content/docs/1john/1-Juan-47-12.md
+71412a115d75e9d08294a1f41045b951af7d0e0175014a1b50d0bb7ec5239655  archive/bible-study/hugo-site/content/docs/1john/1-john.md
+a0459a5331028c22269d09cb97cc355c01b27cd6a05dc65877e44020fb135f73  archive/bible-study/hugo-site/content/docs/1john/Conversation-with-Eiyai-on-1-John.md
+796e623a22513e10b1461135dc413709d1c72c30dd3b930e722e18bcc7ea2439  archive/bible-study/hugo-site/content/docs/1john/God-is-love.md
+e2385491a260f7ada6e32b45f689cd09e6e3bc1aacb42d6956d5c57e46b3db84  archive/bible-study/hugo-site/content/docs/1john/_index.md
+acba899f3876eadd4fa94641ef8f9902706b9591235d5e376d9af8a9df039729  archive/bible-study/hugo-site/content/docs/1john/images/1-john-macro-flow.svg
+f715acc403b810d29cf1545dcb5c0ac32a4986ef9af0a39156ef5a59e20890a5  archive/bible-study/hugo-site/content/docs/1john/images/macro-flow.png
+fbbd6e4d7ac7a8bedb304df0b4c21c3bb26835c23f5793ed615cdf1ebecb7c2c  archive/bible-study/hugo-site/content/docs/1peter/1 Peter.md
+408aaf646b49acd798e0a91223d3aba6fc069d0fa43f071cd1a415424e9cc74d  archive/bible-study/hugo-site/content/docs/1peter/1peter4.md
+607b7659257aa97430ef1849553f05d5bc680cf8af2799bc7dc89d00aa65f16a  archive/bible-study/hugo-site/content/docs/2timoteo/2-Timothy copy.md
+607b7659257aa97430ef1849553f05d5bc680cf8af2799bc7dc89d00aa65f16a  archive/bible-study/hugo-site/content/docs/2timoteo/2-Timothy.md
+78526ec2b95496e8b24490b55451c806a36dc965e8e513ba967cbb3a0070c66a  archive/bible-study/hugo-site/content/docs/OT Books.md
+4c0e04025a993b53c36b39892ebf14eefd1152e8846b8558c682e679bd88e573  archive/bible-study/hugo-site/content/docs/Philemon/Phil-21-2-phrased.md
+d0d6f26d376c3d0f4e26e6555cad58c50efcb887316c6098de6e5e804a493888  archive/bible-study/hugo-site/content/docs/Philemon/Philemon copy.md
+d0d6f26d376c3d0f4e26e6555cad58c50efcb887316c6098de6e5e804a493888  archive/bible-study/hugo-site/content/docs/Philemon/Philemon.md
+7cbfcfcbce2e27a3490617484e9ea284c7b03ec48b4b379e345f9bc651653076  archive/bible-study/hugo-site/content/docs/Psalms/Psalm-32 copy.md
+7cbfcfcbce2e27a3490617484e9ea284c7b03ec48b4b379e345f9bc651653076  archive/bible-study/hugo-site/content/docs/Psalms/Psalm-32.md
+e850d0ecac7699e4e06add4f7b3bcb1b35993cca391c3dce99b2648ecd4eb79a  archive/bible-study/hugo-site/content/docs/Psalms/Psalm-36 copy.md
+e850d0ecac7699e4e06add4f7b3bcb1b35993cca391c3dce99b2648ecd4eb79a  archive/bible-study/hugo-site/content/docs/Psalms/Psalm-36.md
+092c041ad7540c3786b2240b276bb8064ebef7e9f65af8337e614b406d1342b2  archive/bible-study/hugo-site/content/docs/Psalms/psalm2 copy.md
+092c041ad7540c3786b2240b276bb8064ebef7e9f65af8337e614b406d1342b2  archive/bible-study/hugo-site/content/docs/Psalms/psalm2.md
+a5368f6ea10e9dd556b3743f357289fd8064fbd84e9cfa678503a3087b539c00  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/1Cor.md
+027a3a608c99701ee6d31c8f6da057f6443df141f8bbd3ad712993be62a34deb  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/1John.md
+a65f265eacd64426ad72af511e01a7de811fb2998991ceb79b35fb90cc1b7208  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/1Pet.md
+8f861ea2647223051a88321388ac33d5af8582d50d152c0af9b5e64e9959a8dc  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/1Thess.md
+f9b16dc368df312ce368b0c50506d170529443bf3d200c43664c9714e94f5060  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/1Tim.md
+af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/2Cor.md
+b2daf832c6f88d67ae0bdf2ecfbbb42309e330dc161f5b127c8939d5cb448bc7  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/2John.md
+7afd9df2ea451cc6b3d55984d12fcf8d8d159b5f3d40489b4ebd375dbac8aea0  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/2Pet.md
+c2a6922591a0282f5c07fe9fa47b8f38cd1aaf15b56eb9364aac91f5546f5822  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/2Thess.md
+eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/2Tim.md
+db0bfc024dfbafa4bf0c978d6f53186c35e6eb771058672ff4f1c31708db6c16  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/3John.md
+199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Acts.md
+665ef40dbc19bacf2b2642aa0bfc265e3cfab3f37b5757ea1ff69bdaf968bd08  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Col.md
+c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Eph.md
+cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Gal.md
+35926a611f9460d527e1c940b0b37b686d4c860b004805a3c4f91f2088b75706  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Galatas.md
+a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Heb.md
+1343ea4125c64585c738a2f8bf54a077947d0a6229b2642b39a1ad845f40e153  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Jas.md
+ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/John.md
+9d80e8332848395a7af425ebf30edd21c9c43f0f446489f648b65c652630b734  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Jude.md
+102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Luke.md
+fe1b5a4c15db71e7e30f33fb67966ca93baffae377085ece0b88f66316729638  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Mark.md
+4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Matt.md
+c99e25ea7856fd7a3edb1055716869117c4cba4c15f07567ea22c0269e211b85  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Phil.md
+0b74d129888819be274cdcf239672f4688691ebab77c627521b5fcb185bea011  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Phlm.md
+61419de7970661f8c481975c35b50e7c1df0422db0c6400d1ce2c6ade35da9f0  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Rev.md
+5e6aeff83534d004686b453f7c37cfea9b6a6b1c96051b08b03f5973251df490  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Rom.md
+c07fbee9654bcbd79de831bae19f4ad07f3837dbd39e306c35dc4041ab25a110  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Romanos-verbos-finitos.md
+8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/Titus.md
+1068f79b96de67855f936b8940c042a0bf75e6f518829df5bf79f07eb68fdb64  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/_index.md
+3cd76518d85ec437c630045ec50dd020171373a21b6585e21d4269f0802ac968  archive/bible-study/hugo-site/content/docs/SBLGNT-TXT/tito-verbos.md
+49eae43ee56c76b89d6c1e7c746853bc406a154e0eb95c82dfe3712c55b71db0  archive/bible-study/hugo-site/content/docs/_index.md
+ac1850c6b574bfcf810040f9a9cf97547f86ea3cb1a4f93ec301aaa77253967d  archive/bible-study/hugo-site/content/docs/daniel/2020-06-08-Daniel-31-12.md
+1c97e6b01a5960cf8915a1ce25272534097af148245a100b8c37ed2261f0ffc2  archive/bible-study/hugo-site/content/docs/daniel/2021-07-27-Daniel.6.18-28 copy.md
+1c97e6b01a5960cf8915a1ce25272534097af148245a100b8c37ed2261f0ffc2  archive/bible-study/hugo-site/content/docs/daniel/2021-07-27-Daniel.6.18-28.md
+2e2cb6f5c09b6ea9a48f64f43052a0e97e43c0eed1a64f67679fc520283c5aa4  archive/bible-study/hugo-site/content/docs/ephesians/ephesians.md
+ca02425a8a1b218aacee0951929958b120dbc2141a6e9fc64a5ce6476ccbaa09  archive/bible-study/hugo-site/content/docs/galatians/Gal 3.21-29.md
+8f63982f3b0ca95dbaa74dd1dafb5b17dbf7d0318a61413d1066df268b48a96d  archive/bible-study/hugo-site/content/docs/galatians/Galatians-111-24.md
+c0faaa06ad47e887087e590792f431c01c221a78d08f2f661921886a9007de51  archive/bible-study/hugo-site/content/docs/galatians/Galatians.md
+f9f60588d231db369c0db4a90f295fb5d9fd6facaca8fcaf696a4690cd76439b  archive/bible-study/hugo-site/content/docs/habakuk/Habakkuk.md
+977436713bf8bae7b7490463187c449268e53f466249bcc988c65b1cd23eb46e  archive/bible-study/hugo-site/content/docs/habakuk/habacuc3 copy.md
+256028159e489066025d417067a0a0be45e75648f9dc893ab5036c39e3f8e6f3  archive/bible-study/hugo-site/content/docs/habakuk/habacuc3.md
+417aab4085a4f078acd8e13ae2510ddf71cd5f8a1f0929e1867c45ed3552fefe  archive/bible-study/hugo-site/content/docs/hebrews/Hebrews-12.1-2.md
+58df1da131713948d44d9638cc53f4a32863975b33902ca2edaafa778f80b582  archive/bible-study/hugo-site/content/docs/hebrews/Hebrews-31-6.md
+784b02833ada8a420850e989a46d842f754518fa44b3173bb5bb40655bd3eee2  archive/bible-study/hugo-site/content/docs/john/John-11.35-48.md
+54f7a8b8fef81384dde00021f7c13bc8329dd64a82166158ebfa1f3960a59857  archive/bible-study/hugo-site/content/docs/john/John-13.21-38.md
+cd00cff9226d84530e93ae612bcbd5f828d797d189f5554d45d5694d93dcbac0  archive/bible-study/hugo-site/content/docs/john/John-831-44.md
+873a7869c5a17263beda48d2c26084759adfcb9b9768266350e684eb0da2e673  archive/bible-study/hugo-site/content/docs/john/john-11.1-23.md
+852992b77578403952761e2be3c67fc66f30bece4e8891cff5153d7aee35def5  archive/bible-study/hugo-site/content/docs/philipians/Filipenses-1.28-30.md
+4c0e04025a993b53c36b39892ebf14eefd1152e8846b8558c682e679bd88e573  archive/bible-study/hugo-site/content/docs/philipians/Phil-21-2-phrased.md
+9a165d6932d7d51c0a509cf023510f509db3aa5d187e76cb522624d13ea8ce25  archive/bible-study/hugo-site/content/docs/romans/Romans-1.18-32.md
+2f934e9faddb897c695fddae6f521a1e601cfdc5c5716d93caa9a71506519504  archive/bible-study/hugo-site/content/docs/romans/Romans-10.9-10.md
+b7f11ada750bc5fdcd9499948101cc85c9802cf33f31e987aca97d4cb4c6ac7d  archive/bible-study/hugo-site/content/docs/romans/Romans-8.1-4.md
+aaf5b19a277f830aba15434c6b49bdcc7d703982fe486c60634667d22c7afa36  archive/bible-study/hugo-site/content/docs/romans/Romans-8.1.md
+f718348f42bfc04f5804fe8a8cda7ee4051512172a4130532285fb93b71ba364  archive/bible-study/hugo-site/content/docs/romans/Romans-8.18-28.md
+4046258b6323b33106afdeaa07c56483ae1fc00881a2a4e2008d1e4723e18ce3  archive/bible-study/hugo-site/content/docs/romans/Romans-9-16.md
+9b94f467f5269939ab674ba0d879008d2fb0be489ad43accea8092a76633c81b  archive/bible-study/hugo-site/content/docs/romans/_index.md
+e941ec43bc6583aff37166b667ee5d2ed7a992c3b1adb8e5a5b28f7f11912085  archive/bible-study/hugo-site/content/docs/romans/images/israel.png
+1c79bb68ca1a21cff843651fba88584ed3cdc9a1c11a991952a4957cd67cae73  archive/bible-study/hugo-site/content/docs/romans/romanos5.notas.md
+a5fe647aea65412b3d0b28185cafafd62fc983fd0f1db1548164daeee5fe520b  archive/bible-study/hugo-site/content/docs/romans/romans 9-11 quotes.docx
+4a5dcfbe8fe177185f6663ab2704e0f3c0f08d64223c53feb137cec571696c4f  archive/bible-study/hugo-site/content/docs/romans/romans-liberty.docx
+9d51941815cbcf5b1f335ce90e09082961e5edb3271ace9691ba88f6b8fcf38f  archive/bible-study/hugo-site/content/docs/topical/.md
+743e492cbc5b2ba327baa068aebcd6fffb3ac70396fda7609f9a96714eec942e  archive/bible-study/hugo-site/content/docs/topical/2015-02-15-Obedience-of-faith.md
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  archive/bible-study/hugo-site/content/docs/topical/2015-03-24-predestination.md
+f667f40ab76ef8b0734818e7d90de667e58d4861a08ec49fb2d086d5a46cae56  archive/bible-study/hugo-site/content/docs/topical/2020-06-08-repentance.md
+a95b791fbf0e9db4f4d00c81b2f9944c76ff3ca5e4ce44db4536a2b80af30815  archive/bible-study/hugo-site/content/docs/topical/2020-06-09-The-Attack-of-the-Ephesian-False-Teachers.md
+9a1ea288ad5f4b785b34b4c9d91dcec3ea4428a6e7a87e44046e2ce6065e2c24  archive/bible-study/hugo-site/content/docs/topical/2020-06-11-install-Jekyll-on-MacOS-Big-Sur.md
+5961fa22155cc539221cff55769d361b1ac46260d6a42ba5402a144dd746ae87  archive/bible-study/hugo-site/content/docs/topical/2021-07-21-two-instructors.md
+5630fec9150a98fe007a26fe6b945bff3e29e20af93e4405b203c64917062bef  archive/bible-study/hugo-site/content/docs/topical/Angels.md
+1cbeb34f3846259d5c296b0114f245aec2addbb8f84c4ad1b52021d4a80e9288  archive/bible-study/hugo-site/content/docs/topical/Armageddon-zech6.md
+c5727889c8c2e4ab014f812f66c59361a0dc7763e31b891c20b86c00ec2adab1  archive/bible-study/hugo-site/content/docs/topical/Babilonia-como-instrumento-de-Dios.md
+04804ce8b436b40aafdecf9d5ae7911bc753148f3658aeac9de53cb1d29c9754  archive/bible-study/hugo-site/content/docs/topical/Bautismo.md
+9712b437afde76a3c1e513ae9354b0c5b765134ce63a09a329c150d47fac7fca  archive/bible-study/hugo-site/content/docs/topical/Biblical-Fellowship copy.md
+86cbee994ca65c81606b933d4efda5b44f0caa562396335d1fabc3745ed6aeab  archive/bible-study/hugo-site/content/docs/topical/Deconstruction-for-recostruction.md
+d854ee8fd276d90f9e206cb91bffa020afbf7e8e756d37d01deac529e3791882  archive/bible-study/hugo-site/content/docs/topical/Discipleship-need.md
+7e5b28934ea81fb7175ca1e8a8483963ba81652b4b2d16c5924a87a6cd7d30c1  archive/bible-study/hugo-site/content/docs/topical/Día-de.md
+7a172375431fa450ec266f9671dda95cc0fb9ec2f6a6ca8ceba39ff5d9b46f36  archive/bible-study/hugo-site/content/docs/topical/Ekklesia-in-the-Bible.md
+21da5e55dcfc1216e35afcfa553a27c453ead8b993994236769a76493bf80c68  archive/bible-study/hugo-site/content/docs/topical/Fellowship.md
+e22cdf543c39f45d4b0604b2c6ff2e0a13456b69f2df3e6a058738f866e21b9e  archive/bible-study/hugo-site/content/docs/topical/Hyper-Grace,-an-article-by-Dave-Miller.md
+7f7d7a3e59fa0f1e67c01f2b67657ba4dc81c724e456454a34b23a14dfa055f7  archive/bible-study/hugo-site/content/docs/topical/Hyper-Grace...The-latest-fad-in-conversative-theology.md
+d64c524f0cf000906f082b8d17385c104bafa06646f249485c3f84b6def9cb0b  archive/bible-study/hugo-site/content/docs/topical/I am Acused of Teaching 'Easy Believism'.md
+abadb43ceca8e75d4741d6373484343cac6a8d34b745babfdeebfd59f7efb5ea  archive/bible-study/hugo-site/content/docs/topical/Imperative-verbs-in-Romans-1-8.md
+566b931fb43a1a90019bf2701129420e4aaea70c43c8335585e10c217be34415  archive/bible-study/hugo-site/content/docs/topical/Israel-egypt.md
+9dddcbdc5965487b2d798ec6e7cb8f680f06712f408ed28c0afbc801104f20ef  archive/bible-study/hugo-site/content/docs/topical/Jacob vs Joseph.txt
+20f6b7c8467a78f230447ae8a172f6fe5eda6e6b14d3118ff538ce730d66dbb4  archive/bible-study/hugo-site/content/docs/topical/Jesus-mismo-nuestra-propiciación.md
+062c4bdb4ed265c6b5b9137391d98b25baa88b954077bc6ffd6aa07a1a901bcc  archive/bible-study/hugo-site/content/docs/topical/OT Books.md
+d4a734dfd2e1d7c9e6091135f8b27dbe3d21b8affa219af16f01b2a0d08ef79c  archive/bible-study/hugo-site/content/docs/topical/Often missed-romans grammar.md
+e6ad66157c2accbc523398cd8c01a008bbac47d61ed769dcff34dd7d55ea8805  archive/bible-study/hugo-site/content/docs/topical/Psalm235–6.md
+2bba281a16bde8ef18b3c576099b01a8936bac46670d2a32b24282cd47370212  archive/bible-study/hugo-site/content/docs/topical/Psalmo-235-2410.md
+542026b9dffa4686f48b73c0d5e7845ccc28f2dec2a757f996ac95b5f23b763d  archive/bible-study/hugo-site/content/docs/topical/The Day of the Lord.md
+7667fa871f5f32efc17d57a9e8fde46dfda0cfb432616bfc181533ce6caca99d  archive/bible-study/hugo-site/content/docs/topical/The-Gospel-to-the-Believer.md
+77e92369f6ffd21a286b64807b4004f5105b0482647ce2421a46e64940774a51  archive/bible-study/hugo-site/content/docs/topical/The-blood-of-Jesus.md
+fb860a8b7e402127bdba4edacb48e802690eb5716711827bf1b8768f5b11f078  archive/bible-study/hugo-site/content/docs/topical/The-church.md
+16e2852bbf55c512615370477d99bcff5df4156da89ce556e54e23923fa712de  archive/bible-study/hugo-site/content/docs/topical/Theonomy.md
+943f0aae246cee91f295e9f72815ab1bb888757a782d2cb28f8fb576533a36f5  archive/bible-study/hugo-site/content/docs/topical/Unity-claims-vs-Truth-claims.md
+b00a42f40a05a6244f187bd533c5ef7d3a1fd810b5afe3d2f6b2bc4498f93965  archive/bible-study/hugo-site/content/docs/topical/_index.md
+993f110f3d92f89fea0679566604f2cf15fa7a427be41ba0ce72b288ada84d12  archive/bible-study/hugo-site/content/docs/topical/biblical-fellowship.md
+41bed09393e08d818da4897e04fb760cb39946980e39d58208ee302416e055e4  archive/bible-study/hugo-site/content/docs/topical/biblical_covenants.md
+db658ee4214a59943871ea11d33dd4f0e1e38af8dc0f9f22b71564e29e8ae71b  archive/bible-study/hugo-site/content/docs/topical/christmas-kingbirth.md
+c3886dab4d2af5b0596d13deb040626eb6bc9646d42135fe2c7a0391d14bfebd  archive/bible-study/hugo-site/content/docs/topical/confession-of-sins.md
+7c0d83f330b7d20d6c32ec320799178991535fd817aed7f21303866973879d59  archive/bible-study/hugo-site/content/docs/topical/covenants/17799252_1930907053797071_3241006058990578003_n.jpg
+aee8b9a64fffdd59753bbe5f34f4af649c1d3a73b2a3262078e52c1ab10d63bc  archive/bible-study/hugo-site/content/docs/topical/covenants/2019112221035580492.jpg
+bf845175da5cc89e71d1869d0686675567fb07e4e4ea6fd0c5b08d9f011f165c  archive/bible-study/hugo-site/content/docs/topical/covenants/4791118_orig.jpg
+f1eb5cf6c46356236721c500ac323670a7a670a9152295527b367e67dfa3b536  archive/bible-study/hugo-site/content/docs/topical/covenants/A Study in the Biblical Covenants.docx
+cd05b5f417a769b1679a81ad3ccdab37f246e25fd7444e364132e536eb7e4b95  archive/bible-study/hugo-site/content/docs/topical/covenants/A Study of Biblical Covenants-spanish.docx
+0f4823437325e225ccaa0072588c054fbaeb6669394ac9298c06e9d32a06cdb1  archive/bible-study/hugo-site/content/docs/topical/covenants/A Study of Biblical Covenants-spanishESTUDIANTE.docx
+e9d5bb62e88436fbf7789fdc372536a1e1a24d3533786ece1ecba69cd14a5bbb  archive/bible-study/hugo-site/content/docs/topical/covenants/A Study of Biblical Covenants-spanishESTUDIANTE.pdf
+98e9f31f963b8fbb989bfd4f0e004df764f5fc7e38014ab8fb4c0c379c6b002a  archive/bible-study/hugo-site/content/docs/topical/covenants/A Study of Biblical Covenants-spanishMAESTRO.docx
+9540e199e5943396256254c35ff58965a44340bfeb99d73b36331fb08b31357a  archive/bible-study/hugo-site/content/docs/topical/covenants/A Study of Biblical Covenants.docx
+045c710b21115d1a909eea7710df6c2c296cb439ec9beea6ff048dd666a62b2a  archive/bible-study/hugo-site/content/docs/topical/covenants/Day-7-Biblical-Covenants.pdf
+370a34ef2d101fded3947eacaee38fa91deec74fcbebc079ca1fee918bac473e  archive/bible-study/hugo-site/content/docs/topical/covenants/Estudios de los pactos biblicos2.pdf
+33aadc16e50718e9189abad7eeffad100d600f7c7d0963e36c063fddf1bfb1cd  archive/bible-study/hugo-site/content/docs/topical/covenants/Genesis-Timeline-from-Adam-to-Abraham.png
+a11fadca0b0cde6ae56ea03ebe1ddb33841bcc100707d432ee4717c6f1cd54ab  archive/bible-study/hugo-site/content/docs/topical/covenants/MuseumJournal_VII_3_1916-44.jpg
+d21fb04bc759af064d52421cab8f19b10f463020cbbfda6a2b2123f92aaec6fc  archive/bible-study/hugo-site/content/docs/topical/covenants/PACTOS BIBLICOS MAESTRO.docx
+1b8e369282bd0c5ac1a5d3e8347ac97033637a08d3cc181b5485f3fec8af2fa7  archive/bible-study/hugo-site/content/docs/topical/covenants/PactosBiblicos_ESTUDIANTE.pdf
+a8a860246488f05ca0a7b3cda9f7d0f8a41ded9559a6c185d36179d6777acd5b  archive/bible-study/hugo-site/content/docs/topical/covenants/astarte.jpeg
+c573500f61fbc9dd6a396f5d44c6a99f6339173ab65c158f82a0d46b0f02ad6a  archive/bible-study/hugo-site/content/docs/topical/covenants/chronology_chart_from_adam_to_abraham_1.jpg
+a135c45e0e53a375eebba2abfb92577c4c4c80ebcb5b3071682b4992de3ffa52  archive/bible-study/hugo-site/content/docs/topical/covenants/churchs relationship to new covenant.pdf
+74ded6a6933b21284eac71fa6111698514d8522e136beb511e55b605153298c1  archive/bible-study/hugo-site/content/docs/topical/covenants/conf-la-torre-de-babel-la-confusin-de-lenguas-los-descendientes-de-sem-y-tar-y-el-llamamiento-de-abraham-gnesis-11132-44-638.jpg
+814126d7fc899d58a118849907b5b0f5467ac12866956eba243d2f8eb0d37d96  archive/bible-study/hugo-site/content/docs/topical/covenants/covenants_23.pdf
+a58a3927f9355c709cc370505409e4664777d4280ca5ccbbd963eff1e702f28f  archive/bible-study/hugo-site/content/docs/topical/covenants/linajes-de-adn.png
+3866665b69aa4d0226c4cfd8d0280cfd0a7d0278b3e02b87c70f4d9071733e0a  archive/bible-study/hugo-site/content/docs/topical/covenants/lospactos#3.key
+358f39be5590e6e5fbd7c55087f4d1ca380723b2845fc3d8d23dc7907af62f70  archive/bible-study/hugo-site/content/docs/topical/covenants/pacto_de_pazz_1_crop1574480457902.jpg_219914347.webp
+3ef2d901a6c98845687f6187f52db8304dded6146415425a0569885430c70713  archive/bible-study/hugo-site/content/docs/topical/covenants/pacto_de_pazz_1_crop1574480457902.jpg_899757882.webp
+b4450c3855a9e6e44247598859fb80ec4eaa433b77a62076a364402cfa1c7536  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos-de-la-biblia2.pdf
+b32f94de205f3b5d6fd8009f71e26b8cc9aa1b9a7a6aaf54ca4d502f8394d8b2  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos-en-la-biblia-john-wry.pdf
+2bb642b532ad95bdc6b457dbd58dd11d70d82cc4f57c4a4fbd7278cd525fe212  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos-en-la-biblia1.pdf
+a058242ffb25816406c34824fc91a705729026cdd8608e87e671104de8490879  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos1.key
+83da23986725089b9023a9863243559dd0f1a31912260f8183a03d5dd190c053  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos1.pptx
+960d1222b523103e51b5916a8a01962770a2a1c080edf177dd8eb15142683b3d  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos2.key
+4da75f869b6b9aea341ec7bee80ecc5cf65e30fa8322ab446518897a174a6551  archive/bible-study/hugo-site/content/docs/topical/covenants/pactos3.key
+1bd90c9ed9c84e755fe1a71cac303d730bdea0ff59b51a785ac255165070d844  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS2.pptx
+5224d2b7218608c440232a1edc5f582c9b8de1fb33dd828d3c6a02505d463f39  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS3.key
+f93f6240935fac166fff1b5ac1eabad81bfc741ffa8afaffee58a4bbc9d7bf0f  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS4.key
+eb008b92453db85428f7ac99e2d2c2efe1730d4a0815e6f209d97420e709fcf5  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS5.key
+ab6cd7128875bd3a400401f0b2eb102be84135c65da192fd4a8c52c829f58163  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS6.key
+8610b6d1c6ba3a30cd8f086830ed055c3d9ad96bf3fb72f3e4fd6bc009b7a9cf  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS7.key
+19fe438cc500491f9d9a969b8bb68a957ef4cc8219ced8289b6ea9642211e81b  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS7.pptx
+dd1608be4f9e7d7c5be69bea97652dc699447a77d04908b29b227a18be1d49b6  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS7_old.pptx
+89b57db0506a3ab7e115b4e0119e745c67bb5d1b454d48a0fdb616a833f699b9  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS7_old2.pptx
+116b3dba449cdd7dd7ce59dd7bf1d40fa9a597c64f76e60d12322ea3c7c58054  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS8.pptx
+237add7d8a9d91f3137768621c4e17399ea204871c74c9505c897cef603dc6fd  archive/bible-study/hugo-site/content/docs/topical/covenants/pactosBIBLICOS9.pptx
+a0d814ad7d3a9a8b78cece3438572a5d07489f6b1a2839f1e397d0a932e1b9ca  archive/bible-study/hugo-site/content/docs/topical/covenants/passover-as-a-threshold-covenant.pdf
+950b667eb431b739869b6d1063e7ece9f1a90939930feb97801f2989908c4f56  archive/bible-study/hugo-site/content/docs/topical/covenants/zoom_schedule(AutoRecovered).xlsx
+72804f52a38383681f2c00042c3b45744fc5176eeed62abbad9d12007d9b1837  archive/bible-study/hugo-site/content/docs/topical/dealing_with_pain.md
+2ce9d2d5d0ffcff4be46bda13c254460ae2784c2d85f4acb04946927b92c4e36  archive/bible-study/hugo-site/content/docs/topical/globalist-theology.md
+eda7976aa01a0490f127ad8b5746cb79eab49ae4bcacbff28af84d69f12c22b3  archive/bible-study/hugo-site/content/docs/topical/grace-unmerited.md
+522af3bba685376081b23154fd9cd3d22148001cd8ba738b39f010dad5596836  archive/bible-study/hugo-site/content/docs/topical/homiletics.md
+7709f8023c0e2bb498e2821a5390973a83d10f8a665affb7b7da37c9e9eaf444  archive/bible-study/hugo-site/content/docs/topical/islam.md
+99767089f6fad1e5d7f2aeef3eca2c8a3e8ad11eb66d64c60d639a496e3cba35  archive/bible-study/hugo-site/content/docs/topical/jeroboam.md
+6c8a9cf844845bc6d2525fc861796815514afa98c6a54ecba849648521951d1f  archive/bible-study/hugo-site/content/docs/topical/juda-kings-mothers.md
+4aa440ea73f2e5c06dce0c6ba8ea857c700e484d157d655717b9c9ee16110a68  archive/bible-study/hugo-site/content/docs/topical/lordship.md
+61afc17669a8189e1c34ec77770fc07b08ffd8f5bfc4d4d2e1c10857da13ece3  archive/bible-study/hugo-site/content/docs/topical/marriage.md
+7bd302ff286fb4a12aadfdc4d4a4b8107b2e652748751c003d34692faeed462d  archive/bible-study/hugo-site/content/docs/topical/quotes.md
+67216a66f7d5f3030ec6568eee232a6cda2fa52387c274b4ec412919eac30501  archive/bible-study/hugo-site/content/docs/topical/return-to-God.md
+7e395b146e87bb868ce73b8517b059b7e7fb03dc2f22eb4175641a9de2f91d28  archive/bible-study/hugo-site/content/docs/topical/sanctification.md
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  archive/bible-study/hugo-site/content/docs/topical/theology.md
+909a28f97954d8a9be0cef6a6eb442c5db997acd4b54f366140dc3ddae6ffb46  archive/bible-study/hugo-site/content/docs/topical/wedding.md
+3c5ba7902f44456f1dacc3d1567c9452ad8aecb5c368a473ae9902e818099d9b  archive/bible-study/hugo-site/content/docs/zechariah/Zechariah.md
+18f8ea1c970d00b32ac4fb42a36b406fe5143f2f8dfef27951b3996906492128  archive/bible-study/hugo-site/content/docs/zephaniah/Zephaniah.md
+b2feb8f87cab49479b4b6c007dbbe82353daadfc68b45a5e3b9a3963a2b6a08c  archive/bible-study/hugo-site/content/la-iglesia-carnal/2026-02-28-The-Carnal-Church.md
+b47bdea220212b7fbc674ead2bbde842576bcb23beac0e5d6f783d6f06d1ae86  archive/bible-study/hugo-site/content/la-iglesia-carnal/2026-02-28-the-carnal-church---notes.md
+5cb68c7058ed139c28301968584a513dd9805a0b9bd3ae2dad1f088a66ccbf63  archive/bible-study/hugo-site/content/la-iglesia-carnal/4men.md
+c3807f803649183f72baf168220fdcfcbfab1b182f603db8ab32ffd548dd8008  archive/bible-study/hugo-site/content/la-iglesia-carnal/La_fachada_del_éxito_institucional_sin_vida.m4a
+4609884a2f5163aa7941f16f9ae9a785c999d4489ecc92d6f7fd50b57f5a1675  archive/bible-study/hugo-site/content/la-iglesia-carnal/NoteGPT_AI_Podcast_El Desafío de Proclamar la Gracia.mp3
+1a68bd9b8a17ce631beadc5ceeba994c20fb8fbaee230e08d799d443b5ca37f6  archive/bible-study/hugo-site/content/la-iglesia-carnal/NoteGPT_AI_Podcast_El Evangelio No Siempre Bienvenido (1).mp3
+78f4c689b3c9953fae25fe5d30c4285c646eee8705a15ac6c5f385a3f80a9b1e  archive/bible-study/hugo-site/content/la-iglesia-carnal/NoteGPT_AI_Podcast_El Evangelio No Siempre Bienvenido.mp3
+890162e8b6a0bc3a736298b65176c42aac41fad1eaa9c63de18a65d869fe1b83  archive/bible-study/hugo-site/content/la-iglesia-carnal/PAPERBACK_5.500x8.500_218_BW_CREAM_en_US/PAPERBACK_5.500x8.500_235_BW_CREAM_en_US.pdf
+0a23216b80845c066e4f8c975ae48b503e0b81eab4dd813883f0487e4b1e4471  archive/bible-study/hugo-site/content/la-iglesia-carnal/PAPERBACK_5.500x8.500_218_BW_CREAM_en_US/PAPERBACK_5.500x8.500_235_BW_CREAM_en_US.png
+d3ca04111bf3d54474d4b6dab71e6326b6a3eabb95010b33e27d8380c09a68c1  archive/bible-study/hugo-site/content/la-iglesia-carnal/PAPERBACK_5.500x8.500_218_BW_CREAM_en_US/readme.txt
+e8ff8efaa36ad7f0ec1341f5043fd85d59fa11ce3ee74155b86d93ea5095507a  archive/bible-study/hugo-site/content/la-iglesia-carnal/The-Carnal-Church.docx
+f6335132c1e257a56ed2907877b827fa755f316a3719fc91084dff485172e7f9  archive/bible-study/hugo-site/content/la-iglesia-carnal/The-Carnal-Church.pdf
+f9508c50ba1537a2d14f1f5590fa23cb2bec85b44e315f690db36a08d08dcf40  archive/bible-study/hugo-site/content/la-iglesia-carnal/Working Manuscript.md
+339bcf2edb12203d923bf302c3ffb5f782885e20f67ddf6d40eb15d9e3a630ac  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/BOOK MAP.md
+ae494bb2156d48c63553a0c58c8e1142eaf2a85c56e49d2d52d34e496d736154  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter 3.md
+a9bd8fe7d05b0d39f865dc23d81245a375720e99f6dcb92312dc30bc6ef4779e  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter10.md
+d825061e3a1bafa71e35b83a0456a246456a9d2abdccd171bd22a86933e2f87f  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter11.md
+e7a7e6ac91316392e7a4ee17eeae86d833ee2552471170c130ece972c652889b  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter12.md
+27023fe4f520af69f922ee39f06ae3f735449c9b9c572a964a4d39240e6925c0  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter13.md
+70c6fd6426d29c46bcbbafd73b324c09ba5bd9990fd16e28938598bdcfc9acc1  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter14.md
+aaf953c1aa8fecfb3eb4cda81bd5bc81b99900ec5dda4c285d125c0f3af2c71c  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter15.md
+b52385e586ba6e6c0334f140f8318722e6a7882661ffb43eac8bfa5e51659728  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter16.md
+799087f8a06c52dbb8eba221539c6fca26688d3df458476c947aaa94a5506070  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter17.md
+e399d3b3261f2ad333c8e2214e365ced610b74d7df7df053638f5848113dec1d  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter18.md
+705270a2f2df15488c14cf7a8e7ba6527e2c16c1fde2a50f67661be744d9a73c  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter20.md
+0b3af9bfee24f3c6ebc83a2a6696bc95348147827555ea9cdc2ef012c56c004d  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter21.md
+5ef1445aa08dcb66b84b7c416b3ef38e2c19edf3b9e6a4284b09906a9681299b  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter23.md
+405440d2c01a00258bd09109163a599ff015899c30e48b683572bd0a9e1f5765  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter24.md
+c17028deab29225f429cabe057eab101f2775b024e0dd5345fa6bb09407426a8  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter25.md
+c334c46af32a0535275ac3e4dfb8ee7c0fa85bc19fba360ddb4b1032f2cfa4d7  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter26.md
+949f31bd2b6263c048ef8ce35e6e8f12f6dc279ac91eedc598ce43c3e3275ded  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter27.md
+636cf9a443723966a889c19de44ca80a82955b51d5c0b5109495d729144732b8  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter28.md
+d95afa0ffc6f559ea13956ac1943654ca41edfd90864e702901b6e9a111afacc  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter29.md
+7bf262c7ad802ca5f84e94db1eb165c6dddf47ca64434263b6717495a0c03812  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter30.md
+226f4fe03cabbcf62675a874d6d2927c327b7d8832919f44ddd918322ee47371  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter5.md
+ad97e3a6a64aeebf3e2fcfc27e4a8dec39ab819c53d3ae576aa1449ce9173754  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter7.md
+5bd199b077658c2682fcd69cef5830f691b518399d968b6110a0ff5043238db6  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter8.md
+442ee03627dc9c7e8586995a33bff20486f503f522fa3d674ced0abba22c2809  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/Chapter9.md
+32c6daed71a6610d3b141635c413ded903ef5f15b34b75145cc60bf7efdfe579  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/chapter1.md
+4b90e625ce194cc83549d7b6ad6d7a0e8b18131b8446031718a7011239602fc7  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/chapter19.md
+66c74ca3a909db4d2648013c180cb10c707b5e130c0638514cac7075d6cdee51  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/chapter2.md
+1eda52fa0e8b8b401e47972850c99fb9fad4328c3e2f09cc5e0bd9a84f9cfc6e  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/chapter22.md
+053fc1db9b094e30a7fd07f11c38e63dc23dd2ae3e585327654dbb5e49f1a6dd  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/chapter4.md
+273190545de7042211ea51bf78ddd9a56e664f23788cb395c8bb97e5eff24ea6  archive/bible-study/hugo-site/content/la-iglesia-carnal/archived/chapter6.md
+3b740e56f5e1c799518ffc8167ef965274abb4c26e574f69f4820d4cb76a9d85  archive/bible-study/hugo-site/content/la-iglesia-carnal/back-cover.png
+d767bda72af892701fcc74881f018b7f46ecbecaa60c0a3fa3ce02bf368b00c6  archive/bible-study/hugo-site/content/la-iglesia-carnal/back-cover2.png
+f7240debf2ef370cdcae0276d77276028a51fc5620ffb0e5420d9e998bfd5046  archive/bible-study/hugo-site/content/la-iglesia-carnal/book-interior.pdf
+9832f3a73de47c469afaadc55225cabac9d2cd5e975ab75e1cd27c3832256120  archive/bible-study/hugo-site/content/la-iglesia-carnal/book_template.tex
+c628928d76bd6eab5a4acc452bf357b4c991a580d6a805c8e6b5166ca082fea9  archive/bible-study/hugo-site/content/la-iglesia-carnal/categorias.md
+65081ca2781b39ebc58ced38e057dce93eff1602b1092cd15a74e9a7a05966db  archive/bible-study/hugo-site/content/la-iglesia-carnal/convert_audio.py
+f32451b8b8c146171cf88ee3629906117917216f3d86158fa94dc7b0f5d3108a  archive/bible-study/hugo-site/content/la-iglesia-carnal/convert_to_descript.py
+f390a8b6ad385dcbd4150f40a49cca6f7242a4a63dea95d14122e77766a7b9d8  archive/bible-study/hugo-site/content/la-iglesia-carnal/cover.pdf
+63c38acfe1babce9748c03ac8fe7615a8626fc780a4bcce07882dbc0bcb00b7f  archive/bible-study/hugo-site/content/la-iglesia-carnal/cover.png
+b8c0e95f8132080d0ffcbf5f9d90b3c386d7e254d9495e00b1b11398be52cf4d  archive/bible-study/hugo-site/content/la-iglesia-carnal/descript_script.md
+5210ef07f719e9c5e985ee6aef263616bb41a3de5c423b8f3d73c04b8978843c  archive/bible-study/hugo-site/content/la-iglesia-carnal/end.md
+aeedbd991741ba83b4e94d2d2ebf2fec525003fe09769a1ea285d57f3bc4a28a  archive/bible-study/hugo-site/content/la-iglesia-carnal/epub.css
+526b987565b5aa8bed41cf06569e41c40e70810e9f51d646f3b7f7e53beee807  archive/bible-study/hugo-site/content/la-iglesia-carnal/files/CarnalChurch.pdf
+250994c8e3263f9bb4f946f790c1cde59910c4a1b36c1e76bf659b1e685a0190  archive/bible-study/hugo-site/content/la-iglesia-carnal/files/IglesiaCarnal.pdf
+49910aecbd29ad1bb63b3e8cae06337144046cdb8e06f404475f186cec6bb685  archive/bible-study/hugo-site/content/la-iglesia-carnal/files/Por_qué_las_iglesias_exitosas_están_rotas.m4a
+095f65831f6a633530013049424a68554f43ef617f044851394038fa2a760ed5  archive/bible-study/hugo-site/content/la-iglesia-carnal/files/internal.pdf
+4b572f39055af5635164284467186f31a8717cd86319c116d5f86e6eb7139fef  archive/bible-study/hugo-site/content/la-iglesia-carnal/iglesia-carnal.epub
+55a30aada87528aa11f28b252ed12a70dd835477197351d8ff0fe3e1f045910e  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/1.png
+3c5e4aef9ca55b1bdf95cf733cbde6fdc9b601f4a6469c6f0697626a227a325c  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/2.png
+287baa4ca8f51a190921911e692fce6e1eb33f879004650c1f6546c8a742db27  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/3.png
+0adaa0bbbe69f956b0259ddcd65f2abfcc97ceca317f0b858e131b376253be8c  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ChatGPT Image Mar 10, 2026, 02_34_30 PM.png
+2756e1afd9498e644d55bea3a666022e893bd8f29b93fc0068dffad41a476ab0  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch11.png
+edc95f0beef12b290f998f68a89f2499a6a6c622bca02c567d059b599a3a17dd  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch13.png
+0433f87e0307d157c19583acd5ec7141fe5e79b5c1647341d7e8c234bb6adf5f  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch18.png
+37493d5ebbd5ea8eef8537a6c76eddd11cf5bced4e41b89c4d3bae02797152fc  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch2.png
+5fa0137822c9931077586ee87de802f81d0083091eb7d73c64c988fed19fa35f  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch21.png
+62a1c582fb7d219b050243e53d8ed0565fe9139b0471ea96b668c7bf04662c0b  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch26.png
+85f8fd0a03dd5a86b356c9c1b66105f034393eefb4df6f0b01b1cff578f67b2b  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch3.png
+7794d265442b9726e6a67d366d6b4e6ea77ee7a4de721d702dbc29d1ab876429  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch4.png
+9a3410e7ec966e5b7b07a2f54e3cf6417bcd8dd61ca2540db22e811737ee7241  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch6.png
+a54ded0b304a7fe318977c176dbb226a8270c45b1637d7ed4cabe829ddad40ec  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/ch9.png
+d32fbb8e8f2d500ca5b76f964098bb073fef334b73b153775005cfd946533e82  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/cover.png
+aa0e6f05324c53329a4b026dfa59006d9de3a259833a8832cd54bfea5dd1f068  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/images.png
+e30b3ad84f8fd761a4115f1733e1584eba9d65b4f56ba824fd018e9307cf4229  archive/bible-study/hugo-site/content/la-iglesia-carnal/images/images2.png
+7baac9708c6f6f24d2d51ea5cba912765c9bc3628362a45c5b84b0bae9e1af46  archive/bible-study/hugo-site/content/la-iglesia-carnal/index.md
+2aeb31cf6e398f8b90d90d6b672377f0bd24b180dd0ea747afe074b3e85f738c  archive/bible-study/hugo-site/content/la-iglesia-carnal/manuscript.md
+b35b298c0be8377467128924d7ae4baab2be4d3096524d088294d79aeb992f31  archive/bible-study/hugo-site/content/la-iglesia-carnal/manuscrito.md
+764c67249e21a0135195d8e20c53171a87a01fa6bd8f97f44b6e8045f1445745  archive/bible-study/hugo-site/content/la-iglesia-carnal/manuscrito_audio.md
+79b70a92a09e28c97d1bc4a268b1b2539054a0f794550e69c842ebc3fdc0d1c7  archive/bible-study/hugo-site/content/la-iglesia-carnal/manuscrito_audio.pdf
+5749036a2ae4067af3c101417700f0ba94213eff671c45a3ee861bd3fcdd4ca1  archive/bible-study/hugo-site/content/la-iglesia-carnal/ornament.png
+7ba9828b1d4069fc328e30f408b11757292571fd42c1227fda1a468c90ccbbd9  archive/bible-study/hugo-site/content/la-iglesia-carnal/output.pdf
+152a92e0f46b90f07b76a822b8e1385900797e43872769e79773d7601d694119  archive/bible-study/hugo-site/content/la-iglesia-carnal/podcast/tts_preview_2026-03-12T20-42-36-011Z.mp3
+0a628d91a53e05b8a2c7c8afd884e8fd260bf6a93f2c247c9d3363812ab6c01e  archive/bible-study/hugo-site/content/la-iglesia-carnal/portada.jpg
+4981a01628e24e0794c21963aebabb96569ad5c64251e66f6aed72b8fcb81dc6  archive/bible-study/hugo-site/content/la-iglesia-carnal/portada.png
+83f3d2360a7a20a4eb7faa96b67031d65cae6d4c0ee14f8db2f25cc313421f08  archive/bible-study/hugo-site/content/la-iglesia-carnal/prologue.md
+a6d5041b97634b8744315a2e617248b35fb5ed5683f539e98c4e1f7cc1efe255  archive/bible-study/hugo-site/content/la-iglesia-carnal/template-es.tex
+07b938d2afc3369e5830ab9ce028048066fce47ffcbd94367cd0130c0cc97a09  archive/bible-study/hugo-site/content/la-iglesia-carnal/template.tex
+da4a042222f5347f36cc2e6ad9c388bf7e8cd02307e14ea05c5a278ee1afca29  archive/bible-study/hugo-site/content/la-iglesia-carnal/test.pdf
+f4b9bb0da72b0434d7e04dc051f444a32b18863932d5db51f87ed08e07ed6cf8  archive/bible-study/hugo-site/content/la-iglesia-carnal/wrap-image-es.png
+50cd69be620c27a1dbd5abe923b83901bf9eb78068a5a5fe1dd094f822c1b714  archive/bible-study/hugo-site/content/test.md
+6150e4dbdf8590789decef071916f8c6c51efc08a51ecf00617366364737d5d1  archive/bible-study/hugo-site/go.mod
+cc1d9ef5d04151937d06c633125143957e606f063c99a194d76f0d1c322ae4a1  archive/bible-study/hugo-site/go.sum
+9a9df6b1cc5cb23c36b69fd021c1a33a7f727349312e966d8c9cbf621c323f7d  archive/bible-study/hugo-site/hugo.toml
+da9c922345b69dc8ba127697b0a1d08789c108d8e8e31762f1997b26f1e759ea  archive/bible-study/hugo-site/layouts/_default/index.json
+8ed78af535bcbf487072faf56b808e6fedd12d272584450f8c08c5acdcf8d54c  archive/bible-study/hugo-site/layouts/partials/content.html
+30fa1c41db9f2a73261826adaa0140110335f81957c86f076008b0b599709ebf  archive/bible-study/hugo-site/layouts/partials/navbar.html
+3b2a2ab49834d183d61f3ed05a780837ffc6cd88b875bb1d53b3755421e3f06a  archive/bible-study/hugo-site/layouts/partials/ref-parser.js
+84cb9c45baf787b8b5768220232060607990b88f1e0f5f5791e4aca4497b05a7  archive/bible-study/hugo-site/layouts/partials/ref-search.html
+2b21d160f690e65d1b546c4f73500f86a29890f742b8d6515eaaf6ac004c8042  archive/bible-study/hugo-site/layouts/shortcodes/children.html
+dd3e3d4eab3f92220c4c3e739b113fa83b865b69ae30132345f395d7e403c787  archive/bible-study/hugo-site/package-lock.json
+46f5cd82571ff95850e2a35b4102c05d59299a86377d9c47a58b12ea18916af2  archive/bible-study/hugo-site/package.json
+a1a59fa7e075a62d56a80b103bf6eed62cc9512af57a1c681aae1ab5b65c05e7  archive/bible-study/romanos1-8.notas

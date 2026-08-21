@@ -1,0 +1,76 @@
+
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 28px; font-weight: 600; fill: #222; }
+    .box-title { font-size: 20px; font-weight: 600; }
+    .box-text { font-size: 16px; }
+    .box { fill: #f9f9f9; stroke: #222; stroke-width: 2; rx: 12; ry: 12; }
+    .arrow { stroke: #222; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7"
+      refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#222"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="600" y="40" text-anchor="middle" class="title">
+    Macro Flow of 1 John
+  </text>
+
+  <!-- Box 1 -->
+  <rect x="60" y="100" width="300" height="180" class="box"/>
+  <text x="210" y="135" text-anchor="middle" class="box-title">Exposure</text>
+  <text x="210" y="165" text-anchor="middle" class="box-text">
+    Claims brought into the light
+  </text>
+  <text x="210" y="190" text-anchor="middle" class="box-text">
+    Contrast and visibility dominate
+  </text>
+  <text x="210" y="215" text-anchor="middle" class="box-text">
+    What is actually present?
+  </text>
+  <text x="210" y="245" text-anchor="middle" class="box-text">
+    1 John 1:5–2:29
+  </text>
+
+  <!-- Arrow 1 -->
+  <line x1="360" y1="190" x2="460" y2="190" class="arrow"/>
+
+  <!-- Box 2 -->
+  <rect x="460" y="100" width="300" height="180" class="box"/>
+  <text x="610" y="135" text-anchor="middle" class="box-title">Source Determination</text>
+  <text x="610" y="165" text-anchor="middle" class="box-text">
+    Origin is identified
+  </text>
+  <text x="610" y="190" text-anchor="middle" class="box-text">
+    From God / from the world
+  </text>
+  <text x="610" y="215" text-anchor="middle" class="box-text">
+    What explains what is seen?
+  </text>
+  <text x="610" y="245" text-anchor="middle" class="box-text">
+    1 John 2:18–4:6
+  </text>
+
+  <!-- Arrow 2 -->
+  <line x1="760" y1="190" x2="860" y2="190" class="arrow"/>
+
+  <!-- Box 3 -->
+  <rect x="860" y="100" width="300" height="180" class="box"/>
+  <text x="1010" y="135" text-anchor="middle" class="box-title">Consolidation</text>
+  <text x="1010" y="165" text-anchor="middle" class="box-text">
+    Knowledge is assumed
+  </text>
+  <text x="1010" y="190" text-anchor="middle" class="box-text">
+    Confidence and abiding
+  </text>
+  <text x="1010" y="215" text-anchor="middle" class="box-text">
+    What does settled reality secure?
+  </text>
+  <text x="1010" y="245" text-anchor="middle" class="box-text">
+    1 John 4:7–5:21
+  </text>
+</svg>

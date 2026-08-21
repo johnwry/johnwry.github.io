@@ -1,0 +1,18 @@
+{{ $page := . }}
+<article class="content-card{{ if eq $page.Section "music" }} music-card{{ end }}">
+  <a class="card-link" href="{{ $page.RelPermalink }}">
+    <div class="card-topline">
+      <span class="card-kind">{{ if eq $page.Section "music" }}Canción{{ else if or (eq $page.Section "estudios") (eq $page.Section "studies") }}Estudio{{ else }}{{ $page.Section | humanize }}{{ end }}</span>
+      {{ with $page.Date }}{{ if not .IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006" }}</time>{{ end }}{{ end }}
+    </div>
+    <h2>{{ $page.Title }}</h2>
+    {{ with $page.Description }}<p>{{ . }}</p>{{ else }}{{ with $page.Summary }}<p>{{ . | plainify | truncate 170 }}</p>{{ end }}{{ end }}
+    {{ with $page.Params.tags }}
+      <ul class="tag-row" aria-label="Etiquetas">
+        {{ range first 3 . }}<li>{{ . }}</li>{{ end }}
+      </ul>
+    {{ end }}
+    <span class="card-arrow" aria-hidden="true">→</span>
+  </a>
+</article>
+

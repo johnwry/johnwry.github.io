@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/legacy-bible-study/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/</loc>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/estudios/</loc>
-    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/estudios/libros/filipenses-1.28-30/</loc>
-    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/estudios/libros/</loc>
-    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
@@ -23,14 +17,59 @@
     <loc>http://localhost:1313/tags/content-management/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-12-03-cronograma-de-eventos/</loc>
+    <loc>http://localhost:1313/posts/cronograma-de-eventos/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/functionalities/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/daniel/daniel.6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/daniel/daniel.6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/daniel.6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/two-instructors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/two-instructors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/install-jekyll-on-macos-big-sur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/install-jekyll-on-macos-big-sur/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/the-attack-of-the-ephesian-false-teachers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/the-attack-of-the-ephesian-false-teachers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/daniel/daniel-31-12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/books/daniel-31-12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/repentance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/repentance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/predestination/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/predestination/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/obedience-of-faith/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/topical/obedience-of-faith/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-juan-3/</loc>
   </url><url>
@@ -44,6 +83,60 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/santidad-en-la-cena/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/habakuk/habacuc3-copy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/habakuk/habacuc3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/2cor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/2john/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/2pet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/2thess/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/2tim/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/3john/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/acts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/col/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/eph/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/gal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/heb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/jas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/john/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/jude/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/luke/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/mark/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/matt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/phil/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/phlm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/rev/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/titus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/often-missed-romans-grammar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/psalm2356/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/sanctification/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/theology/</loc>
+  </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/aunque-invisible-se-hace-ver/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/hoy-se-la-verdad/</loc>
@@ -51,8 +144,6 @@
     <loc>http://localhost:1313/music/john-wry/whatever-happened-to-love/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/1john1.9/</loc>
-  </url><url>
-    <loc>http://localhost:1313/studies/topical/2015-03-24-predestination/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/often-missed-romans-grammar/</loc>
   </url><url>
@@ -68,27 +159,49 @@
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1--2-pedro/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/1cor/</loc>
+  </url><url>
     <loc>http://localhost:1313/estudios/libros/1-corintios-1550-58/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-corintios-71-9/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1john/1-john/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1john/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/1-john/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1john/1-john-56-12/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-juan/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/1john/</loc>
+  </url><url>
     <loc>http://localhost:1313/estudios/libros/1-juan-27-11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1john/1-juan-47-12/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/1-juan-47-12/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/1pet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1peter/1-peter/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/1-peter/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1peter/1peter4/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/1peter4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/1thess/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-tesalonicenses-41-12/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-tesalonicenses-413-18/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-tesalonicenses-51-11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/1tim/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/1-timoteo-2.1-8/</loc>
   </url><url>
@@ -97,6 +210,10 @@
     <loc>http://localhost:1313/estudios/libros/2-corinthians-2/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/2-pedro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/2timoteo/2-timothy-copy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/2timoteo/2-timothy/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/2-timothy/</loc>
   </url><url>
@@ -112,6 +229,8 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/adoracion-biblica/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/angels/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/angels/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/apocalipsis-181-8/</loc>
@@ -126,19 +245,33 @@
   </url><url>
     <loc>http://localhost:1313/studies/books/archives/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/armageddon-zech6/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/armageddon-zech6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/babilonia-como-instrumento-de-dios/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/bautismo/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/bautismo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/biblical_covenants/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/biblical_covenants/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/biblical-fellowship/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/biblical-fellowship/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/biblical-fellowship-copy/</loc>
+  </url><url>
     <loc>http://localhost:1313/music/billys-fish/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/book/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/books/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/books/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/music/cabe-de-pala/</loc>
   </url><url>
@@ -152,15 +285,21 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/matrimonio-arces/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/christmas-kingbirth/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/christmas-kingbirth/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/confesion/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/confesion-de-pecado/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/confession-of-sins/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/confession-of-sins/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/nonstopmeditations757/conocer-el-amor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1john/conversation-with-eiyai-on-1-john/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/coraz%C3%B3n-enga%C3%B1oso/</loc>
   </url><url>
@@ -172,19 +311,25 @@
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cuantas-veces/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/lordship/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/lordship/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/books/2021-07-27-daniel.6.18-28/</loc>
-  </url><url>
-    <loc>http://localhost:1313/studies/books/2020-06-08-daniel-31-12/</loc>
+    <loc>http://localhost:1313/legacy-bible-study/topical/dealing_with_pain/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/dealing_with_pain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/deconstruction-for-recostruction/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/deconstruction-for-recostruction/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/desde-lo-profundo/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/d%C3%ADa-de/</loc>
+  </url><url>
     <loc>http://localhost:1313/music/por-gracia/dios-es-nuestro-refugio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/discipleship-need/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/discipleship-need/</loc>
   </url><url>
@@ -197,6 +342,8 @@
     <loc>http://localhost:1313/estudios/libros/efesios-53-7/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/egipto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/ekklesia-in-the-bible/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/ekklesia-in-the-bible/</loc>
   </url><url>
@@ -220,6 +367,8 @@
   </url><url>
     <loc>http://localhost:1313/music/entregados/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/ephesians/ephesians/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/ephesians/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/epistemologia/</loc>
@@ -230,11 +379,17 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/estableciendo-el-decreto-que-inicia-las-70-semanas-de-daniel/</loc>
   </url><url>
+    <loc>http://localhost:1313/estudios/</loc>
+  </url><url>
     <loc>http://localhost:1313/estudios/topico/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/familia/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/evangelio/</loc>
+  </url><url>
     <loc>http://localhost:1313/estudios/topico/evangelio-para-el-creyente/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/fellowship/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/fellowship/</loc>
   </url><url>
@@ -242,9 +397,15 @@
   </url><url>
     <loc>http://localhost:1313/estudios/libros/filemon/</loc>
   </url><url>
+    <loc>http://localhost:1313/estudios/libros/filipenses-1.28-30/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/philipians/filipenses-1.28-30/</loc>
+  </url><url>
     <loc>http://localhost:1313/music/john-wry/nonstopmeditations757/fruto-del-se%C3%B1or/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/fuerza-para-vencer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/galatas/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/galatas-1/</loc>
   </url><url>
@@ -264,17 +425,29 @@
   </url><url>
     <loc>http://localhost:1313/estudios/libros/galatas-61-10/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/galatians/galatians/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/galatians/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/galatians/galatians-111-24/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/galatians-111-24/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/galatians/gal-3.21-29/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/gal-3.21-29/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/globalist-theology/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/globalist-theology/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/gnosticismo/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/1john/god-is-love/</loc>
+  </url><url>
     <loc>http://localhost:1313/music/billys-fish/good-news-tour/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/gospel/</loc>
   </url><url>
     <loc>http://localhost:1313/music/got-my-song-back/</loc>
   </url><url>
@@ -294,6 +467,8 @@
   </url><url>
     <loc>http://localhost:1313/music/entregados/habacuc_3.17-19/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/habakuk/habakkuk/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/habakkuk/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/hebreos/</loc>
@@ -302,7 +477,11 @@
   </url><url>
     <loc>http://localhost:1313/estudios/libros/hebreos-81-6/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/hebrews/hebrews-12.1-2/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/hebrews-12.1-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/hebrews/hebrews-31-6/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/hebrews-31-6/</loc>
   </url><url>
@@ -316,15 +495,25 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/hiper-gracia/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/homiletics/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/homiletics/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/hyper-grace-an-article-by-dave-miller/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/hyper-grace-an-article-by-dave-miller/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/hyper-grace...the-latest-fad-in-conversative-theology/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/hyper-grace...the-latest-fad-in-conversative-theology/</loc>
   </url><url>
     <loc>http://localhost:1313/music/how-many-names/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/calvinismo-una-cosmovision-idolatra/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/iglesia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/imperative-verbs-in-romans-1-8/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/imperative-verbs-in-romans-1-8/</loc>
   </url><url>
@@ -336,31 +525,47 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/iniquidad-versus-pecado/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</loc>
-  </url><url>
     <loc>http://localhost:1313/estudios/libros/isaias/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/islam/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/islam/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/israel/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/israel-egypt/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/israel-egypt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/it-is-settled/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/jeconia/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/jeconias/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/jeroboam/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/jesus/</loc>
   </url><url>
     <loc>http://localhost:1313/music/jesus-buen-pastor/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/john/john-11.1-23/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/john-11.1-23/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/john/john-11.35-48/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/john-11.35-48/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/john/john-13.21-38/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/john-13.21-38/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/john/john-831-44/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/john-831-44/</loc>
   </url><url>
@@ -392,6 +597,8 @@
   </url><url>
     <loc>http://localhost:1313/estudios/topico/la-iglesia/</loc>
   </url><url>
+    <loc>http://localhost:1313/books/la-iglesia-carnal/</loc>
+  </url><url>
     <loc>http://localhost:1313/estudios/topico/la-ley/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/simiente-mujer-mesias/</loc>
@@ -400,7 +607,13 @@
   </url><url>
     <loc>http://localhost:1313/music/entregados/lentamente/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/libro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/libros/</loc>
+  </url><url>
+    <loc>http://localhost:1313/estudios/libros/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/linaje/</loc>
   </url><url>
@@ -416,6 +629,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/malos-entendidos/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/marriage/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/marriage/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/topico/matrimonio/</loc>
@@ -423,6 +638,8 @@
     <loc>http://localhost:1313/music/john-wry/nonstopmeditations757/_index-copy/</loc>
   </url><url>
     <loc>http://localhost:1313/music/mosoj-chaski/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/juda-kings-mothers/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/juda-kings-mothers/</loc>
   </url><url>
@@ -432,11 +649,13 @@
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/no-te-quedes-igual/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/topical/2015-02-15-obedience-of-faith/</loc>
-  </url><url>
     <loc>http://localhost:1313/music/john-wry/nonstopmeditations757/oh-que-completa-es/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/old-testament/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/ot-books/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/ot-books/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/ot-books/</loc>
   </url><url>
@@ -444,7 +663,15 @@
   </url><url>
     <loc>http://localhost:1313/music/john-wry/pasare-los-dias/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/philemon/phil-21-2-phrased/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/philipians/phil-21-2-phrased/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/phil-21-2-phrased/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/philemon/philemon-copy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/philemon/philemon/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/philemon/</loc>
   </url><url>
@@ -452,21 +679,41 @@
   </url><url>
     <loc>http://localhost:1313/music/por-gracia/por-gracia/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/psalms/psalm2-copy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/psalms/psalm2/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/psalm2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/psalms/psalm-32-copy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/psalms/psalm-32/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/psalm-32/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/psalms/psalm-36-copy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/psalms/psalm-36/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/psalm-36/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/psalmo-235-2410/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/quotes/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/quotes/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/topical/2020-06-08-repentance/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/return/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/return-to-god/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/return-to-god/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/romanos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/rom/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/romanos-verbos-finitos/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/romanos1-7/</loc>
   </url><url>
@@ -478,15 +725,31 @@
   </url><url>
     <loc>http://localhost:1313/estudios/libros/romanos9-16/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/romans/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romans-1.18-32/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/romans-1.18-32/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romans-10.9-10/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/romans-109-10/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romanos5.notas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romans-8.1/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/romans-81/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romans-8.1-4/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/romans-81-4/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romans-8.18-28/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/books/romans-818-28/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/romans/romans-9-16/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/romans-9-16/</loc>
   </url><url>
@@ -522,49 +785,65 @@
   </url><url>
     <loc>http://localhost:1313/tags/spirit/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/</loc>
-  </url><url>
     <loc>http://localhost:1313/estudios/topico/teologia-sistematica/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/the-blood-of-jesus/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/the-blood-of-jesus/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/the-church/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/the-church/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/the-day-of-the-lord/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/the-day-of-the-lord/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/the-gospel-to-the-believer/</loc>
+  </url><url>
     <loc>http://localhost:1313/studies/topical/the-gospel-to-the-believer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/grace-unmerited/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/grace-unmerited/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</loc>
+    <loc>http://localhost:1313/themes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/theonomy/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/theonomy/</loc>
   </url><url>
     <loc>http://localhost:1313/music/titeres/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/sblgnt-txt/tito-verbos/</loc>
+  </url><url>
     <loc>http://localhost:1313/estudios/libros/tito-2/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/topico/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/topical/</loc>
-  </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/tu-gracia-me-levanta/</loc>
   </url><url>
-    <loc>http://localhost:1313/studies/topical/2021-07-21-two-instructors/</loc>
+    <loc>http://localhost:1313/legacy-bible-study/topical/unity-claims-vs-truth-claims/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/vida-eterna-es-conocerle/</loc>
   </url><url>
     <loc>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/vida-que-fluye-de-cristo/</loc>
   </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/wedding/</loc>
+  </url><url>
     <loc>http://localhost:1313/music/john-wry/nonstopmeditations757/yo-era-un-hombre/</loc>
   </url><url>
     <loc>http://localhost:1313/music/entregados/yo-vi-la-luz/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/topical/i-am-acused-of-teaching-easy-believism/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/topical/i-am-acused-of-teaching-easy-believism/</loc>
   </url><url>
     <loc>http://localhost:1313/estudios/libros/zarpando-por-zacar%C3%ADas/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/zechariah/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/zechariah/zechariah/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/archives/zechariah-old/</loc>
   </url><url>
@@ -579,6 +858,8 @@
     <loc>http://localhost:1313/studies/books/archives/zechariah_notes2/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/archives/zechariah_old/</loc>
+  </url><url>
+    <loc>http://localhost:1313/legacy-bible-study/zephaniah/zephaniah/</loc>
   </url><url>
     <loc>http://localhost:1313/studies/books/zephaniah/</loc>
   </url>

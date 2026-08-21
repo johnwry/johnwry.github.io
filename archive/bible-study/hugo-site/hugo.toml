@@ -1,0 +1,27 @@
+baseURL = "https://johnwry.github.io/bible-study/"
+languageCode = "es"
+title = "Notas de Biblia"
+enableGitInfo = true
+#publishDir = "docs"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+summaryLength = 0
+
+[module]
+  proxy = "direct"
+
+  [[module.imports]]
+    path = "github.com/google/docsy"
+
+# Docsy parameters
+[params]
+  offlineSearch = true
+  breadcrumb_disable = false
+  mainSections = ["docs"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[outputs]
+  home = ["HTML", "JSON"]

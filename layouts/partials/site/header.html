@@ -1,0 +1,24 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="Inicio — {{ site.Title }}">
+      <span class="brand-mark" aria-hidden="true">JW</span>
+      <span class="brand-name">John Wry</span>
+    </a>
+    <nav class="primary-nav" aria-label="Navegación principal">
+      <a href="{{ relURL "estudios/" }}"{{ if eq .Section "estudios" }} aria-current="page"{{ end }}>Estudios</a>
+      <a href="{{ relURL "studies/" }}"{{ if eq .Section "studies" }} aria-current="page"{{ end }}>Studies</a>
+      <a href="{{ relURL "books/" }}"{{ if eq .Section "books" }} aria-current="page"{{ end }}>Libros</a>
+      <a href="{{ relURL "music/" }}"{{ if eq .Section "music" }} aria-current="page"{{ end }}>Música</a>
+      <a class="search-link" href="{{ relURL "search/" }}"{{ if eq .Section "search" }} aria-current="page"{{ end }}>
+        <span aria-hidden="true">⌕</span> Buscar
+      </a>
+    </nav>
+    <button class="theme-toggle" type="button" aria-label="Cambiar tema" title="Cambiar tema">
+      <span class="theme-icon" aria-hidden="true">◐</span>
+    </button>
+    <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">
+      <span></span><span></span>
+    </button>
+  </div>
+</header>
+

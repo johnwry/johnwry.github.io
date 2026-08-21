@@ -1,0 +1,10 @@
+{{- $pages := where .Site.RegularPages "Section" "docs" -}}
+[
+{{- range $index, $page := $pages }}
+{
+  "title": {{ $page.Title | jsonify }},
+  "content": {{ $page.Plain | jsonify }},
+  "permalink": {{ $page.Permalink | jsonify }}
+}{{ if not (last $index $pages) }},{{ end }}
+{{- end }}
+]

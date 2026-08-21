@@ -1,0 +1,898 @@
+<!doctype html>
+<html style='font-size:24px !important'>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'><style type='text/css'>html {overflow-x: initial !important;}</style>
+<style type='text/css'  id="style-base">:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", "SF Pro", sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.428571; overflow-x: hidden; background: inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p *, #write.first-line-indent svg * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-width: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
+svg sub, svg sup { position: static; }
+.nodeLabel p { padding-right: 2px; padding-left: 2px; }
+.typora-export .nodeLabel p { padding-right: 0px; padding-left: 0px; }
+foreignObject { overflow: visible; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+li p { orphans: 1; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; border-right-style: none; border-right-color: currentcolor; background-color: inherit; }
+.CodeMirror-linenumber { -webkit-user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
+  .typora-export * { print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: medium; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: medium !important; border-style: none !important; border-color: currentcolor !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: currentcolor; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: medium; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.mermaid-svg { margin: auto; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.428571rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left-width: 28px; border-left-style: solid; border-left-color: transparent; border-right-width: 28px; border-right-style: solid; border-right-color: transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right-width: 8px; border-right-style: solid; border-right-color: transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+.md-alert.md-alert-note { border-left-color: rgb(9, 105, 218); }
+.md-alert.md-alert-important { border-left-color: rgb(130, 80, 223); }
+.md-alert.md-alert-warning { border-left-color: rgb(154, 103, 0); }
+.md-alert.md-alert-tip { border-left-color: rgb(31, 136, 61); }
+.md-alert.md-alert-caution { border-left-color: rgb(207, 34, 46); }
+.md-alert { padding: 0px 1em; margin-bottom: 16px; color: inherit; border-left-width: 0.25em; border-left-style: solid; border-left-color: rgb(0, 0, 0); }
+.md-alert-text-note { color: rgb(9, 105, 218); }
+.md-alert-text-important { color: rgb(130, 80, 223); }
+.md-alert-text-warning { color: rgb(154, 103, 0); }
+.md-alert-text-tip { color: rgb(31, 136, 61); }
+.md-alert-text-caution { color: rgb(207, 34, 46); }
+.md-alert-text { font-size: 0.9rem; font-weight: 700; }
+.md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
+.md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
+
+</style>
+<style type='text/css'  id="style-theme_css">/* =========================================================
+   It Is Settled — Book Style
+   Calm · Clean · Easy Reading · Print Friendly
+   ========================================================= */
+
+/* ====== Variables ====== */
+:root{
+  --text: #1a1a1a;
+  --muted: #555;
+  --rule: #e0e0e0;
+
+  --serif: "Georgia", "Times New Roman", "Times", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco,
+          Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --body-size: 16px;
+  --line: 1.62;
+}
+
+/* ====== Main Writing Area (Page Frame) ====== */
+#write{
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 42px 60px 58px;
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: var(--body-size);
+  line-height: var(--line);
+  text-align: left;
+}
+
+/* ====== Paragraphs ====== */
+#write p{
+  margin: 0 0 1.35em 0;
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* ====== Emphasis ====== */
+#write strong{ font-weight: 700; }
+#write em{ font-style: italic; }
+
+/* ====== Links ====== */
+#write a{
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #ccc;
+  text-underline-offset: 2px;
+}
+
+/* ====== Horizontal Rule ====== */
+#write hr{
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2em 0;
+}
+
+/* ====== Headings Reset ====== */
+#write h1,
+#write h2,
+#write h3,
+#write h4,
+#write h5,
+#write h6{
+  font-family: var(--sans);
+  text-align: left;
+  margin-left: 0;
+  margin-right: 0;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+/* ====== Headings Style ====== */
+
+/* Chapter */
+#write h1{
+  font-size: 26px;
+  margin: 2.4em 0 0.8em;
+  font-weight: 650;
+  color: #222;
+  letter-spacing: 0.15px;
+}
+
+/* Section */
+#write h2{
+  font-size: 20px;
+  margin: 1.9em 0 0.65em;
+  font-weight: 600;
+  color: #444;
+}
+
+/* Marker */
+#write h3{
+  font-size: 16px;
+  margin: 1.6em 0 0.5em;
+  font-weight: 500;
+  color: #666;
+}
+
+/* Subtle */
+#write h4{
+  font-size: 14.5px;
+  margin: 1.3em 0 0.4em;
+  font-weight: 500;
+  color: #777;
+}
+
+/* ====== Lists ====== */
+#write ul,
+#write ol{
+  margin: 0.7em 0 1.3em 1.4em;
+}
+
+#write li{
+  margin: 0.45em 0;
+}
+
+/* ====== Blockquotes ====== */
+#write blockquote{
+  border-left: 1px solid #ddd;
+  margin: 1.5em 0;
+  padding: 0.4em 0 0.4em 1.2em;
+  color: #666;
+  font-style: italic;
+}
+
+#write blockquote p{
+  margin: 0.5em 0;
+}
+
+/* ====== Tables ====== */
+#write table{
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.3em 0;
+  font-size: 0.95em;
+}
+
+#write th,
+#write td{
+  border: 1px solid var(--rule);
+  padding: 8px 10px;
+  vertical-align: top;
+}
+
+#write th{
+  background: #fafafa;
+  font-family: var(--sans);
+  font-weight: 600;
+}
+
+/* ====== Code ====== */
+#write code{
+  font-family: var(--mono);
+  font-size: 0.9em;
+  padding: 0.1em 0.25em;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: #fbfbfb;
+}
+
+#write pre{
+  font-family: var(--mono);
+  font-size: 0.9em;
+  line-height: 1.45;
+  padding: 12px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: #fbfbfb;
+  margin: 1.3em 0;
+}
+
+/* ====== Images ====== */
+#write img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.7em auto;
+}
+
+#write figure{
+  margin: 1.7em 0;
+}
+
+#write figcaption{
+  font-family: var(--sans);
+  font-size: 0.9em;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 0.6em;
+}
+
+/* ====== Footnotes ====== */
+.footnotes{
+  margin-top: 2.4em;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.2em;
+  font-size: 0.95em;
+  color: var(--muted);
+}
+
+.footnote-ref{
+  font-family: var(--sans);
+  font-size: 0.85em;
+}
+
+/* ====== COVER PAGE (Intentional Class) ====== */
+/* Use:  # Title {.cover}  */
+
+#write h1.cover,
+#write h2.cover,
+#write h3.cover{
+  text-align: center;
+}
+
+#write h1.cover{
+  font-size: 34px;
+  margin-top: 35vh;
+  margin-bottom: 0.4em;
+}
+
+#write h2.cover{
+  font-size: 18px;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 1.6em;
+}
+
+#write h3.cover{
+  font-size: 15px;
+  font-weight: 500;
+  color: #666;
+}
+
+/* ====== PRINT / PDF ====== */
+@media print{
+
+  #write h1{
+    break-before: page;
+    margin-top: 0;
+  }
+
+  p{
+    orphans: 3;
+    widows: 3;
+  }
+
+  body{
+    background: white !important;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  #typora-source{
+    display: none !important;
+  }
+}
+@media print{
+
+  #write h1,
+  {
+    break-before: page;
+    page-break-before: always;
+  }
+
+
+}
+
+.cover-page{
+  height: 100vh;          /* full screen height */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.cover-page img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;      /* fills without distortion */
+  display: block;
+}
+@media print {
+  .cover-page{
+    height: 100vh;
+    page-break-after: always;
+  }
+}</style>
+<style type='text/css'  id="style-lp">ol, ul {padding-left: 40px}</style>
+<style type='text/css'  id="style-mac-print"> @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}</style>
+
+<title>It is Settled</title>
+</head>
+<body class='typora-export'><div class='typora-export-content'>
+<div id='write'  class=''><div class="cover-page">
+  <img src="images/cover.png" alt="Cover">
+</div><div style="page-break-after: always;"></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h2 id='it-is-settled'><span>It is Settled</span></h2><h3 id='from-gods-perspective'><span>From God&#39;s Perspective </span></h3><h4 id='a-journey-through-romans'><span>a journey through Romans</span></h4><div style="page-break-after: always;"></div><h2 id='purpose-of-this-book'><span>Purpose of This Book</span></h2><p><span>This book was written to help the reader grasp a simple, yet often misunderstood truth:</span>
+<span> what God has already resolved does not need to be re-resolved by us.</span></p><p><span>Many believers live as though their standing before God is fragile, uncertain, or dependent on ongoing performance. The message of Romans presents a very different picture — one in which God acts decisively, justly, and finally.</span></p><p><span>This book is not intended to be technical or academic.</span>
+<span> It is written in clear and thoughtful language so the reader can follow the flow of Paul’s message without prior theological training. Romans will be approached as a message to be understood, not merely as verses to be quoted.</span></p><hr /><h2 id='how-to-use-this-book'><span>How to Use This Book</span></h2><p><span>Read slowly.</span>
+<span>Read carefully.</span>
+<span>Follow the plot as it unfolds</span>
+<span>Allow the conclusions to emerge from the text.</span></p><p><span>Resist the temptation to insert assumptions or rush ahead. The goal is not to tell you what to think, but to help you see what the message is actually saying.</span></p><h1 id='movement-1---reality-begins-with-god'><span>Movement 1 - Reality Begins With God</span></h1><p><em><span>(Romans 1:1–17)</span></em></p><h2 id='the-starting-point'><span>The Starting Point</span></h2><p><span>Most people live as if reality begins where their thoughts begin. </span></p><p><span>Or where their emotions begin. </span>
+<span>Or where their questions begin. </span></p><p><span>And that feels natural...until we notice how fragile that is. </span></p><p><span>Because if reality begins with me, then reality changes when I change.</span>
+<span>It changes with my mood. It changes with my mental clarity. It changes with my energy.</span>
+<span>It changes with my last fall or my last &quot;good day&quot;.</span></p><p><span>But the Bible does not allow that starting point.</span>
+<span>The Bible begins with a silent but absolute statement: God is.</span>
+<span>Not as a conclusion we reach, but as a reality that precedes us. Before human beings interpret anything, God already exists, already acts, already speaks.</span>
+<span>Here&#39;s a question worth asking slowly:</span>
+<span>Am I willing to accept that reality is true before I understand it?</span></p><blockquote><p><span>In the beginning God...Genesis 1:1</span></p></blockquote><p><span>Reality does not begin with human questions. It begins with God making Himself known. Scripture exists because God is not silent. He reveals who He is, how He relates to humanity, and what He has done. The story of the gospel is not the story of people discovering God, but of God disclosing reality before it was understood.</span></p><p><span>This matters because revelation establishes objectivity. Truth is not constructed from experience, refined through reflection, or reached through effort. It is revealed. God speaks before we respond. He acts before we interpret. Sin explains why revelation is necessary, but it does not initiate the story. God does.</span></p><p><span>When this order is reversed, confusion follows. When revelation is replaced with interpretation, everything loses its weight. Grace can sound like opinion. Truth can sound like perspective. Assurance can sound like confidence. Scripture can sound like advice.</span></p><p><span>None of those things are false—but none of them are stable.</span></p><p><span>Romans refuses to build on instability. It does not begin by asking how people should live. It begins by declaring what is true about God, about humanity, and about the situation between them. Only after reality is disclosed does life begin to make sense.</span></p><p><span>This is why Scripture consistently moves from revelation to response. God reveals Himself, then calls for understanding. God acts, then explains the meaning of that action. God speaks, then invites trust. The order is never reversed. Life is not the starting point; it is the outcome.</span></p><p><span>When God is not clearly recognized as the one who defines reality, people instinctively look elsewhere for grounding. Experience begins to interpret truth. Feelings begin to weigh more than declaration. Sincerity begins to substitute for certainty. The result is not rebellion, but instability.</span></p><p><span>This instability explains why many sincere people feel unsettled even while believing the right things. They may affirm grace, but experience still feels authoritative. They may agree with truth, but perspective still feels negotiable. They may believe Scripture, but hear it as guidance rather than disclosure.</span></p><p><strong><span>The issue was never grace — it was authority.</span></strong></p><p><span>More precisely, it was the question of who has the right to define what is true.</span></p><p><span>Scripture’s answer is unambiguous. God defines reality because God reveals Himself. The gospel does not begin with human need, human effort, or human failure. It begins with God acting, God speaking, and God making Himself known.</span></p><p><span>Only when this is settled can anything else be understood rightly.</span></p><p><span>This chapter does not explain the human problem yet. It establishes the reference point. Before Scripture diagnoses sin, it reveals God. Before it addresses collapse, it establishes truth. Before it speaks about how to live, it declares what is real.</span></p><p><span>Everything that follows depends on this.</span></p><p><strong><span>It is settled from God’s perspective.</span></strong><span> Reality does not wait for our agreement to become true.</span></p><h1 id='movement-2---displacement'><span>Movement 2 - Displacement</span></h1><p><em><span>(Romans 1:18-32)</span></em></p><h2 id='when-god-is-moved-aside'><span>When God is Moved Aside</span></h2><p><span>Romans begins with God so that sin is not the center.</span></p><blockquote><p><span>Paul...set aside for the gospel of God which he promised... - Romans 1:1-2</span></p></blockquote><p><span>Paul has not yet diagnosed sin, and that is intentional. Because if the reader begins with sin, the reader begins interpreting everything from the perspective of man.</span>
+<span>But if the reader begins with God, sin will be seen in its proper place: real, devastating, but not ultimate. Serious, but not sovereign.</span></p><p><strong><span>Reality begins with God.</span></strong></p><p><span>And once that is clear, Romans can accurately describe what happens when God is displaced.</span></p><blockquote><p><span>...for God made it evident to them...His eternal power and divine nature, have been clearly seen...so that they are without excuse. - Romans 1:19-20</span></p></blockquote><p><span>The problem is not the absence of God but the displacement of God.</span>
+<span>Paul does not say that God is unknown. He says that God has been made known.</span>
+<span>This distinction is crucial.</span>
+<span>The human problem does not begin with ignorance, but with rejection. Not with a lack of information, but with a prior decision: God will no longer be the point of reference.</span>
+<span>This changes everything.</span></p><p><span>Because when God ceases to be the ultimate reference point, something else takes His place.</span>
+<span>Not necessarily something overtly evil. Often something close, understandable, manageable.</span></p><p><span>The experience.</span>
+<span>The desire.</span></p><p><span>Autonomy.</span>
+<span>Personal preference.</span></p><p><span>When God reveals Himself, a response is unavoidable. Revelation removes neutrality. Once God is known, reality is no longer undefined. The question is no longer whether truth exists, but whether God will remain the reference point for it.</span></p><p><span>Romans describes what happens when He does not.</span></p><p><span>This is not the story of people rejecting rules or resisting authority in general. It is the story of exchange. God is not denied; He is displaced. Something else quietly takes His place as the starting point for meaning, judgment, and direction. Truth does not disappear—it is relocated. It is suppressed. </span></p><p><span>When God is displaced, truth is no longer anchored in who He is. It becomes tethered to something closer, more manageable, and more comfortable. Human experience begins to interpret reality. Desire begins to shape value. Preference begins to guide judgment. What was once received is now rearranged.</span></p><p><span>This shift is subtle, but its effects are catastrophic.</span></p><hr /><h2 id='the-first-collapse-human-conduct'><span>The First Collapse: Human Conduct</span></h2><p><span>Romans describes the initial consequence of this displacement in the most visible way—human conduct. Actions become disordered, not merely immoral. Behavior no longer flows from what is true about God, but from what now feels reasonable without Him as the reference point.</span></p><p><span>This is not ignorance. God has been made known. The issue is not lack of information, but loss of orientation. When truth is no longer anchored in God, behavior begins to drift. What once restrained no longer carries weight. What once warned now feels excessive.</span></p><p><span>This is the first collapse. But it is not the deepest.</span></p><hr /><h2 id='the-second-collapse-human-values'><span>The Second Collapse: Human Values</span></h2><p><span>As conduct drifts, values begin to invert. What people approve, celebrate, excuse, or defend shifts accordingly. Romans describes this not as confusion, but as exchange—a trading of what is fitting for what is convenient.</span></p><p><span>At this stage, sin is no longer merely practiced; it is justified. What once felt wrong now feels normal. What once provoked discomfort now provokes defense. The problem is no longer simply what people do, but what they consider acceptable.</span></p><p><span>This is not moral weakness. It is moral reorientation.</span></p><p><span>What restrains behavior no longer restrains because values themselves have changed.</span></p><hr /><h2 id='the-final-collapse-human-thinking'><span>The Final Collapse: Human Thinking</span></h2><p><span>The deepest collapse Romans describes is not behavioral or ethical—it is cognitive. Human thinking itself becomes unreliable as an authority. Reason no longer moves toward truth, but away from it. Logic is not lost; it is repurposed.</span></p><p><span>At this point, people are not merely doing what is wrong or approving what is wrong. They are thinking from the wrong starting point. Reality is reinterpreted to justify what has already been chosen. Truth is no longer discovered; it is defended selectively.</span></p><p><span>This is why Romans describes the mind itself as affected. When God is displaced, thinking does not remain neutral. It becomes captive to whatever has replaced Him.</span></p><p><span>This is the final collapse. And it explains everything that came before it.</span></p><hr /><h2 id='why-the-situation-is-devastating'><span>Why the Situation Is Devastating</span></h2><p><span>This progression matters because it removes every false hope of self-recovery. If conduct is disordered, values are inverted, and thinking is corrupted, then humanity cannot correct itself by trying harder, knowing more, or organizing better.</span></p><p><span>The situation is not improving. It is not manageable. It is devastating.</span></p><p><span>This is not because people are especially evil. It is because the reference point has been lost. When God no longer defines reality, nothing else can hold the weight.</span></p><p><span>This is why Scripture must speak. This is why revelation is necessary. This is why the gospel cannot begin with instruction or reform. There is nothing stable left to build on.</span></p><p><span>Romans does not describe this to shame humanity. It describes it to establish the legitimacy of what God will do next.</span></p><h1 id='movement-3---no-human-advantage'><span>Movement 3 - No Human Advantage</span></h1><p><em><span>(Romans 2:1-3:20)</span></em></p><h2 id='the-problem-stated-plainly'><span>The Problem Stated Plainly</span></h2><p><span>There comes a point where the issue is no longer whether something is wrong, but whether it can be corrected.</span></p><p><span>Most people live with the quiet assumption that whatever has gone off course can eventually be straightened.</span>
+<span> Given enough time, enough effort, enough learning, enough sincerity — the balance will return.</span>
+<span> The future will compensate for the past.</span></p><p><span>But some realities do not respond to effort.</span>
+<span> They do not bend to sincerity.</span>
+<span> They do not soften with intention.</span></p><p><span>They simply remain.</span></p><p><span>The problem is not only that mistakes have been made.</span>
+<span> The problem is that mistakes accumulate in a way that cannot be reversed by future behavior.</span>
+<span> Time moves forward, but it does not erase what has already occurred.</span>
+<span> What has been done does not become undone because we now wish it had not happened.</span></p><p><span>And alongside this unalterable record stands another difficulty:</span>
+<span> it is not only that something has gone wrong — it is that we do not possess the condition required to stand in full alignment with what is right.</span>
+<span> It is not merely a failure of actions, but a lack of qualification.</span>
+<span> Not a momentary lapse, but an absence of the necessary standing.</span></p><p><span>This creates a double barrier:</span></p><ul><li><p><span>The past cannot be edited.</span></p></li><li><p><span>The present does not carry the credential required to enter unhindered.</span></p></li></ul><p><span>At first glance, this seems solvable.</span>
+<span> We instinctively reach for improvement, education, discipline, reform.</span>
+<span> But improvement addresses future behavior — it does not revise history.</span>
+<span> Discipline may refine conduct — it does not alter standing.</span>
+<span> Sincerity may change intention — it does not change qualification.</span></p><p><span>The tools available are real tools, but they are not tools for this problem.</span></p><p><span>And this is the point most people never allow themselves to reach:</span>
+<span> the realization that the issue is not intensity, knowledge, or determination.</span>
+<span> The issue is that the problem itself is not repairable from the inside.</span></p><p><span>There is no angle left to argue.</span>
+<span> No overlooked clause.</span>
+<span> No compensating effort strong enough to rebalance the scale.</span></p><p><span>When every internal strategy has been exhausted,</span>
+<span> the mind goes quiet.</span></p><p><span>Not from despair —</span>
+<span> but from the recognition that there is nothing left to present.</span></p><blockquote><p><span>...the Law...speaks to those who are under the Law, so that every mouth may be closed and all the world may become accountable to God; Romans 3:19</span></p></blockquote><hr /><h2 id='the-standard-that-does-not-move'><span>The Standard That Does not Move</span></h2><p><span>The instinct to repair is strong.</span>
+<span> It is almost reflexive.</span>
+<span> When something is out of order, we assume that with enough correction it will come back into alignment.</span>
+<span> We believe that persistence eventually compensates.</span></p><p><span>But compensation is not the same as correction.</span></p><p><span>A life may become more disciplined, more informed, more intentional —</span>
+<span> yet discipline does not remove what already stands.</span>
+<span> Knowledge does not erase what has been established.</span>
+<span> Intent does not dissolve consequence.</span></p><p><span>The difficulty is not merely behavioral.</span>
+<span> It is structural.</span></p><p><span>The past remains present in a way effort cannot intercept.</span>
+<span> And the standard that defines alignment does not lower itself to meet improvement.</span>
+<span> It does not adjust to progress.</span>
+<span> It does not grade on a curve.</span></p><p><span>What is required remains what is required.</span></p><p><span>This is where the illusion begins to thin.</span>
+<span> Not because a person is unwilling,</span>
+<span> but because willingness is not the missing ingredient.</span></p><p><span>The realization emerges quietly:</span></p><p><span>There is no amount of forward motion that reaches backward.</span>
+<span> There is no internal adjustment that produces the qualification itself.</span>
+<span> There is no argument that alters the measure being applied.</span></p><p><span>At this point the question changes.</span>
+<span> It is no longer, </span><em><span>“How do I fix this?”</span></em>
+<span> It becomes, </span><em><span>“Is this fixable from where I stand?”</span></em></p><p><span>And the honest answer, when all optimism has been examined,</span>
+<span> is disarming in its simplicity:</span></p><p><span>There is nothing left within reach that resolves it.</span></p><p><span>Not because effort is worthless.</span>
+<span> Not because intention is insincere.</span>
+<span> But because the nature of the problem lies outside the tools available.</span></p><p><span>When every internal lever has been tested and found unrelated to the outcome,</span>
+<span> the mind does not panic —</span>
+<span> it settles.</span></p><p><span>Not into despair,</span>
+<span> but into the recognition that self-resolution has reached its boundary.</span></p><p><span>And yet the thought remains: there must be something I can do.</span></p><p><span>This reaction is not pride. It is habit. In most areas of life, problems yield to effort. When something is broken, we repair it. When we fall behind, we work harder. When we lack knowledge, we study. Experience has taught us that persistence changes outcomes. It is only natural to assume this situation follows the same pattern.</span></p><p><span>So the search begins. Perhaps stronger commitment will make the difference. Perhaps greater understanding. Perhaps stricter discipline, or a longer period of consistency. Each of these appears reasonable, and in many circumstances they would be effective.</span></p><p><span>The difficulty, however, is that all of these responses move in the same direction: forward. They can influence future behavior, but they do not alter what already stands. They can refine conduct, but they do not create the qualification itself. They can improve performance, but they cannot transform standing.</span></p><p><span>Gradually, the question shifts. It is no longer, “What more can I try?” but rather, “Is there any action available to me that actually addresses this at its root?” The answer becomes increasingly difficult to avoid. The tools that work elsewhere do not work here. Not because they lack strength, but because they were never designed for this kind of problem.</span></p><p><span>The realization is not dramatic. It does not arrive with force. It arrives through elimination. Each possible approach is considered and found unrelated to the issue itself. The desire to resolve the matter remains sincere, but sincerity alone does not change standing, and effort alone does not rewrite what has already been established.</span></p><p><span>What remains is not defeat, but clarity.</span></p><p><span>At some point the question is no longer whether effort can continue, but whether effort addresses the issue at all. The mind may still search for one overlooked approach, one final adjustment that might shift the outcome. But as each option is examined, it becomes clear that the problem does not yield to the tools being applied.</span></p><p><span>This is where an external reference becomes unavoidable. Not an authority imposed from outside, but a measure that simply exists. Every field has its standard — the specification that defines compatibility, the condition that determines entry. These standards are not personal. They do not react to sincerity or adjust to persistence. They remain what they are.</span></p><p><span>In the same way, alignment is not determined by intention alone. It is determined by the requirement itself. The measure does not move closer because effort increases, and it does not soften because the desire is genuine. It remains fixed.</span></p><p><span>When this is understood, the argument changes again. It is no longer a question of willingness or resolve. It becomes a matter of comparison. The standard stands where it always stood, and the individual stands where he actually is. The distance between the two is not closed by intention. It is simply revealed.</span></p><p><span>This realization does not arrive with hostility. It arrives with clarity. The standard does not enter as an enforcer. It enters as definition. It shows what is required without negotiation and without accusation. What it removes is not dignity, but ambiguity.</span></p><p><span>At this point, conscience is no longer wrestling with possibility. It is informed. The internal reasoning that once searched for a solution meets an external line that does not shift. The discussion grows quiet, not because it has been silenced, but because it has reached its conclusion.</span></p><p><span>What remains is not confusion, and not even despair.</span>
+<span> What remains is recognition.</span></p><p><span>At this point, the issue can be stated plainly.</span></p><blockquote><p><span>...by the works of the Law no flesh will be justified in His sight; for through the Law </span><em><span>comes</span></em><span> the knowledge of sin. Romans 3:20</span></p></blockquote><p><span>What stands against us is not only what we have done, but what we cannot undo. The past does not clear itself through future effort. Actions accumulate in a way that discipline cannot erase and sincerity cannot offset.</span></p><p><span>And alongside this stands another fact: we do not possess, within ourselves, the condition required for complete alignment. It is not simply that we fall short on occasion; it is that we do not carry the qualification itself. The requirement is not partial compatibility, but full correspondence — and that standard does not adjust to personal progress.</span></p><p><span>These two realities converge.</span>
+<span> What has been established cannot be reversed,</span>
+<span> and what is required is not naturally present.</span></p><p><span>When stated this directly, the instinct is still to negotiate, to search for one remaining exception. But the standard does not contain exceptions, and the record does not edit itself. The conclusion does not arise from pessimism; it arises from comparison.</span></p><p><span>The realization is not that effort is meaningless in every area of life. The realization is that </span><strong><span>effort is not the instrument that resolves this particular problem.</span></strong></p><p><span>The problem is not merely that we have done things wrong in the past.</span>
+<span> The problem is that what has been done was not neutral. It was not isolated. It was against God.</span></p><p><span>This shifts the issue from personal regret to objective reality. The matter is no longer confined to our own conscience or to social consequence. It concerns the One who defines what is right. What stands is not simply an internal memory or a private burden; it is a breach measured in relation to God Himself.</span></p><p><span>Time does not remove this. Improvement does not cancel it. Greater discipline may influence future choices, but it does not undo what has already been established. The past remains what it is, not because forgiveness is impossible, but because reversal is.</span></p><p><span>Alongside this stands another fact. Alignment with God is not achieved through partial progress or gradual refinement. The condition required is not approximate compatibility but full correspondence with His standard. That requirement does not shift with effort, and it does not soften because intention is sincere. It remains fixed because it is grounded in who He is, not in how we perform.</span></p><p><span>These two realities stand together.</span>
+<span> What has been established was against God and cannot be undone by future action.</span>
+<span> What is required to stand fully aligned with God is not something we naturally possess.</span></p><p><span>From here the questions are no longer abstract.</span></p><p><span>How much effort has been invested to correct what stands against God?</span>
+<span> How much reform, learning, or discipline has been applied?</span>
+<span> And what has the result been?</span></p><p><span>Did the effort remove what stood?</span>
+<span> Did it produce the qualification required?</span>
+<span> Did it meet the measurement — or did the measurement remain unchanged, continuing to require what had not yet been reached?</span></p><p><span>For most, the answer is consistent rather than dramatic. The effort was real. The intention was genuine. Yet the standard did not move. It asked for what it always asked for, and each attempt, however sincere, came close — but never arrived.</span></p><p><span>When all of this is considered together, the picture becomes difficult to dispute. The issue is not only that wrong has occurred, but that it was against God and cannot be reversed by future action. The past remains established in a way effort does not intercept. At the same time, the condition required to stand fully aligned with God is not something we naturally carry. The requirement does not bend toward intention, nor does it lower itself to meet improvement. It remains what it is.</span></p><p><span>This is not a conclusion reached through pessimism, nor through exaggeration. It is reached through comparison. Every internal strategy has been examined. Every available tool has been tested. Effort has been applied, sincerity has been present, discipline has been exercised — and yet the distance between what stands and what is required has not closed.</span></p><p><span>The realization does not arrive with hostility. It arrives with clarity. Conscience is not being pressured; it is being informed. What once felt negotiable is now seen for what it is. The standard did not move, and the record did not erase itself. Both remained.</span></p><p><span>At this point the discussion grows quiet, not because there is nothing to say, but because there is nothing left to argue. The matter has been looked at from every angle available within reach. The tools that shape the future do not rewrite the past. The desire to resolve does not generate the qualification required. The comparison stands.</span></p><p><span>What remains is not confusion.</span>
+<span> It is recognition.</span></p><p><span>And recognition leads to a simple, unembellished conclusion:</span></p><p><span>“You cannot resolve this.”</span></p><p>&nbsp;</p><p><strong><span>We are finished.</span></strong></p><p>&nbsp;</p><p><span>Not as an insult.</span>
+<span> Not as a threat.</span>
+<span> But as the acknowledgment that every internal avenue has reached its boundary.</span>
+<span> There is no remaining argument, no overlooked method, no hidden reserve capable of altering what stands or producing what is required.</span></p><p><span>The realization is not despair.</span>
+<span> It is the end of self-resolution.</span></p><h1 id='movement-4---god-acts'><span>Movement 4 - God Acts</span></h1><p><em><span>(Romans 3:21-31)</span></em></p><h2 id='is-there-a-solution'><span>Is There a Solution?</span></h2><p><span>Are you still reading?</span></p><p><span>Are you still here?</span></p><p><span>What if I told you there is a solution.</span></p><p><span>Not a technique.</span>
+<span> Not a new discipline.</span>
+<span> Not another strategy to attempt.</span></p><p><span>A solution.</span></p><p><span>After a silence that leaves everyone speechless, Paul introduces two words that change everything:</span></p><blockquote><p><span>&quot;But now...&quot; - Romans 3:21</span></p></blockquote><p><span>They are not a literary transition.</span>
+<span>They are a statement of reality.</span>
+<span>So far, everything has been diagnostic.</span>
+<span>Clear, honest, and irrefutable.</span>
+<span>Human beings cannot justify themselves.</span>
+<span>The law cannot produce justice.</span>
+<span>No advantage remains.</span>
+<span>And just when there is nothing left to hold on to, Paul does not say, “Therefore, strive harder.”</span></p><p><span>He says: God acts.</span></p><p><span>Up to this point, every attempt started from the same place — the person trying to fix the problem. More effort. More discipline. More learning. Longer consistency. Each attempt assumed the answer had to come from within.</span></p><p><span>But if none of those attempts solved it, then one conclusion becomes hard to avoid:</span>
+<span> the answer, if it exists at all, cannot start from the same place the problem started.</span></p><p><span>That realization changes the direction of the search.</span></p><p><span>Not more effort.</span>
+<span> Not more discipline.</span>
+<span> Not more trying.</span>
+<span> Outward.</span></p><p><span>And that raises a question most people rarely stop to ask:</span></p><p><span>If I cannot produce what is required,</span>
+<span> what possibly could?</span></p><p><span>If every sincere attempt still fell short,</span>
+<span> what would actually be enough?</span></p><p><span>This is no longer a question of intensity.</span>
+<span> It is a question of source.</span></p><p><span>The issue was never that effort was missing.</span>
+<span> The issue was that effort was never the instrument that solved this kind of problem.</span></p><p><span>So the mind pauses again —</span>
+<span> not in defeat,</span>
+<span> but in openness.</span></p><p><span>For the first time, the possibility appears that the answer, if it exists,</span>
+<span> must come from beyond the one who needs it.</span></p><p><span>For the first time, the question is no longer, “How do I fix this?”</span>
+<span> It becomes, “Is there something outside of me that actually resolves it?”</span></p><p><span>That question matters, because it changes what is being looked for.</span></p><p><span>If the problem was lack of capacity, then the answer cannot be more pressure placed on the same lack. It would have to involve capacity that is not already exhausted. It would have to come from somewhere the limitation does not exist.</span></p><p><span>This is where many people hesitate. Not because the idea is difficult, but because it is unfamiliar. We are used to solving problems by increasing effort. We are less used to considering that the answer might already exist, independent of our ability to produce it.</span></p><p><span>But this is not wishful thinking. Every area of life works this way. When a task exceeds personal strength, we look for strength beyond ourselves. When knowledge is insufficient, we rely on someone who knows more. When resources are lacking, we draw from a source that has them.</span></p><p><span>The same logic applies here.</span></p><p><span>If the requirement stands and the record stands, then the only meaningful question left is whether there exists a source capable of addressing both — not partially, not temporarily, but fully.</span></p><p><span>The moment that question is allowed, something shifts again.</span>
+<span> The focus is no longer on personal shortage.</span>
+<span> It turns toward the possibility that adequacy itself may already exist.</span></p><p><span>If such a source exists, then the problem changes shape again.</span></p><p><span>It is no longer only a question of what is missing.</span>
+<span> It becomes a question of whether what is missing is already available.</span></p><p><span>This is an important distinction.</span>
+<span> Availability is different from production.</span>
+<span> One requires effort.</span>
+<span> The other requires recognition.</span></p><p><span>Up to this point, the struggle has been about trying to become adequate.</span>
+<span> But if adequacy already exists apart from the one who needs it, then the struggle is no longer about manufacturing something new. It becomes about receiving what already is.</span></p><p><span>This does not minimize the seriousness of the problem.</span>
+<span> The record is still real.</span>
+<span> The standard is still fixed.</span>
+<span> Nothing has been reduced.</span></p><p><span>What changes is the pressure.</span></p><p><span>The burden of creating what is required is no longer resting on the one who could never create it. The focus begins to move away from self-production and toward the possibility that what is needed does not have to be invented — only obtained.</span></p><p><span>This is where relief begins, quietly.</span></p><p><span>Not relief because the issue disappeared.</span>
+<span> Relief because the answer, if it exists, does not depend on personal capacity.</span></p><p><span>If adequacy already exists outside the one who needs it, then the situation is not hopeless. It is limited only by access.</span></p><p><span>The question is no longer, “Can I produce what is required?”</span>
+<span> That question has already been answered.</span>
+<span> The question becomes, “Is what is required available to me?”</span></p><p><span>This is a different kind of thinking. It does not start with strength or discipline. It starts with availability. The issue shifts from </span><em><span>ability</span></em><span> to </span><em><span>source.</span></em></p><p><span>When a person cannot lift a weight, the solution is not more strain on the same muscle. The solution is assistance strong enough to carry what cannot be carried alone. The weight does not disappear, but the burden changes hands.</span></p><p><span>The same principle applies here.</span></p><p><span>If the requirement remains, and the record remains, then the only meaningful change comes when the burden of supplying what is needed is no longer resting on the one who lacks it.</span></p><p><span>This is the first moment where the word “enough” begins to make sense.</span>
+<span> Not “enough effort.”</span>
+<span> Not “enough discipline.”</span>
+<span> Simply — enough.</span></p><p><span>Enough does not come from the one who is insufficient.</span>
+<span> Enough must come from where insufficiency does not exist.</span></p><p><span>And that is the turning point.</span></p><hr /><h2 id='the-answer-is-a-person'><span>The Answer is a Person</span></h2><p><span>The answer is not an idea.</span>
+<span> The answer is a person.</span></p><p><span>The sufficiency that has been described is not something you build, learn, or earn.</span>
+<span> It is found in Jesus Christ.</span></p><blockquote><p><span>being justified...through the redemption which is in Christ Jesus...Romans 3:24-25</span></p></blockquote><p><span>This is where the direction becomes specific.</span>
+<span> The problem was not only that wrong had been done.</span>
+<span> The problem was that it stood against God and could not be undone.</span>
+<span> And the requirement was not partial improvement but full alignment — something no one naturally possesses.</span></p><p><span>Christ is presented here not as inspiration,</span>
+<span> not as an example to imitate,</span>
+<span> and not as a religious symbol.</span></p><p><span>He is presented as sufficiency.</span></p><p>&nbsp;</p><p><strong><span>Christ is sufficient!</span></strong></p><hr /><h2 id='what-he-did'><span>What He Did</span></h2><p><span>The solution is not only who Christ is.</span>
+<span> It is also what Christ has done.</span></p><p><span>Trust is not placed in a figure from history or a moral teacher.</span>
+<span> Trust is placed in the One who acted.</span></p><p><span>He did not simply speak about forgiveness.</span>
+<span> He brought about redemption.</span></p><p><span>He did not only describe reconciliation.</span>
+<span> He made reconciliation possible.</span></p><p><span>This is why belief is reasonable.</span>
+<span> It is not belief in a feeling.</span>
+<span> It is belief in an accomplished work.</span></p><p><span>The problem stood against God.</span>
+<span> The resolution also comes from God.</span></p><p><span>Christ is not presented as assistance to help us finish the job.</span>
+<span> He is presented as the One who completed what we could not begin.</span></p><p><span>The weight does not stay on the individual and receive a little help.</span>
+<span> The weight changes hands entirely.</span></p><p><span>This is why trust matters.</span>
+<span> Not because trust creates the solution,</span>
+<span> but because trust receives what has already been completed.</span></p><p><span>You are not being asked to become sufficient.</span>
+<span> You are being invited to rely on the sufficiency already provided in Christ —</span>
+<span> the One and the work together.</span></p><p><span>Trust here is not admiration.</span>
+<span> It is reliance.</span></p><p><span>It is not saying Christ is important.</span>
+<span> It is recognizing that Christ accomplished what we could not.</span></p><p><span>Redemption is not a feeling.</span>
+<span> It is a result.</span></p><p><span>The problem was real.</span>
+<span> The record was real.</span>
+<span> The requirement was real.</span></p><p><span>So the solution must also be real.</span></p><p><span>Christ did not come to suggest improvement.</span>
+<span> He came himself to address the breach itself.</span></p><p><span>He did not come to encourage effort.</span>
+<span> He came to provide what effort could never produce.</span></p><p><span>This is why the focus changes so completely.</span>
+<span> You are no longer trying to balance what stood against you.</span>
+<span> You are trusting the One who resolved it.</span></p><p><span>The burden shifts.</span></p><p><span>Not partially.</span>
+<span> Completely.</span></p><p><span>You are not carrying most of the weight and receiving help with the rest.</span>
+<span> You are no longer the one supplying the weight at all.</span></p><p><span>This is what makes trust reasonable rather than emotional.</span>
+<span> You are not trusting a promise that depends on your strength.</span>
+<span> You are trusting a finished work that does not depend on you holding it together.</span></p><p><span>And that is where sufficiency becomes personal.</span></p><p><span>Not because you became enough,</span>
+<span> but because you are now resting in the One who is.</span></p><p><span>When Christ is trusted, His sufficiency is no longer something observed from a distance. It becomes personal. What He accomplished counts for you. The adequacy you could not produce is no longer something you are trying to reach; it is something that now stands in your place. The record that stood against you is no longer yours to answer, and the requirement you could not meet is no longer yours to supply. Nothing is being ignored or pretended away. The problem was real, and the solution is real. His sufficiency is not an idea you hold onto — it is a reality that now holds you. And that changes where you stand.</span></p><h1 id='movement-5----standing'><span>Movement 5 – Standing</span></h1><p><em><span>(Romans 4:1-5:11)</span></em><span> </span></p><h2 id='what-changed'><span>What Changed</span></h2><blockquote><p><span>...having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have obtained our introduction by faith into this grace in which we stand...Romans 5:1-2</span></p></blockquote><p><span>Once standing is established, a question naturally follows.</span></p><p><span>If the situation between God and a person has truly been resolved,</span>
+<span> what place does sin now have?</span></p><p><span>If condemnation is no longer the basis of the relationship,</span>
+<span> does sin still matter?</span>
+<span> And if it does, how can it be addressed without undoing what has already been settled?</span></p><p><span>This is not a careless question.</span>
+<span> It is an honest one.</span>
+<span> And Scripture does not avoid it — it answers it.</span></p><p><span>Sin is not ignored.</span>
+<span> But it is no longer allowed to sit where it once sat.</span></p><hr /><h2 id='a-new-position'><span>A New Position</span></h2><p><span>Before God acted, sin defined everything.</span>
+<span> It exposed the problem.</span>
+<span> It separated.</span>
+<span> It brought judgment into view.</span></p><p><span>But once God acts decisively, sin no longer occupies that same position.</span></p><p><span>It does not disappear.</span>
+<span> But it is displaced.</span></p><p><span>And that distinction matters.</span></p><p><span>Sin is still real.</span>
+<span> It still causes damage.</span>
+<span> It still needs to be addressed in daily life.</span>
+<span> But it no longer defines standing before God.</span></p><p><span>It no longer governs access.</span>
+<span> It no longer determines belonging.</span></p><p><span>Standing is now defined by what Christ accomplished,</span>
+<span> not by what a person fails to maintain.</span></p><p><span>If sin were still allowed to define the relationship,</span>
+<span> then nothing would truly be settled.</span>
+<span> Everything would return to uncertainty.</span>
+<span> Life would become constant maintenance again.</span></p><p><span>That is exactly what this message refuses to allow.</span></p><p><span>Once the question about sin is addressed, another question naturally follows:</span>
+<span> If Christ’s sufficiency now counts for me, what actually changed?</span></p><p><span>The answer is not only that something was forgiven.</span>
+<span> Something was established.</span></p><p><span>Standing speaks of position. It describes where a person now stands before God. This is not a feeling or a mindset. It is not optimism or motivation. It is a fact.</span></p><p><span>Through Christ, a new standing was brought into existence. It was not formed gradually or offered conditionally. It was established decisively. This standing does not depend on personal awareness. It does not depend on the strength of belief. It does not rise and fall with performance. It exists because God made it so.</span></p><p><span>Christ’s sufficiency did not merely offer assistance. It supplied what was required. What could not be produced personally was provided completely. For this reason, the standing before God is not partial, provisional, or awaiting completion. It is complete because the work that established it is complete.</span></p><p><span>Union with Christ describes this reality. A person is no longer standing on a personal record but in His. What is true of Him in relation to God now defines the relationship with God. This is why the language of sonship appears—not as a reward earned, but as a placement granted.</span></p><p><span>Standing is not something held together by effort. It is something established by God. It does not shift with mood, weaken with struggle, or disappear with failure. It remains because its source is not human resolve but divine action.</span></p><p><span>This is the reality: Christ’s sufficiency has supplied a perfect standing before God.</span></p><p><span>This standing is not temporary. It is not a trial period. It is not something that improves over time or weakens with difficulty. It was not formed by human effort, and it is not sustained by human effort. It stands because God established it.</span></p><p><span>What God establishes does not fluctuate with circumstances. It does not adjust to mood, and it does not retreat when challenges appear. The basis of this standing is not personal strength or consistency. Its basis is Christ and the work He completed.</span></p><p><span>For this reason, standing is not fragile. It does not need to be protected, defended, or constantly repaired. It is not something that must be rebuilt after every failure. It is a position that exists because its foundation exists.</span></p><p><span>A person may not fully understand this standing. A person may not even be aware of its depth. But lack of awareness does not erase reality. The standing does not come into existence when it is discovered, and it does not disappear when it is overlooked. It remains what it is because its origin is not human knowledge but divine action.</span></p><p><span>This is why the language of access becomes clear. The door is not being opened repeatedly. It has been opened. The relationship is not waiting to begin. It has been established. The position is not being negotiated. It has been granted.</span></p><p><span>Standing, then, is not movement. It is placement.</span>
+<span> It is not effort. It is fact.</span>
+<span> It is not becoming. It is being.</span></p><p><span>This is what Christ’s sufficiency secured — a real, present, and unchanging standing before God.</span></p><p><span>Because this standing was established by God, it does not depend on personal stability. It does not improve when a person feels strong, and it does not weaken when a person feels weak. It is not measured by emotional certainty or by the ability to explain it. It stands on what Christ accomplished, not on how well it is understood.</span></p><p><span>This means standing is not something a person moves in and out of. It is not entered on good days and lost on difficult ones. It is not maintained by discipline, nor is it undone by inconsistency. It exists because its foundation exists.</span></p><p><span>The change that occurred was not cosmetic. It was not an adjustment in attitude. It was a change in position before God. The relationship is no longer defined by distance or uncertainty. It is defined by what Christ secured.</span></p><p><span>Nothing about this standing is imaginary. It is not positive thinking or spiritual optimism. It is the result of an action taken by God and completed in Christ. Whether it is fully understood or only partially grasped, the reality does not shift.</span></p><p><span>This is why the language of access is direct. The way is not being reopened again and again. It has been opened. The relationship is not waiting to begin. It has been established. The position is not being negotiated. It has been granted.</span></p><p><span>Standing, then, is not progress.</span>
+<span> It is placement.</span>
+<span> It is not striving.</span>
+<span> It is reality.</span></p><hr /><h2 id='a-new-realm'><span>A New Realm</span></h2><p><span>Because this standing is real, life is no longer lived from uncertainty. The relationship with God is not being negotiated day by day. It is already established. This changes how a person faces ordinary life.</span></p><p><span>Difficulties do not disappear, but they no longer carry the same message. Hardship is no longer read as rejection, and struggle is no longer interpreted as distance. Circumstances may still be challenging, but they do not undo position. The ground does not shift every time life becomes unstable.</span></p><p><span>This does not remove responsibility or erase consequences in daily choices. What it removes is the constant fear that every failure resets the relationship. Standing remains while life is being lived. The foundation does not rise and fall with performance.</span></p><p><span>From this position, reliance begins to make sense. Reliance is not an attempt to keep the standing intact. The standing is already intact. Reliance is simply the natural response to what is already true.</span></p><p><span>In the same way a person leans on a structure that is known to be solid, trust in Christ grows from recognizing that the foundation is secure. It is not pressure to believe harder. It is the quiet continuation of depending on what has already proven sufficient.</span></p><p><span>Life is no longer driven by the need to secure belonging.</span>
+<span> Belonging is already secure.</span>
+<span> Reliance flows from reality, not fear.</span></p><p><span>Standing came from Christ’s work.</span>
+<span> Continued trust is simply living in the light of that work.</span></p><p><span>Standing, then, is not something being chased or preserved. It is something that has been established. Christ’s sufficiency did not place a person on unstable ground; it set a firm position before God. From that position, life is faced differently, not because circumstances vanish, but because the relationship no longer shifts with them. Trust does not hold this standing together; it simply rests in what already stands. The reality remains what God made it — secure, present, and unchanged.</span></p><h1 id='movement-6-----sin-repositioned'><span>Movement 6 — Sin Repositioned</span></h1><p><em><span>(Romans 5:12-6:23)</span></em></p><h2 id='why-tension-remains'><span>Why Tension Remains</span></h2><p><span>After stating that the verdict stands, Paul knows that a question has already formed in the reader&#39;s</span>
+<span>mind. It is not a rebellious question. It is a logical one.</span>
+<span>If God has declared righteous,</span>
+<span>if the relationship has been reconciled,</span>
+<span>if peace has been established…</span>
+<span> why does struggle remain?</span></p><p><span>Why do I still sin?</span>
+<span> Why does desire conflict with intention?</span>
+<span> Why does clarity not always produce consistency?</span></p><p><span>Paul doesn&#39;t avoid these questions. He anticipates them. And the way he answers it is crucial to understanding everything that follows.</span></p><p><span>Paul does not begin by minimizing sin. On the contrary, he broadens the perspective so that the reader can see it more clearly. So he can see it correctly. </span></p><p><span>Struggle does not mean the resolution was incomplete.</span>
+<span> It means life is now being lived in a new reality that is still being understood.</span></p><p><span>Enter Adam. Not as an isolated moral figure, but as a representative head. Through him, sin enters the scene not</span>
+<span>only as an act, but as a dominant condition. Sin is not presented first as something that is done, but as something under which one lives.</span></p><p><span>This is important.</span></p><p><span>Because if sin were merely a series of bad decisions, a series of good decisions would be enough to resolve it. But Paul describes something deeper: a reality that governs, that reigns, that exercises dominion.</span>
+<span>This raises a key question:</span>
+<span>Why do we continue to treat sin primarily as behavior, when Paul presents it as power?</span></p><p><span>As long as sin is seen only as behavior, the solution will always be effort.</span>
+<span>But Paul is preparing the reader to understand why the effort was never enough.</span></p><hr /><h2 id='the-decisive-contrast-adam-and-christ'><span>The decisive contrast: Adam and Christ</span></h2><p><span>Paul does not present Christ as an improvement on Adam. He presents him as a new point of reference.</span></p><p><span>Just as humanity was defined by a reality it did not consciously choose, it is now defined by another reality that it also does not produce on its own. In both cases, the central issue is not individual action, but representative identification.</span></p><p><span>This challenges our usual way of thinking, because we prefer to believe that we are defined primarily by what we do. Paul insists that we are defined first by the reality in which we live.</span></p><p><span>What changes if the central problem is not &quot;what I do&quot;, but &quot;where I live from&quot;?</span></p><p><span>This change of framework alters </span><em><span>everything</span></em><span>.</span></p><p><span>Grace does not respond to a single fault.</span>
+<span>It responds to a complete condition.</span>
+<span>Paul emphasizes something that should not be overlooked: grace is not a proportional reaction to sin. It</span>
+<span>is not a fine-tuning. It is not minimal compensation.</span>
+<span>It is a decisive intervention.</span>
+<span>Where sin once reigned, grace now reigns.</span>
+<span>It doesn&#39;t compete. It doesn&#39;t balance. It governs.</span></p><blockquote><p><span>...even so grace would reign... Romans 5:21</span></p></blockquote><p><span>This does not mean that sin is unreal. It means that it is no longer sovereign.</span>
+<span>It is worth pausing here:</span>
+<span>What if we took seriously the idea that sin no longer has the final say over our standing before God?</span></p><p><span>This does not mean that sin is unreal. It means that it is no longer sovereign.</span>
+<span>It is worth pausing here:</span>
+<span>What if we took seriously the idea that sin no longer has the final say over our standing before God?</span></p><p><span>On what, then, would our persistent guilt be based?</span>
+<span>Where would our inner condemnation derive its authority?</span></p><hr /><h2 id='the-inevitable-objection'><span>The inevitable objection</span></h2><p><span>At this point, Paul introduces the objection that many still raise today, although not always aloud:</span></p><p><span>If grace reigns, does it matter how we live? Doesn&#39;t that open the door to indifference? The way Paul responds is crucial.</span>
+<span>He doesn&#39;t say: &quot;It does matter, so be careful.&quot;</span>
+<span>He does not retreat from grace.</span>
+<span>It does not impose conditions.</span>
+<span>He says something more radical:</span></p><p><span>That question doesn&#39;t understand the change that has occurred.</span></p><blockquote><p><span>...Are we to continue in sin...May it never be! How shall we who died to sin still live in it? Romans 6:1-2</span></p></blockquote><hr /><h2 id='death-and-life-categories-not-metaphors'><span>Death and life: categories, not metaphors</span></h2><p><span>Paul responds by redefining the terms.</span>
+<span>He speaks of death and life not as sensations, but as objective realities. Dying to sin does not mean ceasing to experience temptation. </span></p><p><span>It means ceasing to live under its control.</span>
+<span>Under its domain.</span></p><p><span>This is where many readers get confused, because they look for an immediate experience that confirms the statement. But Paul isn&#39;t describing first what it feels like, but rather what </span><strong><span>what it is</span></strong><span>.</span></p><p><span>What happens when we demand to feel a truth before accepting it as real?</span>
+<span>The truth remains suspended.</span>
+<span>Experience becomes the judge.</span>
+<span>And rest never comes.</span>
+<span>Paul reverses that order.</span></p><hr /><h2 id='identity-precedes-behavior'><span>Identity precedes behavior</span></h2><p><span>One of the most important movements in this passage is the order that Paul carefully maintains.</span></p><p><span>It does not say: “leave sin to become something new.”</span>
+<span>He says: “They are something new; that is why sin no longer rules.”</span>
+<span>The exhortation comes after the declaration.</span>
+<span>Behavior flows from identity.</span>
+<span>Never the other way around.</span></p><p><span>Herein lies one of the great distortions of the Christian life:</span>
+<span>Trying to produce with effort what can only flow from an already established reality.</span></p><p><span>That causes exhaustion.</span>
+<span>It produces chronic guilt.</span>
+<span>It produces cycles of promise and failure.</span>
+<span>Pablo does not call for a struggle to obtain an identity.</span>
+<span>It calls for living in accordance with a given identity.</span></p><hr /><h2 id='obedience-changes-in-nature'><span>Obedience changes in nature</span></h2><p><span>When sin ceases to be the master, obedience ceases to be survival.</span>
+<span>It is no longer an attempt to avoid condemnation.</span></p><p><span>It is no longer an effort to ensure acceptance.</span>
+<span>It is no longer a bargaining chip.</span>
+<span>It becomes the answer.</span>
+<span>Paul introduces a powerful image here: slavery. Not to instill fear, but to clarify an unavoidable reality: we</span>
+<span>always serve something.</span>
+<span>The question is not whether we serve, but whom.</span>
+<span>And here&#39;s the twist:</span>
+<span>Serving justice does not mean losing freedom.</span>
+<span>It is living in alignment with the reality that already defines us.</span></p><hr /><h2 id='the-fruit-reveals-the-new-dominion'><span>The Fruit Reveals the New Dominion</span></h2><p><span>Paul doesn&#39;t use fear to motivate. He uses results.</span>
+<span>Ask the reader to observe honestly:</span>
+<span>What did sin produce when he ruled?</span>
+<span>Shame.</span>
+<span>Guilt.</span>
+<span>Death.</span>
+<span>Fragmentation.</span>
+<span>And then it shows the contrast:</span>
+<span>When grace reigns, the fruit changes. Not because of external pressure, but because of its dominion.</span></p><p><span>This is a point that many believers need to listen to calmly:</span>
+<span>The fruit does not prove acceptance.</span>
+<span>It reveals the source.</span></p><p><span>Sin loses authority when he loses his place.</span>
+<span>With this move, Paul is not teaching “how to overcome sin.” He is doing something more fundamental:</span>
+<span>he is dethroning it. </span>
+<span>he has done away with sin&#39;s authority over us. </span></p><p><span>Sin no longer defines the relationship.</span>
+<span>It no longer interprets identity.</span>
+<span>It no longer determines the verdict.</span></p><blockquote><p><span>...our old self was crucified with </span><em><span>Him,</span></em><span> in order that [he] our body of sin might be </span><strong><span>done away with</span></strong><span>... Romans 6:6</span></p></blockquote><p><span>He remains serious.</span>
+<span>It is still harmful.</span>
+<span>But he is no longer sovereign.</span></p><p><span>And this is where the book&#39;s title resonates powerfully:</span>
+<span>&quot;It Is Settled!&quot;</span>
+<span>Not because the believer has resolved their struggle, but</span>
+<span>because God has already resolved the relationship.</span></p><hr /><h2 id='so-why-do-i-sin'><span>So why do I sin? </span></h2><p><span>A new standing does not automatically mean you no longer sin. </span>
+<span>Many think that following salvation comes a sinless, struggle-free life. Or at least it is implied. When they sin they begin to doubt if they were even saved to begin with. </span></p><p><span>When we begin to understand that as we learn to know and consider our new standing, when we are allowing the Gospel&#39;s power to enable our walk, we grow up in Christ, we sin less. </span></p><p><span>So, it&#39;s more about learning our new position and counting on it that will move us toward maturity rather than focusing our thinking on how to manage our sin. </span></p><p><span> Though our position changes immediately,</span>
+<span> our practical experience takes time to align with that position. But it starts with knowing who we are. </span></p><p><span>This is where the idea of “counting on what is real” becomes essential.</span></p><hr /><h2 id='counting-on-what-is-real'><span>Counting on What is Real</span></h2><p><span>This is why Scripture speaks of presenting yourself.</span>
+<span> It is not about earning position.</span>
+<span> Position is already established.</span>
+<span> It is about which reality you allow to guide your choices.</span></p><p><span>A person can stand secure before God and still live miserably if attention never leaves the old mindset. That misery does not come from lack of standing. It comes from living as if the old master still holds authority. </span></p><p><span>Paul says, we died to him. </span>
+<span>Not that sin was anhialated. </span></p><p><span>The new standing provides everything needed for fullness of life.</span>
+<span> But fullness is not found by managing sin.</span>
+<span> It is found by resting in Christ and allowing his living in me to shape my daily living.</span></p><p><span>The shift is not forced.</span>
+<span> It is recognized.</span></p><p><span>Life changes when what is already true</span>
+<span> is finally treated as true.</span></p><h1 id='movement-7-----the-law-for-living'><span>Movement 7 — The Law for Living</span></h1><p><em><span>(Romans 7)</span></em></p><h2 id='the-wrong-fuel'><span>The Wrong Fuel</span></h2><p><span>Another question appears at this point.</span></p><p><span>If standing is real,</span>
+<span> and struggle still happens,</span>
+<span> why does doing the right thing sometimes feel so difficult?</span></p><p><span>The issue is not usually lack of knowledge.</span>
+<span> Most people know what they should do.</span>
+<span> The issue is the inability to carry it through.</span></p><blockquote><p><span>...for the willing is present in me, but the doing of the good </span><em><span>is</span></em><span> not. Romans 7:18</span></p></blockquote><p><span>This is where many turn to motivation.</span></p><p><span>“Don’t give up.”</span>
+<span> “Try harder.”</span>
+<span> “Do your best.”</span>
+<span> “Push yourself.”</span></p><p><span>When that motivation fades, a common source of fuel is guilt.</span>
+<span> And the place guilt is most easily found is the law.</span></p><p><span>The law is clear.</span>
+<span> It draws lines.</span>
+<span> It exposes what is wrong.</span>
+<span> It makes a person aware of failure.</span></p><p><span>And that awareness often turns into pressure.</span>
+<span> Guilt becomes the fuel used to try to do better.</span></p><p><span>But guilt is a weak fuel.</span>
+<span> It produces effort for a moment,</span>
+<span> then frustration,</span>
+<span> then exhaustion.</span></p><blockquote><p><span>...but when the commandment came, sin became alive and I died. Romans 7:9</span></p></blockquote><p><span>The law was never given to be an engine for daily living.</span>
+<span> It reveals what is right,</span>
+<span> but it does not supply the strength to live it.</span></p><hr /><h2 id='two-cycles'><span>Two Cycles</span></h2><p><span>Using the law as motivation often creates a cycle.</span>
+<span> A person becomes aware of what is wrong, feels guilty, tries harder, fails, and then feels guilty again.</span></p><p><span>Sometimes the cycle looks different.</span>
+<span> Awareness leads to guilt, guilt leads to effort, effort leads to temporary success — and success turns into pride.</span></p><p><span>Neither path produces the life God intended.</span>
+<span> In both cases the standard becomes clearer,</span>
+<span> but the power to live up to it does not increase.</span></p><p><span>This is not because the law is bad.</span>
+<span> It is because the law was never meant to be the source of life.</span></p><p><span>Something else happened when standing was established.</span></p><p><span>A person was not only given a new position before God.</span>
+<span> They were also moved under a new authority.</span></p><p><span>Not law as motivator,</span>
+<span> but grace.</span></p><hr /><h2 id='a-new-authority'><span>A New Authority</span></h2><p><span>Grace does not use guilt as fuel.</span>
+<span> It works differently.</span>
+<span> It provides a stronger reason to live rightly</span>
+<span> and the ability to do so.</span></p><p><span>This is not effort-based performance.</span>
+<span> It is reliance on Christ’s sufficiency.</span>
+<span> It is life fueled by faith rather than pressure.</span></p><p><span>Every time a person tries to push life forward by guilt,</span>
+<span> they often end up condemning themselves and returning to the same old patterns they were trying to escape.</span></p><p><span>The struggle increases, not because nothing changed,</span>
+<span> but because the wrong source of motivation is being used.</span></p><p><span>The standing is real.</span>
+<span> The provision is real.</span>
+<span> But guilt does not fit the realm Christ brought you into.</span>
+<span> Life in Him was never designed to run on condemnation.</span>
+<span> It was designed to run on grace.</span></p><p><span>Grace is not passive.</span>
+<span> It is an effective trainer and motivator.</span>
+<span> Where the law demanded what was right but could not produce it, grace supplies both the reason and the strength to live it.</span>
+<span> The problem was never knowing the standard.</span>
+<span> The problem was lacking the power to meet it.</span></p><h1 id='movement-8-----life-lived-by-power'><span>Movement 8 — Life Lived by Power</span></h1><p><em><span>(Romans 8)</span></em></p><h2 id='no-condemnation'><span>No Condemnation</span></h2><p><span>There is now no condemnation.</span></p><p><span>This is not because the standard disappeared or the past was ignored. It is because Christ provided what the law could never supply. The law could point to what was right. It could expose what was wrong. But it could not produce life. It could describe the destination, but it could not move a person toward it.</span></p><p><span>Christ did.</span></p><blockquote><p><span>For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death. Romans 8:2</span></p></blockquote><p><span>This is why the message of the gospel is described as the power of God. It is not merely information about forgiveness. It is not inspiration meant to encourage better effort. It is power — the kind that actually changes how life is lived.</span></p><p><span>What once depended on pressure and self-motivation now flows from a different source. The engine has changed. The life that follows is not driven by guilt or fear, but by the presence and power of God Himself at work within.</span></p><hr /><h2 id='life-and-peace'><span>LIfe and Peace</span></h2><p><span>This is not abstract language. It is practical reality. Life in the Spirit is simply life lived with a new source of strength. The mind set in this direction begins to experience something steady and unexpected: life and peace. Not because challenges vanish, but because the foundation no longer shifts with them.</span></p><p><span>Peace here is not the absence of difficulty.</span>
+<span> It is the presence of alignment.</span></p><p><span>Daily life still contains decisions, responsibilities, and struggles. But they are no longer carried alone or fueled by exhaustion. The same power that secured standing now supplies strength to live from that standing. What was once impossible through effort becomes possible through provision.</span></p><hr /><h2 id='present-struggle-future-completion'><span>Present Struggle, Future Completion</span></h2><p><span>Life does not become painless. The world does not suddenly cooperate. Yet suffering no longer carries the same message it once did. It is no longer interpreted as rejection or distance. It becomes part of a larger story moving toward completion.</span></p><p><span>The future is not described as uncertainty, but as glory — not exaggeration, but fulfillment. What began through Christ does not stall halfway. It continues toward its intended end. Present strain is no longer a dead end; it becomes part of the process that leads forward.</span></p><hr /><h2 id='nothing-separates'><span>Nothing Separates</span></h2><p><span>The final assurance is simple and steady.</span></p><blockquote><p><span>I am convinced that [nothing] will be able to separate us from the love of God, which is in Christ Jesus our Lord. Romans 8:38-39</span></p></blockquote><p><span>Nothing separates a person from the love of God in Christ.</span></p><p><span>Not hardship.</span>
+<span> Not failure.</span>
+<span> Not fear.</span>
+<span> Not circumstance.</span></p><p><span>This is not emotional encouragement meant to lift the mood. It is a statement about relationship. The bond does not depend on personal strength. It stands because Christ stands. The same sufficiency that established standing also sustains connection.</span></p><p><span>Chapter 8 is not cloud-level idealistic thinking. It is actual life on solid ground. The gospel is not only the doorway into relationship; it is the power that carries that relationship forward day by day. What began as resolution becomes lived experience. Strength replaces strain. Peace replaces pressure. Hope replaces uncertainty.</span></p><p><span>Life is no longer an attempt to reach what is right.</span>
+<span> It becomes participation in what has already been provided.</span></p><p><span>Nothing — no circumstance, no failure, no power, no force seen or unseen — has the authority to separate us from the love of God in Christ. What was established through Him does not loosen with time, does not weaken with struggle, and does not collapse under pressure. The relationship does not stand on human strength but on divine action already completed. This is not optimism or wishful thinking. It is settled reality. The same God who established standing sustains it, and nothing in creation holds the power to reverse what He has done.</span></p><h1 id='final-chapter-----historical-proof'><span>Final Chapter — Historical Proof</span></h1><p><em><span>(Romans 9-11)</span></em></p><h2 id='the-larger-evidence'><span>The Larger Evidence</span></h2><p><span>A question naturally arises at this point.</span></p><p><span>What about Israel?</span></p><p><span>They were given promises by God.</span>
+<span> They were chosen to be His nation.</span>
+<span> They were entrusted with revelation.</span>
+<span> And yet history shows repeated failure.</span></p><blockquote><p><span>And I will make you a great nation, And I will bless you, And make your name great; And so you shall be a blessing; - Genesis 12:2</span></p></blockquote><p><span>At first glance it can look as though the promises did not hold.</span>
+<span> It can appear that human failure canceled divine intention.</span>
+<span> Some even conclude that God withdrew what He once declared.</span></p><p><span>But that conclusion does not match the full picture.</span></p><p><span>Israel’s history is not a story of promises given and then erased.</span>
+<span> It is a story of promises preserved in spite of human inconsistency.</span></p><p><span>There were consequences.</span>
+<span> There were seasons of distance.</span>
+<span> There were national failures and personal ones.</span>
+<span> But the promises themselves did not dissolve.</span></p><p><span>This distinction matters.</span></p><p><span>Human response affected experience.</span>
+<span> It did not nullify what God established.</span></p><p><span>What God declared did not disappear when people faltered.</span>
+<span> It remained, often carried forward through correction, restoration, and time.</span></p><p><span>Israel becomes evidence of a larger truth:</span>
+<span> God’s faithfulness is not fragile.</span>
+<span> It is not undone by human weakness.</span></p><p><span>The pattern seen in Israel is not abandonment;</span>
+<span> it is persistence. Not man&#39;s, God&#39;s. </span></p><p><span>Failure brought discipline,</span>
+<span> but discipline did not equal rejection.</span>
+<span> Delay did not equal cancellation.</span>
+<span> Correction did not equal reversal.</span></p><p><span>The promises were not retrieved.</span>
+<span> They were upheld.</span></p><p><span>And this is why Israel matters in this discussion.</span>
+<span> Their history shows, on a national scale, what has already been said on a personal scale:</span></p><p><span>What God establishes, He sustains.</span>
+<span> Human inconsistency affects the journey,</span>
+<span> but it does not overturn the destination.</span></p><p><span>This is not selective memory.</span>
+<span> It is observable history.</span></p><p><span>The same faithfulness that preserved God’s purposes with Israel</span>
+<span> is the faithfulness that secures what has been established in Christ.</span></p><p><span>The evidence is not abstract.</span>
+<span> It is written across generations.</span></p><p><span>This larger view removes a common misunderstanding.</span>
+<span> Israel’s history is not proof that God changes His mind.</span>
+<span> It is proof that He does not.</span></p><p><span>There were moments when the path became difficult,</span>
+<span> times when the people turned away,</span>
+<span> periods marked by loss and exile.</span>
+<span> Yet even in those seasons, the foundation did not disappear.</span>
+<span> What God had spoken did not dissolve with circumstances.</span></p><hr /><h2 id='promises-preserved'><span>Promises Preserved</span></h2><blockquote><p><span>For I do not want you, brethren, to be uninformed of this mystery—so that you will not be wise in your own estimation—that a partial hardening has happened to Israel until the fullness of the Gentiles has come in; </span><strong><span>and so all Israel will be saved</span></strong><span>; just as it is written, &quot;THE DELIVERER WILL COME FROM ZION, HE WILL REMOVE UNGODLINESS FROM JACOB. THIS IS MY COVENANT WITH THEM, WHEN I TAKE AWAY THEIR SINS.&quot; - Romans 11:25-27 </span></p></blockquote><p><span>The promises were not fragile agreements waiting to be broken.</span>
+<span> They were declarations rooted in God’s own character.</span>
+<span> And His character does not fluctuate the way human resolve does.</span></p><p><span>Looking at Israel across generations reveals a steady pattern.</span>
+<span> Human response rises and falls.</span>
+<span> God’s faithfulness does not.</span></p><p><span>When viewed from this angle, Israel is not an exception to the message —</span>
+<span> it is confirmation of it.</span></p><p><span>The same principle seen across centuries of history</span>
+<span> is the principle already seen in personal standing:</span>
+<span> what God establishes, He does not withdraw.</span></p><p><span>In the end, what does all of this mean?</span></p><p><span>It means the relationship with God is not built on personal strength, personal consistency, or personal effort. It rests on what God has already done through Christ. The standing established is not a fragile arrangement that must be held together day by day. It is a reality created by God and sustained by Him.</span></p><p><span>It also means that struggle, failure, and delay do not carry the final word. They affect experience, but they do not overturn what has been established. Just as Israel’s history shows that God’s purposes endure beyond human inconsistency, personal life shows the same pattern. The journey may contain difficulty, but the foundation remains.</span></p><p><span>This does not remove responsibility or erase the importance of daily choices. It removes fear as the driving force. Life is no longer an attempt to secure belonging. It becomes the unfolding of belonging already granted. Trust grows not because pressure increases, but because stability becomes visible.</span></p><p><span>What can be taken home is simple and steady:</span>
+<span> God’s faithfulness is greater than human weakness.</span>
+<span> Christ’s sufficiency is greater than personal lack.</span>
+<span> The love of God is not temporary, and His purposes are not easily reversed.</span></p><p><span>The message is not that life becomes effortless.</span>
+<span> The message is that life is no longer lived alone or uncertain.</span>
+<span> The ground beneath the relationship does not shift.</span></p><p><span>God fulfills His promises not because human beings uphold them, but because He has committed Himself</span>
+<span>to them.</span>
+<span>This reinforces everything said in Romans 1–8.</span></p><p><span>If God has demonstrated to have been faithful in the historical context,</span>
+<span>Why wouldn&#39;t it be on a personal level as well?</span>
+<span>If He has not reversed His purposes throughout generations,</span>
+<span>Why would he do it now with those he has justified?</span></p><p><span>Christian security is not naive</span>
+<span>It is historic.</span>
+<span>Christian faith does not rest on a fragile hope or an optimistic interpretation of life. It rests on a God whose faithfulness can be tested over time.</span>
+<span>Israel is not a side note.</span>
+<span>It is the visible testimony that God does not abandon what He has declared.</span>
+<span>Therefore, Romans 8 is not the emotional climax of the letter, but its logical conclusion.</span>
+<span>And Romans 9–11 does not contradict it; it supports it.</span></p><p><span>The verdict stands because God stands.</span>
+<span>The reader can conclude this journey with a deeper certainty than at the beginning.</span>
+<span>Not because he now knows himself better, but because</span>
+<span>he now knows God better.</span>
+<span>A God who:</span>
+<span>It begins what it promises,</span>
+<span>He stands by what he says,</span>
+<span>and fulfills what it has determined.</span>
+<span>That is why the Christian life can be lived without fear of revocation.</span>
+<span>Not because the believer is constant, but</span>
+<span>because God is.</span></p><p><span>The last word</span>
+<span>The story does not reopen the case.</span></p><p><span>He confirms it.</span>
+<span>And so, at the end of Romans 1–8 —backed by the history of Israel— the reader does not need to add</span>
+<span>anything, clarify anything, or assure anything.</span>
+<span>He can only state, with complete confidence:</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><div style="page-break-after: always;"></div><p>&nbsp;</p><div align="center">**It is settled!**</div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><img src="images/back-cover.png" style="width:100%; margin:0;"></p></div></div>
+</body>
+</html>

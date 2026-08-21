@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ $isMusic := eq .Section "music" }}
+<article class="single-page{{ if $isMusic }} song-page{{ end }}" data-pagefind-body>
+  <header class="single-header">
+    <div class="shell narrow">
+      <a class="back-link" href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a>
+      <p class="eyebrow">{{ if $isMusic }}Letra · acordes · grabación{{ else }}Estudio y notas{{ end }}</p>
+      <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+      {{ with .Description }}<p class="single-deck">{{ . }}</p>{{ end }}
+      {{ partial "site/meta.html" . }}
+      {{ if $isMusic }}
+        <div class="song-facts">
+          {{ with .Params.artist }}<span><small>Artista</small>{{ . }}</span>{{ end }}
+          {{ with .Params.album }}<span><small>Álbum</small>{{ . }}</span>{{ end }}
+          {{ with .Params.key }}<span><small>Tono</small>{{ . }}</span>{{ end }}
+          {{ with .Params.tempo }}<span><small>Tempo</small>{{ . }}</span>{{ end }}
+        </div>
+      {{ end }}
+    </div>
+    {{ if $isMusic }}<span class="record-orbit" aria-hidden="true"></span>{{ end }}
+  </header>
+
+  <div class="shell reading-layout">
+    {{ if and (not $isMusic) .TableOfContents }}
+    <aside class="page-toc">
+      <p>En esta página</p>
+      {{ .TableOfContents }}
+    </aside>
+    {{ end }}
+    <div class="prose{{ if $isMusic }} lyrics{{ end }}">
+      {{ .Content }}
+      {{ if $isMusic }}
+        {{ with .Params.audio }}<audio class="featured-audio" controls preload="metadata" src="{{ . | relURL }}">Tu navegador no puede reproducir este audio.</audio>{{ end }}
+        {{ if not .Params.key }}<p class="content-note"><strong>Acordes:</strong> esta ficha está preparada para recibir el tono y los acordes cuando estén disponibles.</p>{{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{ with .Params.tags }}
+  <footer class="single-taxonomy shell narrow">
+    <p>Relacionado con</p>
+    <div class="tag-row">{{ range . }}<a href="{{ printf "tags/%s/" (. | urlize) | relURL }}">{{ . }}</a>{{ end }}</div>
+  </footer>
+  {{ end }}
+</article>
+{{ end }}
+

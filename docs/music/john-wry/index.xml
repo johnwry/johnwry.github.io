@@ -1,40 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>John Wry on BJWry</title>
-    <link>http://localhost:1313/music/john-wry/</link>
-    <description>Recent content in John Wry on BJWry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
-    <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/john-wry/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/music/john-wry/whatever-happened-to-love/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/john-wry/whatever-happened-to-love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fuerza Para Vencer</title>
-      <link>http://localhost:1313/music/john-wry/fuerza-para-vencer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/john-wry/fuerza-para-vencer/</guid>
-      <description>Fuerza Para Vencer# No tengo mucho que ofrecer# Para hacer tus problema desaparecer# No tengo una formula secreta# Para hacer la vida una via de rosas.# *Pero yo, yo si se# Donde encontrarás la fuerza# Para vencer,# Confiando plenamente# En Cristo Jesus.*# No puedo un manual escribir# Con reglas que tu debas seguir# Ni libros para estudiar# Detras del conocimiento ocultar# NO tengo pies para escalar# Hasta la cima de la sociedad# Tampoco metodos elaborados# Para las riquezas alcanzar# Descargar</description>
-    </item>
-    
-    <item>
-      <title>Pasare los Días</title>
-      <link>http://localhost:1313/music/john-wry/pasare-los-dias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/john-wry/pasare-los-dias/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>John Wry on John Wry — Estudios y música</title>
+		<link>http://localhost:1313/music/john-wry/</link>
+		<description>Recent content in John Wry on John Wry — Estudios y música</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/music/john-wry/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/aunque-invisible-se-hace-ver/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/aunque-invisible-se-hace-ver/</guid>
+				<description>&lt;p&gt;(Estrofa 1)&#xA;Dios invisible, eterno Rey,&#xA;su gloria el mundo puede ver.&#xA;Los cielos gritan su poder,&#xA;su voz resuena en todo ser.&#xA;El sol, la luna y el ancho mar,&#xA;proclaman quién nos quiso amar.&#xA;No hay lengua que pueda negar,&#xA;que Dios se deja revelar.&#xA;ai ai ai ai&#xA;ai ai ai ai&lt;/p&gt;&#xA;&lt;p&gt;(Coro)&#xA;Aunque invisible, se hace ver,&#xA;Su gloria brilla en todo ser.&#xA;El cielo habla, lo muestra así,&#xA;Dios se revela, conocido quiere ser.&#xA;Aunque invisible, se hace ver,&#xA;Su gloria brilla en todo ser.&#xA;El cielo habla, lo muestra así,&#xA;Dios se revela, mira puedes ver.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/hoy-se-la-verdad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/hoy-se-la-verdad/</guid>
+				<description>&lt;p&gt;Estrofa 1&#xA;Antes cantaba buscando emoción,&#xA;una chispa interna, alguna señal.&#xA;Decía palabras llenas de intención,&#xA;pero en el fondo no sabía si eran real.&lt;/p&gt;&#xA;&lt;p&gt;Estrofa 2&#xA;Vivía queriendo aprender a sentir,&#xA;lo que decían que no podía existir.&#xA;Una verdad negada, un deseo escondido,&#xA;una esperanza ahogada en lo que había oído.&lt;/p&gt;&#xA;&lt;p&gt;Coro&#xA;Hoy sé la verdad,&#xA;la realidad.&#xA;Lo que quise sentir&#xA;había sido verdad.&#xA;Realmente me amas&#xA;sin condicionar,&#xA;sin pedir algo a cambio,&#xA;revelaste tu amor.&#xA;Te diste por mí,&#xA;nada ni nadie&#xA;de Ti me separará.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/music/john-wry/whatever-happened-to-love/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/whatever-happened-to-love/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>¡Feliz!</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/feliz/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/feliz/</guid>
+				<description>&lt;p&gt;Estrofa 1&#xA;No fue por llegar primero,&#xA;ni por hacerlo bien.&#xA;No fue por cuentas claras&#xA;ni por méritos de ayer.&#xA;Cuando solté la balanza&#xA;y&amp;hellip; y dejé de luchar,&#xA;algo en mí descansó&#xA;sin tener que ganar.&lt;/p&gt;&#xA;&lt;p&gt;Estrofa 2&#xA;Hay errores que no pesan,&#xA;números que no cuentan.&#xA;Fallas que no se anotan&#xA;aunque grite la conciencia.&#xA;No fue negarlo todo,&#xA;pude mis brazos bajar,&#xA;cuando el perdón me encontró&#xA;sin tener que explicar.&#xA;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Corazón engañoso</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/coraz%C3%B3n-enga%C3%B1oso/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/coraz%C3%B3n-enga%C3%B1oso/</guid>
+				<description>&lt;p&gt;Verso 1&lt;/p&gt;&#xA;&lt;p&gt;Conozco verdad, pero caigo&lt;/p&gt;&#xA;&lt;p&gt;Aprendo más, no amo igual&lt;/p&gt;&#xA;&lt;p&gt;Misericordia no fluye al hermano&lt;/p&gt;&#xA;&lt;p&gt;Mi juicio nubla la verdad hoy&lt;/p&gt;&#xA;&lt;p&gt;Verso 2&lt;/p&gt;&#xA;&lt;p&gt;Creo ver bien, pero veo mal&lt;/p&gt;&#xA;&lt;p&gt;Mi forma hiere al caminar&lt;/p&gt;&#xA;&lt;p&gt;Mi yo se pone en el lugar&lt;/p&gt;&#xA;&lt;p&gt;Que tu amor logra llenar bien&lt;/p&gt;&#xA;&lt;p&gt;Coro&lt;/p&gt;&#xA;&lt;p&gt;Cristo obra dentro de mí hoy&lt;/p&gt;&#xA;&lt;p&gt;Rompe el lente de mi corazón&lt;/p&gt;&#xA;&lt;p&gt;Dame tu amor para vivir&lt;/p&gt;&#xA;&lt;p&gt;Camino en ti, no en&lt;/p&gt;&#xA;&lt;p&gt;no engañado en que&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cristo Nuestra Esperanza</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cristo-esperanza-nuestra/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cristo-esperanza-nuestra/</guid>
+				<description>&lt;p&gt;(intro)&#xA;(Estrofa 1)&#xA;Hay tanto que no sabemos,&#xA;mas brilla la verdad:&#xA;lo que viene es más hermoso,&#xA;vida sin final.&#xA;vida sin final&lt;/p&gt;&#xA;&lt;p&gt;(Coro)&#xA;Cristo esperanza nuestra&#xA;fuerza para andar.&#xA;No dudamos, Él lo cumplirá,&#xA;todo nuevo hará.&#xA;Nos anima al recordar:&#xA;lo mejor vendrá,&#xA;nuestra vida en Él está,&#xA;¡Cristo volverá!&lt;/p&gt;&#xA;&lt;p&gt;(Estrofa 2)&#xA;Veremos con nuestros ojos&#xA;gloria y claridad,&#xA;donde todo es nuevo y puro,&#xA;no habrá más llorar.&#xA;no más llorar.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cristo sabiduria de Dios</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cristo-sabiduria-de-dios/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cristo-sabiduria-de-dios/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Verso 1:&lt;/strong&gt;&lt;br&gt;&#xA;El mundo mira y se burla, no puede entender,&lt;br&gt;&#xA;Un Dios en una cruz, ¿cómo puede ser?&lt;br&gt;&#xA;En su sabiduría divina, Él vino a redimir,&lt;br&gt;&#xA;Pero el hombre no lo ve, no lo sabe percibir.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estribillo:&lt;/strong&gt;&lt;br&gt;&#xA;Cristo es sabiduría de Dios, provista para mí,&lt;br&gt;&#xA;La cruz que parece locura, es la vida en mí.&lt;br&gt;&#xA;El mundo lo rechaza, no sabe lo que perdió,&lt;br&gt;&#xA;Pero Él ya lo hizo todo, por su amor me salvó.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>cuantas veces he deseado</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cuantas-veces/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/cuantas-veces/</guid>
+				<description>&lt;p&gt;Estrofa 1&#xA;Cuántas veces he querido…&#xA;ganar tu amor por mi valor&#xA;pero mis fuerzas han caído&#xA;y no alcanzaba tu favor&lt;/p&gt;&#xA;&lt;p&gt;Estrofa 2&#xA;Busqué ser justo por mi mano&#xA;queriendo hallar tu aprobación&#xA;pero el peso fue demasiado&#xA;a causa de sincera intención&lt;/p&gt;&#xA;&lt;p&gt;Coro&#xA;Cristo murió por mis pecados (mis pecados)&#xA;fue sepultado y resucitó&#xA;por eso tengo descanso hoy (descanso hoy)&#xA;por eso sé que salvo soy&#xA;por eso se que salvo soy&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Desde lo Profundo (Salmo 130)</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/desde-lo-profundo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/desde-lo-profundo/</guid>
+				<description>&lt;p&gt;(Estrofa 1)&#xA;De lo profundo clamo a Ti,&#xA;oh Señor, oye mi gemir.&#xA;Esta atento, oh mi Dios,&#xA;Al clamor de mi voz.&#xA;escucha Dios mi voz.&lt;/p&gt;&#xA;&lt;p&gt;(Coro)&#xA;Si Tu contases los errores,&#xA;¿quién permanecería, oh Señor?&#xA;Mas hay perdón en Ti, mi Dios,&#xA;para temerte y darte honor.&#xA;Si Tu contases mis errores,&#xA;no resistiría, oh Señor.&#xA;Mas hallé perdón en Ti, mi Dios,&#xA;para temerte y darte honor.&#xA;quiero darte loor.&#xA;darte loor.&#xA;oooooh&#xA;oooooh&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>El Dios Invisible se Hace Ver</title>
+				<link>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/el-dios-invisible-se-hace-ver/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/john-wry/la-gracia-hace-cantar/el-dios-invisible-se-hace-ver/</guid>
+				<description>&lt;p&gt;(Estrofa 1)&lt;/p&gt;&#xA;&lt;p&gt;Dios invisible, eterno Rey,&lt;/p&gt;&#xA;&lt;p&gt;su gloria el mundo puede ver.&lt;/p&gt;&#xA;&lt;p&gt;Los cielos gritan su poder,&lt;/p&gt;&#xA;&lt;p&gt;su voz resuena en todo ser.&lt;/p&gt;&#xA;&lt;p&gt;El sol, la luna y el ancho mar,&lt;/p&gt;&#xA;&lt;p&gt;proclaman quién nos quiso amar.&lt;/p&gt;&#xA;&lt;p&gt;No hay lengua que pueda negar,&lt;/p&gt;&#xA;&lt;p&gt;que Dios se deja revelar.&lt;/p&gt;&#xA;&lt;p&gt;ai ai ai ai&lt;/p&gt;&#xA;&lt;p&gt;ai ai ai ai&lt;/p&gt;&#xA;&lt;p&gt;(Estrofa 2)&lt;/p&gt;&#xA;&lt;p&gt;Dios quiso ser conocido aquí,&lt;/p&gt;&#xA;&lt;p&gt;mostrar su rostro para ti.&lt;/p&gt;&#xA;&lt;p&gt;Mas el mortal cambió su honor,&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

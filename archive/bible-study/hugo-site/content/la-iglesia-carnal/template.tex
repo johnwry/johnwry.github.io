@@ -1,0 +1,260 @@
+\documentclass[12pt,oneside]{book}
+
+% --------------------------------
+% Page layout
+% --------------------------------
+\usepackage[
+paperwidth=5.5in,
+paperheight=8.5in,
+top=0.75in,
+bottom=0.75in,
+outer=0.5in,
+inner=0.85in
+]{geometry}
+
+% --------------------------------
+% Font
+% --------------------------------
+\usepackage{fontspec}
+\setmainfont{Crimson Pro}
+
+% --------------------------------
+% Line spacing
+% --------------------------------
+\usepackage{setspace}
+\setstretch{1.35}
+
+% --------------------------------
+% Microtypography
+% --------------------------------
+\usepackage{microtype}
+
+% --------------------------------
+% Images
+% --------------------------------
+\usepackage{graphicx}
+\providecommand{\pandocbounded}[1]{#1}
+% ----------------------------
+% Images (Pandoc)
+% ----------------------------
+
+% Size of chapter sketches
+\newcommand{\chapterillustration}{
+\IfFileExists{images/ch\thechapter.png}{
+\includegraphics[width=0.66\textwidth]{images/ch\thechapter.png}
+
+\vspace{1em}
+}{}
+}
+
+% Make images behave like inline content (no floating)
+\usepackage{float}
+\floatplacement{figure}{H}
+
+% Fix Pandoc bounded images
+% --------------------------------
+% Headers
+% --------------------------------
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[L]{\small THE CARNAL CHURCH}
+\fancyhead[R]{\small John Wry}
+
+\fancyfoot[C]{\thepage}
+
+% --------------------------------
+% Paragraph style
+% --------------------------------
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6em}
+
+% --------------------------------
+% Remove numbering
+% --------------------------------
+\setcounter{secnumdepth}{0}
+\usepackage{pgfornament}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric}
+\newcommand{\chapterornament}{
+\begin{center}
+\pgfornament[width=3cm]{88}
+\end{center}
+}
+% --------------------------------
+% Chapter style
+% --------------------------------
+\newcommand{\chapterart}{
+\IfFileExists{images/ch\thechapter.png}{
+\begin{center}
+\includegraphics[width=0.88\textwidth]{images/ch\thechapter.png}
+\end{center}
+\vspace{1em}
+}{
+\chapterornament
+\vspace{1em}
+}
+}
+
+
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{
+\vspace*{3cm}
+
+\begin{center}
+
+{\Large\scshape Chapter \thechapter}
+
+\vspace{1em}
+
+{\Huge\bfseries #1}
+
+\vspace{1.2em}
+
+\chapterart
+
+\vspace{.5cm}
+
+\end{center}
+
+\vspace{0.2cm}
+}
+\makeatother
+
+
+
+% --------------------------------
+% Begin document
+% --------------------------------
+\begin{document}
+
+% --------------------------------
+% Cover
+% --------------------------------
+
+\begin{titlepage}
+\thispagestyle{empty}
+
+\newgeometry{margin=0pt}
+
+\noindent\includegraphics[
+width=\paperwidth,
+height=\paperheight
+]{cover.png}
+
+\restoregeometry
+\end{titlepage}
+
+% --------------------------------
+% Title Page
+% --------------------------------
+\thispagestyle{empty}
+
+\vspace*{3cm}
+
+\begin{center}
+
+{\Huge\bfseries The Carnal Church}
+
+\vspace{1cm}
+
+{\Large A Biblical Investigation of the flesh and the cross}
+
+\vfill
+
+{\Large John Wry}
+
+\end{center}
+
+\clearpage
+
+% --------------------------------
+% Copyright Page
+% --------------------------------
+\thispagestyle{empty}
+
+\vspace*{4cm}
+
+\begin{center}
+First edition\\
+Copyright © 2026 John Wry
+
+\vspace{1em}
+
+The Bible quotations are taken from the
+New American Standard Bible (NASB).
+
+\vspace{1em}
+
+This book may be freely shared in digital format,
+provided it is not altered.
+
+\end{center}
+
+\clearpage
+
+% --------------------------------
+% Dedication
+% --------------------------------
+\thispagestyle{empty}
+
+\vspace*{4cm}
+
+\begin{center}
+
+Dedicated to my wife Nelly,\\
+who has always been by my side.\\
+
+\&\\
+
+For those students \\
+who stood firm in the gospel\\
+no matter the cost.
+\end{center}
+
+\clearpage
+
+% --------------------------------
+% Table of Contents
+% --------------------------------
+\renewcommand{\contentsname}{Content}
+\tableofcontents
+
+\clearpage
+
+% --------------------------------
+% Body
+% --------------------------------
+$body$
+
+% --------------------------------
+% Final Page
+% --------------------------------
+\clearpage
+\thispagestyle{empty}
+
+\vspace*{4cm}
+
+\begin{center}
+
+Thanks for reading.
+
+\vspace{1cm}
+
+If this book helped you, 
+share it with someone who is dealing with the same questions.\\
+
+\vspace{1cm}
+
+{\footnotesize
+Some parts of this manuscript were developed 
+with the help of AI-based language tools used 
+for writing, editing, and translation. 
+All ideas, arguments, and conclusions belong to the author.
+}
+
+\end{center}
+
+\end{document}

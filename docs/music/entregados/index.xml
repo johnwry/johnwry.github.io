@@ -1,121 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Entregados on BJWry</title>
-    <link>http://localhost:1313/music/entregados/</link>
-    <description>Recent content in Entregados on BJWry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <managingEditor>johnwry@gmail.com (BJWry)</managingEditor>
-    <webMaster>johnwry@gmail.com (BJWry)</webMaster>
-    <copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright><atom:link href="http://localhost:1313/music/entregados/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cada Paso que yo Doy</title>
-      <link>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</guid>
-      <description>Cada Paso que yo doy# Jehova es mi pastor
-Nada me faltara
-En lugares delicados
-Me pastoreara
-Junto a aguas de reposo
-Confortara me alma
-Me guiara por sendas de justicia
-a su nombre por amor
-Mi alma reposara
-​	//Cada paso que yo doy
-​	Es un paso mas cerca//
-​	A mi Señor
-Aunque en valle de sombra
-Algun dia me encuentre
-y me aseche la muerte
-no temere</description>
-    </item>
-    
-    <item>
-      <title>Camino al Cielo</title>
-      <link>http://localhost:1313/music/entregados/camino-al-cielo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/entregados/camino-al-cielo/</guid>
-      <description>Camino al cielo# Llega pronto un nuevo amanecer
-Cosa bella no podras creer
-Y seremos llevados
-Vendra el a rescatarnos
-Pronto sera, ya llegara el Señor
-​	Camino al cielo voy
-​	Hogar celestial
-​	No habra mas pena ni dolor en ese lugar
-​	Y yo tenga la esperanza que muy pronto volvera
-​	para llevarnos a ese lugar
-Se que alla las penas no habran
-Ni dolores que agobiaran</description>
-    </item>
-    
-    <item>
-      <title>Habacuc 3:17-19</title>
-      <link>http://localhost:1313/music/entregados/habacuc_3.17-19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/entregados/habacuc_3.17-19/</guid>
-      <description>Aunque la higuera no heche brotes
-Aunque la higuera no eche brotes,
-Y Ni haya fruto en las viñas;
-Y Aunque falte el producto del olivo,
-Y los campos no produzcan su alimento;
-[Coro]
-//Con todo yo me alegraré en el SEÑOR,
-Con todo yo me gozare en el Señor//
-Me regocijaré en el Dios de mi salvación.
-Es mi fortaleza;
-mis pies como de ciervas,
-Las alturas me ha hecho caminar, seguro</description>
-    </item>
-    
-    <item>
-      <title>Lentamente</title>
-      <link>http://localhost:1313/music/entregados/lentamente/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/entregados/lentamente/</guid>
-      <description>Lentamente# Aveces cuando veo pasar
-La vida de repente
-Pienso el tren me dejara
-Y tengo ideas grandiosas
-Logros sin contar
-Solo necesito la manera de empezar
-Todo pasa tan violento
-Mi vida silenciosamente
-Todo pasa como el viento
-Y yo aqui, lentamente</description>
-    </item>
-    
-    <item>
-      <title>Yo Vi La Luz</title>
-      <link>http://localhost:1313/music/entregados/yo-vi-la-luz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>johnwry@gmail.com (BJWry)</author>
-      <guid>http://localhost:1313/music/entregados/yo-vi-la-luz/</guid>
-      <description>Vagaba por el mundo
-Andaba en el error
-No dejaria que el Salvador entrara
-Entonces Jesus vino a mi corazón
-Aleluya, ¡Yo vi la Luz!
-(Coro)
-¡Yo vi la Luz!
-Yo Vi la luz
-no mas tinieblas
-no mas noche
-Estoy tan feliz
-Tristeza no habrá
-Aleluya, yo vi la luz
-Igual que el hombre ciego
-Andaba por ahi
-Preocupaciones y temores me cargaban
-Entonces como al ciego,
-El me hizo ver</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Entregados on John Wry — Estudios y música</title>
+		<link>http://localhost:1313/music/entregados/</link>
+		<description>Recent content in Entregados on John Wry — Estudios y música</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/music/entregados/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cada Paso que yo Doy</title>
+				<link>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/entregados/cada-paso-que-yo-doy/</guid>
+				<description>&lt;h1 id=&#34;cada-paso-que-yo-doy&#34;&gt;Cada Paso que yo doy&lt;/h1&gt;&#xA;&lt;p&gt;Jehova es mi pastor&lt;/p&gt;&#xA;&lt;p&gt;Nada me faltara&lt;/p&gt;&#xA;&lt;p&gt;En lugares delicados&lt;/p&gt;&#xA;&lt;p&gt;Me pastoreara&lt;/p&gt;&#xA;&lt;p&gt;Junto a aguas de reposo&lt;/p&gt;&#xA;&lt;p&gt;Confortara me alma&lt;/p&gt;&#xA;&lt;p&gt;Me guiara por sendas de justicia&lt;/p&gt;&#xA;&lt;p&gt;a su nombre por amor&lt;/p&gt;&#xA;&lt;p&gt;Mi alma reposara&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;//Cada paso que yo doy&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;Es un paso mas cerca//&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;A mi Señor&lt;/p&gt;&#xA;&lt;p&gt;Aunque en valle de sombra&lt;/p&gt;&#xA;&lt;p&gt;Algun dia me encuentre&lt;/p&gt;&#xA;&lt;p&gt;y me aseche la muerte&lt;/p&gt;&#xA;&lt;p&gt;no temere&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Camino al Cielo</title>
+				<link>http://localhost:1313/music/entregados/camino-al-cielo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/entregados/camino-al-cielo/</guid>
+				<description>&lt;h1 id=&#34;camino-al-cielo&#34;&gt;Camino al cielo&lt;/h1&gt;&#xA;&lt;p&gt;Llega pronto un nuevo amanecer&lt;/p&gt;&#xA;&lt;p&gt;Cosa bella no podras creer&lt;/p&gt;&#xA;&lt;p&gt;Y seremos llevados&lt;/p&gt;&#xA;&lt;p&gt;Vendra el a rescatarnos&lt;/p&gt;&#xA;&lt;p&gt;Pronto sera, ya llegara el Señor&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;&#x9;Camino al cielo voy&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;&#x9;Hogar celestial&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;&#x9;No habra mas pena ni dolor en ese lugar&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;&#x9;Y yo tenga la esperanza que muy pronto volvera&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;&#x9;&#x9;para llevarnos a ese lugar&lt;/p&gt;&#xA;&lt;p&gt;Se que alla las penas no habran&lt;/p&gt;&#xA;&lt;p&gt;Ni dolores que agobiaran&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Habacuc 3:17-19</title>
+				<link>http://localhost:1313/music/entregados/habacuc_3.17-19/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/entregados/habacuc_3.17-19/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Aunque la higuera no heche brotes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Aunque la higuera no eche brotes,&lt;/p&gt;&#xA;&lt;p&gt;Y Ni haya fruto en las viñas;&lt;/p&gt;&#xA;&lt;p&gt;Y &lt;em&gt;Aunque&lt;/em&gt; falte el producto del olivo,&lt;/p&gt;&#xA;&lt;p&gt;Y los campos no produzcan su alimento;&lt;/p&gt;&#xA;&lt;p&gt;[Coro]&lt;/p&gt;&#xA;&lt;p&gt;//Con todo yo me alegraré en el SEÑOR,&lt;/p&gt;&#xA;&lt;p&gt;Con todo yo me gozare en el Señor//&lt;/p&gt;&#xA;&lt;p&gt;Me regocijaré en el Dios de mi salvación.&lt;/p&gt;&#xA;&lt;p&gt;E&lt;em&gt;s mi fortaleza;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;mis pies como de ciervas,&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Las alturas me ha hecho caminar, seguro&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lentamente</title>
+				<link>http://localhost:1313/music/entregados/lentamente/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/entregados/lentamente/</guid>
+				<description>&lt;h1 id=&#34;lentamente&#34;&gt;Lentamente&lt;/h1&gt;&#xA;&lt;p&gt;Aveces cuando veo pasar&lt;/p&gt;&#xA;&lt;p&gt;La vida de repente&lt;/p&gt;&#xA;&lt;p&gt;Pienso el tren me dejara&lt;/p&gt;&#xA;&lt;p&gt;Y tengo ideas grandiosas&lt;/p&gt;&#xA;&lt;p&gt;Logros sin contar&lt;/p&gt;&#xA;&lt;p&gt;Solo necesito la manera de empezar&lt;/p&gt;&#xA;&lt;p&gt;Todo pasa tan violento&lt;/p&gt;&#xA;&lt;p&gt;Mi vida silenciosamente&lt;/p&gt;&#xA;&lt;p&gt;Todo pasa como el viento&lt;/p&gt;&#xA;&lt;p&gt;Y yo aqui, lentamente&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Yo Vi La Luz</title>
+				<link>http://localhost:1313/music/entregados/yo-vi-la-luz/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/entregados/yo-vi-la-luz/</guid>
+				<description>&lt;p&gt;Vagaba por el mundo&lt;/p&gt;&#xA;&lt;p&gt;Andaba en el error&lt;/p&gt;&#xA;&lt;p&gt;No dejaria que el Salvador entrara&lt;/p&gt;&#xA;&lt;p&gt;Entonces Jesus vino a mi corazón&lt;/p&gt;&#xA;&lt;p&gt;Aleluya, ¡Yo vi la Luz!&lt;/p&gt;&#xA;&lt;p&gt;(Coro)&lt;/p&gt;&#xA;&lt;p&gt;¡Yo vi la Luz!&lt;/p&gt;&#xA;&lt;p&gt;Yo Vi la luz&lt;/p&gt;&#xA;&lt;p&gt;no mas tinieblas&lt;/p&gt;&#xA;&lt;p&gt;no mas noche&lt;/p&gt;&#xA;&lt;p&gt;Estoy tan feliz&lt;/p&gt;&#xA;&lt;p&gt;Tristeza no habrá&lt;/p&gt;&#xA;&lt;p&gt;Aleluya, yo vi la luz&lt;/p&gt;&#xA;&lt;p&gt;Igual que el hombre ciego&lt;/p&gt;&#xA;&lt;p&gt;Andaba por ahi&lt;/p&gt;&#xA;&lt;p&gt;Preocupaciones y temores me cargaban&lt;/p&gt;&#xA;&lt;p&gt;Entonces como al ciego,&lt;/p&gt;&#xA;&lt;p&gt;El me hizo ver&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

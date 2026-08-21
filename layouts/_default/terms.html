@@ -1,0 +1,7 @@
+{{ define "main" }}
+<header class="simple-hero shell narrow"><p class="eyebrow">Índice temático</p><h1>{{ .Title }}</h1><p>Explora el archivo por tema y encuentra relaciones entre estudios, canciones y libros.</p></header>
+<div class="term-cloud shell narrow">
+  {{ range .Data.Terms.Alphabetical }}<a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span><strong>{{ .Count }}</strong></a>{{ end }}
+</div>
+{{ end }}
+

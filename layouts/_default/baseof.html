@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang | default "es" }}" data-theme="light">
+  <head>
+    {{ partial "site/head.html" . }}
+  </head>
+  {{ $section := .Section | default "home" }}
+  <body class="section-{{ $section }}{{ if .IsHome }} is-home{{ end }}">
+    <a class="skip-link" href="#main-content">Saltar al contenido</a>
+    {{ partial "site/header.html" . }}
+    <main id="main-content">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "site/footer.html" . }}
+    {{ $js := resources.Get "js/site.js" | minify | fingerprint }}
+    <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+    {{ if eq .Section "search" }}
+      {{ $search := resources.Get "js/search.js" | minify | fingerprint }}
+      <script src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}" defer></script>
+    {{ end }}
+  </body>
+</html>

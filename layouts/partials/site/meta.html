@@ -1,0 +1,7 @@
+<div class="content-meta">
+  {{ with .Date }}{{ if not .IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ . | time.Format ":date_long" }}</time>{{ end }}{{ end }}
+  {{ with .Params.book }}<span>{{ . }}</span>{{ end }}
+  {{ with .Params.passage }}<span>{{ . }}</span>{{ end }}
+  {{ with .ReadingTime }}<span>{{ . }} min de lectura</span>{{ end }}
+</div>
+

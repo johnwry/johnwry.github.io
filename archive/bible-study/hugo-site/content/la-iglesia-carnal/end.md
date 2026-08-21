@@ -1,0 +1,1 @@
+So why do we keep trying to manage what God has already judged?

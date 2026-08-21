@@ -1,0 +1,22 @@
+{{ $audio := union (.Resources.ByType "audio") (.Resources.Match "**.{mp3,m4a,wav,mpeg,aif}") }}
+{{ if $audio }}
+<section class="audio-library" aria-labelledby="recordings-title">
+  <div class="section-heading">
+    <p class="eyebrow">Grabaciones</p>
+    <h2 id="recordings-title">Escuchar</h2>
+  </div>
+  <div class="track-list">
+    {{ range $index, $track := $audio }}
+      <article class="track">
+        <span class="track-number">{{ printf "%02d" (add $index 1) }}</span>
+        <div class="track-info">
+          <h3>{{ $track.Title | default (path.BaseName $track.Name) | humanize }}</h3>
+          <audio controls preload="metadata" src="{{ $track.RelPermalink }}">Tu navegador no puede reproducir este audio.</audio>
+        </div>
+        <a class="download-link" href="{{ $track.RelPermalink }}" download aria-label="Descargar {{ $track.Title | default $track.Name }}">↓</a>
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+

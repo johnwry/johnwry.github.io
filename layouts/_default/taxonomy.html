@@ -1,0 +1,5 @@
+{{ define "main" }}
+<header class="simple-hero shell narrow"><p class="eyebrow">{{ .Data.Singular | humanize }}</p><h1>{{ .Title }}</h1><p>{{ len .Pages }} resultados en esta colección.</p></header>
+<div class="card-grid shell narrow taxonomy-grid">{{ range .Pages.ByTitle }}{{ partial "site/card.html" . }}{{ end }}</div>
+{{ end }}
+
