@@ -73,6 +73,8 @@ El orden de las palabras es otro. Corregido en todas partes.
 
 **2:15** No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.
 
+**2:22** ¿Quién es el mentiroso, sino el que niega que Jesús es el Cristo? Este es anticristo, el que niega al Padre y al Hijo.
+
 **2:19** Salieron de nosotros, pero no eran de nosotros; porque si hubiesen sido de nosotros, habrían permanecido con nosotros; pero salieron para que se manifestase que no todos son de nosotros.
 
 ### Capítulo 3
@@ -241,3 +243,11 @@ El orden de las palabras es otro. Corregido en todas partes.
 
 - **NBLA de 1 Juan 3:6, 9, 14, 15, 17, 18.** La fuente se negó por derechos de autor. Pégalos tú.
 - Todo lo que no esté en este archivo.
+
+---
+
+## Cotejo de 2:22, 3:6 y 3:9
+
+Los tres se agregaron desde `references/1-juan.md` y después **se cotejaron contra BibleGateway, RVR1960, el 26 de agosto de 2026**. Los tres coinciden palabra por palabra con lo que estaba escrito aquí. La Nota se apoya en 2:22 y el Apéndice en 3:6 y 3:9.
+
+✅ **Nada queda sin verificar en este archivo.**

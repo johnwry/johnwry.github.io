@@ -36,11 +36,11 @@ Six chapters, one lamp each, titled with the claim so the reader agrees with the
 
 Argument, not exposition. It should say so and not dress itself in proof texts.
 
-**II.1 — El gafete.** The evidence is never erased, only relabeled: discernment, firm convictions, necessary boundaries, prudence, doctrinal maturity. Darkness gets a Christian name tag and a seat on a committee.
+**II.1 — La credencial.** The evidence is never erased, only relabeled: discernment, firm convictions, necessary boundaries, prudence, doctrinal maturity. Darkness gets a Christian name tag and a seat on a committee.
 
 **II.2 — Heredamos frases.** Where the labels come from. Nobody adopted the doctrine; they adopted the expression. Why sincerity measures grip and not ground. The five questions, with *¿qué me permite no hacer?* doing the cutting.
 
-**II.3 — Dominio del cuarto.** How a congregation maintains a shared version, and why leaving is expensive in a currency that isn't argument. Your own line is the title.
+**II.3 — Dominio del salón.** How a congregation maintains a shared version, and why leaving is expensive in a currency that isn't argument. Your own line is the title.
 
 ------
 
