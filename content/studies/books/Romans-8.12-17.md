@@ -2,638 +2,612 @@
 title: Romans 8:12-17
 ---
 
+# Romans 8:12–17 — Two ways of life, two results
 
-# Romans 8:12–17 — Children of God and Heirs with Christ
+12 Therefore, brethren, we are debtors—not to the flesh, to live according to the flesh. 13 For if you live according to the flesh you will die; but if by the Spirit you put to death the deeds of the body, you will live. 14 For as many as are led by the Spirit of God, these are sons of God. 15 For you did not receive the spirit of bondage again to fear, but you received the Spirit of adoption by whom we cry out, “Abba, Father.” 16 The Spirit Himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with *Him,* that we may also be glorified together. -NKJV
 
 ## Reading the passage phrase by phrase
 
-  Romans 8:12 begins with **οὖν** (“therefore”), connecting this section with the preceding statements in Romans 8:1–11.
+The preceding verses have established that there are two realms, two dominions. They are places or locations, realities (in the flesh and in the spirit). But after learning that the believer has been transferred or placed into Christ the moment they are justified, we also learned the contrast between **κατὰ σάρκα** (“according to flesh”) and **κατὰ πνεῦμα** (“according to Spirit”) - and these are conditions in which the believer walks according to.
 
-  The preceding verses have established the contrast between **κατὰ σάρκα** (“according to flesh”) and **κατὰ πνεῦμα** (“according to Spirit”), and have repeatedly spoken of the Spirit dwelling in believers.
+There are no grammatical imperatives in Romans 8:12–17. Paul states conditions, actions, identities, and consequences through indicative verbs, infinitives, participles, and conditional constructions.
 
-  There are no grammatical imperatives in Romans 8:12–17. Paul states conditions, actions, identities, and consequences through indicative verbs, infinitives, participles, and conditional constructions.
+Now in verse 12 he says:
 
-  # Romans 8:12
+# Romans 8:12
 
-  > **Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.**
+> **“Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.”**
 
-  ### “Therefore”
+### “Therefore”
 
-  **οὖν** — “therefore,” “so then.”
+Paul is connecting this statement with everything that has come before.
 
-  This conjunction connects verse 12 with what Paul has just said.
+The word is **οὖν (oun)** — “therefore,” “then,” or “so.”
 
-  Paul has spent 8:1–11 describing what God has done, the contrast between flesh and Spirit, and the presence of the Spirit in believers.
+“Therefore” gathers up what Paul has just established as a matter of unchangeable reality to those in Christ.
 
-  Now **οὖν** draws a conclusion from what precedes.
+- Those who are in Christ Jesus are not under condemnation.
+- They have been set free from the law of sin and death.
+- God has acted through His Son, and the Spirit of God dwells in them.
+- Paul has contrasted the flesh, which leads to death, with the Spirit, which is life and peace.
 
-  ### “brethren”
+And there is an especially strong connection between **8:9–11 and 8:12–13**:
 
-  **ἀδελφοί** — “brothers.”
+- **8:9:** “ye are not in the flesh, but in the Spirit”
+- **8:10:** “the Spirit is life”
+- **8:11:** “his Spirit that dwelleth in you”
 
-  Paul addresses the people to whom he is writing before making the statement:
+Paul is not beginning a disconnected subject. He is drawing out what follows from what he has already said.
 
-  > **ὀφειλέται ἐσμέν**
-  > “we are debtors.”
+### “brethren”
 
-  The first-person plural continues through the passage.
+> **“Therefore, brethren…”**
 
-  ### “we are debtors”
+Paul addresses them as brothers and sisters within the family of believers.
 
-  **ὀφειλέται ἐσμέν**
+### “we are debtors”
 
-  - **ὀφειλέται** — “debtors,” “those who owe”
-  - **ἐσμέν** — present indicative, “we are”
+> **“…we are debtors…”**
 
-  The statement is present:
+The Greek is **ὀφειλέται ἐσμέν**.
 
-  > **we are debtors**
+**ἐσμέν** is present tense: “we are.”
 
-  Paul does not immediately state a positive object of the debt. Instead, he first states what they are **not** indebted to.
+Paul says **“we.”** He includes himself with those he is addressing.
 
-Paul does not say "we were", but "we are" debtors. It could be understood as under obligation.  Romans 15:27; Galatians 5:3
+But then he immediately tells us what we are **not** debtors to.
 
-  ### “not to the flesh”
+### “not to the flesh”
 
-  **οὐ τῇ σαρκί**
+> **“…not to the flesh…”**
 
-  - **οὐ** — “not”
-  - **τῇ σαρκί** — “to the flesh”
+There is no obligation to the flesh that requires us to live according to it.
 
-  The dative **τῇ σαρκί** identifies the one to whom the debt is not owed.
+That leads directly to the next phrase.
 
-  Paul's wording is deliberately negative:
+### “to live after the flesh”
 
-  > **ὀφειλέται ἐσμέν**
-  > “we are debtors”
+> **“…to live after the flesh.”**
 
-  > **οὐ τῇ σαρκί**
-  > “not to the flesh”
+The Greek construction is **τοῦ κατὰ σάρκα ζῆν**.
 
-  He does not state here, “we are debtors to the Spirit.”
+Paul has already used this language repeatedly in Romans 8. In verse 5 he described those who are **“after the flesh”** as minding the things of the flesh, while those who are **“after the Spirit”** mind the things of the Spirit.
 
-  He specifically states that the flesh is not the object of their debt.
+So verse 12 brings us back to that contrast.
 
-  ### “to live after the flesh”
+**We are not debtors to the flesh to live according to the flesh.**
 
-  **τοῦ κατὰ σάρκα ζῆν**
+Verse 13 now explains why not live according to the flesh.
 
-  - **τοῦ ... ζῆν** — articular infinitive
-  - **κατὰ σάρκα** — “according to the flesh”
-  - **ζῆν** — “to live”
+# Romans 8:13
 
-  The infinitive describes the activity associated with the flesh:
+> **“For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.”**
 
-  > **κατὰ σάρκα ζῆν**
-  > “to live according to the flesh.”
+### “For”
 
-  So the complete thought is:
+Paul says **“For”** because verse 13 explains verse 12.
 
-  > **We are debtors — not to the flesh — to live according to the flesh.**
+Why are we not debtors to the flesh to live according to the flesh?
 
-  The phrase **κατὰ σάρκα** has already appeared repeatedly in Romans 8:4–5, so Paul is continuing the vocabulary and contrast established earlier in the chapter.
+Because there are two different ways of living, with two different results.
 
-  # Romans 8:13
+### “if ye live after the flesh”
 
-  > **For if ye live after the flesh, ye shall die:**
+> **“For if ye live after the flesh…”**
 
-  ### “For”
+Notice something important here.
 
-  **γάρ** — “for.”
+Verse 12 said **“we are.”** Verse 13 changes to **“you.”**
 
-  This explains the statement immediately preceding it.
+The verbs are second-person plural:
 
-  Verse 13 gives the reason Paul has said:
+- **ζῆτε** — you live
+- **μέλλετε** — you are going to
+- **θανατοῦτε** — you put to death
+- **ζήσεσθε** — you will live
 
-  > **not to the flesh, to live according to the flesh.**
+So Paul moves from **“we”** to directly addressing **“you.”**
 
-  Paul now states the consequence of living according to the flesh.
+English could express the general principle as “if one lives this way,” but **“you”** preserves what Paul actually says. He is applying the matter directly to those hearing the letter. Remember, he just said, therefore brethren.
 
-  ### “if ye live after the flesh”
+### “ye shall die”
 
-  **εἰ κατὰ σάρκα ζῆτε**
+> **“…ye shall die…”**
 
-  - **εἰ** — “if”
-  - **κατὰ σάρκα** — “according to the flesh”
-  - **ζῆτε** — present indicative, “you live”
+Paul's wording is **“you are going to die.”**
 
-  The present indicative presents the action as occurring:
+The future result is placed directly against the way a person is living.
 
-  > “if you live according to the flesh”
+### “but”
 
-  The phrase repeats the wording of verse 12:
+> **“…but if ye through the Spirit…”**
 
-  > **τοῦ κατὰ σάρκα ζῆν**
-  > “to live according to the flesh”
+Now Paul gives the other side of the contrast.
 
-  and
+### “do mortify the deeds of the body”
 
-  > **κατὰ σάρκα ζῆτε**
-  > “if you live according to the flesh.”
+> **“…do mortify the deeds of the body…”**
 
-  ### “ye shall die”
+“Mortify” means **put to death**.
 
-  **μέλλετε ἀποθνῄσκειν**
+It is present tense.
 
-  - **μέλλετε** — present indicative
-  - **ἀποθνῄσκειν** — infinitive, “to die”
+Paul is describing what is being done: **putting to death the deeds of the body.**
 
-  Literally:
+And notice that he does not simply say “put the body to death.” He says:
 
-  > “you are going to die.”
+> **“the deeds of the body.”**
 
-  The infinitive **ἀποθνῄσκειν** depends on **μέλλετε**.
+The focus is on what the body does — its deeds.
 
-  So Paul's first sequence is:
+And this is done **“through the Spirit.”**
 
-  > **κατὰ σάρκα ζῆτε**
-  > live according to the flesh
+Paul has already spent this chapter contrasting life according to the flesh with life according to the Spirit. Here he brings that contrast directly into the way a person lives.
 
-  > **μέλλετε ἀποθνῄσκειν**
-  > you are going to die
+### “ye shall live”
 
-  ### “but”
+> **“…ye shall live.”**
 
-  **εἰ δὲ**
+Again, Paul puts the result alongside the action.
 
-  **δέ** introduces the contrast.
+Verse 13 therefore gives us the contrast very plainly:
 
-  Paul now gives the second condition.
+> **Live according to the flesh → die.**
+> **Through the Spirit, put to death the deeds of the body → live.**
 
-  ### “if ye through the Spirit”
+This connects with what Paul said earlier in Romans.
 
-  **εἰ ... πνεύματι**
+In Romans 6:16, Paul explains that when we **present ourselves** to someone as servants, we become that one's servants, and the one we serve is the one we obey.
 
-  **πνεύματι** is dative.
+Romans 6:19 makes the comparison even clearer. Paul says that just as they had previously **presented their members as servants to uncleanness and iniquity**, so now they were to **present their members as servants to righteousness**.
 
-  It identifies the means:
+So the sequence is not that we present ourselves *in order to obey*. Rather, we present ourselves, that presentation places us in the service of one master, and our obedience follows from that relationship.
 
-  > “by the Spirit”
-  > or
-  > “through the Spirit.”
+Paul now continues that line of thought in Romans 8. The contrast is no longer described simply as sin and righteousness, but as **flesh and Spirit**.
 
-  The contrast is therefore:
+We are not debtors to the flesh to live according to the flesh. Instead, **through the Spirit we put to death the deeds of the body, and we live.**
 
-  > **κατὰ σάρκα** — according to the flesh
+Romans 8:12–13 is therefore continuing the same line of thought Paul developed in Romans 6: **what governs the way we live produces a corresponding result.**
 
-  versus
+# Romans 8:14
 
-  > **πνεύματι** — by/through the Spirit.
+> **“For as many as are led by the Spirit of God, they are the sons of God.”**
 
-  ### “do mortify”
+### “For”
 
-  **θανατοῦτε**
+Again, Paul is explaining what has just been said.
 
-  The verb is present indicative in this conditional construction.
+Verse 13 spoke about living according to the flesh or putting to death the deeds of the body through the Spirit.
 
-  The present form presents the action as ongoing:
+Verse 14 now says:
 
-  > “you are putting to death.”
+### “as many as are led by the Spirit of God”
 
-  This is important because **θανατοῦτε** has the same form as a present imperative, but the surrounding syntax shows that Paul is using it as the verb of the conditional clause:
+This is where Paul narrows his description.
 
-  > **εἰ ... θανατοῦτε**
-  > “if ... you are putting to death.”
+He does not simply say **“all believers are sons of God.”**
 
-  There is therefore no imperative here.
+He says:
 
-  ### “the deeds of the body”
+> **“as many as are led by the Spirit of God, these are sons of God.”**
 
-  **τὰς πράξεις τοῦ σώματος**
+The Greek structure is:
 
-  - **τὰς πράξεις** — “the deeds,” “the practices,” “the actions”
-  - **τοῦ σώματος** — “of the body”
+**ὅσοι — as many as**
+**ἄγονται — are led**
+**οὗτοι — these**
+**εἰσιν υἱοὶ θεοῦ — are sons of God**
 
-  Paul does not say:
+The two sides correspond.
 
-  > “put the body to death.”
+Paul identifies the ones he is talking about by what is happening in their lives:
 
-  He says:
+> **they are being led by the Spirit of God.**
 
-  > **τὰς πράξεις τοῦ σώματος**
-  > “the deeds of the body.”
+**“Are led”** is present tense.
 
-  The object of **θανατοῦτε** is **τὰς πράξεις**.
+Paul therefore describes an ongoing activity of the Spirit.
 
-  ### “ye shall live”
+And notice how this follows verse 13.
 
-  **ζήσεσθε**
+Verse 13 spoke of:
 
-  Future indicative:
+> **“through the Spirit”**
 
-  > “you will live.”
+putting to death the deeds of the body.
 
-  The complete second condition is:
+Verse 14 speaks of:
 
-  > **εἰ δὲ πνεύματι τὰς πράξεις τοῦ σώματος θανατοῦτε**
-  > “but if by the Spirit you are putting to death the deeds of the body”
+> **“being led by the Spirit of God.”**
 
-  > **ζήσεσθε**
-  > “you will live.”
+Paul is continuing to describe the Spirit's active ministry in the lives of these people.
 
-  Verse 13 therefore places two conditions and their stated consequences side by side:
+The Spirit is not merely presented as something they possess. Paul is describing the Spirit **actively leading them**.
 
-  > **κατὰ σάρκα ζῆτε** → **ἀποθνῄσκειν**
+And those whom Paul identifies as being led by the Spirit—
 
-  > according to the flesh → die
+> **“these are sons of God.”**
 
-  and:
+The word Paul uses here is **υἱοί — sons**.
 
-  > **πνεύματι ... θανατοῦτε** → **ζήσεσθε**
+That is important because Paul does not use **τέκνα — children** here. He uses **υἱοί — sons**.
 
-  > by the Spirit, putting to death the deeds of the body → live
+We should allow Paul to make that distinction rather than flattening the two words into one.
 
-  # Romans 6 and “presenting”
+At this point in Paul's argument, the ones being described are:
 
-  Romans 6 provides an earlier use of language that is helpful when reading Paul's wording about presenting oneself.
+> **“as many as are led by the Spirit of God.”**
 
-  > **Know ye not, that to whom ye yield [παριστάνετε] yourselves servants to obey, his servants ye are to whom ye obey?**
+And **these** are called:
 
-  The sequence Paul gives is explicit:
+> **“sons of God.”**
 
-  > **παριστάνετε**
-  > “you present yourselves”
+The Spirit's active leading is therefore directly connected with Paul's identification of these people as sons of God.
 
-  →
+That prepares us for what Paul says next.
 
-  > **δοῦλοί ἐστε**
-  > “you are slaves”
+# Romans 8:15
 
-  →
+> **“For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.”**
 
-  > **ὑπακούετε**
-  > “you obey.”
+Paul now explains further what he means.
 
-  Romans 6:19 uses the same verb:
+### “For ye have not received”
 
-  > “as ye have yielded [παρεστήσατε] your members servants to uncleanness and to iniquity unto iniquity; even so now yield [παραστήσατε] your members servants to righteousness unto holiness.”
+The verb **ἐλάβετε** is aorist tense: **“you received.”**
 
-  **παρίστημι** carries the idea of presenting, placing, or making available.
+And he gives the negative first.
 
-  Romans 6:16 explicitly connects that presentation with the resulting service and obedience.
+### “the spirit of bondage again to fear”
 
-  This gives useful background for reading Romans 8:12–13, where Paul speaks about the flesh and living according to the flesh.
+> **“…the spirit of bondage again to fear…”**
 
-  # Romans 8:14
+The words are **πνεῦμα δουλείας** — “spirit of bondage” or “spirit of slavery.”
 
-  > **For as many as are led by the Spirit of God, they are the sons of God.**
+And it is connected with:
 
-  ### “For”
+> **“again to fear.”**
 
-  **γάρ** — “for.”
+Paul is describing something they **have not received again**.
 
-  Verse 14 continues the explanation of verse 13.
+Then comes the contrast.
 
-  ### “as many as”
+### “but ye have received”
 
-  **ὅσοι**
+> **“…but ye have received…”**
 
-  This can be translated:
+The same verb appears again:
 
-  > “as many as”
-  > “all who”
-  > “whoever”
+**ἐλάβετε** — “you received.”
 
-  It identifies the group Paul is describing.
+Paul deliberately sets the two things against each other:
 
-  ### “are led”
+> **You have not received…**
+> **but you have received…**
 
-  **ἄγονται**
+### “the Spirit of adoption”
 
-  Present passive indicative:
+> **“…the Spirit of adoption…”**
 
-  > “are being led.”
+The word **υἱοθεσία** is translated “adoption.”
 
-  The present tense presents the leading as an ongoing action.
+Paul has introduced another important word into the passage.
 
-  The passive form places the Spirit as the one doing the leading:
+In verse 14 he called the Spirit-led ones **“sons of God.”**
 
-  > **πνεύματι θεοῦ ἄγονται**
-  > “are being led by the Spirit of God.”
+Here he speaks of **“adoption.”**
 
-  ### “by the Spirit of God”
+These are not disconnected statements. Paul is continuing to describe the same people and the same Spirit.
 
-  **πνεύματι θεοῦ**
+The Spirit by whom they are being led is now described in connection with **adoption**.
 
-  The phrase identifies the one associated with the leading:
+### “whereby we cry”
 
-  > **Spirit of God.**
+> **“…whereby we cry…”**
 
-  Paul has already spoken repeatedly of the Spirit in Romans 8:4–11.
+The Greek is **ἐν ᾧ κράζομεν**.
 
-  ### “they”
+It can be expressed naturally as **“in whom”** or **“by whom.”** The relative pronoun points back to the Spirit.
 
-  **οὗτοι**
+Here Paul changes again.
 
-  This is the demonstrative pronoun:
+Verse 15 began with:
 
-  > “these.”
+> **“ye have received.”**
 
-  It corresponds with **ὅσοι**:
+Now he says:
 
-  > **ὅσοι ... οὗτοι**
-  > “as many as ... these.”
+> **“we cry.”**
 
-  The structure points from the group being described to the identity Paul assigns to that group.
+So Paul is again including himself:
 
-  ### “are the sons of God”
+> **you have received…**
+> **we cry…**
 
-  **υἱοί εἰσιν θεοῦ**
+The present tense **κράζομεν** means **“we cry”** or **“we call out.”**
 
-  - **υἱοί** — “sons”
-  - **εἰσιν** — present indicative, “are”
-  - **θεοῦ** — “of God”
+And what do they cry?
 
-  Paul does not use an imperative.
+### “Abba, Father”
 
-  He states:
+> **“Abba, Father.”**
 
-  > **οὗτοι υἱοί εἰσιν θεοῦ**
-  > “these are sons of God.”
+Paul preserves the word **Abba** and then gives the corresponding word **Father**.
 
-  The grammatical correspondence is:
+The point in the sentence is straightforward: those who have received the Spirit of adoption are described as calling upon God as **Father**.
 
-  > **ὅσοι πνεύματι θεοῦ ἄγονται**
-  > “as many as are being led by the Spirit of God”
+The Spirit is therefore still active in the progression Paul is describing:
 
-  =
+**led by the Spirit → Spirit of adoption → “Abba, Father.”**
 
-  > **οὗτοι υἱοί εἰσιν θεοῦ**
-  > “these are sons of God.”
+That prepares for verse 16.
 
-  # Romans 8:15
+# Romans 8:16
 
-  > **For ye have not received the spirit of bondage again to fear;**
+> **“The Spirit itself beareth witness with our spirit, that we are the children of God.”**
 
-  ### “For”
+### “The Spirit itself”
 
-  **γάρ** — “for.”
+> **“The Spirit itself…”**
 
-  Verse 15 explains further what Paul has just said.
+Paul continues speaking about the Spirit.
 
-  ### “ye have not received”
+Notice the continuity:
 
-  **οὐ ... ἐλάβετε**
+- **8:14:** Spirit of God
+- **8:15:** Spirit of adoption
+- **8:16:** the Spirit Himself
 
-  **ἐλάβετε** is aorist indicative:
+Paul is continuing with the Spirit's ministry.
 
-  > “you received.”
+### “beareth witness with our spirit”
 
-  Paul describes something received.
+> **“…beareth witness with our spirit…”**
 
-  The negative **οὐ** negates the first description.
+The verb is **συμμαρτυρεῖ**, present tense.
 
-  ### “the spirit of bondage”
+It means **bears witness with** or **testifies together with**.
 
-  **πνεῦμα δουλείας**
+Paul therefore describes the Spirit as bearing witness **with our spirit**.
 
-  - **πνεῦμα** — “spirit”
-  - **δουλείας** — “of slavery/bondage”
+### “that we are the children of God”
 
-  The phrase describes what they did **not** receive.
+> **“…that we are the children of God.”**
 
-  ### “again to fear”
+Now Paul uses another word:
 
-  **πάλιν εἰς φόβον**
+**τέκνα — children.**
 
-  - **πάλιν** — “again”
-  - **εἰς φόβον** — “unto/toward fear”
+This is worth noticing.
 
-  Paul connects the first description with fear.
+Paul has not simply repeated the word he used in verse 14.
 
-  The full negative statement is:
+The progression is:
 
-  > **οὐ ... ἐλάβετε πνεῦμα δουλείας πάλιν εἰς φόβον**
+- verse 14: **υἱοί — sons of God**
+- verse 15: **υἱοθεσία — adoption**
+- verse 16: **τέκνα — children of God**
 
-  “You did not receive a spirit of slavery again unto fear.”
+We should not erase that progression by saying that *υἱοί* and *τέκνα* are simply interchangeable words and therefore nothing has changed.
 
-  ### “but”
+At the same time, we do not need to impose a rigid definition on the words that Paul himself does not give.
 
-  **ἀλλά**
+What we can see is what Paul actually does with them.
 
-  Paul now gives the contrast.
+He first identifies **those who are led by the Spirit** as **sons**.
 
-  The structure is:
+He then speaks of the **Spirit of adoption**, through whom they cry, **“Abba, Father.”**
 
-  > **οὐ ... ἀλλά**
-  > “not ... but.”
+Then the Spirit Himself bears witness with their spirit that they are **children of God**.
 
-  ### “ye have received”
+And Paul immediately takes that word into verse 17.
 
-  **ἐλάβετε**
+# Romans 8:17
 
-  The same verb is repeated:
+> **“And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.”**
 
-  > **οὐ ... ἐλάβετε**
-  > “you did not receive”
+This verse takes the statement of verse 16 and carries it forward.
 
-  > **ἀλλὰ ἐλάβετε**
-  > “but you received.”
+### “And if children”
 
-  The repetition makes the contrast explicit.
+> **“And if children…”**
 
-  ### “the Spirit of adoption”
+The Greek is **εἰ δὲ τέκνα**.
 
-  **πνεῦμα υἱοθεσίας**
+The verb **“are”** is understood.
 
-  - **πνεῦμα** — “Spirit”
-  - **υἱοθεσίας** — “of adoption”
+So the thought is:
 
-  Paul has now contrasted:
+> **“If [we are] children…”**
 
-  > **πνεῦμα δουλείας**
-  > “spirit of slavery”
+Paul has just said:
 
-  with:
+> **“we are the children of God.”**
 
-  > **πνεῦμα υἱοθεσίας**
-  > “Spirit of adoption.”
+Verse 17 continues directly from that statement.
 
-  The word **υἱοθεσία** is the term Paul uses here for adoption/son-placement.
+### “then heirs”
 
-  ### “whereby we cry”
+> **“…then heirs…”**
 
-  **ἐν ᾧ κράζομεν**
+Again, the verb **“are”** is understood:
 
-  - **ἐν ᾧ** — “in/by whom”
-  - **κράζομεν** — present indicative, “we cry”
+> **“If children, then [we are] heirs.”**
 
-  The relative pronoun **ᾧ** refers back to the Spirit.
+This is an important connection because **Paul makes it himself.**
 
-  The present indicative **κράζομεν** describes the cry:
+The explicit sequence is:
 
-  > “we cry.”
+> **children → heirs.**
 
-  ### “Abba, Father”
+Paul now explains whose heirs they are.
 
-  **Ἀββᾶ ὁ πατήρ**
+### “heirs of God”
 
-  Paul gives the actual words of the cry:
+> **“…heirs of God…”**
 
-  > **Ἀββᾶ ὁ πατήρ**
-  > “Abba, Father.”
+The word is **κληρονόμοι** — heirs.
 
-  # Romans 8:16
+Paul says:
 
-  > **The Spirit itself beareth witness with our spirit,**
+> **“heirs of God.”**
 
-  ### “The Spirit itself”
+Then he adds another description.
 
-  **αὐτὸ τὸ πνεῦμα**
+### “and joint-heirs with Christ”
 
-  The phrase is emphatic:
+> **“…and joint-heirs with Christ…”**
 
-  > **αὐτὸ τὸ πνεῦμα**
-  > “the Spirit Himself.”
+The word **συνκληρονόμοι** includes the idea of sharing the inheritance with another.
 
-  ### “beareth witness”
+So Paul moves from:
 
-  **συμμαρτυρεῖ**
+> **children**
 
-  Present indicative:
+to:
 
-  > “bears witness”
-  > “testifies together with.”
+> **heirs of God**
 
-  The verb contains the idea of bearing witness together.
+to:
 
-  ### “with our spirit”
+> **joint-heirs with Christ.**
 
-  **τῷ πνεύματι ἡμῶν**
+The progression is in the text itself.
 
-  The dative identifies the Spirit with whom the Spirit bears witness:
+This is also consistent with what Paul says elsewhere. In Galatians 3:26 he says:
 
-  > “with our spirit.”
+> **“For ye are all the children of God by faith in Christ Jesus.”**
 
-  So the first part of verse 16 is:
+And in Galatians 3:29:
 
-  > **αὐτὸ τὸ πνεῦμα συμμαρτυρεῖ τῷ πνεύματι ἡμῶν**
-  > “The Spirit Himself bears witness with our spirit.”
+> **“And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.”**
 
-  ### “that we are the children of God”
+But Romans 8:17 gives us the direct statement we need:
 
-  **ὅτι ἐσμὲν τέκνα θεοῦ**
+> **“if children, then heirs.”**
 
-  The **ὅτι** introduces the content of the witness.
+### “if so be that we suffer with him”
 
-  What does the Spirit bear witness to?
+> **“…if so be that we suffer with him…”**
 
-  > **ἐσμὲν τέκνα θεοῦ**
-  > “we are children of God.”
+Now Paul introduces suffering.
 
-  - **ἐσμέν** — present indicative, “we are”
-  - **τέκνα** — “children”
-  - **θεοῦ** — “of God”
+The verb **συμπάσχομεν** is present tense:
 
-  Notice the terminology Paul uses here:
+> **“we suffer with.”**
 
-  > 8:14 — **υἱοί θεοῦ**
-  > “sons of God”
+Notice the change back to **“we.”**
 
-  > 8:16 — **τέκνα θεοῦ**
-  > “children of God.”
+Paul has included himself again.
 
-  The text itself uses both terms in this immediate context.
+The word itself joins the experience of suffering to Christ:
 
-  # Romans 8:17
+**συν-** — with
+**πάσχω** — suffer
 
-  > **And if children, then heirs;**
+So Paul says:
 
-  ### “And if children”
+> **“we suffer with him.”**
 
-  **εἰ δὲ τέκνα**
+This is not simply suffering *for* Him or suffering *because of* Him.
 
-  - **εἰ** — “if”
-  - **δέ** — “but/and”
-  - **τέκνα** — “children”
+Paul uses a word that joins our suffering with Christ.
 
-  The verb is not written but is understood from the preceding verse:
+And this fits the pattern Paul has already established in Romans.
 
-  > **εἰ [τέκνα ἐσμέν]**
-  > “if [we are] children”
+Romans 6 spoke of being united with Christ in His death and resurrection.
 
-  ### “then heirs”
+Romans 8:13 speaks of putting to death the deeds of the body through the Spirit and living.
 
-  **καὶ κληρονόμοι**
+Now Romans 8:17 speaks of suffering with Christ and being glorified together with Him.
 
-  Again, the verb is understood:
+The thought is participation with Christ:
 
-  > **καὶ [κληρονόμοι ἐσμέν]**
-  > “then [we are] heirs.”
+**with Christ in suffering → with Christ in glory.**
 
-  Paul therefore states the relationship directly:
+### “that we may be also glorified together”
 
-  > **τέκνα → κληρονόμοι**
+> **“…that we may be also glorified together.”**
 
-  > “children → heirs.”
+The verb is **συνδοξασθῶμεν**.
 
-  ### “heirs of God”
+Again we have the idea of being **together**.
 
-  **κληρονόμοι μὲν θεοῦ**
+Paul has placed these two statements beside each other:
 
-  **κληρονόμοι** — “heirs”
+> **“we suffer with him”**
+> **“we may be also glorified together.”**
 
-  **θεοῦ** — “of God.”
+The passage therefore ends by bringing the thought of sharing with Christ into both parts of the statement.
 
-  The **μέν** begins a paired construction that continues with **δέ**.
+Paul is not presenting suffering as an unrelated condition suddenly attached to inheritance.
 
-  ### “and joint-heirs with Christ”
+He has been developing a pattern of participation with Christ:
 
-  **συνκληρονόμοι δὲ Χριστοῦ**
+**death with Christ → life with Christ**
 
-  - **συνκληρονόμοι** — “joint-heirs,” “co-heirs”
-  - **δέ** — “but/and”
-  - **Χριστοῦ** — “of Christ”
+and now:
 
-  Paul gives two descriptions:
+**suffering with Christ → glorification with Christ.**
 
-  > **κληρονόμοι θεοῦ**
-  > “heirs of God”
+# The flow of the passage
 
-  and
+Romans 8:12–17 has been building a continuous argument:
 
-  > **συνκληρονόμοι Χριστοῦ**
-  > “joint-heirs with Christ.”
+**not debtors to the flesh**
+→ **live not according to the flesh**
+→ **through the Spirit put to death the deeds of the body**
+→ **live**
+→ **as many as are led by the Spirit**
+→ **these are sons of God**
+→ **Spirit of adoption**
+→ **“Abba, Father”**
+→ **the Spirit bears witness**
+→ **children of God**
+→ **if children, then heirs**
+→ **heirs of God**
+→ **joint-heirs with Christ**
+→ **suffer with Christ**
+→ **glorified together with Christ**
 
-  ### “if so be that we suffer with him”
+The important thing is that Paul does not flatten this progression.
 
-  **εἴπερ συμπάσχομεν**
+He begins with the contrast between **flesh and Spirit**.
 
-  - **εἴπερ** — “if indeed,” “if in fact”
-  - **συμπάσχομεν** — present indicative, “we suffer with”
+Through the Spirit, the deeds of the body are put to death, and the result is life.
 
-  The verb **συμπάσχομεν** contains **σύν** (“with”) and **πάσχω** (“suffer”).
+Then he identifies a particular group:
 
-  The thought is suffering **with** Christ.
+> **“as many as are led by the Spirit of God.”**
 
-  ### “that we may be also glorified together”
+**These** are the ones he calls **sons of God**.
 
-  **ἵνα καὶ συνδοξασθῶμεν**
+He then speaks of the **Spirit of adoption**, through whom they cry, **“Abba, Father.”**
 
-  - **ἵνα** — “so that/in order that”
-  - **καὶ** — “also”
-  - **συνδοξασθῶμεν** — “we may be glorified together”
+Then the Spirit Himself bears witness that they are **children of God**.
 
-  The **ἵνα** introduces the purpose/result clause.
+And from **children**, Paul draws the next conclusion:
 
-  The verb is aorist passive subjunctive:
+> **“then heirs.”**
 
-  > **συνδοξασθῶμεν**
-  > “we may be glorified together.”
+Those heirs are:
 
-  The **συν-** prefix corresponds with the earlier **συμπάσχομεν**:
+> **“heirs of God and joint-heirs with Christ.”**
 
-  > **συμπάσχομεν**
-  > suffer with
+And those who are joint-heirs with Christ are described as **suffering with Him**, with the corresponding expectation that they will be **glorified together with Him**.
 
-  > **συνδοξασθῶμεν**
-  > be glorified with/together
+So the Spirit's role is not incidental to Paul's argument.
 
-  Paul therefore places the two together:
+The Spirit is active:
 
-  > **εἴπερ συμπάσχομεν**
-  > “if indeed we suffer with Him”
+**through the Spirit** the deeds of the body are put to death;
 
-  > **ἵνα καὶ συνδοξασθῶμεν**
-  > “so that we may also be glorified together.”
+**by the Spirit's leading** Paul identifies “as many as” as sons;
 
+**through the Spirit of adoption** they cry, “Abba, Father”;
+
+and **the Spirit Himself** bears witness that they are children of God.
+
+Paul is therefore showing us what characterizes those who are being led by the Spirit, and where that Spirit-led life is taking them:
+
+**life → sonship → adoption → childhood → inheritance → sharing with Christ in suffering → sharing with Christ in glory.**
