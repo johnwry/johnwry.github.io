@@ -1,5 +1,7 @@
 ---
-title: Romans 8:12-17
+title: "Romans 8:12-17"
+author: "John Wry"
+date: 2026/09/22
 ---
 
 # Romans 8:12–17 — Two ways of life, two results
