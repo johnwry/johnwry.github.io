@@ -1,419 +1,473 @@
-# CONVENCIDÍSIMOS
+# CONVENCIDÍSIMO
 
-*Nos creímos el cuento. Y fuimos los últimos en enterarnos.*
+...de algo que resultó ser una gran mentira
 
 ---
 
 # PRÓLOGO
 
-Soy lo que muchas veces se conoce como cristiano de cuna. Nací en un hogar cristiano, de padres cristianos. Me enseñaron valores cristianos. Fui a una escuela cristiana toda la vida y, cuando terminé, me fui a una universidad cristiana. Son contados los domingos que no fui a la iglesia. Casi todos mis amigos eran cristianos. A cierta edad decidí ser misionero cristiano. Y cuando me casé, mi esposa era cristiana.
+No escribo este libro porque yo haya descubierto lo que los demás todavía no entienden.
 
-Si usted me hubiera conocido, habría dicho con toda seguridad que era cristiano. Nadie habría dicho lo contrario.
+Lo escribo porque durante muchos años no vi lo que tenía delante.
 
-Hasta que un amigo me hizo una pregunta que nadie me había hecho antes:
+Crecí dentro del mundo cristiano. Aprendí sus palabras, sus costumbres y sus respuestas antes de saber que eran un idioma. Podía moverme dentro de él sin preguntar dónde quedaba nada. Sabía cuándo ponerme de pie, cuándo bajar la cabeza y, con el tiempo, también aprendí cuándo decir amén.
 
-«Si mueres hoy y vas al cielo pero antes de entrar Dios te pregunta, ¿Por qué debería Dios dejarte entrar al cielo?»
+Con el tiempo me pusieron a enseñar. La presión era fuerte porque me abuelo enseñaba en el púlpito y también mi padre. 
 
-Lo primero que se me vino a la cabeza fue la familia, la escuela, toda esa vida cristiana. Pensé un momento más. No, eso no; tenía que ser algo mío. Pensé en aquella vez que me arrodillé junto a mi cama y mi abuelita me ayudó a pasar por el rito de iniciación llamado la oración sincera del transgresor. ¡Eso era! Además, yo ya no era un principiante: era bastante devoto. Después de un momento, imaginándome de pie ante Dios al final de una vida llena de actividad, le respondí a mi amigo:
+Creía lo que decía. Lo decía con seguridad y trataba de vivirlo con todas mis fuerzas. No estaba representando un papel. Era sincero.
 
-«Porque yo le di mi vida.»
+También estaba equivocado.
 
-«Qué interesante», me dijo, y me miró con pena y con misericordia al mismo tiempo. «Pensé que Él había dado su vida por ti.»
+Las dos cosas caben dentro de una misma persona. Ese es parte del problema.
 
-Me dejó temblando. No porque no lo supiera, lo sabía, sino porque de golpe vi algo más profundo: llevaba la vida entera entregándome a Dios para que me aceptara, y era al revés. Jesús murió en la cruz y ya había saldado mi deuda. Por primera vez me di cuenta de que había estado convencidísimo de una mentira. Me había creído el cuento, y había sido el último en enterarme.
+Durante años pensé que la sinceridad protegía mis ideas del error. Si yo amaba a Dios, estudiaba la Biblia y procuraba obedecer, ¿cómo podía estar tan equivocado acerca de algo tan importante?
 
-Y eso era solo el principio.
+Podía.
 
-# PARTE I - Una infraestructura religiosa y social
+Este libro cuenta cómo fui descubriendo que muchas de mis convicciones no habían nacido del texto bíblico, aunque yo supiera defenderlas con versículos. Las había recibido de personas que las habían recibido de otras personas. Después las organicé, las enseñé y ayudé a pasarlas a quienes venían detrás de mí.
 
-No escribo para señalar todo lo que otros hacen mal. Mas aún, y antes de empezar creo que necesario aclarar que Dios ha diseñado el hogar y la iglesia y son los lugares más seguros para el crecimiento físico y espiritual de uno.  
+No escribo esto para burlarme de quienes me enseñaron. Mucho de lo que recibí vino de personas que procuraban servir a Dios con lo que entendían. Tampoco escribo para ajustar cuentas con quienes me hicieron daño. Algunas cosas deben contarse con franqueza, pero contarlas no me da permiso para convertir a nadie en el villano que mi historia necesita.
 
-Quiero examinar, a la luz de la verdad, la estructura que hoy hemos llegado a llamar cristiano. Y digo «hemos» porque yo he contribuido a construirla. Ser parte de lo que es Cristo nunca será malo. Pero considero que hace falta al menos tener la conversación sobre lo que es llamar algo cristiano y Cristo no tiene parte en realidad. No es invento mio ni tampoco algo novedoso. Por ejemplo la iglesia de Laodicea llegó a tener un "cristianismo" sin Cristo. Si después de leer el libro consideras que estoy totalmente equivocado, pues que bueno, me encantaría pensar que eso es verdad. 
+Yo también hice daño.
 
-En general, me refiero a ese mundo de ideas, costumbres, instituciones y actividades que se presenta como cristiano. Creo que con el tiempo se ha evolucionado en sus propias reglas y explicaciones teológicas, y nosotros nos hemos acostumbrado a vivir dentro de ellas. Pero quiero tener cuidado porque costumbres y tradiciones y la teología no son malas mientras sean Cristo-centricos y eso si es cristiano. 
+Yo también defendí el sistema.
 
-A lo que yo me refiero lo llamaré *Cristiánico*. Es una palabra fabricada para describir algo que también hemos fabricado: el sistema religioso y social que hemos construido alrededor de la "fe" pero la verdad y Cristo no tienen su lugar como autoridad. No es que se lo ha quitado, si lo ha desplazado. No nos hemos vuelto agnosticos o peor ateos. Hemos agregado el comentario y opinion de hoy a la verdad, y hemos añadido a Cristo, no lo hemos quitado. 
+Yo también dejé de escuchar.
 
-El mensaje *Cristiánico* hoy no es nuevo. Lleva décadas tomando forma. Son varias generaciones. Y nosotros lo hemos recibido de nuestros padres. Es una red de sus enseñanzas, costumbres y actividades que se apoyan mutuamente, hasta formar un sistema completo.
+La memoria tiene una habilidad especial para conseguirnos un abogado gratuito. Siempre encuentra la manera de explicar nuestras acciones y presentar las de los demás como evidencia. No quiero usar estas páginas de esa manera.
 
-Dentro de ese sistema encontramos:
+Quiero usarlas para encender la luz.
 
-- Ética Cristianica.
-- Espiritualidad Cristianica.
-- Actividad Cristianica.
-- Cosmovisión Cristianica.
-- Eclesiología Cristianica.
-- Teología Cristianica.
-- Ministerios Cristiánicos.
-- Maestros Cristiánicos.
+Si usted reconoce aquí palabras que ha dicho, ideas que ha defendido o maneras de vivir que todavía le parecen completamente normales, no quiero vencerlo en una discusión. Quiero invitarlo a hacer lo que a mí me costó tantos años hacer: permitir que Cristo examine también aquello de lo que estamos más seguros.
 
-Y la lista sigue: música, películas, colegios, universidades… todo puede llevar la misma etiqueta.
+No le voy a pedir que desconfíe de todo lo que recibió de su familia o de su iglesia. Tampoco quiero que cambie una tradición por mis conclusiones. Quiero que juntos hagamos una pregunta más sencilla y más difícil:
 
-Hemos creado todo un ecosistema que afecta todo nuestra manera de pensar y desenvolvernos. Pero, una vez establecida, puede adquirir tanta autoridad que cuestionarla se considera una amenaza. 
+No quiero que cambies las conclusiones de otros por las mías. Quiero invitarte a escuchar.
 
+Porque uno no oye lo que está defendiendo.
 
+Yo tardé años en dejar de defenderme.
 
-¿Típicamente qué hace una estructura religiosa sostenida por generaciones? 
+Este libro comienza ahí.
 
-En Israel había toda una vida religiosa organizada, con lugares de adoración, sacerdotes, altares y fiestas. Una generación encontraba esas prácticas ya establecidas y las recibía de la anterior. Para alguien que había crecido dentro de aquel mundo, podían parecer simplemente la manera normal de adorar.
+# PARTE I — Un ejemplo a considerar
 
-Una práctica heredada puede llegar a parecernos tan natural que dejamos de preguntarnos si corresponde a lo que Dios ha dicho. Nos basta con haberla recibido y con ver que otros también la siguen. Así, lo conocido se convierte en nuestro criterio para reconocer lo correcto.
+¿Cómo se ve hoy alguien completamente integrado a lo Cristianico?
 
-Sin embargo, la Escritura llama a aquellas prácticas «los pecados de Jeroboam» (2 Reyes 17:22). Lo que se había mantenido durante generaciones seguía siendo pecado delante de Dios. Por eso había enviado a sus profetas con este llamado:
+No necesito buscar muy lejos.
 
-> «Vuelvan de los caminos de ustedes los malos, y guarden mis mandamientos, mis estatutos...»
->
-> —2 Reyes 17:13 LBF
+Durante muchos años, ese hombre fui yo.
 
-El llamado a volver alcanzaba precisamente esa vida religiosa que habían recibido y seguían practicando. Su historia y su aceptación no la eximían de obedecer a Dios.
+No me uso como ejemplo porque haya sido el peor. Me uso porque soy el único caso del que puedo hablar sin tener que adivinar las intenciones. Puedo decir qué enseñaba, qué defendía y qué costo no quería ver, porque todo eso era mío.
 
-# PARTE II - Ejemplo a considerar
+Me desenvolvía bien en el culto y me sabía las frases. Empecé ayudando en la alabanza, después pasé a dirigir y con el tiempo llegué a enseñar. Era el progreso natural. Nadie tuvo que arrastrarme: yo iba contento.
 
-¿Qué seria un ejemplo contemporáneo de un Cristiánico?
+Cuando surgía una discusión entre hermanos, yo tenía argumentos para ambos lados. Había aprendido que una buena respuesta teológica muchas veces comienza con «sí y no». Eso daba tiempo para respirar, fruncir un poco el ceño y presentar las consideraciones del caso.
 
-Para eso, quiero mostrar como era yo dentro de esa estructura para que sirva de ejemplar para examinar.  Seguramente hay ejemplares mejores y también peores para usar pero la idea no es criticar a nadie sino crear conciencia sobre algo que es mayormente ignorado dentro de iglesias hoy. 
+Yo procuraba no caer en ningún extremo. Siempre estaba en el medio, que casualmente era el lugar donde yo tenía razón.
 
-Me desenvolvía bien en el culto y me sabía las frases. Empecé ayudando en la alabanza a temprana edad. Luego en la dirección y progresé a la enseñanza. Es lo natural y es lo que todos me animaban a hacer. 
+Pero no era solo que supiera hablar.
 
-Cuando habían discusiones entre los hermanos, yo tenia los argumentos para afirmar y contrastar. Mis respuestas apuntaban a profundidad teológica; "si y no" - y luego presentaba las consideraciones del argumento. Siempre me aseguraba por estar en el medio del argumento - no caer por los extremos. 
+Yo era alguien.
 
-Pero no era solo eso: yo era alguien. Nieto de tal, hijo de tal, por lo menos en cualquier parte del país donde servía como misionero. Mi abuelo que había llegado 60 años previo fue sucedido por mi padre 22 años después; y yo, terminé siguiendo fielmente en esa tradición. Más de 60 años de trayectoria familiar.  Era parte integral del tejido de una estructura universalmente aprobada. 
+Mi abuelo había llegado como misionero sesenta años antes. Mi padre lo siguió veintidós años después. Después llegué yo, continuando fielmente la tradición familiar. Cuando entraba en ciertos lugares, mi apellido ya había llegado antes.
 
-No era exactamente autoridad. Era familiaridad. Era un buen Cristiánico. Y la gente creía lo que decía. Estaba totalmente invertido en el sistema y aunque encontraba muchas deficiencias, buscaba como mejorarlo. 
+No era exactamente autoridad. Era familiaridad.
 
-Y para ser honesto,  lo Cristiánico apela. Me empecé capacitando en teología con el auspicio de mi abuelo. Los mismos libros que me hicieron comprar fueron los mismos libros que usó mi padre y su padre antes de eso.  Lo que estudiamos era una estructura, la manera como se debe estudiar la Biblia y se supone que sobre esa base nos tocaba a nosotros estudiar la Biblia. 
+La gente me conocía, conocía a mi familia y confiaba en lo que yo decía. Yo no era un visitante dentro de aquella estructura. Era parte del tejido. Estaba completamente comprometido con ella y, cuando veía alguna deficiencia, mi reacción no era cuestionar el sistema. Era pensar cómo podía mejorarlo.
 
-De vez en cuando mi invitaban a enseñar en la iglesia. Me preparaba de algún comentario de un pastor famoso. Además, sus palabras eran mucho más elecuentes que las mias. 
+Porque lo Cristianico también atrae.
 
-Mi mensaje era compuesto por versículos de cualquier pasaje que quería usar para hacer cambiar a la gente, luego lo que decía el comentarista y terminaba con otro versículo para rematar. La idea era que la gente se vaya con una exhortación que causaba reflexión o mejor, remordimiento. 
+Me capacité en teología con el apoyo de mi abuelo. Los libros que me hicieron comprar eran los mismos que habían usado mi padre y su padre antes que él. Tres generaciones estudiando con los mismos libros parecía una confirmación bastante seria.
 
-Aquel que pensaba de una manera distinta de la norma y que encontraba un versículo que parecía contradecir era ignorado o silenciado. Uno así es tomado como uno que le falta conocer, ha caído, un desviado, un hereje...y de ese lugar no hay salvación a no ser que retraiga completamente y se entrega nuevamente al sistema. 
+Por lo menos, así lo tomé yo.
 
-Cuando yo empecé a enseñar según lo que dice las Escrituras sin importar lo que decía la corriente oficial, mis amigo empezaron a dejarme. En vez de considerar lo que realmente decía la Biblia e ir con la verdad, terminaron asegurando sus propios intereses y se quedaron en silencio mientras observaban que me echaban fuera de la comunión. Nadie quería causar una conmoción pues podrían quedarse afuera también. 
+No solo aprendíamos lo que debíamos creer. Aprendíamos la estructura con la que debíamos leer la Biblia. Después abríamos la Biblia dentro de esa estructura y encontrábamos, para sorpresa de nadie, lo que la estructura ya nos había enseñado.
 
-Quien pregunta si realmente corresponde a lo que enseña la Escritura corre el riesgo de quedar al margen. 
+Cuando me invitaban a predicar, acudía a los comentarios de algún pastor reconocido. Él decía las cosas con mucha más elocuencia que yo, de modo que yo tomaba prestada su elocuencia y la llevaba a la iglesia.
 
-Entonces la etiqueta empieza a resolver la discusión. En vez de examinar si algo es verdadero, bueno o fiel a Cristo, nos basta con reconocerlo como parte de nuestro mundo, "Es cristiano" decimos.  Lo conocemos. Lo hemos sostenido durante años. Esto es Cristiánico.
+El mensaje solía funcionar así: comenzaba con un versículo, explicaba lo que decía el comentarista, agregaba otros textos que apoyaban el tema y terminaba con otro versículo para rematar. La meta era que la gente saliera reflexionando.
 
-Lo Cristiánico también sabe defenderse de las enseñanzas que considera falsas. Esa capacidad es de apreciar. Jesús mismo reconoce algo semejante en la iglesia de Éfeso:
+Si además salía un poco culpable, mejor todavía. Eso significaba que el mensaje había llegado.
 
-> Conozco tus obras, y tu trabajo, y tu perseverancia, y que no puedes soportar a los malos, y has puesto a prueba a los que afirman ser apóstoles y no lo son, y los hallaste falsos. Y has soportado, y tienes perseverancia, y por causa de mi nombre has trabajado y no te has cansado.
->
-> Apocalipsis 2:2-3 LBF
+Yo también sabía qué hacer con una idea que no encajaba. Si alguien interpretaba un pasaje de manera diferente, no siempre examinábamos primero su argumento. Teníamos nombres disponibles: confundido, desviado, caído o hereje. Yo utilicé esas categorías. A veces antes de escuchar realmente lo que la otra persona estaba diciendo.
 
-Éfeso trabajaba, perseveraba y examinaba las afirmaciones de quienes pretendían ser apóstoles.  Con semejante descripción, podríamos pensar que aquella iglesia estaba haciendo lo que debía. Pero Jesús continúa:
+La etiqueta resolvía la conversación antes de que la conversación comenzara.
 
-> Pero tengo contra ti que has dejado tu primer amor. Recuerda, pues, de dónde has caído…
->
-> Apocalipsis 2:4-5 LBF
+No hacía falta preguntar si algo era verdadero, bueno o fiel a Cristo. Muchas veces bastaba con reconocerlo como parte de nuestro mundo.
 
-Aquella iglesia podía reconocer a falsos apóstoles y, al mismo tiempo, haber abandonado su primer amor. Su capacidad para detectar el error ajeno no la había librado de caer. 
+«Es cristiano.»
 
-Eso también nos alcanza a nosotros. Podemos acostumbrarnos tanto a examinar lo que otros enseñan que dejemos de someter nuestras propias ideas y prácticas al juicio de Cristo. Saber señalar un error no significa que estemos dispuestos a reconocer el nuestro.
+Lo conocemos. Lo hemos sostenido durante años. Nuestros maestros lo enseñaron. Nuestros padres lo creyeron. Nosotros lo repetimos.
 
-¿Bastaba con seguir trabajando y procurar hacerlo mejor?
+Eso era suficiente.
 
-Jesús les dice:
+Y cuando yo mismo comencé a hacer preguntas, descubrí que preguntar tenía un costo. Algunos amigos se alejaron. Otros guardaron silencio. No sé qué ocurría dentro de cada uno ni me corresponde decidirlo. Lo que sí pude ver fue que examinar ciertas ideas podía dejarte al margen del grupo que hasta entonces había sido tu mundo.
 
-> …arrepiéntete y haz las primeras obras. Pero si no, voy a ti pronto y quitaré tu candelabro de su lugar, si no te arrepientes.
->
-> Apocalipsis 2:5 LBF
+Yo conocía ese mundo porque había ayudado a sostenerlo.
 
-Debían recordar de dónde habían caído, cambiar de mentalidad y volver a las primeras obras. Continuar con la actividad de siempre no resolvía lo que Jesús les estaba señalando.
+Trabajaba catorce horas al día en el ministerio. Mientras más cansado estaba, más espiritual me sentía. Mis logros eran reconocidos y aplaudidos, y yo decía que todo era para la gloria de Dios.
 
-La advertencia era seria. Jesús no estaba discutiendo el horario de las reuniones ni el color de las cortinas. Les advertía que quitaría su candelabro si no se arrepentían.
+Aunque, si en el proceso Dios permitía que me llegara un poquito de aquella gloria, ¿quién era yo para contradecirlo?
 
-Por eso, al examinar lo Cristiánico, también debemos examinar el criterio con el que juzgamos. Nuestras conclusiones, por conocidas y defendidas que sean, siguen sujetas a la autoridad de Cristo. Si no corresponden a la verdad, nos toca cambiar de manera de pensar y actuar en consecuencia. 
+Mientras tanto, mi familia pagaba el precio.
 
-Éfeso no podía seguir pensando igual y agregar más amor. De hecho si lo hacía, Jesús prometió quitar su candelabro de ese lugar. Éfeso no debía seguir sino parar y regresar de donde vino. Éfeso se convirtió en algo que no empezó siendo. 
+Yo llamaba sacrificio a mi ausencia. Llamaba entrega a mi agotamiento. Y esperaba que mi esposa y mis hijos apoyaran lo que yo hacía porque, al fin y al cabo, lo hacía para Dios.
 
-¿Qué pasaría con un efesio que había nacido pocos años antes? Podemos imaginarnos su confusión de tener que regresar a algo distinto en vez de seguir como siempre el lo conocía. 
+No era hipócrita. Era sincero.
 
-En teoría decimos que la tradición no tiene autoridad. Pero en práctica la tradición muchas veces está en la misma plana que Cristo y esto causa el desvío. 
+También estaba engañado.
 
-La iglesia está sujeta a lo que dice Cristo. 
+Mi problema no era que me faltara esforzarme un poco más. Esfuerzo me sobraba. El problema era que había aprendido a medir mi vida con categorías que siempre conseguían aprobarme.
 
-Mi vida personal está sujeta a lo que dice Cristo.
+Trabajaba demasiado, pero lo llamaba entrega.
 
-Mi ministerio está sujeta a lo que dice Cristo, y si no es así,  debo estar dispuesto a abandonarlo o corregirlo. 
+Descuidaba a mi familia, pero lo llamaba sacrificio.
 
-A un sistema establecido le cuesta aceptar eso. Cambiar puede poner en peligro enseñanzas, prácticas y estructuras que lleva años sosteniendo. Puede exigirle abandonar algo que ya consideraba intocable. Y quienes formamos parte de él tendremos que decidir qué hacer cuando la corrección de Cristo alcance precisamente aquello que hemos aprendido a defender.
+Necesitaba aprobación, pero lo llamaba servir a Dios.
 
-El sistema Cristiánico juzga según sus propias normas establecidas y parece que su error es despreciar cosas que Cristo considera critico de mantener. 
+El costo verdadero no lo estaba pagando yo. Lo pagaban mis relaciones, especialmente mi esposa y mis hijos. Tenía respuestas correctas acerca del amor de Dios, pero vivía como si su aceptación fuera un salario que debía seguir ganando.
 
-En mi caso, trabajaba catorce horas al día en el ministerio, y mientras más cansado me sentía, más me parecía estar avanzando espiritualmente.  Mis logros eran reconocidos, aplaudidos, y eso era la intención. Todo lo hacía "para la gloria de Dios", pero si Dios me "reconocía" un poco de gloria pues quien soy yo para contradecir a Dios.  Todo eso mientras mi familia padecía en el abandono. Y como si no fuera suficiente, les exigía que me apoyaran más. Y, como éramos Cristiánicos, nadie podía contradecir lo que era para Dios.  
+Y como mi versión del evangelio consistía en que yo le entregara mi vida a Dios, estar cansado era una excelente noticia.
 
-Honestamente, vivíamos esclavizados al sistema, no porque trabajabamos demasiado y no nos dábamos descanso. No porque yo no pasaba más tiempo con mi familia. Sino porque éramos esclavos a la aceptación y aprobación del grupo y no nos dimos cuenta. 
+La teología me había organizado la agenda.
 
-No éramos hipócritas. Eramos sinceros pero engañados.  
+Por eso no me presento como ejemplo de alguien que nunca tomó en serio su fe. Ese sería un caso mucho más fácil de explicar.
 
-No es que no tenia buena intención...es innegable que lo hace uno de todo corazón. Pero ahora veo que el costo no era mi comodidad ni mi vida. El precio lo pagó mis relaciones y en especial, mi esposa y mis hijos. Tenía la teología correcta pero me costó el amor. No tenía percepción de la prioridad del amor de Dios. 
+Yo la tomaba muy en serio.
 
-Y esto es importante: No es que me faltaba esmero para amar más. Me faltaba simplemente dejar de intentar y no hacer nada, solo lo suficiente para dejar hablar a Dios y dejarle mostrarme Su amor y aceptación. 
+No estaba fuera de la estructura, tocando la puerta.
 
-Irónicamente, el amor de Dios no significaba nada en mi vida ocupada y conocimiento teológico. Pero que Dios me ame y me acepte a base de mi esfuerzo era la razón que yo me andaba quemando. 
+Estaba adentro, con las llaves, el horario y un micrófono.
 
-Y como la versión Cristiánica del evangelio era que yo le diera mi vida a Dios, andar cansado era la prueba de que todo iba bien. La teología me armó la agenda. El siervo de Jesucristo tiene que sacrificar muchas cosas y así de fácil, casi pierdo mi familia. 
+Convencido se queda corto.
 
-## Algunos Términos Cristiánicos
+¡Era un convencidísimo!
 
-Los que se desvían de ser Cristiánicos, reciben un nombre. Mejor si es teológico y extremo. Si usas semi, hiper, anti antes del término 'ista', ayuda. 
+# PARTE II — Una infraestructura religiosa y social
 
-Por ejemplo, hiper cualquier cosa le hace a uno hereje: hiper-calvinista, hiper gracia, hiper preterista.  Anti es que es enemigo:  antinomianista, anti semitista. 
+Ya te mostré al convencidísimo.
 
-Un problema viene cuando esos términos pueden ser definidos subjetivamente. El que es más teólogo decide. 
+Ahora quiero mostrarte el mundo que lo hacía posible.
 
-Otro problema es que muy rara vez una persona es 100% de cualquier cosa. Existen muchos calvinistas por ejemplo que no sostienen los 5 puntos, y sostienen solo 3 o 4. Eso le hace semi-calvinista? 
+Un convencidísimo no aparece solo. Necesita palabras que le expliquen lo que está viendo, personas cuya aprobación confirme que va bien, respuestas para las preguntas permitidas y nombres para quienes hacen las preguntas equivocadas.
 
-¿Y qué significa ser hiper algo o anti algo? Son nombres derrogativos que tienden a marginar. La verdad que si alguien es hiper o anti algo, no me inspira una conversación abierta con el. Automáticamente me aparto porque es hereje. 
+Necesita una infraestructura.
 
-¿Quién decidió eso y según que estándar? Si no examinamos cuidadosamente según las Escrituras, no tenemos objetividad. Cuando Cristo no es el estandar, individuos e iglesias terminan separados en base a términos nuestros. 
+Cuando hablamos de infraestructura pensamos en algo que sostiene una ciudad: calles, tuberías, cables, puentes. Casi nunca nos detenemos a mirarla. Simplemente vivimos sobre ella. Abrimos la llave y esperamos agua. Encendemos la luz y esperamos que funcione.
 
-La mayor parte de las veces yo asignaba definiciones a las personas diferentes simplemente por lo que otros me decían o porque me incomodaba su punto de vista-pero si se defendía con la Biblia. Si no era igual que nosotros, le asignábamos un nombre. 
+Una infraestructura espiritual opera de manera parecida. Nos enseña qué aspecto tiene una persona madura, cuáles preguntas son aceptables, a quién debemos escuchar y qué conclusiones puede tener una persona sin dejar de pertenecer al grupo.
 
-Nunca se consideraba alguna diferencia según lo que enseña la Biblia sino lo que enseña la teología y usábamos la Biblia para defenderlo. 
+La mayor parte del tiempo ni siquiera sabemos que está ahí.
+
+Solo estamos viviendo.
+
+No digo que el hogar, la iglesia o la tradición sean malos. Mi familia me dio mucho que agradezco. La iglesia puede ser un lugar de amor, crecimiento y cuidado. La teología puede ayudarnos a pensar con claridad. Una tradición puede conservar verdades que una sola generación olvidaría con facilidad.
+
+El problema comienza cuando esas cosas dejan de estar sometidas a Cristo.
+
+No cuando quitamos a Cristo por completo. Eso sería demasiado evidente.
+
+El problema es más difícil de reconocer: conservamos a Cristo, pero colocamos a su lado nuestras explicaciones, costumbres y conclusiones. Con el tiempo, todo queda tan unido que ya no sabemos dónde termina lo que él dijo y dónde comienza lo que nosotros agregamos.
+
+A ese conjunto lo llamaré *Cristianico*.
+
+Es una palabra fabricada para describir algo que también fabricamos: un mundo religioso y social que lleva el nombre de Cristo, utiliza la Biblia y habla de la fe, pero que ha comenzado a funcionar con autoridad propia.
+
+Lo Cristianico no necesariamente niega a Cristo.
+
+Lo desplaza.
+
+No nos volvemos ateos. Seguimos orando, cantando, predicando y abriendo la Biblia. Incluso podemos hacer más de todas esas cosas. El desplazamiento ocurre cuando nuestras interpretaciones ya no pueden ser corregidas, nuestras costumbres ya no pueden ser examinadas y nuestras instituciones comienzan a protegerse de las palabras de aquel cuyo nombre llevan.
+
+Eso no sucede en una tarde.
+
+Una generación recibe enseñanzas, prácticas y explicaciones de la anterior. Las ordena, las defiende y se las entrega a la siguiente. Cada parte confirma a las demás: la iglesia recomienda el libro, el libro explica la doctrina, la doctrina justifica la práctica y la práctica demuestra que la doctrina debe ser correcta.
+
+Después construimos colegios, universidades, ministerios, música, conferencias y editoriales alrededor de todo aquello.
+
+No es solamente una colección de ideas.
+
+Es un ecosistema.
+
+Dentro de ese ecosistema aprendemos una ética, una espiritualidad, una manera de leer la Biblia, una forma de reconocer autoridad y hasta un vocabulario para describir a quienes están adentro y a quienes están afuera.
+
+Nada de eso tiene que ser resultado de una conspiración. No hacen falta personas reunidas en secreto decidiendo cómo engañar a la próxima generación.
+
+Bastan personas sinceras transmitiendo conclusiones que ya no saben que pueden examinarse.
+
+Yo fui una de ellas.
+
+## Lo heredado
+
+Que una enseñanza sea heredada no significa que sea falsa.
+
+Tampoco significa que sea verdadera.
+
+Significa que llegó antes que nuestras preguntas.
+
+Cuando una idea nos acompaña desde la infancia, no la experimentamos como una interpretación. La experimentamos como la manera en que son las cosas. No recordamos haberla aceptado porque nunca sentimos que hubiera algo que decidir.
+
+Eso le da una fuerza especial.
+
+Cuestionar una idea adquirida ayer puede resultar incómodo. Cuestionar una idea recibida de nuestros padres, enseñada por nuestros pastores y compartida por todas las personas que amamos puede sentirse como una traición.
+
+La pregunta deja de ser solamente: «¿Es verdad?».
+
+Ahora también significa: «¿Qué pasará con mi familia, mi iglesia, mi historia y mi lugar entre ellos si descubro que no lo es?».
+
+Por eso una infraestructura puede sobrevivir durante generaciones sin que nadie esté fingiendo. Cada generación la encuentra funcionando. Cada una recibe respuestas de personas en quienes confía. Y cada una interpreta su continuidad como evidencia de que todo debe estar bien.
+
+La antigüedad comienza a parecer autoridad.
+
+La familiaridad comienza a parecer verdad.
+
+## Los pecados de Jeroboam
+
+Eso no comenzó con nosotros.
+
+En el reino de Israel llegó a existir toda una vida religiosa organizada: lugares de adoración, sacerdotes, altares y celebraciones. Una generación recibía aquellas prácticas de la anterior. Para una persona nacida dentro de ese mundo, aquello no habría parecido una rebelión.
+
+Habría parecido la manera normal de adorar a Dios.
+
+Sin embargo, la Escritura llama a aquella herencia «los pecados de Jeroboam» en 2 Reyes 17:22. Su antigüedad no la santificó. Su aceptación no la convirtió en obediencia. El hecho de que una generación la hubiera recibido de sus padres no la libraba de ser examinada a la luz de lo que Dios había dicho.
+
+Por eso Dios los llamó a volverse de sus caminos y guardar sus mandamientos.
+
+Típicamente se nos enseña a ser como nuestros padres o se espera que lo seamos. Nuestros padres esperan que les imitemos y que les superemos. Pero el umbral son ellos. Seria extraño que nos digan, "no seas como tu padre". 
+
+Pero eso es exactamente lo que les dice Dios a Israel: 
+
+> No sean como sus padres, a quienes los primeros profetas proclamaron diciendo: Así dice Jehová de los ejércitos: Vuélvanse ahora de sus malos caminos y de sus malas obras. Y no oyeron ni prestaron atención a mí, declara Jehová. Zacarías 1:4
+
+El llamado no venía desde fuera de su vida religiosa. Alcanzaba precisamente aquello que ellos consideraban religión.
+
+Necesitaban retornar a Dios. 
+
+Necesitaban abandonar lo que sus padres habían construido en su nombre. Eso se siente incomodo. Se siente irreverente decirlo pero es lo que Dios dijo. 
+
+## Los nombres que protegen la estructura
+
+Toda infraestructura necesita límites. Necesita alguna manera de distinguir lo aceptable de lo peligroso.
+
+Nosotros tenemos términos.
+
+Los términos teológicos no son malos. Pueden aclarar una conversación y evitar que tengamos que comenzar desde cero cada vez. El problema aparece cuando una palabra deja de describir una idea y comienza a resolver qué haremos con la persona que la expresa.
+
+En esos casos, un buen prefijo hace la mitad del trabajo.
+
+*Hiper*. *Anti*. *Semi*.
+
+Si después viene una palabra suficientemente teológica, podemos terminar la conversación antes de que se enfríe el café.
+
+Ya no tenemos que escuchar lo que la persona realmente afirma. Nos basta con colocarla dentro de una categoría. La etiqueta nos dice que se ha desviado, que representa un peligro o que no merece ser escuchada.
+
+Yo hice eso.
+
+En ocasiones adopté una opinión sobre alguien antes de leerlo o escucharlo. Me bastaba saber lo que otros decían de él. Si la etiqueta venía de una persona cuya autoridad yo reconocía, la recibía junto con la conclusión.
+
+Pensaba que estaba protegiendo la verdad. En vez de escuchar antes de llegar a mi conclusión, siempre estudiaba como refutarlo. Buscaba por el nombre: anti...o hiper...Obviamente habían libros que me decían lo que "esas personas" enseñaban. 
+
+A veces solo estaba protegiéndome de tener que examinar mis creencias a la luz de las escrituras. Es mejor dejarlo así que ponerse en peligro. Creo que en parte era pereza pero por otro lado era miedo de concluir algo diferente de lo establecido. 
+
+La pregunta no es si debemos reconocer el error. Cristo mismo confronta el error, y la Escritura no nos pide que tratemos todas las enseñanzas como si fueran iguales.
+
+La pregunta es otra:
+
+¿La etiqueta nos ayuda a examinar lo que alguien enseña, o nos da permiso para no escucharlo? Siendo honesto, en mi experiencia, la mayor parte de las veces era lo posterior. 
+
+Cuando una palabra (anti, hiper, semi) reemplaza la conversación, ya no está aclarando. Está vigilando la frontera y creo que hay un lugar para eso pero es una medida después de haberlo escuchado y conversado. 
+
+La realidad es que mi opinion no es menos valioso que la opinion de otro. Ambos pueden ser valorados pero también ambos deben ser sujetados a la autoridad suprema que es la Palabra de Dios. 
+
+## Cuando preguntar cuesta
+
+Una infraestructura no se sostiene únicamente mediante argumentos. También se sostiene mediante pertenencia.
+
+Dentro de ella tenemos familia, amistades, reputación, trabajo, historia y un lugar reconocido. Por eso ciertas preguntas cuestan tanto. No amenazan solamente una conclusión teológica. Pueden amenazar el mundo en el que vivimos.
+
+Esto tampoco significa que todos actúen de mala fe. Una persona puede guardar silencio por temor, lealtad, confusión o porque sinceramente cree que está protegiendo algo valioso. No me corresponde decidir lo que ocurre dentro de cada corazón.
+
+Lo que sí podemos observar es lo que la estructura permite.
+
+- ¿Puede una enseñanza ser examinada sin que la persona que pregunta sea tratada inmediatamente como una amenaza?
+
+- ¿Puede una práctica ser corregida por Cristo aunque lleve décadas funcionando?
+
+- ¿Podemos abrir la Biblia sin exigirle que confirme de antemano lo que ya decidimos?
+
+Una tradición no se vuelve Cristianica simplemente por ser tradición.
+
+Se vuelve Cristianica cuando deja de aceptar corrección.
+
+## El mundo al que pertenecía
+
+Esa era la infraestructura en la que vivía.
+
+No me parecía extraña. Me parecía cristiana.
+
+No la experimentaba como una prisión ni me levantaba cada mañana pensando que estaba atrapado dentro de un sistema religioso. Era mi familia, mi vocabulario, mi formación, mi ministerio y mi manera de entender el mundo.
+
+Era mi casa.
+
+Y precisamente por eso me costó tanto verla.
+
 
 ---
 
-Por esos años compuse y grabé música cristiana que, años después me di cuenta, me servía para tapar algo. Nunca supe qué.
+## Antes de abrir la carta
 
-> No puedo un manual escribir
-> Con reglas que tú debas seguir
-> Ni libros para estudiar
-> Detrás del conocimiento ocultar
+Uno esperaría que un libro sobre gente equivocada comenzara con algo evidentemente equivocado.
 
-Eso grabé en 1999, y era cierto: yo lo anhelaba. Todavía no vivía ahí.
+1 Juan hace algo más incómodo.
 
-Lo canté mientras sostenía un evangelio en el que yo le daba mi vida a Dios, y las dos cosas no encajan. La canción ya era más verdadera que mi teología.
+A lo largo de la carta aparecen siete declaraciones introducidas por expresiones como *si decimos* o *el que dice*:
 
-Escribí algo cierto al principio, creía otra cosa, y después me pasé veintiséis años caminando para el otro lado, juntando una por una las cuatro cosas que la canción había descartado: manuales, reglas, libros para estudiar y conocimiento donde esconderme.
+- *Si decimos que tenemos comunión con él.*
 
-No es ironía. Es desvío.
+- *Si decimos que no tenemos pecado.*
 
----
+- *Si decimos que no hemos pecado.*
 
-Mi relación con Dios iba en un solo sentido. Yo hablaba y yo contestaba. Los dos papeles.
+- *El que dice: Yo le conozco.*
 
-No es hipocresía. Es engaño. 
+- *El que dice que permanece en él.*
 
----
+- *El que dice que está en la luz.*
 
-La conferencia era sobre una vida cristiana montada sobre la confesión de pecados, pero la escena no pasó ahí: pasó después, en un restaurante. Me reclamaron por estar enseñando algo que no estaba en el manual. Les contesté que tenía cosas con el texto bíblico que todavía no lograba reconciliar, y que estaba tratando de ser fiel.
+- *Si alguno dice: Yo amo a Dios.*
 
-No me corrigieron con la Escritura. Me corrigieron con su manual.
+Léelas otra vez.
 
-Y yo tampoco salí de ahí como un hombre íntegro: salí asustado. Lo que hice después con ese miedo lo cuento más adelante, en el capítulo en el que me toca. Pero las preguntas se hicieron cada vez más fuertes.
+No todas dicen lo mismo y 1 Juan no responde de la misma manera a cada una. Dos niegan el pecado y la carta las contradice directamente. Otras podrían ser verdaderas.
 
----
+Pero decirlas no las hace verdaderas.
 
-Estaba totalmente convencido. Lo enseñaba con pasión. Traté de vivirlo fielmente… y fracasé.
+Eso es lo que tienen en común.
 
-Y nadie fracasa arreglando algo que nunca se rompió.
+Ninguna viene de alguien que se presenta como enemigo de la fe. No son las palabras de un ateo ni de una persona que quiere abandonar a Cristo. Son declaraciones hechas desde dentro. Hablan de comunión, conocimiento, permanencia, luz y amor a Dios.
 
----
+Son cosas que dice alguien convencido de que está bien.
 
-A los trece años de estar aquí, entendí el evangelio.
+Cuando 1 Juan quiere nombrar una negación doctrinal, sabe hacerlo. Más adelante pregunta quién es el mentiroso y responde: el que niega que Jesús es el Cristo. Ahí la carta identifica el error y le pone nombre.
 
-No es una manera de hablar. Me lo explicaron bien, lo vi, y cambió lo que yo enseñaba: dejé de decir que el evangelio era yo dándole mi vida a Dios y empecé a decir lo que dice, que ya está hecho.
+Aquí hace otra cosa.
 
-Y aquí está la parte que le pido que no se salte, porque si se la salta, este libro se lee como cualquier otro testimonio.
+No examina solamente si la frase suena correcta. Examina si lo que decimos corresponde con la manera en que vivimos.
 
-No me arregló.
+Ese es el terreno de este libro.
 
-Mi doctrina decía *terminado* y mi semana decía *mantener*. Las dos cosas salían de mi boca y yo no oía la diferencia. Pasé otros trece años así, con la doctrina correcta, enseñándola bien, y siendo el último en enterarme.
+No vamos a construir una galería de personas ridículas para contemplarlas desde una distancia segura. Vamos a escuchar afirmaciones que podrían salir de nuestra propia boca.
 
-Cuando la teología está intachable y la vida no funciona, queda un solo sospechoso. Y no es la teología.
+Varias salieron de la mía.
 
----
+## Una libertad que me tomo
 
-Todo me decía que iba bien: la doctrina, el salón, lo bien que hablaba, mis canciones. Una sola cosa no decía lo mismo, y era que no funcionaba.
+1 Juan no presenta estas declaraciones como una lista.
 
-Por esos años escribí esta canción.
+La carta avanza, vuelve, repite, amplía y retoma ideas sin anunciar que ha terminado el primer punto y ahora comenzará el segundo. Yo voy a cambiar el orden de presentación.
 
-> Todo pasa tan violento
-> mi vida silenciosamente
-> Todo pasa como el viento
-> y yo aquí, lentamente
+Voy a reunir las siete declaraciones y examinarlas una por una. Dos de ellas aparecerán juntas porque están una al lado de la otra y separarlas solo nos obligaría a repetirnos.
 
-No hay Dios en ella. Ninguno. Y la línea que más me cuesta leer hoy es *solo necesito la manera de empezar*.
+Esa es la libertad que me tomo.
 
-Hasta el desánimo pedía un método.
+No voy a inventar declaraciones nuevas ni a cambiar el sentido de las que aparecen en la carta. Solo voy a colocarlas juntas para que podamos ver lo que hacen.
 
----
+## El texto que usaremos
 
-Empecé a ver que mis fracasos eran los de quienes enseñaban lo mismo. Y no era solo el fracaso: empecé a ver de dónde salían nuestras conclusiones. No salían del texto. Salían del sistema, y después le buscábamos el versículo.
+Todas las citas bíblicas de este libro serán tomadas de La Palabra Fiel.
 
-Sonaba bien, pero era deducción. Empecé a ver hipocresía de verdad en los que yo admiraba, y las mismas inconsistencias en mí.
+Cuando vuelva a decir un pasaje en palabras cotidianas, quedará claro que es una explicación y no una segunda traducción. La intención no es hacer que el texto diga algo distinto, sino detenernos lo suficiente para oír lo que realmente dice.
 
----
+Porque un versículo conocido tiene un peligro particular:
 
-Cuando dejé de defenderme, de defender mi teología, y dejé de intentar probarle algo a alguien, empecé a escuchar.
-
-Uno no oye lo que está defendiendo.
-
----
-
-Lo que oí no venía al tema. No era ni el mismo libro.
-
-Y no era que la respuesta estuviera mal: era que la carta no hace esa pregunta. Los apuntes son respuestas, y si la pregunta viene de afuera, todo el cuaderno contesta algo que no está en la página.
-
----
-
-Ya no enseñaría ese manual. No es exacto y sigue metiendo teología en el texto. Salí, me quitaron los manuales, escribí los míos, y un año después veo que hacía lo mismo.
-
----
-
-Hoy me acusan de enseñar hipergracia. Y de antinomianismo.
-
-No me voy a defender de eso aquí. El libro entero es mi respuesta, y usted la va a juzgar mejor al final que yo ahora. Tengo mucho que aprender y desaprender, y no he llegado.
-
-No concluiremos nada que el texto no concluya. La tensión es tensión y sigue siendo tensión mientras el texto no la resuelva. Descansar en escuchar lo que el texto sí dice: ese es el camino.
-
----
-
-1 Juan empieza por otro lado.
-
-Empieza con la luz ya prendida.
-
-
----
-
-## Nota antes de continuar
-
-Tres páginas. Después empieza el libro.
-
-### Lo que esta carta no hace, y que a mí me tomó años ver
-
-Uno esperaría que un libro sobre gente equivocada empezara citando algo equivocado.
-
-Esta carta cita siete veces una frase que alguien venía diciendo. 
-
-*Si decimos que tenemos comunión con él.*
-
-*Si decimos que no tenemos pecado.*
-
-*Si decimos que no hemos pecado.*
-
-*El que dice: yo le conozco.*
-
-*El que dice que permanece en él.*
-
-*El que dice que está en la luz.*
-
-*Si alguno dice: yo amo a Dios.*
-
-Léalas otra vez.
-
-**Ninguna de las siete es falsa.**
-
-No hay una sola herejía en la lista. Son las cosas que uno quisiera poder decir. Son, palabra por palabra, lo que se dice en un salón de creyentes buenos.
-
-Y no es que la carta no sepa nombrar un error cuando quiere. Un poco más adelante dice quién es mentiroso: el que niega que Jesús es el Cristo. Ahí sí hay doctrina y ahí sí hay nombre. Podía hacerlo. En estas siete no lo hace.
-
-Lo que examina no es el vicio. Es la piedad.
-
-Ese es el libro entero, y es la razón por la que no va a encontrar aquí una galería de gente ridícula. Nadie de los que aparecen en esta carta dijo nada raro. Todos dijeron lo correcto.
-
-## Una libertad que me tomo, y es una sola
-
-1 Juan no organizó su carta como una lista. Va y vuelve, sube en espiral, dice lo mismo tres veces con otras palabras y nunca anuncia un punto número dos.
-
-Yo voy a agrupar. Voy a juntar en un solo lugar esas siete veces y mirarlas una por una — con dos de ellas juntas, porque están pegadas y separarlas sería repetirme.
-
-Eso es toda la libertad que me tomo: el orden. Las declaraciones no las inventé, las cita ella. El sentido de lo que dice no lo toco.
-
-## Las dos versiones
-
-Aquí se declara una vez y no se vuelve a explicar en todo el libro.
-
-Las citas van en Reina-Valera 1960, porque es la que casi todos nos sabemos de memoria — y porque un versículo que uno puede recitar es justamente un versículo que uno dejó de oír. Después, cuando haga falta, el mismo texto va otra vez en Nueva Biblia de las Américas, o simplemente en palabras de todos los días.
-
-No es para comparar traducciones. Es para volver a oír algo conocido.
-
-Y donde las dos no digan lo mismo, se lo voy a decir. Pasa un par de veces, y en ninguna voy a escoger la que me convenga y presentársela como si fuera la única.
+podemos recitarlo sin seguir escuchándolo.
 
 ## El método
 
-Se examinan oraciones, no corazones.
+Vamos a examinar declaraciones, no a adivinar corazones.
 
-Las oraciones se oyen. Los corazones adulan.
+Las declaraciones pueden escucharse. Pueden compararse con lo que hacemos y con lo que dice el texto.
+
+Los corazones son otra cosa. El mío pasó muchos años explicándome por qué yo tenía razón. No necesito ofrecerme ahora para interpretar el de los demás.
+
+Tampoco vamos a decidir quién es creyente y quién no según una frase aislada. 1 Juan pone esas declaraciones bajo la luz. Nosotros haremos lo mismo.
+
+Y empezaremos con una que parece imposible discutir:
+
+*Tenemos comunión con él.*
 
 # PARTE III — Eso decimos
 
----
+## 1 — «Tenemos comunión con él»
 
-# III.1 — «Tenemos comunión con él»
+*Tenemos comunión con él.*
 
-Conozco a un hombre que habla de un proyecto. Lo tiene todo pensado, sabe los plazos, sabe quién hace qué, y cuando lo cuenta dice «estamos avanzando». Lo dice en plural.
+Muy bien.
 
-Pero del otro lado no hay nadie. No está fingiendo ni mintiendo. Según él, el proyecto realmente es con otro. Él lo cree.
+¿Qué significa tener comunión con alguien?
 
-Es lo primero que decimos. No lo más importante, lo primero en orden: antes de hablar de pecado, de obediencia, de amor o de mentira, 1 Juan levanta una frase que la gente venía diciendo, y la frase es sobre una sociedad.
+Usamos la palabra como si todos supiéramos la respuesta. Yo la usé durante años. Podía decir quién estaba en comunión, quién había salido de comunión y qué tenía que hacer para volver.
 
-Nosotros la decimos con otras palabras. Decimos que fulano está fuera de comunión. Que se le rompió la comunión y hay que restaurarlo. Que mientras no esté en comunión no puede servir. Y cuando nos toca a nosotros, la misma frase se ablanda y se vuelve sensación: no me siento en comunión, siento que perdí la cercanía.
+Lo que nunca me detuve a preguntar fue qué significaba la palabra.
 
-Nadie dice «estoy fuera de comunión». Se dice de otro. Es un veredicto, no una confesión.
+Conozco a un hombre que habla de un proyecto. Lo tiene todo pensado. Sabe los plazos, sabe quién hace qué y, cuando lo cuenta, dice:
 
-Y así termina el versículo siete:
+«Estamos avanzando».
 
-*«Si andamos en luz, como él está en luz, se restaura nuestra comunión con Dios.»*
+Lo dice en plural.
 
-¿Así dice su Biblia?
+Pero del otro lado no hay nadie.
 
-No. Dice: *«tenemos comunión unos con otros».*
+No está fingiendo. Según él, el proyecto realmente es con otro. Él lo cree. Habla de una sociedad que la otra parte no tiene registrada.
 
-Unos con otros. Leí ese versículo cientos de veces y lo enseñé. Y todas esas veces lo terminé yo, en mi cabeza, antes de llegar al final, porque ya sabía de qué se trataba. La comunión era un lugar. Se entraba y se salía, se perdía y se recuperaba, había puerta y a veces la puerta se cerraba. Eso es lo que yo traía. Pero no está escrito así. 1 Juan no está enseñando cómo se entra o sale de comunión.
+Eso es lo primero que 1 Juan pone delante de nosotros. No lo más importante, sino lo primero en orden. Antes de hablar de pecado, obediencia, amor o mentira, la carta levanta una frase que alguien venía diciendo.
 
-Un día me puse a contarlas. No por erudito, por terco: había dicho «comunión» toda mi vida sin detenerme nunca a preguntar qué era eso que supuestamente tenía. La palabra que en 1 Juan 1:3 se traduce «comunión» aparece en otros lugares del Nuevo Testamento, y lo que me sorprendió no fue la palabra sino lo que hicieron con ella los mismos traductores, en la misma Biblia. En la mía. La que tengo aquí.
+Y la frase es sobre una sociedad:
 
-En Filipenses dice participación. En Segunda de Corintios, participar; unas páginas más adelante, contribución. En Romanos, ofrenda. En Hebreos, ayuda mutua. En Gálatas, compañerismo.
+*Tenemos comunión con él.*
 
-Y en 1 Juan, comunión. Seis de las siete son cosas que uno hace con gente. La séptima es la única que me sabía de memoria.
+Después puedes continuar con:
 
-Hebreos es donde me quedé un rato. Dice ayuda mutua. Nunca he oído a nadie decir que está «fuera de la ayuda mutua». No hay cómo: o ayudó o no ayudó, y si no ayudó no fue porque lo suspendieran. Pero «fuera de comunión» sí lo decimos, y lo decimos con seguridad, como quien informa de un dato. Es la misma palabra.
+> Nosotros la decimos con otras palabras. Decimos que fulano está fuera de comunión…
 
-Romanos me terminó de arruinar la tarde. Ahí la palabra es plata. Una colecta: juntaron, contaron, metieron en una bolsa y mandaron a Jerusalén. Le mandaron comunión, y llegó, y pesaba.
+Later, avoid repeating the discovery. Change this:
 
-Un lugar no cabe en una bolsa.
+> Un día me puse a contarlas. No por erudito, por terco: había dicho «comunión» toda mi vida sin detenerme nunca a preguntar qué era eso que supuestamente tenía.
 
-Y si vuelve al principio de la carta, ahí está lo que venía ofreciendo desde el primer momento. Tres versículos antes de la frase que estamos mirando dice para qué escribe: «lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros; y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo».
+To:
 
-No está ofreciendo entrada. No dice «para que entren». Dice: esto que vimos y tocamos, ustedes tienen parte en lo mismo.
+> Cuando por fin me puse a buscar cómo se usaba la palabra, no fue por erudito. Fue por terco. Quería saber qué era exactamente eso que yo decía tener.
 
-Una parte. Como quien tiene acciones de la misma empresa.
+There is also an important LPF correction. I checked the relevant passages in the supplied LPF source. The lexical argument still works, but LPF uses slightly different terms:
 
-Y eso cambia lo que el versículo seis está señalando. No es un hombre al que le cerraron la puerta. Es un hombre que dice tener parte en algo mientras vive de otra contabilidad. No es que lo sacaron. Es que nunca se juntó nada.
+> En Filipenses dice *participación*. En Segunda de Corintios, también *participación*. En Romanos, *contribución*. En Hebreos, *compartir*. En Gálatas, *compañerismo*.
+>
+> Y en 1 Juan, *comunión*.
+>
+> No son seis ideas desconectadas. Todas pertenecen a la misma familia: participar, compartir, tener parte con alguien.
 
-De ese error de lugar sale una frase que dije muchas veces y que suena tan sensata que nunca la revisé: ando fuera de comunión. Trate de decirla completa. Como oración, con sujeto y verbo, sin abreviar. Creo que un cristiano puede entrar en un estado relacional suspendido con Dios, causado por su pecado, del que se sale admitiendo verbalmente lo que hizo.
+The existing chapter says Hebrews uses “ayuda mutua”; LPF says “compartir.” That paragraph will need adjustment.
 
-Esa oración no se ha dicho en voz alta en una iglesia jamás. Nadie la enseñó así, nadie la defendió así, nadie firmó nada. Pero está entera dentro de cuatro palabras que decimos sin pensar. Y la máquina tiene dos piezas.
+Several biblical quotations also still come from the former translation. For example, LPF renders 1 Juan 1:3:
 
-El pecado rompe la comunión. Eso esta carta no lo dice en ninguna parte.
+> «Lo que hemos visto y oído les anunciamos a ustedes, para que ustedes también tengan comunión con nosotros; y nuestra comunión es con el Padre y con su Hijo, Jesús Cristo».
 
-Confesar la restaura. Eso tampoco.
+And 1 Juan 1:7:
 
-Y quiero ser cuidadoso aquí, porque es fácil pasarse de largo. Yo no estoy diciendo que a Dios le dé lo mismo lo que uno haga, ni que el pecado no le cueste a uno nada con él. Estoy diciendo algo más chiquito y más comprobable: que ese estado y ese trámite no salen de este texto. Los traía yo.
+> «Pero si andamos en la luz, como él está en la luz, tenemos comunión unos con otros, y la sangre de Jesús Cristo, su Hijo, nos limpia de todo pecado».
 
-Con las dos piezas armé un negocio privado con Dios en el que yo llevaba las cuentas. Y funcionaba. Rápido, cómodo, y sin necesitar a nadie más.
+Finally, the narrative questions must use `tú`:
 
-Pero hágale a esa frase la única pregunta que hay que hacerle a una frase heredada. ¿Qué me permite no hacer?
-
-Una traición se arrepiente. Un estatus se tramita. Yo tenía un estatus.
-
-Hay algo más, y tarda en verse. El hombre que anda en tinieblas convencido de que va bien es el menos acompañado del salón. No porque nadie se le acerque, sino porque él no está ahí. La gente llega y encuentra la versión. Se puede vivir así muchos años, rodeado, querido y solo. Y si usted le pregunta cómo van sus relaciones, le va a decir que bien.
-
-Y entonces la carta hace algo que no encaja con la máquina. Uno esperaría que dijera: si andamos en luz, se restablece tu comunión con Dios. Sería lo lógico, y es lo que casi todos creímos que decía. Dice otra cosa: «tenemos comunión unos con otros, y la sangre de Jesucristo su Hijo nos limpia de todo pecado».
-
-Unos con otros. Y eso deja el asunto al revés de como yo lo venía cargando. Yo creía que quedábamos afuera por sucios. No. Quedábamos afuera por la frase.
-
-Pasé años acomodándome para no quedar bajo el foco. Creía que la luz era una lámpara de interrogatorio.
-
-Era la sala.
+- `¿Así dice tu Biblia?`
+- `Si vuelves al principio de la carta…`
+- `Trata de decirla completa.`
+- `Hazle a esa frase una pregunta…`
 
 
 ---
 
-# III.2 — «No tenemos pecado»
+## 2 — «No tenemos pecado»
 
 Si en algo te ofendí, te pido perdón. Todos la hemos dicho. Y nadie, en toda la historia del mundo, se ha sentido perdonado por ella.
 
@@ -494,7 +548,7 @@ Es la primera negación con buenos modales.
 
 ---
 
-# III.3 — «Yo le conozco» y «Permanezco en él»
+## 3 — «Yo le conozco» y «Permanezco en él»
 
 Hay un hombre que habla de un país donde nunca estuvo. Sabe los platos típicos. Sabe cómo se llama la moneda. Sabe quién es el presidente y sabe por qué la gente se queja de él. Habla con soltura y todo lo que dice es cierto.
 
@@ -567,7 +621,7 @@ Y usaba el verbo equivocado.
 
 ---
 
-# III.5 — «Estoy en la luz»
+## 5 — «Estoy en la luz»
 
 Hay una conversación que he tenido muchas veces y siempre sale igual de bien. Alguien me explica por qué ya no habla con otra persona. Lo explica con calma. Da tres razones y las tres son buenas. No levanta la voz, no dice nada feo del otro, hasta dice algo bueno del otro. Y termina con una frase que suena a madurez: fue lo más sano.
 
@@ -652,7 +706,7 @@ Iba muy rápido y muy seguro, y eso me parecía la prueba de que veía.
 
 ---
 
-# III.6 — «Yo amo a Dios»
+## 6 — «Yo amo a Dios»
 
 He hecho las dos partes de una discusión yo solo. Le puse la voz al otro. Le puse las razones. Le puse hasta la pausa antes de contestarme.
 
@@ -714,18 +768,9 @@ Después de eso, y solo después, viene lo que se manda hacer: *el que ama a Dio
 
 Yo nunca perdí una discusión con Dios.
 
-
----
-
-
-
-<br>
-
 # PARTE IV — Por qué funciona
 
----
-
-# IV.1 — La credencial
+## 1 — La credencial
 
 Hasta aquí veníamos leyendo la carta. Lo que sigue no lo saqué de ahí. Es lo que fui entendiendo, despacio y a la fuerza, sobre por qué esto funciona tan bien. Si en estos tres capítulos usted no reconoce nada de lo suyo, no le voy a poder probar nada con un versículo. Y no lo voy a intentar.
 
@@ -810,7 +855,7 @@ Tiene uno lleno, ordenado, y con la letra bien clara.
 
 ---
 
-# IV.2 — Heredamos frases
+## 2 — Heredamos frases
 
 Yo creía que mi teología era un conjunto de cosas que pensaba. No lo era. Era un conjunto de cosas que yo decía.
 
@@ -893,7 +938,7 @@ Igual que yo no sé de dónde saqué las mías.
 
 ---
 
-# IV.3 — Dominio del salón
+## 3 — Dominio del salón
 
 Cuando entraba a una reunión de las nuestras, sabía en menos de un minuto quién era de ahí. No por la ropa. Por cómo hablaba.
 
@@ -979,18 +1024,11 @@ No sé cómo se resuelve esto. Lo digo en serio: no lo sé, y lo estoy viviendo 
 
 Ya no me sirve que suene bien.
 
-
----
-
-
-
-<br>
-
 # PARTE V — Esto ya era verdad
 
 ---
 
-# V.1 — Dios es luz
+## 1 — Dios es luz
 
 Usted llegó hasta aquí y hay algo que le está doliendo, y prefiero decirlo yo antes que dejarlo solo con eso. Si todo esto es cierto, si de verdad pasé años diciendo cosas que nunca revisé y fui el último en enterarme, entonces la luz no está de mi lado.
 
@@ -1030,10 +1068,7 @@ A usted no lo descubrió nadie.
 
 A ella sí.
 
-
----
-
-# V.2 — Tenemos Abogado
+## 2 — Tenemos Abogado
 
 Lo peor de que a uno lo descubran no es que lo descubran. Es el momento de después. Cuando ya se dijo todo, cuando la otra persona terminó de hablar y tiene razón, y uno se queda ahí sentado con las manos sobre la mesa.
 
@@ -1084,7 +1119,7 @@ Si eso es darle permiso a la gente, la queja no es conmigo.
 
 ---
 
-# V.3 — Mayor que nuestro corazón
+## 3 — Mayor que nuestro corazón
 
 Un libro como este le deja a uno una linterna nueva. Y lo primero que uno hace con una linterna nueva es apuntársela a sí mismo toda la noche.
 
@@ -1137,7 +1172,7 @@ Ahí abajo no hay nada que Dios no sepa ya.
 
 ---
 
-# V.4 — Él nos amó primero
+## 4 — Él nos amó primero
 
 Después de todo lo anterior queda una sospecha, y es la peor de todas porque llega al último y llega a lo único que uno creía a salvo. Si cualquier cosa que yo diga puede ser una versión, entonces qué pasa con esta: **yo amo a Dios.**
 
@@ -1184,7 +1219,7 @@ El proyecto sí era con otro.
 
 ---
 
-# V.5 — Para que sepáis
+## 5 — Para que sepáis
 
 Queda una pregunta, y es la más práctica de todas. ¿Y ahora qué? ¿Voy a andar el resto de mi vida revisándome? ¿Este es el final: un hombre que ya no se cree nada de lo que se dice?
 
@@ -1233,7 +1268,7 @@ Eso me lo dijeron.
 
 ---
 
-# VI. CIERRE — Convencidísimos
+# PARTE VI — CIERRE
 
 Este libro empezó con un hombre solo. Convencidísimo, en singular. El último en enterarse, hablando con soltura de un proyecto que no tenía socio. Le puse singular a propósito, para que usted pudiera mirarlo desde afuera un rato. Es más fácil así.
 
@@ -1306,7 +1341,7 @@ Vino a sacarnos de él.
 
 ---
 
-# Lo que sigo sin saber
+## Lo que sigo sin saber
 
 Un libro sobre el autoengaño que termina sin una sola cosa sin resolver es la mejor prueba de que su autor no aprendió nada. Estas son las cuatro que fui dejando abiertas por el camino. No las guardé para el final por dramatismo. Las guardé porque no las sé, y porque cerrarlas me habría costado hacer exactamente lo que este libro pasó doscientas páginas señalando: concluir algo que el texto no concluye, y decirlo con voz de que sí.
 
