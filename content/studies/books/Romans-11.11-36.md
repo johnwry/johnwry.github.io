@@ -712,7 +712,7 @@ Paul reasons from the contrary-to-nature grafting to how much more the natural b
 
 > FOR I do not want, brothers and sisters, you to be unaware of this mystery—SO THAT you may not be wise in your own estimation—THAT a partial hardening has happened to Israel UNTIL the fullness of the Gentiles comes in,
 
-Paul explains the mystery to prevent self-conceit. Israel’s hardening is qualified as partial and connected with an UNTIL statement.
+Paul explains the mystery (something previously unknown will be explained) to prevent self-conceit. Israel’s hardening is qualified as partial and connected with an UNTIL statement.
 
 **26**
 
@@ -724,7 +724,7 @@ Paul states Israel’s salvation and supports it with Scripture concerning the D
 
 > AND this [is] my covenant with them, WHEN I take away their sins.”
 
-The covenant statement connects the covenant with the taking away of their sins.
+The covenant statement connects a covenant called my covenant with the taking away of their sins.
 
 **28**
 
