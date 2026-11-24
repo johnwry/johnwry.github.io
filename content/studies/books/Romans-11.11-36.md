@@ -780,16 +780,48 @@ The question concerns giving first and consequently receiving repayment.
 
 All things are described in relation to God as their source, means, and end. Paul concludes by ascribing glory to him forever.
 
+
+-----
+
+**What the text establishes**
+
+1. **God’s word has not failed, and he has not rejected his people.** A remnant exists in Paul’s own time. Romans 9:6, 11:1–5
+2. **Salvation has reached Gentiles through Israel’s trespass.** Provoking Israel to jealousy is a stated purpose, and Paul hopes to save some of his own people through his ministry. Romans 11:11–14
+3. **Some branches were broken off; others remained.** The Gentile recipient was grafted in among them and became a fellow participant in the root’s nourishment. Romans 11:17
+4. **Unbelief explains their removal; faith explains the recipient’s standing.** Their natural relationship to the tree did not prevent removal through unbelief. Romans 11:20–21
+5. **The Gentile recipient receives an explicit warning.** God’s kindness toward the recipient is qualified by continuing in it; otherwise, the recipient also will be cut off. Romans 11:22
+6. **Being broken off does not make grafting in again impossible.** Those who do not continue in unbelief will be grafted in again. God is able to accomplish this. Romans 11:23–24
+7. **Israel’s hardening is partial and connected with an UNTIL statement.** Paul then declares that all Israel will be saved and supports this with the covenant quotation concerning the removal of sins. Romans 11:25–27
+8. **God’s gifts and calling are irrevocable.** The people described as enemies regarding the gospel are also described as beloved regarding election because of the fathers. Romans 11:28–29
+9. Israel’s unbelief has real consequences. God nevertheless remains faithful to his promises, and the broken branches will be grafted in again if they do not continue in unbelief.** Romans 11:20–29
+10. **Both groups appear in the account of disobedience and mercy.** God’s stated purpose in verse 32 is to show mercy to all. Romans 11:30–32
+11. **The required response includes humility, fear, and recognition of God’s kindness and severity.** Paul opposes boasting, arrogance, and self-conceit, and concludes with praise of God. Romans 11:18–22, 25, 33–36
+
+The illustration gives us enough information to follow its argument without identifying every element. The root nourishes and supports the recipient; the recipient depends on it. Paul supplies the reasons for removal and standing, the condition concerning continued kindness, and the prospect of grafting in again. Romans 11:17–24
+
 **Inferences**
 
-- **11–15:** “They” refers to the Israelites whose stumbling and unbelief Paul has been discussing. Fullness and acceptance point toward a positive outcome beyond their present condition.
-- **17–24:** The singular “you” represents the Gentile audience addressed in verse 13. Its singular form alone does not settle whether every aspect concerns individuals, Gentiles collectively, or both.
+- **11–15:** “They” refers to the Israelites whose stumbling and unbelief Paul has been discussing. Their fullness and acceptance point toward a positive outcome beyond their present condition.
+- **17–24:** The singular “you” represents the Gentile audience addressed in verse 13. The singular form alone does not settle whether every aspect concerns individuals, Gentiles collectively, or both.
 - **17:** “Though being a wild olive” expresses an inferred contrast. The Greek contains a participle without a separate word meaning “though.”
-- **22–23:** Continuing in kindness is closely connected with the surrounding contrast between faith and unbelief.
-- **25–27:** Reading Israel’s salvation as part of the mystery’s content follows the connection shown in our outline. Israel/Jacob is the immediate contextual referent for “them” in the covenant quotation.
+- **22–23:** Continuing in God’s kindness is closely connected with the surrounding contrast between faith and unbelief.
+- **25–27:** Our outline reads Israel’s salvation as part of the mystery’s content. Israel/Jacob is the immediate contextual referent for “them” in the covenant quotation.
 - **28–29:** God’s gifts and calling concern his relationship to Israel, particularly in connection with the fathers.
 - **31:** Our translation connects “through the mercy [shown] to you” with their receiving mercy. This attachment remains provisional.
+- **32:** The preceding comparison indicates that Jews and Gentiles are included in each occurrence of “all.” Whether this entails the eventual salvation of every individual requires further argument; the word alone does not settle that question.
 - **34–36:** The questions invite the conclusion that nobody supplies God with counsel or places him under an obligation to repay.
-- **The section overall:** Paul brings the discussion toward the conclusion that Israel’s unbelief and Gentile inclusion have not overturned God’s word or covenant commitment. Romans 9:6, 11:25–32
+- **The section overall:** God can fulfill his purposes for Israel while individual Israelites miss out through unbelief. Likewise, mercy reaching Gentiles does not mean every Gentile automatically participates. The discussion presents Israel’s unbelief and Gentile inclusion alongside God’s continuing faithfulness to his word and covenant commitment. Romans 9:6, 11:20–32
 
-**Still unresolved:** the identities represented by the firstfruits and root; the precise meaning of life from the dead; the extent of “all Israel”; the attachment in verse 31; and the full consequences of being cut off.
+**Questions that remain open**
+
+Paul distinguishes physical descendants from children of promise. That distinction addresses the assumption that descent guarantees participation; it does not by itself answer what happens to someone already justified through faith. Romans 9:6–8
+
+Romans 8 also gives explicit assurance: God justifies, Christ intercedes, and nothing in creation can separate the people Paul describes from God’s love in Christ. The same discussion connects justification with future glory. Romans 8:28–39
+
+We have not yet established precisely how participation in the olive tree relates to the justified people described in Romans 8. The warning must retain its force, and the assurance must retain its breadth. The consequences of unbelief are clear; the full meaning of being cut off still requires examination.
+
+Other open questions include the identities represented by the firstfruits and root, the precise meaning of life from the dead, and the extent of “all Israel.” Identifying the root may deepen our understanding, but it is not necessary to recognize dependence, the significance of faith and unbelief, or Paul’s correction of Gentile arrogance.
+
+**Reflection**
+
+There is so much human failure in this account, yet God brings the story toward mercy, fulfilled promises, and his own glory. We’re left marveling at what God accomplishes with people like us.
