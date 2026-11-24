@@ -1,0 +1,146 @@
+\documentclass[11pt,openany]{book}
+
+% Page size
+\usepackage[
+paperwidth=6in,
+paperheight=9in,
+inner=1in,
+outer=0.9in,
+top=1in,
+bottom=1in
+]{geometry}
+
+% Fonts
+\usepackage{fontspec}
+\setmainfont{Crimson Pro}
+
+% Line spacing
+\usepackage{setspace}
+\setstretch{1.35}
+
+% Microtypography
+\usepackage{microtype}
+
+% Images
+\usepackage{graphicx}
+
+% Headers
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[LE]{\nouppercase{\leftmark}}
+\fancyhead[RO]{John Wry}
+
+\fancyfoot[C]{\thepage}
+
+% Paragraph style
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6em}
+
+% Custom chapter layout (safe)
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{
+  \vspace*{3cm}
+  {\centering
+  \Huge\bfseries
+  CHAPTER \thechapter
+
+  \vspace{1em}
+
+  \Huge #1
+  \par}
+  \vspace{2cm}
+}
+\makeatother
+
+\begin{document}
+
+% Cover
+\thispagestyle{empty}
+\begin{center}
+\includegraphics[width=\paperwidth,height=\paperheight]{cover.png}
+\end{center}
+\clearpage
+
+% Title page
+\begin{titlepage}
+\centering
+\vspace*{3cm}
+
+{\Huge\bfseries The Carnal Church}
+
+\vspace{1cm}
+
+{\Large A Biblical Investigation of the Flesh and the Cross}
+
+\vfill
+
+{\Large John Wry}
+
+\vspace{2cm}
+
+\end{titlepage}
+
+% Copyright
+\clearpage
+\thispagestyle{empty}
+
+\begin{center}
+
+Copyright © 2026 John Wry
+
+\vspace{1em}
+
+Scripture quotations are from the  
+New American Standard Bible (NASB).
+
+\vspace{1em}
+
+This book may be freely shared in digital format  
+provided it is not altered.
+
+\end{center}
+
+\clearpage
+
+% Dedication
+\thispagestyle{empty}
+
+\vspace*{4cm}
+
+\begin{center}
+
+Dedicated to my wife Nelly  
+who has stood by my side.
+
+\end{center}
+
+\clearpage
+
+% TOC
+\tableofcontents
+
+\clearpage
+
+$body$
+
+% Final page
+\clearpage
+\thispagestyle{empty}
+
+\vspace*{4cm}
+
+\begin{center}
+
+Thank you for reading.
+
+\vspace{1cm}
+
+If this book helped you, share it with someone  
+who is wrestling with the same questions.
+
+\end{center}
+
+\end{document}

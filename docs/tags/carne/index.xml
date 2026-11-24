@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Carne on John Wry — Estudios y música</title>
-		<link>http://localhost:1313/tags/carne/</link>
+		<link>http://localhost:1314/tags/carne/</link>
 		<description>Recent content in Carne on John Wry — Estudios y música</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,12 +12,12 @@
 			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
 		
 		
-			<atom:link href="http://localhost:1313/tags/carne/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1314/tags/carne/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Santiago 1:12-18</title>
-				<link>http://localhost:1313/estudios/libros/santiago-112-18/</link>
+				<link>http://localhost:1314/estudios/libros/santiago-112-18/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/estudios/libros/santiago-112-18/</guid>
+				<guid>http://localhost:1314/estudios/libros/santiago-112-18/</guid>
 				<description>&lt;h1 id=&#34;santiago-112-18&#34;&gt;Santiago 1:12-18&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;verseid:59.1.12&#34;&gt;&lt;strong&gt;Jas 1:12&lt;/strong&gt; &lt;/a&gt; Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida, que Dios ha prometido a los que le aman.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;verseid:59.1.13&#34;&gt;&lt;strong&gt;Jas 1:13&lt;/strong&gt; &lt;/a&gt; Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;verseid:59.1.14&#34;&gt;&lt;strong&gt;Jas 1:14&lt;/strong&gt; &lt;/a&gt; sino que cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido.&lt;/p&gt;</description>
 			</item>
 	</channel>

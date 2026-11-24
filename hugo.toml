@@ -62,7 +62,8 @@ pygmentsCodeFences=true
   [markup.goldmark.renderer]
     unsafe = true
 
-
+[security]
+  allowContent = ['! ^text/org$']
 #
 # Specific configuration
 #

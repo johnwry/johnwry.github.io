@@ -1,0 +1,839 @@
+{
+  "title": "Revisión de 64 versículos de Éxodo 5–7",
+  "date": "2026-10-21",
+  "status": "editorial_recommendations_for_user_review",
+  "source_attachment": "Pasted text(20261021-134201).txt",
+  "source_files_modified": false,
+  "scope": "Only the 64 verses supplied in the attachment; omitted verses were not reviewed.",
+  "decision_semantics": {
+    "current": "Keep the current canonical text exactly.",
+    "recovered": "Keep the recovered candidate exactly, including punctuation.",
+    "redo": "Use the supplied revised wording; this includes minor normalization changes."
+  },
+  "counts": {
+    "current": 0,
+    "recovered": 12,
+    "redo": 52
+  },
+  "conventions_es": [
+    "Nombre divino: Yahvé.",
+    "Capataces y oficiales se distinguen como cargos diferentes.",
+    "Dejar ir o dejar salir expresa la liberación exigida a Faraón.",
+    "Las cursivas señalan algunas palabras suplidas; no constituyen un inventario exhaustivo de todas las diferencias gramaticales entre el hebreo y el español.",
+    "Las variantes de nombres se normalizan como decisión editorial; no se consideran por sí solas errores de traducción.",
+    "Se conserva la distinción fortalecer / endurecer / pesado para las diferentes raíces hebreas del corazón de Faraón."
+  ],
+  "primary_hebrew_sources": [
+    "https://mechon-mamre.org/p/pt/pt0205.htm",
+    "https://mechon-mamre.org/p/pt/pt0206.htm",
+    "https://mechon-mamre.org/p/pt/pt0207.htm"
+  ],
+  "verses": [
+    {
+      "reference": "Exodus 5:10",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-10.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y salieron los opresores del pueblo y sus oficiales, y dijeron al pueblo, diciendo: Así dijo Faraón: No estoy dando a ustedes paja.",
+      "recovered_text": "Y salieron los opresores del pueblo y sus oficiales, y dijeron al pueblo: «Así dijo Faraón: No les doy paja».",
+      "recommended_text": "Y salieron los capataces del pueblo y sus oficiales, y dijeron al pueblo: «Así dice Faraón: “No les doy paja”».",
+      "reason_es": "Unifica «capataces», conserva «oficiales» y usa la fórmula «Así dice».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:11",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-11.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Ustedes, vayan, tomen para ustedes paja de donde hallen, porque no es disminuida de su servicio cosa.",
+      "recovered_text": "Ustedes vayan, tomen para ustedes paja de lo que encuentren, porque no se disminuye de su labor cosa alguna.",
+      "recommended_text": "Ustedes, vayan y recojan paja para ustedes donde la encuentren, porque no se disminuirá en nada su trabajo.",
+      "reason_es": "El sentido es «donde», no «de lo que». Expresa claramente que no se reducirá el trabajo exigido.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:12",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-12.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y se esparció el pueblo por toda la tierra de Egipto a recoger rastrojo para la paja.",
+      "recovered_text": "Y se dispersó el pueblo por toda la tierra de Egipto para recoger rastrojo para la paja.",
+      "recommended_text": "Y se dispersó el pueblo por toda la tierra de Egipto para recoger rastrojo que sirviera de paja.",
+      "reason_es": "Aclara la función del rastrojo sin dar a entender que recogían paja ya preparada.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:13",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-13.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y los opresores apremiaban, diciendo: Acaben sus obras, asunto de día en su día, como al ser la paja.",
+      "recovered_text": "Y los capataces apremiaban, diciendo: «Completen sus trabajos, la tarea de cada día en su día, como cuando había paja»。",
+      "recommended_text": "Y los capataces apremiaban, diciendo: «Completen sus trabajos, la tarea de cada día en su día, como cuando había paja».",
+      "reason_es": "La recuperada es utilizable; solo corrijo el signo final «。» por un punto.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:14",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-14.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y fueron heridos los oficiales de los hijos de Israel que pusieron sobre ellos los opresores de Faraón, diciendo: ¿Por qué no acabaron su porción de ladrillar como ayer anteayer, también ayer, también hoy?",
+      "recovered_text": "Y fueron golpeados los oficiales de los hijos de Israel, a quienes los capataces de Faraón habían puesto sobre ellos, diciendo: «¿Por qué no completaron la cuota de ustedes de hacer ladrillos, como ayer y anteayer, tanto ayer como hoy?»",
+      "recommended_text": "Y fueron golpeados los oficiales de los hijos de Israel, a quienes los capataces de Faraón habían puesto sobre ellos, y les dijeron: «¿Por qué no han completado, ni ayer ni hoy, su cuota de ladrillos como antes?».",
+      "reason_es": "«Ayer y anteayer» expresa aquí «antes»; «ayer» y «hoy» siguen nombrando los días de incumplimiento. Aclara quién recibe la pregunta.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:15",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-15.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y vinieron los oficiales de los hijos de Israel y clamaron a Faraón, diciendo: ¿Por qué haces así a tus siervos?",
+      "recovered_text": "Y vinieron los oficiales de los hijos de Israel, y clamaron a Faraón, diciendo: «¿Por qué haces así a tus siervos?»",
+      "recommended_text": "Y vinieron los oficiales de los hijos de Israel, y clamaron a Faraón, diciendo: «¿Por qué haces así a tus siervos?».",
+      "reason_es": "La recuperada es utilizable; solo añado el punto de cierre después de las comillas.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:16",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-16.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Paja no es dada a tus siervos, y ladrillos dicen a nosotros: Hagan. Y he aquí tus siervos heridos, y has pecado contra tu pueblo.",
+      "recovered_text": "Paja no es dada a tus siervos, y nos dicen: «Hagan ladrillos»; y he aquí, tus siervos son golpeados, y pecaste; tu pueblo.",
+      "recommended_text": "No se da paja a tus siervos, y nos dicen: «Hagan ladrillos». Y he aquí, tus siervos son golpeados, pero la culpa es de tu pueblo.",
+      "reason_es": "Repara la frase final de la recuperada. La última cláusula hebrea es difícil; esta es una interpretación tradicional, no una equivalencia indiscutible.",
+      "note_es": "La expresión final del texto masorético presenta una dificultad gramatical. Recomiendo «la culpa es de tu pueblo», entendiendo la referencia a los egipcios responsables de la tarea. «Has obrado mal contra tu pueblo» representa otra solución, relacionada con versiones antiguas y propuestas de corrección textual; conviene señalarla en nota si se adopta.",
+      "review_flags": [
+        "interpretive_choice",
+        "textual_difficulty"
+      ],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=5&verse=16"
+      ]
+    },
+    {
+      "reference": "Exodus 5:17",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-17.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo: Flojos *son* ustedes, flojos; por eso ustedes dicen: Andemos, sacrifiquemos a Jehová.",
+      "recovered_text": "Y dijo: «Holgazanes ustedes, holgazanes; por eso ustedes dicen: “Vayamos, sacrifiquemos a YHWH”».",
+      "recommended_text": "Y dijo: «Ociosos *son* ustedes, ociosos; por eso dicen: “Vayamos a ofrecer sacrificios a Yahvé”».",
+      "reason_es": "Conserva la repetición acusatoria; añade la cópula española y unifica «ociosos», «ofrecer sacrificios» y «Yahvé».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:20",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-20.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y se encontraron con Moisés y con Aarón parados a su encuentro, en su salir de con Faraón.",
+      "recovered_text": "Y encontraron a Moisés y a Aarón, de pie a su encuentro, al salir ellos de ante Faraón.",
+      "recommended_text": "Y al salir de ante Faraón, se encontraron con Moisés y Aarón, que estaban de pie esperándolos.",
+      "reason_es": "Aclara que quienes salen son los oficiales y quienes los esperan son Moisés y Aarón.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 5:21",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-21.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijeron a ellos: Vea Jehová sobre ustedes y juzgue, que han hecho heder nuestro olor en los ojos de Faraón y en los ojos de sus siervos, para dar espada en su mano para matarnos.",
+      "recovered_text": "Y les dijeron: «YHWH mire sobre ustedes y juzgue, porque han hecho apestar nuestro olor ante los ojos de Faraón y ante los ojos de sus siervos, poniendo espada en la mano de ellos para matarnos».",
+      "recommended_text": "Y les dijeron: «Que Yahvé los mire y juzgue, porque nos han hecho odiosos ante Faraón y ante sus siervos, poniendo una espada en sus manos para matarnos».",
+      "reason_es": "Expresa el sentido del giro sobre el olor y conserva la imagen de la espada.",
+      "note_es": "El hebreo dice, literalmente, que han hecho apestar su olor «ante los ojos» de Faraón y sus siervos. «Nos han hecho odiosos» comunica esa pérdida de favor; se puede conservar la imagen literal en una nota.",
+      "review_flags": [],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=5&verse=21"
+      ]
+    },
+    {
+      "reference": "Exodus 5:22",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-22.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y volvió Moisés a Jehová y dijo: Adonai, ¿por qué has hecho mal a este pueblo? ¿Por qué esto me enviaste?",
+      "recovered_text": "Y volvió Moisés a Yahvé y dijo: «Señor mío, ¿por qué has hecho mal a este pueblo? ¿Por qué me enviaste para esto?»",
+      "recommended_text": "Y volvió Moisés a Yahvé y dijo: «Señor mío, ¿por qué has hecho mal a este pueblo? ¿Por qué me enviaste?».",
+      "reason_es": "«Para esto» introduce una finalidad que el giro hebreo no exige. Mantiene la fuerza de la queja de Moisés.",
+      "note_es": "El demostrativo hebreo intensifica la pregunta: también puede expresarse «¿Por qué, entonces, me enviaste?». «Señor mío» traduce el título Adonay, distinto del nombre Yahvé.",
+      "review_flags": [],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=5&verse=22"
+      ]
+    },
+    {
+      "reference": "Exodus 5:23",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-5-23.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y desde entonces que vine a Faraón a hablar en tu nombre, ha hecho mal a este pueblo, y librando, no has librado a tu pueblo.",
+      "recovered_text": "Y desde que vine a Faraón para hablar en tu nombre, ha hecho mal a este pueblo; y librar, no has librado a tu pueblo.",
+      "recommended_text": "Y desde que vine a Faraón para hablar en tu nombre, él ha hecho mal a este pueblo; y tú no has librado en absoluto a tu pueblo.",
+      "reason_es": "La construcción enfática refuerza la negación: «no has librado en absoluto». «Él» identifica a Faraón como quien ha hecho mal.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=5&verse=23"
+      ]
+    },
+    {
+      "reference": "Exodus 6:1",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-1.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo Jehová a Moisés: Ahora verás lo que haré a Faraón, porque con mano fuerte los enviará, y con mano fuerte los echará desde su tierra.",
+      "recovered_text": "Y Yahvé dijo a Moisés: «Ahora verás lo que haré a Faraón, porque con mano fuerte los enviará, y con mano fuerte los expulsará de su tierra».",
+      "recommended_text": "Y Yahvé dijo a Moisés: «Ahora verás lo que haré a Faraón, porque con mano fuerte los dejará ir, y con mano fuerte los expulsará de su tierra».",
+      "reason_es": "Aquí «enviará» significa dejar salir al pueblo, no encargarle una misión.",
+      "note_es": "Conservo «con mano fuerte» sin insertar «mi». La expresión puede describir la fuerza divina que obliga a Faraón o la fuerza con que este termina expulsando al pueblo; el texto no contiene ese posesivo.",
+      "review_flags": [
+        "interpretive_choice"
+      ],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=6&verse=1"
+      ]
+    },
+    {
+      "reference": "Exodus 6:2",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-2.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y habló Dios a Moisés, y dijo a él: Yo Jehová.",
+      "recovered_text": "Y habló Dios a Moisés, y le dijo: «Yo, YHWH».",
+      "recommended_text": "Y habló Dios a Moisés, y le dijo: «Yo *soy* Yahvé».",
+      "reason_es": "Añade la cópula necesaria para la identificación y unifica el nombre divino.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:4",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-4.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y también levanté mi pacto con ellos, para dar a ellos tierra de Canaán, la tierra de sus peregrinaciones que peregrinaron en ella.",
+      "recovered_text": "Y también establecí mi pacto con ellos, para darles la tierra de Canaán, la tierra de sus residencias, en la cual residieron.",
+      "recommended_text": "Y también establecí mi pacto con ellos para darles la tierra de Canaán, la tierra donde residieron como extranjeros.",
+      "reason_es": "La expresión hebrea indica residencia como extranjeros, no simplemente «residencias».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:5",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-5.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y también yo he oído el gemido de hijos de Israel que Egipto hacen servir a ellos, y he recordado mi pacto.",
+      "recovered_text": "Y también yo he oído el gemido de los hijos de Israel, a quienes Egipto hace servir, y recordé mi pacto.",
+      "recommended_text": "Y también yo he oído el gemido de los hijos de Israel, a quienes los egipcios mantienen en servidumbre, y he recordado mi pacto.",
+      "reason_es": "Aclara el sujeto «los egipcios» y el carácter forzado del servicio; mantiene la secuencia verbal.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:6",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-6.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Por tanto, di a hijos de Israel: Yo Jehová, y sacaré a ustedes de debajo de las cargas de Egipto, y libraré a ustedes de su servicio, y redimiré a ustedes con brazo extendido y con juicios grandes.",
+      "recovered_text": "Por tanto, di a los hijos de Israel: Yo, Yahvé; y los sacaré de debajo de las cargas de Egipto, y los libraré de su servicio, y los redimiré con brazo extendido y con grandes juicios.",
+      "recommended_text": "Por tanto, di a los hijos de Israel: «Yo *soy* Yahvé, y los sacaré de debajo de las cargas de Egipto, y los libraré de su servidumbre, y los redimiré con brazo extendido y con grandes juicios».",
+      "reason_es": "Completa la identificación divina, delimita el discurso y expresa la esclavitud con «servidumbre».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:7",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-7.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y tomaré a ustedes a mí a pueblo, y seré a ustedes a Dios, y conocerán que yo Jehová su Dios, el sacante a ustedes de debajo de las cargas de Egipto.",
+      "recovered_text": "Y los tomaré para mí por pueblo, y seré para ustedes por Dios; y sabrán que yo, Yahweh su Dios, los saco de debajo de las cargas de Egipto.",
+      "recommended_text": "Y los tomaré para mí por pueblo, y seré su Dios; y sabrán que yo *soy* Yahvé, su Dios, el que los saca de debajo de las cargas de Egipto.",
+      "reason_es": "Repara «seré para ustedes por Dios», unifica Yahvé y conserva la descripción «el que los saca».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:8",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-8.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y traeré a ustedes a la tierra que alcé mi mano para darla a Abraham, a Isaac y a Jacob, y la daré a ustedes posesión; yo Jehová.",
+      "recovered_text": "Y los traeré a la tierra respecto de la cual alcé mi mano para darla a Abraham, a Isaac y a Jacob; y se la daré a ustedes como posesión. Yo, Yahweh.",
+      "recommended_text": "Y los traeré a la tierra respecto de la cual alcé mi mano para darla a Abraham, a Isaac y a Jacob; y se la daré a ustedes como posesión. Yo *soy* Yahvé.",
+      "reason_es": "Conserva la imagen del juramento, completa la frase final y unifica Yahvé.",
+      "note_es": "«Alcé mi mano» designa aquí el gesto de prestar juramento. No describe una simple promesa hecha con la mano levantada sin ese sentido.",
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:9",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-9.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y habló Moisés así a hijos de Israel, y no oyeron a Moisés por cortedad de espíritu y por servicio duro.",
+      "recovered_text": "Y habló Moisés así a los hijos de Israel; y no escucharon a Moisés por la cortedad de espíritu y por el trabajo duro.",
+      "recommended_text": "Y Moisés habló así a los hijos de Israel, pero no escucharon a Moisés por el desaliento y la dura servidumbre.",
+      "reason_es": "«Cortedad de espíritu» es un calco poco claro; «desaliento» expresa una lectura contextual adecuada.",
+      "note_es": "La expresión hebrea significa literalmente «cortedad de espíritu/aliento» y admite matices de abatimiento o agotamiento. «Desaliento» es una decisión de traducción contextual.",
+      "review_flags": [
+        "interpretive_choice"
+      ],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=6&verse=9"
+      ]
+    },
+    {
+      "reference": "Exodus 6:10",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-10.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y habló Jehová a Moisés, diciendo:",
+      "recovered_text": "Y habló Yahweh a Moisés, diciendo:",
+      "recommended_text": "Y habló Yahvé a Moisés, diciendo:",
+      "reason_es": "Solo requiere normalizar «Yahweh» como «Yahvé».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:11",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-11.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Entra, habla a Faraón rey de Egipto, y envíe a hijos de Israel desde su tierra.",
+      "recovered_text": "Ve, habla a Faraón, rey de Egipto, y enviará a los hijos de Israel fuera de su tierra.",
+      "recommended_text": "Ve y habla a Faraón, rey de Egipto, para que deje salir a los hijos de Israel de su tierra.",
+      "reason_es": "La salida del pueblo es la finalidad de la orden, no una predicción expresada por «y enviará».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:12",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-12.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y habló Moisés delante de Jehová, diciendo: He aquí hijos de Israel no oyeron a mí, ¿y cómo me oirá Faraón, y yo incircunciso de labios?",
+      "recovered_text": "Y habló Moisés ante YHWH, diciendo: «He aquí, los hijos de Israel no me escucharon; ¿y cómo me escuchará Faraón, y yo incircunciso de labios?»",
+      "recommended_text": "Y Moisés habló ante Yahvé, diciendo: «He aquí, los hijos de Israel no me han escuchado; ¿cómo me escuchará Faraón, siendo yo incircunciso de labios?».",
+      "reason_es": "Repara la conexión de la pregunta y conserva la metáfora «incircunciso de labios».",
+      "note_es": "La metáfora expresa la dificultad o falta de aptitud para hablar; por sí sola no identifica un diagnóstico concreto, como tartamudez.",
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:13",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-13.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y habló Jehová a Moisés y a Aarón, y les mandó a hijos de Israel y a Faraón rey de Egipto, para sacar a hijos de Israel desde tierra de Egipto.",
+      "recovered_text": "Y habló Yahvé a Moisés y a Aarón, y les mandó respecto de los hijos de Israel y respecto de Faraón, rey de Egipto, para sacar a los hijos de Israel de la tierra de Egipto.",
+      "recommended_text": "Y habló Yahvé a Moisés y a Aarón, y les mandó respecto de los hijos de Israel y respecto de Faraón, rey de Egipto, para sacar a los hijos de Israel de la tierra de Egipto.",
+      "reason_es": "Distingue correctamente a los receptores del mandato, Moisés y Aarón, de aquello sobre lo que se les manda.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:14",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-14.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Estos cabezas de casa de sus padres: hijos de Rubén primogénito de Israel: Janoc y Palú, Jetsrón y Carmí; estas familias de Rubén.",
+      "recovered_text": "Estos, los jefes de la casa de sus padres: los hijos de Rubén, primogénito de Israel: Janoc y Falú, Hezrón y Carmí; estas, las familias de Rubén.",
+      "recommended_text": "Estos *son* los jefes de sus casas paternas: los hijos de Rubén, primogénito de Israel: Hanoc, Falú, Hezrón y Carmí. Estas *son* las familias de Rubén.",
+      "reason_es": "Completa las frases nominales y emplea formas españolas coherentes para los nombres y las casas paternas.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:15",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-15.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y hijos de Simeón: Yemuel y Yamín y Ohad y Yajín y Sójar y Saúl hijo de la cananea; estas familias de Simeón.",
+      "recovered_text": "Y los hijos de Simeón: Jemuel, y Jamín, y Ohad, y Jaquín, y Zohar, y Saúl, hijo de la cananea. Estas son las familias de Simeón.",
+      "recommended_text": "Y los hijos de Simeón: Jemuel, y Jamín, y Ohad, y Jaquín, y Zohar, y Saúl, hijo de la cananea. Estas son las familias de Simeón.",
+      "reason_es": "La lista, la filiación de Saúl y la conclusión familiar son correctas. Las conjunciones repetidas son admisibles en este registro.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:16",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-16.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y estos nombres de hijos de Leví a sus generaciones: Guershon y Quehat y Merarí; y años de vidas de Leví siete y treinta y cien año.",
+      "recovered_text": "Y estos, los nombres de los hijos de Leví según sus generaciones: Guersón, Cohat y Merari; y los años de la vida de Leví: ciento treinta y siete años.",
+      "recommended_text": "Y estos *son* los nombres de los hijos de Leví según sus generaciones: Gersón, Coat y Merari; y los años de la vida de Leví *fueron* ciento treinta y siete años.",
+      "reason_es": "Unifica Gersón y Coat con sus menciones posteriores; explicita las cópulas.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:17",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-17.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Hijos de Guershon: Livní y Shimí a sus familias.",
+      "recovered_text": "Los hijos de Gersón: Libní y Simeí, según sus familias.",
+      "recommended_text": "Los hijos de Gersón: Libní y Simeí, según sus familias.",
+      "reason_es": "La recuperada da una lista correcta y ya usa Gersón, Libní y Simeí.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:18",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-18.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y hijos de Quehat: Amram y Yitsjar y Hevrón y Uziel; y años de vidas de Quehat tres y treinta y cien año.",
+      "recovered_text": "Y los hijos de Quehat: Amram, Yitshar, Hebrón y Uziel; y los años de la vida de Quehat: ciento treinta y tres años.",
+      "recommended_text": "Y los hijos de Coat: Amram, Izhar, Hebrón y Uziel; y los años de la vida de Coat *fueron* ciento treinta y tres años.",
+      "reason_es": "Unifica Coat e Izhar con el resto de la genealogía y conserva la edad correcta.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:19",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-19.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y hijos de Merarí: Majlí y Mushí; estas familias de Leví a sus generaciones.",
+      "recovered_text": "Y los hijos de Merarí: Mahlí y Musí; estas, las familias del levita por sus generaciones.",
+      "recommended_text": "Y los hijos de Merari: Mahlí y Musí. Estas *son* las familias de Leví según sus generaciones.",
+      "reason_es": "Unifica Merari y traduce la conclusión de la lista como «familias de Leví».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:20",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-20.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y tomó Amram a Yojéved su tía a él a mujer, y dio a luz a él a Aarón y a Moisés; y años de vidas de Amram siete y treinta y cien año.",
+      "recovered_text": "Y Amram tomó a Jocabed, su tía, para sí por mujer; y ella le dio a luz a Aarón y a Moisés. Y los años de la vida de Amram: ciento treinta y siete años.",
+      "recommended_text": "Y Amram tomó a Jocabed, su tía, para sí por mujer; y ella le dio a luz a Aarón y a Moisés. Y los años de la vida de Amram: ciento treinta y siete años.",
+      "reason_es": "Conserva correctamente el parentesco, los dos hijos y los ciento treinta y siete años. La edad después de dos puntos es válida en la genealogía.",
+      "note_es": "«Su tía» es correcto; el parentesco hebreo es, más precisamente, la hermana de su padre.",
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:21",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-21.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y hijos de Yitsjar: Córaj y Néfeg y Zicrí.",
+      "recovered_text": "Y los hijos de Izhar: Coré, Néfeg y Zicrí.",
+      "recommended_text": "Y los hijos de Izhar: Coré, Néfeg y Zicrí.",
+      "reason_es": "La recuperada presenta correctamente los nombres y coincide con la forma Izhar usada en 6:18.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:22",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-22.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y hijos de Uziel: Mishael y Eltsafán y Sitrí.",
+      "recovered_text": "Y los hijos de Uziel: Misael, y Elzafán, y Sitri.",
+      "recommended_text": "Y los hijos de Uziel: Misael, y Elzafán, y Sitri.",
+      "reason_es": "Los tres nombres son correctos; la repetición de «y» es admisible en esta lista.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:23",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-23.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y tomó Aarón a Elisheva hija de Aminadav, hermana de Najshón, a él a mujer, y dio a luz a él a Nadav y a Avihú, a Eleazar y a Itamar.",
+      "recovered_text": "Y tomó Aarón a Elisabet, hija de Aminadab, hermana de Naasón, para sí por mujer; y le dio a luz a Nadab, a Abiú, a Eleazar y a Itamar.",
+      "recommended_text": "Y tomó Aarón a Elisabet, hija de Aminadab, hermana de Naasón, para sí por mujer; y le dio a luz a Nadab, a Abiú, a Eleazar y a Itamar.",
+      "reason_es": "Conserva las relaciones de parentesco y los cuatro hijos sin las dificultades gramaticales de la actual.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:24",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-24.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y hijos de Córaj: Asir y Elcaná y Aviasaf; estas familias del coraíta.",
+      "recovered_text": "Y los hijos de Coraj: Asir, Elcaná y Abiasaf; estas, las familias del corajita.",
+      "recommended_text": "Y los hijos de Coré: Asir, Elcaná y Abiasaf. Estas *son* las familias de los coreítas.",
+      "reason_es": "Unifica Coré con 6:21 y expresa con claridad el nombre de sus descendientes.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:25",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-25.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y Eleazar hijo de Aarón tomó a él de hijas de Putiel a él a mujer, y dio a luz a él a Pinjas; estos cabezas de padres de los levitas a sus familias.",
+      "recovered_text": "Y Eleazar hijo de Aarón tomó para sí, de las hijas de Putiel, para sí por mujer; y ella dio a luz para él a Pinjás. Estos, jefes de los padres de los levitas según sus familias.",
+      "recommended_text": "Y Eleazar, hijo de Aarón, tomó para sí por mujer a una de las hijas de Putiel, y ella le dio a luz a Pinjás. Estos *son* los jefes de las casas paternas de los levitas, según sus familias.",
+      "reason_es": "En ambas opciones falta expresar «a una de las hijas». También repara la fórmula de las casas paternas.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:26",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-26.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Él Aarón y Moisés, que dijo Jehová a ellos: Saquen a hijos de Israel desde tierra de Egipto sobre sus ejércitos.",
+      "recovered_text": "Él, Aarón y Moisés, a quienes Yahweh dijo: «Saquen a los hijos de Israel de la tierra de Egipto según sus ejércitos».",
+      "recommended_text": "Estos *son* Aarón y Moisés, a quienes Yahvé dijo: «Saquen a los hijos de Israel de la tierra de Egipto según sus ejércitos».",
+      "reason_es": "El pronombre hebreo identifica a ambos; «Él, Aarón y Moisés» no funciona en español.",
+      "note_es": "«Según sus ejércitos» conserva la imagen de un pueblo que sale organizado en grupos. No obliga a entender que todos fueran soldados.",
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:27",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-27.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Ellos los hablantes a Faraón rey de Egipto para sacar a hijos de Israel desde Egipto; él Moisés y Aarón.",
+      "recovered_text": "Ellos, los que hablan a Faraón, rey de Egipto, para sacar a los hijos de Israel de Egipto; él, Moisés y Aarón.",
+      "recommended_text": "Ellos fueron los que hablaron a Faraón, rey de Egipto, para sacar a los hijos de Israel de Egipto; estos *son* Moisés y Aarón.",
+      "reason_es": "Completa la identificación, conserva el orden Moisés–Aarón de este versículo y sitúa la acción en el relato pasado.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:28",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-28.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y fue en día de hablar Jehová a Moisés en tierra de Egipto.",
+      "recovered_text": "Y sucedió en el día en que YHWH habló a Moisés en la tierra de Egipto.",
+      "recommended_text": "Y sucedió, el día en que Yahvé habló a Moisés en la tierra de Egipto,",
+      "reason_es": "Unifica Yahvé y deja abierta la oración que continúa en 6:29.",
+      "note_es": null,
+      "review_flags": [
+        "continues_into_next_verse"
+      ],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:29",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-29.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y habló Jehová a Moisés, diciendo: Yo Jehová; habla a Faraón rey de Egipto todo lo que yo hablo a ti.",
+      "recovered_text": "Y habló Yahvé a Moisés, diciendo: «Yo, Yahvé. Habla a Faraón, rey de Egipto, todo lo que yo hablo a ti».",
+      "recommended_text": "que Yahvé habló a Moisés, diciendo: «Yo *soy* Yahvé. Habla a Faraón, rey de Egipto, todo lo que yo te diga».",
+      "reason_es": "Completa la oración iniciada en 6:28 y repara «todo lo que yo hablo a ti».",
+      "note_es": "6:28–29 forman una sola oración en esta propuesta. La repetición de «habló» pertenece a la reanudación del discurso; no se elimina contenido para suavizarla.",
+      "review_flags": [
+        "continues_previous_verse"
+      ],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 6:30",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-6-30.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo Moisés delante de Jehová: He aquí yo incircunciso de labios, ¿y cómo me oirá Faraón?",
+      "recovered_text": "Y dijo Moisés delante de Yahvé: «He aquí, yo, incircunciso de labios; ¿y cómo me escuchará Faraón?»",
+      "recommended_text": "Y dijo Moisés delante de Yahvé: «He aquí, yo *soy* incircunciso de labios; ¿cómo me escuchará Faraón?».",
+      "reason_es": "Añade la cópula y mantiene la misma metáfora de 6:12.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:1",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-1.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo Jehová a Moisés: Mira, te he dado dios a Faraón, y Aarón tu hermano será tu profeta.",
+      "recovered_text": "Y dijo YHWH a Moisés: «Mira, te he dado como Dios para Faraón, y Aarón tu hermano será tu profeta».",
+      "recommended_text": "Y dijo Yahvé a Moisés: «Mira, te he puesto como Dios para Faraón, y Aarón, tu hermano, será tu profeta».",
+      "reason_es": "«Te he puesto» expresa la función asignada a Moisés; unifica Yahvé.",
+      "note_es": "«Como Dios para Faraón» expresa la función de Moisés como portavoz con autoridad divina, en relación con Aarón como su profeta. El «como» hace comprensible esa relación en español.",
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:2",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-2.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Tú hablarás todo lo que yo te mande, y Aarón tu hermano hablará a Faraón, y enviará a hijos de Israel desde su tierra.",
+      "recovered_text": "Tú hablarás todo lo que te mandaré; y Aarón, tu hermano, hablará al faraón, y enviará a los hijos de Israel de su tierra.",
+      "recommended_text": "Tú hablarás todo lo que yo te mande; y Aarón, tu hermano, hablará a Faraón para que deje salir a los hijos de Israel de su tierra.",
+      "reason_es": "Aclara que Faraón es quien debe dejar salir al pueblo. Usa subjuntivo en «todo lo que yo te mande».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:3",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-3.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y yo endureceré el corazón de Faraón, y multiplicaré mis señales y mis prodigios en tierra de Egipto.",
+      "recovered_text": "Y yo endureceré el corazón de Faraón, y multiplicaré mis señales y mis prodigios en la tierra de Egipto.",
+      "recommended_text": "Y yo endureceré el corazón de Faraón, y multiplicaré mis señales y mis prodigios en la tierra de Egipto.",
+      "reason_es": "La recuperada es clara y conserva «endureceré», adecuado aquí a la raíz hebrea קשה.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:6",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-6.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y hizo Moisés y Aarón como mandó Jehová a ellos; así hicieron.",
+      "recovered_text": "Y Moisés y Aarón hicieron como YHWH les mandó; así hicieron.",
+      "recommended_text": "Y Moisés y Aarón hicieron como Yahvé les había mandado; así hicieron.",
+      "reason_es": "Unifica Yahvé y aclara que el mandato precede a su cumplimiento.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:7",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-7.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y Moisés hijo de ochenta año, y Aarón hijo de tres y ochenta año, en su hablar a Faraón.",
+      "recovered_text": "Y Moisés, de ochenta años, y Aarón, de ochenta y tres años, cuando hablaron a Faraón.",
+      "recommended_text": "Y Moisés tenía ochenta años, y Aarón ochenta y tres, cuando hablaron a Faraón.",
+      "reason_es": "La recuperada deja la oración sin verbo principal. Conserva las dos edades.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:8",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-8.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo Jehová a Moisés y a Aarón, diciendo:",
+      "recovered_text": "Y YHWH dijo a Moisés y a Aarón, diciendo:",
+      "recommended_text": "Y Yahvé dijo a Moisés y a Aarón, diciendo:",
+      "reason_es": "Solo requiere normalizar «YHWH» como «Yahvé».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:9",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-9.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Cuando hable a ustedes Faraón, diciendo: Den para ustedes un prodigio. Y dirás a Aarón: Toma tu vara y arrójala delante de Faraón; sea a dragón.",
+      "recovered_text": "Cuando Faraón les hable, diciendo: «Den para ustedes una señal», entonces dirás a Aarón: «Toma tu vara y arrójala delante de Faraón; que sea una serpiente».",
+      "recommended_text": "Cuando Faraón les hable, diciendo: «Muestren un prodigio», entonces dirás a Aarón: «Toma tu vara y arrójala delante de Faraón; que se convierta en una serpiente».",
+      "reason_es": "Repara «Den para ustedes», conserva «prodigio» y unifica el animal de 7:9–12.",
+      "note_es": "En 7:9, 10 y 12 aparece tannín, un término más amplio que najash, usado en 7:15. «Serpiente» es una opción contextual admisible; no equivale a afirmar que ambos términos hebreos sean idénticos. «Monstruo», «dragón» o «cocodrilo» exigirían una decisión léxica distinta y consistente.",
+      "review_flags": [
+        "lexical_choice"
+      ],
+      "source_urls": [
+        "https://classic.net.bible.org/passage.php?passage=Exo+7%3A9-11"
+      ]
+    },
+    {
+      "reference": "Exodus 7:10",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-10.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y vino Moisés y Aarón a Faraón, e hicieron así como que mandó Jehová. Y arrojó Aarón su vara delante de Faraón y delante de sus siervos, y fue a dragón.",
+      "recovered_text": "Y Moisés y Aarón vinieron a Faraón, e hicieron así como Yahvé mandó; y Aarón arrojó su vara delante de Faraón y delante de sus siervos, y se convirtió en monstruo.",
+      "recommended_text": "Y Moisés y Aarón vinieron a Faraón e hicieron tal como Yahvé había mandado; y Aarón arrojó su vara delante de Faraón y delante de sus siervos, y se convirtió en una serpiente.",
+      "reason_es": "Mantiene «serpiente» como en 7:9 y 7:12, en vez de cambiar a «monstruo».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:11",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-11.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y llamó también Faraón a los sabios y a los hechiceros, e hicieron también ellos, los magos de Egipto, con sus llamas, así.",
+      "recovered_text": "Y llamó también Faraón a los sabios y a los hechiceros; e hicieron también ellos, los magos de Egipto, así con sus artes secretas.",
+      "recommended_text": "Y llamó también Faraón a los sabios y a los hechiceros; e hicieron también ellos, los magos de Egipto, así con sus artes secretas.",
+      "reason_es": "«Artes secretas» es adecuado en este contexto; «con sus llamas» en la actual produce un sentido equivocado.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:12",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-12.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y arrojaron varón su vara, y fueron a dragones. Y tragó la vara de Aarón a sus varas.",
+      "recovered_text": "Y arrojaron cada uno su vara, y se convirtieron en serpientes; y la vara de Aarón tragó sus varas.",
+      "recommended_text": "Y cada uno arrojó su vara, y las varas se convirtieron en serpientes; y la vara de Aarón se tragó las varas de ellos.",
+      "reason_es": "Corrige la concordancia de «cada uno» y explicita que las varas se transforman; conserva que es la vara la que traga las otras.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:13",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-13.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Jehová.",
+      "recovered_text": "Y se fortaleció el corazón de Faraón, y no los escuchó, como habló Yahvé.",
+      "recommended_text": "Y se fortaleció el corazón de Faraón, y no los escuchó, tal como Yahvé había dicho.",
+      "reason_es": "Conserva «se fortaleció» y expresa con naturalidad el cumplimiento de lo anunciado.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:14",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-14.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo Jehová a Moisés: Pesado el corazón de Faraón; rehusó enviar al pueblo.",
+      "recovered_text": "Y dijo YHWH a Moisés: «Pesado el corazón de Faraón; se negó a enviar al pueblo».",
+      "recommended_text": "Y dijo Yahvé a Moisés: «El corazón de Faraón *está* pesado; se ha negado a dejar ir al pueblo».",
+      "reason_es": "Completa la frase nominal, unifica Yahvé y traduce el acto de liberar al pueblo.",
+      "note_es": "Conservo «pesado» para distinguir כבד de חזק («fortalecerse», 7:13, 22) y קשה («endurecer», 7:3). En este contexto, el corazón pesado expresa obstinación; no tristeza.",
+      "review_flags": [
+        "lexical_choice"
+      ],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:15",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-15.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Ve a Faraón en la mañana; he aquí saliente hacia las aguas, y te pararás a su encuentro sobre el labio del Yeor, y la vara que fue vuelta a serpiente tomarás en tu mano.",
+      "recovered_text": "Ve a Faraón por la mañana; he aquí, sale hacia las aguas, y te pondrás a su encuentro sobre la ribera del Nilo; y la vara que se convirtió en serpiente tomarás en tu mano.",
+      "recommended_text": "Ve a Faraón por la mañana; he aquí, sale hacia las aguas, y te pondrás a su encuentro sobre la ribera del Nilo; y la vara que se convirtió en serpiente tomarás en tu mano.",
+      "reason_es": "La recuperada es comprensible y fiel. La inversión «la vara… tomarás» es válida en el registro elegido; «ribera del Nilo» resuelve el giro literal «labio del río».",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:16",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-16.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dirás a él: Jehová Dios de los hebreos me envió a ti, diciendo: Envía a mi pueblo, y me servirán en el desierto; y he aquí no oíste hasta ahora.",
+      "recovered_text": "Y le dirás: «Yahvé, Dios de los hebreos, me envió a ti, diciendo: “Envía a mi pueblo, y me servirán en el desierto”; y he aquí, no has escuchado hasta ahora».",
+      "recommended_text": "Y le dirás: «Yahvé, Dios de los hebreos, me ha enviado a ti, diciendo: “Deja ir a mi pueblo para que me sirvan en el desierto”; y he aquí, no has escuchado hasta ahora».",
+      "reason_es": "Distingue el envío de Moisés de la liberación del pueblo. La oración final expresa la finalidad de dejarlo ir.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:17",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-17.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Así dijo Jehová: En esto conocerás que yo Jehová. He aquí yo hiriente con la vara que en mi mano sobre las aguas que en el Yeor, y serán vueltas a sangre.",
+      "recovered_text": "Así dijo Yahvé: En esto sabrás: yo, Yahvé. He aquí, yo golpeo con la vara en mi mano sobre las aguas que están en el Nilo, y se convertirán en sangre.",
+      "recommended_text": "Así dice Yahvé: «En esto sabrás que yo *soy* Yahvé. He aquí, yo voy a golpear con la vara que está en mi mano las aguas que están en el Nilo, y se convertirán en sangre».",
+      "reason_es": "Completa las frases y usa «Así dice». Conserva «mi mano», sin sustituirlo por «tu mano».",
+      "note_es": "La voz divina anuncia la acción como propia, aunque se realice mediante sus enviados. El posesivo hebreo es «mi».",
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:18",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-18.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y la pez que en el Yeor morirá, y hederá el Yeor, y se cansarán Egipto de beber aguas desde el Yeor.",
+      "recovered_text": "Y los peces que están en el Nilo morirán, y el Nilo apestará; y los de Egipto se cansarán de beber agua del Nilo.",
+      "recommended_text": "Y los peces que están en el Nilo morirán, y el Nilo apestará; y los egipcios no podrán beber agua del Nilo.",
+      "reason_es": "«Se cansarán de beber» sugiere que beben hasta hartarse. El contexto describe el impedimento para beber del río.",
+      "note_es": "La raíz hebrea aporta la idea de agotarse o verse fatigado. Aquí se entiende en relación con el problema de conseguir agua potable; «no podrán beber» expresa el resultado, que 7:21 hace explícito.",
+      "review_flags": [],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=7&verse=18"
+      ]
+    },
+    {
+      "reference": "Exodus 7:19",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-19.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y dijo Jehová a Moisés: Di a Aarón: Toma tu vara y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus canales y sobre sus estanques y sobre todo depósito de sus aguas, y serán sangre. Y habrá sangre en toda tierra de Egipto, y en las maderas y en las piedras.",
+      "recovered_text": "Y Yahvé dijo a Moisés: «Di a Aarón: “Toma tu vara y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus canales y sobre sus estanques, y sobre toda reunión de sus aguas; y serán sangre. Y habrá sangre en toda la tierra de Egipto, en los árboles y en las piedras”».",
+      "recommended_text": "Y Yahvé dijo a Moisés: «Di a Aarón: “Toma tu vara y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus canales, sobre sus estanques y sobre todos sus depósitos de agua, para que se conviertan en sangre”. Y habrá sangre en toda la tierra de Egipto, incluso en los *recipientes* de madera y de piedra».",
+      "reason_es": "Repara «toda reunión de sus aguas» y adopta la interpretación contextual de recipientes de madera y piedra.",
+      "note_es": "El hebreo dice «en la madera y en la piedra» sin el sustantivo «recipientes». Lo añado en cursiva como interpretación contextual de los lugares donde se recoge agua. Si se prefiere una versión que deje la referencia abierta: «y en la madera y en la piedra». No debe presentarse «recipientes» como palabra explícita del original.",
+      "review_flags": [
+        "interpretive_choice",
+        "supplied_noun"
+      ],
+      "source_urls": [
+        "https://classic.net.bible.org/verse.php?book=Exo&chapter=7&verse=19"
+      ]
+    },
+    {
+      "reference": "Exodus 7:20",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-20.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y hicieron así Moisés y Aarón como que mandó Jehová. Y alzó con la vara y hirió las aguas que en el Yeor a ojos de Faraón y a ojos de sus siervos, y fueron vueltas todas las aguas que en el Yeor a sangre.",
+      "recovered_text": "Y Moisés y Aarón hicieron así, como mandó Yahweh; y alzó con la vara y golpeó las aguas que estaban en el Nilo, ante los ojos de Faraón y ante los ojos de sus siervos; y todas las aguas que estaban en el Nilo se convirtieron en sangre.",
+      "recommended_text": "Y Moisés y Aarón hicieron tal como Yahvé había mandado; y alzó la vara y golpeó las aguas que estaban en el Nilo, ante los ojos de Faraón y ante los ojos de sus siervos; y todas las aguas que estaban en el Nilo se convirtieron en sangre.",
+      "reason_es": "Unifica Yahvé y repara «alzó con la vara», expresando en español el objeto implícito.",
+      "note_es": "El verbo singular «alzó» no repite el nombre del actor. Conservo ese sujeto tácito; nombrar aquí a Moisés o a Aarón haría explícita una identificación que el versículo no formula.",
+      "review_flags": [
+        "implicit_subject_preserved"
+      ],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:21",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-21.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y la pez que en el Yeor murió, y hedió el Yeor, y no pudieron Egipto beber aguas desde el Yeor. Y fue la sangre en toda tierra de Egipto.",
+      "recovered_text": "Y murieron los peces que había en el Nilo, y el Nilo apestó; y los egipcios no pudieron beber agua del Nilo, y hubo sangre en toda la tierra de Egipto.",
+      "recommended_text": "Y murieron los peces que había en el Nilo, y el Nilo apestó; y los egipcios no pudieron beber agua del Nilo, y hubo sangre en toda la tierra de Egipto.",
+      "reason_es": "La recuperada expresa correctamente la muerte de los peces, el hedor, la imposibilidad de beber y la presencia de sangre.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:22",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-22.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y hicieron así los magos de Egipto con sus secretos. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Jehová.",
+      "recovered_text": "Y los hechiceros de Egipto hicieron así con sus artes secretas; y se endureció el corazón de Faraón, y no los escuchó, tal como habló Yahvé.",
+      "recommended_text": "Y los magos de Egipto hicieron lo mismo con sus artes secretas; y se fortaleció el corazón de Faraón y no los escuchó, tal como Yahvé había dicho.",
+      "reason_es": "Unifica «magos» con 7:11 y conserva חזק como «se fortaleció», igual que en 7:13.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:23",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-23.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y se volvió Faraón y vino a su casa, y no puso su corazón también a esto.",
+      "recovered_text": "Y Faraón se volvió y entró a su casa, y no puso su corazón tampoco en esto.",
+      "recommended_text": "Y Faraón se volvió y entró en su casa, y tampoco prestó atención a esto.",
+      "reason_es": "«Poner el corazón» significa aquí prestar atención o tomar en consideración.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:24",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-24.draft-gpt56.json",
+      "recommendation": "redo",
+      "current_text": "Y cavaron todos Egipto alrededor del Yeor aguas para beber, porque no pudieron beber de las aguas del Yeor.",
+      "recovered_text": "Y todos los de Egipto cavaron alrededor del Nilo por agua para beber, porque no pudieron beber de las aguas del Nilo.",
+      "recommended_text": "Y todos los egipcios cavaron alrededor del Nilo en busca de agua para beber, porque no podían beber de las aguas del Nilo.",
+      "reason_es": "«En busca de agua» expresa la finalidad de cavar con una construcción natural en español.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    },
+    {
+      "reference": "Exodus 7:25",
+      "artifact_reference_only": "pipeline/ot/exodo/exodo-7-25.draft-gpt56.json",
+      "recommendation": "recovered",
+      "current_text": "Y se llenó siete días después de herir Jehová al Yeor.",
+      "recovered_text": "Y se cumplieron siete días después de que Yahvé golpeó el Nilo.",
+      "recommended_text": "Y se cumplieron siete días después de que Yahvé golpeó el Nilo.",
+      "reason_es": "La recuperada expresa correctamente los siete días transcurridos y ya usa Yahvé.",
+      "note_es": null,
+      "review_flags": [],
+      "source_urls": []
+    }
+  ]
+}

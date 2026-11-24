@@ -1,0 +1,19 @@
+body {
+  font-family: serif;
+  line-height: 1.4;
+  margin: 5%;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2em;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
+
+blockquote {
+  margin-left: 1.5em;
+  font-style: italic;
+}
