@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on John Wry — Estudios y música</title>
-		<link>https://johnwry.github.io/tags/</link>
+		<link>http://localhost:64517/tags/</link>
 		<description>Recent content in Tags on John Wry — Estudios y música</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -14,75 +14,75 @@
 		
 			<lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://johnwry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:64517/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Content Management</title>
-				<link>https://johnwry.github.io/tags/content-management/</link>
+				<link>http://localhost:64517/tags/content-management/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/content-management/</guid>
+				<guid>http://localhost:64517/tags/content-management/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>400</title>
-				<link>https://johnwry.github.io/tags/400/</link>
+				<link>http://localhost:64517/tags/400/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/400/</guid>
+				<guid>http://localhost:64517/tags/400/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>430</title>
-				<link>https://johnwry.github.io/tags/430/</link>
+				<link>http://localhost:64517/tags/430/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/430/</guid>
+				<guid>http://localhost:64517/tags/430/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Book</title>
-				<link>https://johnwry.github.io/tags/book/</link>
+				<link>http://localhost:64517/tags/book/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/book/</guid>
+				<guid>http://localhost:64517/tags/book/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Carne</title>
-				<link>https://johnwry.github.io/tags/carne/</link>
+				<link>http://localhost:64517/tags/carne/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/carne/</guid>
+				<guid>http://localhost:64517/tags/carne/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Egipto</title>
-				<link>https://johnwry.github.io/tags/egipto/</link>
+				<link>http://localhost:64517/tags/egipto/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/egipto/</guid>
+				<guid>http://localhost:64517/tags/egipto/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Esclavitud</title>
-				<link>https://johnwry.github.io/tags/esclavitud/</link>
+				<link>http://localhost:64517/tags/esclavitud/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/esclavitud/</guid>
+				<guid>http://localhost:64517/tags/esclavitud/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Evangelio</title>
-				<link>https://johnwry.github.io/tags/evangelio/</link>
+				<link>http://localhost:64517/tags/evangelio/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/evangelio/</guid>
+				<guid>http://localhost:64517/tags/evangelio/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gospel</title>
-				<link>https://johnwry.github.io/tags/gospel/</link>
+				<link>http://localhost:64517/tags/gospel/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/gospel/</guid>
+				<guid>http://localhost:64517/tags/gospel/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Grace</title>
-				<link>https://johnwry.github.io/tags/grace/</link>
+				<link>http://localhost:64517/tags/grace/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://johnwry.github.io/tags/grace/</guid>
+				<guid>http://localhost:64517/tags/grace/</guid>
 				<description></description>
 			</item>
 	</channel>

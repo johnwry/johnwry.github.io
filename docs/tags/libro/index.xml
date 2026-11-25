@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Libro on John Wry — Estudios y música</title>
-		<link>https://johnwry.github.io/tags/libro/</link>
+		<link>http://localhost:64517/tags/libro/</link>
 		<description>Recent content in Libro on John Wry — Estudios y música</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,6 +12,6 @@
 			<copyright>The MIT License (MIT) Copyright © 2020 BJWry</copyright>
 		
 		
-			<atom:link href="https://johnwry.github.io/tags/libro/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:64517/tags/libro/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
