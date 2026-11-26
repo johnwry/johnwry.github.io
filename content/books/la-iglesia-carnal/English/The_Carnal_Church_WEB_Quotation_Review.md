@@ -1,20 +1,33 @@
-# Remaining WEB quotation corrections — proposals
+# World English Bible quotation audit
 
-These are proposed corrections to existing readings, using only the author-authorized BibleGateway WEB text. They are not applied to the manuscript. Author-supplied verse wording remains controlling where it overlaps. No commentary, lexical authority, or theological interpretation was imported. Structural quotation nesting and excerpt marks may be adapted to the manuscript’s punctuation without changing biblical words.
+## Final verification
 
-36 narrowly scoped proposed replacements, covering 37 occurrences. Most are direct readings; a few are their immediate word-focused repetitions. Genuine paraphrases remain dialogue.
+The 50-chapter [English manuscript](the-carnal-church-v2.md) uses the main text of the author-approved [BibleGateway World English Bible](https://www.biblegateway.com/versions/World-English-Bible-WEB/) for direct readings and quoted echoes. The final pass checked verse wording against the source in chapter context on November 26, 2026. Capitalization, nested quotation marks, and ellipses reflect how excerpts are spoken or remembered in the novel. Character summaries and interpretation remain in their own words.
 
-## Points to notice before approval
+The pass corrected inherited wording in 1 Corinthians 3:2, Revelation 2:2 and 2:5, and Revelation 3:17–18. It also brought repeated readings such as John 15:4–5, Romans 8:4, and Galatians 2:20 into line with BibleGateway's WEB text. Romans 8:1 follows the full main-text reading. The manuscript distinguishes that wording from the characters' discussion of standing in Christ and walking by the Spirit.
 
-- James 2:14 reads “Can faith save him?” The manuscript currently adds “that” inside its quotation. Correcting the reading does not, by itself, decide the argument about what faith James describes.
+### Direct readings checked
 
-- Colossians 2:10 reads “in him you are made full.” Its word-focused echoes need the same vocabulary. The existing explanation of completeness can remain a paraphrase rather than a claim about the verse’s exact words.
+| Book | Passages |
+| --- | --- |
+| Matthew | 7:16, 11:19, 16:18 |
+| John | 15:1, 4–5 |
+| Acts | 19:10 |
+| Romans | 1:16, 6:2, 6–7, 11, 8:1, 3–5, 9, 10:2 |
+| 1 Corinthians | 1:7, 9–12, 18, 22–23, 30–31, 2:2, 5, 3:1–3, 12:1, 15:10 |
+| 2 Corinthians | 5:16–17, 21, 10:3–5, 11:3 |
+| Galatians | 2:20, 3:2–3, 5:2, 4, 15–16, 19–20, 22–24, 6:14 |
+| Philippians | 1:21 |
+| Colossians | 2:6, 10, 3:4 |
+| 2 Timothy | 2:24–25 |
+| Hebrews | 10:14 |
+| James | 2:14, 17, 19, 24 |
+| 1 John | 1:3, 5–7, 2:9–10, 4:7, 19, 5:12 |
+| Revelation | 1:20, 2:2–5, 3:14–20 |
 
-- Matthew 16:18 and Revelation 1:20 use “assembly/assemblies.” Correct their literal quotations; do not mechanically replace ordinary uses of “church” throughout the novel.
+## Earlier correction record
 
-- The acquired WEB has “We love him” in 1 John 4:19. Both readings need to follow that text. The surrounding discussion of love for one another remains subject to its own textual context.
-
-- Hebrews 10:14, Romans 10:2 and Philippians 1:21 already match the acquired text in words, allowing normal manuscript capitalization and punctuation. They need no wording replacement.
+The 36 entries below preserve the original proposals and the chapter labels from that draft. The current manuscript reflects the final verification above. Author-supplied verse wording remains controlling where it overlaps.
 
 ## 1. Chapter 10 — 1 Corinthians 12:1
 
